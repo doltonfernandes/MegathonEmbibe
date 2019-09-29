@@ -1,0 +1,992 @@
+Analyzing input.txt
+{"text": " 
+Unit 12
+Aldehydes, Ketones and Carboxylic Acids
+
+
+
+
+
+
+Objectives
+
+After studying this Unit, you will be able to
+• write the common and IUPAC names of aldehydes, ketones and carboxylic acids;
+• write the structures of the compounds containing functional groups namely carbonyl and carboxyl groups;
+• describe the important methods of preparation and reactions of these classes of compounds;
+• correlate physical properties and chemical reactions of aldehydes, ketones and carboxylic acids, with their structures;
+• explain the mechanism of a few selected reactions of aldehydes and ketones;
+• understand various factors affecting the acidity of carboxylic acids and their reactions;
+• describe the uses of aldehydes, ketones and carboxylic acids.", "fibs": ["Unit"]}
+{"text": "Carbonyl compounds are of utmost importance to organic chemistry.", "fibs": ["Carbonyl"]}
+{"text": "In the previous Unit, you have studied organic compounds with functional groups containing carbon-oxygen single bond.", "fibs": ["Unit"]}
+{"text": "In this Unit, we will study about the organic compounds containing carbon-oxygen double bond (>C=O) called carbonyl group, which is one of the most important functional groups in organic chemistry.", "fibs": ["Unit"]}
+{"text": "In aldehydes, the carbonyl group is bonded to a carbon and hydrogen while in the ketones, it is bonded to two carbon atoms.", "fibs": ["carbonyl"]}
+{"text": "The carbonyl compounds in which carbon of carbonyl group is bonded to carbon or hydrogen and oxygen of hydroxyl moiety (-OH) are known as carboxylic acids, while in compounds where carbon is attached to carbon or hydrogen and nitrogen of -NH2 moiety or to halogens are called amides and acyl halides respectively.", "fibs": ["carbonyl"]}
+{"text": "Esters and anhydrides are derivatives of carboxylic acids.", "fibs": ["carboxylic"]}
+{"text": "The general formulas of these classes of compounds are given below:
+
+
+
+
+ 
+
+
+
+
+
+Aldehydes, ketones and carboxylic acids are widespread in plants and animal kingdom.", "fibs": ["carboxylic"]}
+{"text": "They play an important role in biochemical processes of life.", "fibs": ["role"]}
+{"text": "They add fragrance and flavour to nature, for example, vanillin (from vanilla beans), salicylaldehyde (from meadow sweet) and cinnamaldehyde (from cinnamon) have very pleasant fragrances.", "fibs": ["fragrance"]}
+{"text": "They are used in many food products and pharmaceuticals to add flavours.", "fibs": ["food"]}
+{"text": "Some of these families are manufactured for use as solvents (i.e., acetone) and for preparing materials like adhesives, paints, resins, perfumes, plastics, fabrics, etc.", "fibs": ["use"]}
+{"text": "12.1 Nomenclature and Structure of Carbonyl Group
+
+
+
+
+12.1.1 Nomenclature
+
+
+I. Aldehydes and ketones
+Aldehydes and ketones are the simplest and most important carbonyl compounds.", "fibs": ["carbonyl"]}
+{"text": "There are two systems of nomenclature of aldehydes and ketones.", "fibs": ["nomenclature"]}
+{"text": "(a) Common names
+Aldehydes and ketones are often called by their common names instead of IUPAC names.", "fibs": ["IUPAC"]}
+{"text": "The common names of most aldehydes are derived from the common names of the corresponding carboxylic acids [Section 12.6.1] by replacing the ending –ic of acid with aldehyde.", "fibs": ["carboxylic"]}
+{"text": "At the same time, the names reflect the Latin or Greek term for the original source of the acid or aldehyde.", "fibs": ["time"]}
+{"text": "The location of the substituent in the carbon chain is indicated by Greek letters α, β, γ, δ, etc.", "fibs": ["location"]}
+{"text": "The α-carbon being the one directly linked to the aldehyde group, β-carbon the next, and so on.", "fibs": ["aldehyde"]}
+{"text": "For example
+
+
+
+The common names of ketones are derived by naming two alkyl or aryl groups bonded to the carbonyl group.", "fibs": ["example"]}
+{"text": "The locations of substituents are indicated by Greek letters, α α′, β β′ and so on beginning with the carbon atoms next to the carbonyl group, indicated as αα′.", "fibs": ["α"]}
+{"text": "Some ketones have historical common names, the simplest dimethyl ketone is called acetone.", "fibs": ["dimethyl"]}
+{"text": "Alkyl phenyl ketones are usually named by adding the name of acyl group as prefix to the word phenone.", "fibs": ["phenyl"]}
+{"text": "For example
+
+
+
+(b) IUPAC names
+The IUPAC names of open chain aliphatic aldehydes and ketones are derived from the names of the corresponding alkanes by replacing the ending –e with –al and –one respectively.", "fibs": ["example"]}
+{"text": "In case of aldehydes the longest carbon chain is numbered starting from the carbon of the aldehyde group while in case of ketones the numbering begins from the end nearer to the carbonyl group.", "fibs": ["case"]}
+{"text": "The substituents are prefixed in alphabetical order along with numerals indicating their positions in the carbon chain.", "fibs": ["order"]}
+{"text": "The same applies to cyclic ketones, where the carbonyl carbon is numbered one.", "fibs": ["cyclic"]}
+{"text": "When the aldehyde group is attached to a ring, the suffix carbaldehyde is added after the full name of the cycloalkane.", "fibs": ["aldehyde"]}
+{"text": "The numbering of the ring carbon atoms start from the carbon atom attached to the aldehyde group.", "fibs": ["ring"]}
+{"text": "The name of the simplest aromatic aldehyde carrying the aldehyde group on a benzene ring is benzenecarbaldehyde.", "fibs": ["name"]}
+{"text": "However, the common name benzaldehyde is also accepted by IUPAC.", "fibs": ["name"]}
+{"text": "The common and IUPAC names of some aldehydes and ketones are given in Table 12.1.", "fibs": ["IUPAC"]}
+{"text": "Table 12.1: Common and IUPAC Names of Some Aldehydes and Ketones
+
+
+
+
+
+
+12.1.2 Structure of the Carbonyl Group
+
+
+
+
+
+
+The carbonyl carbon atom is sp2-hybridised and forms three sigma (σ) bonds.", "fibs": ["Table"]}
+{"text": "The fourth valence electron of carbon remains in its p-orbital and forms a π-bond with oxygen by overlap with p-orbital of an oxygen.", "fibs": ["valence"]}
+{"text": "In addition, the oxygen atom also has two non bonding electron pairs.", "fibs": ["addition"]}
+{"text": "Thus, the carbonyl carbon and the three atoms attached to it lie in the same plane and the π-electron cloud is above and below this plane.", "fibs": ["carbonyl"]}
+{"text": "The bond angles are approximately 120° as expected of a trigonal coplanar structure (Figure 12.1).", "fibs": ["bond"]}
+{"text": "Fig.12.1 Orbital diagram for the formation of carbonyl group
+
+
+
+
+
+
+
+The carbon-oxygen double bond is polarised due to higher electronegativity of oxygen relative to carbon.", "fibs": ["diagram"]}
+{"text": "Hence, the carbonyl carbon is an electrophilic (Lewis acid), and carbonyl oxygen, a nucleophilic (Lewis base) centre.", "fibs": ["carbonyl"]}
+{"text": "Carbonyl compounds have substantial dipole moments and are polar than ethers.", "fibs": ["Carbonyl"]}
+{"text": "The high polarity of the carbonyl group is explained on the basis of resonance involving a neutral (A) and a dipolar (B) structures as shown.", "fibs": ["polarity"]}
+{"text": "(i) α-Methoxypropionaldehyde (ii) 3-Hydroxybutanal
+(iii) 2-Hydroxycyclopentane carbaldehyde (iv) 4-Oxopentanal
+(v) Di-sec.", "fibs": ["ii"]}
+{"text": "butyl ketone (vi) 4-Fluoroacetophenone
+
+
+
+
+
+
+
+
+
+
+
+12.2 Preparation of Aldehydes and Ketones
+Some important methods for the preparation of aldehydes and ketones are as follows:
+
+
+
+12.2.1 Preparation of Aldehydes and Ketones
+1.", "fibs": ["butyl"]}
+{"text": "By oxidation of alcohols
+
+Aldehydes and ketones are generally prepared by oxidation of primary and secondary alcohols, respectively (Unit 11, Class XII).", "fibs": ["oxidation"]}
+{"text": "By dehydrogenation of alcohols
+This method is suitable for volatile alcohols and is of industrial application.", "fibs": ["dehydrogenation"]}
+{"text": "In this method alcohol vapours are passed over heavy metal catalysts (Ag or Cu).", "fibs": ["method"]}
+{"text": "Primary and secondary alcohols give aldehydes and ketones, respectively (Unit 11, Class XII).", "fibs": ["Unit"]}
+{"text": "From hydrocarbons
+(i) By ozonolysis of alkenes: As we know, ozonolysis of alkenes followed by reaction with zinc dust and water gives aldehydes, ketones or a mixture of both depending on the substitution pattern of the alkene (Unit 13, Class XI).", "fibs": ["ozonolysis"]}
+{"text": "(ii) By hydration of alkynes: Addition of water to ethyne in the presence of H2SO4 and HgSO4 gives acetaldehyde.", "fibs": ["ii"]}
+{"text": "All other alkynes give ketones in this reaction (Unit 13, Class XI).", "fibs": ["reaction"]}
+{"text": "12.2.2 Preparation of Aldehydes
+1.", "fibs": ["Preparation"]}
+{"text": "From acyl chloride (acid chloride)
+Acyl chloride (acid chloride) is hydrogenated over catalyst, palladium on barium sulphate.", "fibs": ["acyl"]}
+{"text": "This reaction is called Rosenmund reduction.", "fibs": ["reaction"]}
+{"text": "From nitriles and esters
+Nitriles are reduced to corresponding imine with stannous chloride in the presence of hydrochloric acid, which on hydrolysis give corresponding aldehyde.", "fibs": ["imine"]}
+{"text": "This reaction is called Stephen reaction.", "fibs": ["reaction"]}
+{"text": "Alternatively, nitriles are selectively reduced by diisobutylaluminium hydride, (DIBAL-H) to imines followed by hydrolysis to aldehydes:
+
+Similarly, esters are also reduced to aldehydes with DIBAL-H.
+
+3.", "fibs": ["diisobutylaluminium"]}
+{"text": "From hydrocarbons
+
+
+        Aromatic aldehydes (benzaldehyde and its derivatives) are prepared from aromatic hydrocarbons by the following methods:
+
+
+(i) By oxidation of methylbenzene
+Strong oxidising agents oxidise toluene and its derivatives to benzoic acids.", "fibs": ["benzaldehyde"]}
+{"text": "However, it is possible to stop the oxidation at the aldehyde stage with suitable reagents that convert the methyl group to an intermediate that is difficult to oxidise further.", "fibs": ["oxidation"]}
+{"text": "The following methods are used for this purpose.", "fibs": ["purpose"]}
+{"text": "(a) Use of chromyl chloride (CrO2Cl2): Chromyl chloride oxidises methyl group to a chromium complex, which on hydrolysis gives corresponding benzaldehyde.", "fibs": ["chromyl"]}
+{"text": "This reaction is called Etard reaction.", "fibs": ["reaction"]}
+{"text": "(b) Use of chromic oxide (CrO3): Toluene or substituted toluene is converted to benzylidene diacetate on treating with chromic oxide in acetic anhydride.", "fibs": ["b"]}
+{"text": "The benzylidene diacetate can be hydrolysed to corresponding benzaldehyde with aqueous acid.", "fibs": ["benzylidene"]}
+{"text": "(ii) By side chain chlorination followed by hydrolysis
+Side chain chlorination of toluene gives benzal chloride, which on hydrolysis gives benzaldehyde.", "fibs": ["ii"]}
+{"text": "This is a commercial method of manufacture of benzaldehyde.", "fibs": ["method"]}
+{"text": "(iii) By Gatterman – Koch reaction
+
+
+        When benzene or its derivative is treated with carbon monoxide and hydrogen chloride in the presence of anhydrous aluminium chloride or cuprous chloride, it gives benzaldehyde or substituted benzaldehyde.", "fibs": ["iii"]}
+{"text": "This reaction is known as Gatterman-Koch reaction.", "fibs": ["reaction"]}
+{"text": "12.2.3 Preparation of Ketones
+1.", "fibs": ["Preparation"]}
+{"text": "From acyl chlorides
+
+
+        Treatment of acyl chlorides with dialkylcadmium, prepared by the reaction of cadmium chloride with Grignard reagent, gives ketones.", "fibs": ["acyl"]}
+{"text": "From nitriles
+
+
+        Treating a nitrile with Grignard reagent followed by hydrolysis yields a ketone.", "fibs": ["nitrile"]}
+{"text": "From benzene or substituted benzenes
+When benzene or substituted benzene is treated with acid chloride in the presence of anhydrous aluminium chloride, it affords the corresponding ketone.", "fibs": ["benzene"]}
+{"text": "This reaction is known as Friedel-Crafts acylation reaction.", "fibs": ["reaction"]}
+{"text": "Example 12.1
+Give names of the reagents to bring about the following transformations:
+(i) Hexan-1-ol to hexanal (ii) Cyclohexanol to cyclohexanone
+(iii) p-Fluorotoluene to  p-fluorobenzaldehyde (iv) Ethanenitrile to ethanal
+
+(v) Allyl alcohol to propenal (vi) But-2-ene to ethanal
+Solution
+
+(i) C5H5NH+CrO3Cl-(PCC) (ii) Anhydrous CrO3
+(iii) CrO3 in the presence of acetic anhydride/1.", "fibs": ["Example"]}
+{"text": "CrO2Cl2 2.", "fibs": ["CrO2Cl2"]}
+{"text": "HOH 
+(iv) (Diisobutyl)aluminiumhydride (DIBAL-H)
+(v) PCC  (vi) O3/H2O-Zn dust
+
+
+
+
+Intext Question
+
+
+12.2 Write the structures of products of the following reactions;
+(i)  
+(ii)
+
+
+
+(iii) 
+
+
+
+(iv) 
+
+
+
+
+
+
+
+
+
+
+12.3 Physical Properties
+The physical properties of aldehydes and ketones are described as follows.", "fibs": ["HOH"]}
+{"text": "Methanal is a gas at room temperature.", "fibs": ["gas"]}
+{"text": "Other aldehydes and ketones are liquid or solid at room temperature.", "fibs": ["room"]}
+{"text": "It is due to weak molecular association in aldehydes and ketones arising out of the dipole-dipole interactions.", "fibs": ["association"]}
+{"text": "Also, their boiling points are lower than those of alcohols of similar molecular masses due to absence of intermolecular hydrogen bonding.", "fibs": ["absence"]}
+{"text": "The following compounds of molecular masses 58 and 60 are ranked in order of increasing boiling points.", "fibs": ["order"]}
+{"text": "The lower members of aldehydes and ketones such as methanal, ethanal and propanone are miscible with water in all proportions, because they form hydrogen bond with water.", "fibs": ["propanone"]}
+{"text": "However, the solubility of aldehydes and ketones decreases rapidly on increasing the length of alkyl chain.", "fibs": ["solubility"]}
+{"text": "All aldehydes and ketones are fairly soluble in organic solvents like benzene, ether, methanol, chloroform, etc.", "fibs": ["benzene"]}
+{"text": "As the size of the molecule increases, the odour becomes less pungent and more fragrant.", "fibs": ["size"]}
+{"text": "In fact, many naturally occurring aldehydes and ketones are used in the blending of perfumes and flavouring agents.", "fibs": ["fact"]}
+{"text": "Example 12.2
+
+
+            Arrange the following compounds in the increasing order of their boiling points:
+
+
+
+CH3CH2CH2CHO, CH3CH2CH2CH2OH, H5C2-O-C2H5, CH3CH2CH2CH3
+Solution
+The molecular masses of these compounds are in the range of 72 to 74.", "fibs": ["Example"]}
+{"text": "Since only butan-1-ol molecules are associated due to extensive intermolecular hydrogen bonding, therefore, the boiling point of butan-1-ol would be the highest.", "fibs": ["hydrogen"]}
+{"text": "Butanal is more polar than ethoxyethane.", "fibs": ["ethoxyethane"]}
+{"text": "Therefore, the intermolecular dipole-dipole attraction is stronger in the former.", "fibs": ["attraction"]}
+{"text": "Hence increasing order of boiling points of the given compounds is as follows:
+CH3CH2CH2CH3 < H5C2-O-C2H5 < CH3CH2CH2CHO < CH3CH2CH2CH2OH
+
+
+
+
+
+Intext Question
+12.3 Arrange the following compounds in increasing order of their boiling points.", "fibs": ["order"]}
+{"text": "CH3CHO, CH3CH2OH, CH3OCH3, CH3CH2CH3
+
+
+12.4 Chemical Reactions
+
+
+
+Since aldehydes and ketones both possess the carbonyl functional group, they undergo similar chemical reactions.", "fibs": ["CH3CHO"]}
+{"text": "Nucleophilic addition reactions
+Contrary to electrophilic addition reactions observed in alkenes (refer Unit 13, Class XI), the aldehydes and ketones undergo nucleophilic addition reactions.", "fibs": ["addition"]}
+{"text": "Fig.12.2: Nucleophilic attack on carbonyl carbon
+
+
+
+
+(i) Mechanism of nucleophilic addition reactions
+A nucleophile attacks the electrophilic carbon atom of the polar carbonyl group from a direction approximately perpendicular to the plane of sp2 hybridised orbitals of carbonyl carbon (Fig.", "fibs": ["attack"]}
+{"text": "The hybridisation of carbon changes from sp2 to sp3 in this process, and a tetrahedral alkoxide intermediate is produced.", "fibs": ["hybridisation"]}
+{"text": "This intermediate captures a proton from the reaction medium to give the electrically neutral product.", "fibs": ["proton"]}
+{"text": "The net result is addition of Nu– and H+ across the carbon oxygen double bond as shown in Fig.", "fibs": ["result"]}
+{"text": "(ii) Reactivity
+Aldehydes are generally more reactive than ketones in nucleophilic addition reactions due to steric and electronic reasons.", "fibs": ["ii"]}
+{"text": "Sterically, the presence of two relatively large substituents in ketones hinders the approach of nucleophile to carbonyl carbon than in aldehydes having only one such substituent.", "fibs": ["presence"]}
+{"text": "Electronically, aldehydes are more reactive than ketones because two alkyl groups reduce the electrophilicity of the carbonyl carbon more effectively than in former.", "fibs": ["alkyl"]}
+{"text": "Example 12.3
+
+
+
+
+
+
+          Would you expect benzaldehyde to be more reactive or less reactive in nucleophilic addition reactions than propanal?", "fibs": ["Example"]}
+{"text": "Explain your answer.", "fibs": ["answer"]}
+{"text": "Solution
+The carbon atom of the carbonyl group of benzaldehyde is less electrophilic than carbon atom of the carbonyl group present in propanal.", "fibs": ["carbon"]}
+{"text": "The polarity of the carbonyl group is reduced in benzaldehyde due to resonance as shown below and hence it is less reactive than propanal.", "fibs": ["polarity"]}
+{"text": "(iii) Some important examples of nucleophilic addition and nucleophilic addition-elimination reactions:
+(a) Addition of hydrogen cyanide (HCN): Aldehydes and ketones react with hydrogen cyanide (HCN) to yield cyanohydrins.", "fibs": ["iii"]}
+{"text": "This reaction occurs very slowly with pure HCN.", "fibs": ["reaction"]}
+{"text": "Therefore, it is catalysed by a base and the generated cyanide ion (CN-) being a stronger nucleophile readily adds to carbonyl compounds to yield corresponding cyanohydrin.", "fibs": ["base"]}
+{"text": "(b) Addition of sodium hydrogensulphite: Sodium hydrogensulphite adds to aldehydes and ketones to form the addition products.", "fibs": ["b"]}
+{"text": "The position of the equilibrium lies largely to the right hand side for most aldehydes and to the left for most ketones due to steric reasons.", "fibs": ["position"]}
+{"text": "The hydrogensulphite addition compound is water soluble and can be converted back to the original carbonyl compound by treating it with dilute mineral acid or alkali.", "fibs": ["hydrogensulphite"]}
+{"text": "Therefore, these are useful for separation and purification of aldehydes.", "fibs": ["separation"]}
+{"text": "(c) Addition of Grignard reagents: (refer Unit 11, Class XII).", "fibs": ["Addition"]}
+{"text": "(d) Addition of alcohols: Aldehydes react with one equivalent of monohydric alcohol in the presence of dry hydrogen chloride to yield alkoxyalcohol intermediate, known as hemiacetals, which further react with one more molecule of alcohol to give a gem-dialkoxy compound known as acetal as shown in the reaction.", "fibs": ["Addition"]}
+{"text": "Ketones react with ethylene glycol under similar conditions to form cyclic products known as ethylene glycol ketals.", "fibs": ["ethylene"]}
+{"text": "Dry hydrogen chloride protonates the oxygen of the carbonyl compounds and therefore, increases the electrophilicity of the carbonyl carbon facilitating the nucleophilic attack of ethylene glycol.", "fibs": ["hydrogen"]}
+{"text": "Acetals and ketals are hydrolysed with aqueous mineral acids to yield corresponding aldehydes and ketones respectively.", "fibs": ["mineral"]}
+{"text": "(e) Addition of ammonia and its derivatives: Nucleophiles, such as ammonia and its derivatives H2N-Z add to the carbonyl group of aldehydes and ketones.", "fibs": ["Addition"]}
+{"text": "The reaction is reversible and catalysed by acid.", "fibs": ["reaction"]}
+{"text": "The equilibrium favours the product formation due to rapid dehydration of the intermediate to form >C=N-Z.", "fibs": ["equilibrium"]}
+{"text": "Z = Alkyl, aryl, OH, NH2, C6H5NH, NHCONH2, etc.", "fibs": ["aryl"]}
+{"text": "Table 12.2: Some N-Substituted Derivatives of Aldehydes and Ketones (>C=N-Z)
+
+
+
+
+
+* 2,4-DNP-derivatives are yellow, orange or red solids, useful for characterisation of aldehydes and ketones.", "fibs": ["Table"]}
+{"text": "Reduction
+
+(i) Reduction to alcohols: Aldehydes and ketones are reduced to primary and secondary alcohols respectively by sodium borohydride (NaBH4) or lithium aluminium hydride (LiAlH4) as well as by catalytic hydrogenation (Unit 11, Class XII).", "fibs": ["sodium"]}
+{"text": "(ii) Reduction to hydrocarbons: The carbonyl group of aldehydes and ketones is reduced to CH2 group on treatment with zinc-amalgam and concentrated hydrochloric acid [Clemmensen reduction] or with hydrazine followed by heating with sodium or potassium hydroxide in high boiling solvent such as ethylene glycol (Wolff-Kishner reduction).", "fibs": ["ii"]}
+{"text": "Oxidation
+Aldehydes differ from ketones in their oxidation reactions.", "fibs": ["Oxidation"]}
+{"text": "Aldehydes are easily oxidised to carboxylic acids on treatment with common oxidising agents like nitric acid, potassium permanganate, potassium dichromate, etc.", "fibs": ["carboxylic"]}
+{"text": "Even mild oxidising agents, mainly Tollens’ reagent and Fehlings’ reagent also oxidise aldehydes.", "fibs": ["’"]}
+{"text": "Their oxidation involves carbon-carbon bond cleavage to afford a mixture of carboxylic acids having lesser number of carbon atoms than the parent ketone.", "fibs": ["oxidation"]}
+{"text": "The mild oxidising agents given below are used to distinguish aldehydes from ketones:
+(i) Tollens’ test: On warming an aldehyde with freshly prepared ammoniacal silver nitrate solution (Tollens’ reagent), a bright silver mirror is produced due to the formation of silver metal.", "fibs": ["’"]}
+{"text": "The aldehydes are oxidised to corresponding carboxylate anion.", "fibs": ["anion"]}
+{"text": "The reaction occurs in alkaline medium.", "fibs": ["reaction"]}
+{"text": "(ii) Fehling’s test: Fehling reagent comprises of two solutions, Fehling solution A and Fehling solution B. Fehling solution A is aqueous copper sulphate and Fehling solution B is alkaline sodium potassium tartarate (Rochelle salt).", "fibs": ["ii"]}
+{"text": "These two solutions are mixed in equal amounts before test.", "fibs": ["test"]}
+{"text": "On heating an aldehyde with Fehling’s reagent, a reddish brown precipitate is obtained.", "fibs": ["heating"]}
+{"text": "Aldehydes are oxidised to corresponding carboxylate anion.", "fibs": ["anion"]}
+{"text": "Aromatic aldehydes do not respond to this test.", "fibs": ["test"]}
+{"text": "(iii) Oxidation of methyl ketones by haloform reaction: Aldehydes and ketones having at least one methyl group linked to the carbonyl carbon atom (methyl ketones) are oxidised by sodium hypohalite to sodium salts of corresponding carboxylic acids having one carbon atom less than that of carbonyl compound.", "fibs": ["iii"]}
+{"text": "The methyl group is converted to haloform.", "fibs": ["methyl"]}
+{"text": "This oxidation does not affect a carbon-carbon double bond, if present in the molecule.", "fibs": ["oxidation"]}
+{"text": "Iodoform reaction with sodium hypoiodite is also used for detection of CH3CO group or CH3CH(OH) group which produces CH3CO group on oxidation.", "fibs": ["reaction"]}
+{"text": "Example 12.4
+
+An organic compound (A) with molecular formula C8H8O forms an orange-red precipitate with 2,4-DNP reagent and gives yellow precipitate on heating with iodine in the presence of sodium hydroxide.", "fibs": ["Example"]}
+{"text": "It neither reduces Tollens’ or Fehlings’ reagent, nor does it decolourise bromine water or Baeyer’s reagent.", "fibs": ["’"]}
+{"text": "On drastic oxidation with chromic acid, it gives a carboxylic acid (B) having molecular formula C7H6O2.", "fibs": ["oxidation"]}
+{"text": "Therefore, it is an aldehyde or a ketone.", "fibs": ["aldehyde"]}
+{"text": "Since it does not reduce Tollens’ or Fehling reagent, (A) must be a ketone.", "fibs": ["’"]}
+{"text": "(A) responds to iodoform test.", "fibs": ["iodoform"]}
+{"text": "Therefore, it should be a methyl ketone.", "fibs": ["methyl"]}
+{"text": "The molecular formula of (A) indicates high degree of unsaturation, yet it does not decolourise bromine water or Baeyer’s reagent.", "fibs": ["formula"]}
+{"text": "This indicates the presence of unsaturation due to an aromatic ring.", "fibs": ["presence"]}
+{"text": "Compound (B), being an oxidation product of a ketone should be a carboxylic acid.", "fibs": ["oxidation"]}
+{"text": "The molecular formula of (B) indicates that it should be benzoic acid and compound (A) should, therefore, be a monosubstituted aromatic methyl ketone.", "fibs": ["formula"]}
+{"text": "The molecular formula of (A) indicates that it should be phenyl methyl ketone (acetophenone).", "fibs": ["formula"]}
+{"text": "Reactions due to a-hydrogen
+Acidity of α-hydrogens of aldehydes and ketones: The aldehydes and ketones undergo a number of reactions due to the acidic nature of α-hydrogen.", "fibs": ["number"]}
+{"text": "The acidity of α-hydrogen atoms of carbonyl compounds is due to the strong electron withdrawing effect of the carbonyl group and resonance stabilisation of the conjugate base.", "fibs": ["acidity"]}
+{"text": "(i) Aldol condensation: Aldehydes and ketones having at least one α-hydrogen undergo a reaction in the presence of dilute alkali as catalyst to form β-hydroxy aldehydes (aldol) or β-hydroxy ketones (ketol), respectively.", "fibs": ["condensation"]}
+{"text": "This is known as Aldol reaction.", "fibs": ["reaction"]}
+{"text": "The name aldol is derived from the names of the two functional groups, aldehyde and alcohol, present in the products.", "fibs": ["name"]}
+{"text": "The aldol and ketol readily lose water to give α,β-unsaturated carbonyl compounds which are aldol condensation products and the reaction is called Aldol condensation.", "fibs": ["aldol"]}
+{"text": "Though ketones give ketols (compounds containing a keto and alcohol groups), the general name aldol condensation still applies to the reactions of ketones due to their similarity with aldehydes.", "fibs": ["keto"]}
+{"text": "(ii) Cross aldol condensation: When aldol condensation is carried out between two different aldehydes and / or ketones, it is called cross aldol condensation.", "fibs": ["ii"]}
+{"text": "If both of them contain α-hydrogen atoms, it gives a mixture of four products.", "fibs": ["mixture"]}
+{"text": "This is illustrated below by aldol reaction of a mixture of ethanal and propanal.", "fibs": ["aldol"]}
+{"text": "Ketones can also be used as one component in the cross aldol reactions.", "fibs": ["component"]}
+{"text": "Other reactions
+
+
+(i) Cannizzaro reaction: Aldehydes which do not have an α-hydrogen atom, undergo self oxidation and reduction (disproportionation) reaction on heating with concentrated alkali.", "fibs": ["reaction"]}
+{"text": "In this reaction, one molecule of the aldehyde is reduced to alcohol while another is oxidised to carboxylic acid salt.", "fibs": ["reaction"]}
+{"text": "(ii) Electrophilic substitution reaction: Aromatic aldehydes and ketones undergo electrophilic substitution at the ring in which the carbonyl group acts as a deactivating and meta-directing group.", "fibs": ["ii"]}
+{"text": "Intext Questions
+12.4 Arrange the following compounds in increasing order of their reactivity in nucleophilic addition reactions.", "fibs": ["order"]}
+{"text": "(ii) Benzaldehyde, p-Tolualdehyde, p-Nitrobenzaldehyde, Acetophenone.", "fibs": ["ii"]}
+{"text": "Hint: Consider steric effect and electronic effect.", "fibs": ["Hint"]}
+{"text": "12.5 Predict the products of the following reactions:
+(i) 
+(ii) 
+(iii) 
+
+(iv) 
+
+
+12.5 Uses of Aldehydes and Ketones
+In chemical industry aldehydes and ketones are used as solvents, starting materials and reagents for the synthesis of other products.", "fibs": ["ii"]}
+{"text": "Formaldehyde is well known as formalin (40%) solution used to preserve biological specimens and to prepare bakelite (a phenol-formaldehyde resin), urea-formaldehyde glues and other polymeric products.", "fibs": ["Formaldehyde"]}
+{"text": "Acetaldehyde is used primarily as a starting material in the manufacture of acetic acid, ethyl acetate, vinyl acetate, polymers and drugs.", "fibs": ["material"]}
+{"text": "Benzaldehyde is used in perfumery and in dye industries.", "fibs": ["perfumery"]}
+{"text": "Acetone and ethyl methyl ketone are common industrial solvents.", "fibs": ["Acetone"]}
+{"text": "Many aldehydes and ketones, e.g., butyraldehyde, vanillin, acetophenone, camphor, etc.", "fibs": ["butyraldehyde"]}
+{"text": "Carboxylic Acids
+
+
+
+Carbon compounds containing a carboxyl functional group, –COOH are called carboxylic acids.", "fibs": ["carboxyl"]}
+{"text": "The carboxyl group, consists of a carbonyl group attached to a hydroxyl group, hence its name carboxyl.", "fibs": ["carboxyl"]}
+{"text": "Carboxylic acids may be aliphatic (RCOOH) or aromatic (ArCOOH) depending on the group, alkyl or aryl, attached to carboxylic carbon.", "fibs": ["RCOOH"]}
+{"text": "Large number of carboxylic acids are found in nature.", "fibs": ["number"]}
+{"text": "Some higher members of aliphatic carboxylic acids (C12 – C18) known as fatty acids, occur in natural fats as esters of glycerol.", "fibs": ["carboxylic"]}
+{"text": "Carboxylic acids serve as starting material for several other important organic compounds such as anhydrides, esters, acid chlorides, amides, etc.", "fibs": ["material"]}
+{"text": "12.6 Nomenclature and Structure of Carboxyl Group
+
+
+12.6.1 Nomenclature
+
+
+
+Since carboxylic acids are amongst the earliest organic compounds to be isolated from nature, a large number of them are known by their common names.", "fibs": ["carboxylic"]}
+{"text": "The common names end with the suffix –ic acid and have been derived from Latin or Greek names of their natural sources.", "fibs": ["end"]}
+{"text": "For example, formic acid (HCOOH) was first obtained from red ants (Latin: formica means ant), acetic acid (CH3COOH) from vinegar (Latin: acetum, means vinegar), butyric acid (CH3CH2CH2COOH) from rancid butter (Latin: butyrum, means butter).", "fibs": ["example"]}
+{"text": "In the IUPAC system, aliphatic carboxylic acids are named by replacing the ending –e in the name of the corresponding alkane with – oic acid.", "fibs": ["IUPAC"]}
+{"text": "In numbering the carbon chain, the carboxylic carbon is numbered one.", "fibs": ["carbon"]}
+{"text": "For naming compounds containing more than one carboxyl group, the alkyl chain leaving carboxyl groups is numbered and the number of carboxyl groups is indicated by adding the multiplicative prefix, dicarboxylic acid, tricarboxylic acid, etc.", "fibs": ["carboxyl"]}
+{"text": "to the name of parent alkyl chain.", "fibs": ["name"]}
+{"text": "The position of –COOH groups are indicated by the arabic numeral before the multiplicative prefix.", "fibs": ["position"]}
+{"text": "Some of the carboxylic acids along with their common and IUPAC names are listed in Table 12.3.", "fibs": ["carboxylic"]}
+{"text": "Table 12.3 Names and Structures of Some Carboxylic Acids
+
+
+
+
+
+
+
+12.6.2 Structure of Carboxyl Group
+
+
+
+
+
+In carboxylic acids, the bonds to the carboxyl carbon lie in one plane and are separated by about 120°.", "fibs": ["Table"]}
+{"text": "The carboxylic carbon is less electrophilic than carbonyl carbon because of the possible resonance structure shown below:
+
+
+
+Intext Question
+12.6 Give the IUPAC names of the following compounds:
+(i) Ph CH2CH2COOH (ii) (CH3)2C=CHCOOH
+(iii)  (iv) 
+
+
+
+12.7 Methods of Preparation of Carboxylic Acids
+
+
+Some important methods of preparation of carboxylic acids are as follows.", "fibs": ["carboxylic"]}
+{"text": "From primary alcohols and aldehydes
+Primary alcohols are readily oxidised to carboxylic acids with common oxidising agents such as potassium permanganate (KMnO4) in neutral, acidic or alkaline media or by potassium dichromate (K2Cr2O7) and chromium trioxide (CrO3) in acidic media (Jones reagent).", "fibs": ["carboxylic"]}
+{"text": "Carboxylic acids are also prepared from aldehydes by the use of mild oxidising agents (Section 12.4).", "fibs": ["use"]}
+{"text": "From alkylbenzenes
+Aromatic carboxylic acids can be prepared by vigorous oxidation of alkyl benzenes with chromic acid or acidic or alkaline potassium permanganate.", "fibs": ["carboxylic"]}
+{"text": "The entire side chain is oxidised to the carboxyl group irrespective of length of the side chain.", "fibs": ["side"]}
+{"text": "Primary and secondary alkyl groups are oxidised in this manner while tertiary group is not affected.", "fibs": ["alkyl"]}
+{"text": "Suitably substituted alkenes are also oxidised to carboxylic acids with these oxidising reagents (refer Unit 13, Class XI).", "fibs": ["carboxylic"]}
+{"text": "From nitriles and amides
+Nitriles are hydrolysed to amides and then to acids in the presence of H+ or as catalyst.", "fibs": ["presence"]}
+{"text": "Mild reaction conditions are used to stop the reaction at the amide stage.", "fibs": ["reaction"]}
+{"text": "From Grignard reagents
+Grignard reagents react with carbon dioxide (dry ice) to form salts of carboxylic acids which in turn give corresponding carboxylic acids after acidification with mineral acid.", "fibs": ["carbon"]}
+{"text": "As we know, the Grignard reagents and nitriles can be prepared from alkyl halides (refer Unit 10, Class XII).", "fibs": ["alkyl"]}
+{"text": "The above methods
+    (3 and 4) are useful for converting alkyl halides into corresponding carboxylic acids having one carbon atom more than that present in alkyl halides (ascending the series).", "fibs": ["alkyl"]}
+{"text": "From acyl halides and anhydrides
+Acid chlorides when hydrolysed with water give carboxylic acids or more readily hydrolysed with aqueous base to give carboxylate ions which on acidification provide corresponding carboxylic acids.", "fibs": ["acyl"]}
+{"text": "Anhydrides on the other hand are hydrolysed to corresponding acid(s) with water.", "fibs": ["hand"]}
+{"text": "From esters
+
+
+
+          Acidic hydrolysis of esters gives directly carboxylic acids while basic hydrolysis gives carboxylates, which on acidification give corresponding carboxylic acids.", "fibs": ["hydrolysis"]}
+{"text": "Example 12.5
+Write chemical reactions to affect the following transformations:
+(i) Butan-1-ol to butanoic acid
+(ii) Benzyl alcohol to phenylethanoic acid
+(iii) 3-Nitrobromobenzene to 3-nitrobenzoic acid
+(iv) 4-Methylacetophenone to benzene-1,4-dicarboxylic acid
+(v) Cyclohexene to hexane-1,6-dioic acid
+
+(vi) Butanal to butanoic acid.", "fibs": ["Example"]}
+{"text": "Solution
+(i)
+(ii)
+
+(iii)
+(iv)
+
+(v)
+
+        (vi)
+
+
+
+
+
+
+
+Intext Question
+12.7 Show how each of the following compounds can be converted to benzoic acid.", "fibs": ["ii"]}
+{"text": "(i) Ethylbenzene (ii) Acetophenone
+(iii) Bromobenzene (iv) Phenylethene (Styrene)
+
+
+
+12.8 Physical Properties
+Aliphatic carboxylic acids upto nine carbon atoms are colourless liquids at room temperature with unpleasant odours.", "fibs": ["ii"]}
+{"text": "The higher acids are wax like solids and are practically odourless due to their low volatility.", "fibs": ["wax"]}
+{"text": "This is due to more extensive association of carboxylic acid molecules through intermolecular hydrogen bonding.", "fibs": ["association"]}
+{"text": "The hydrogen bonds are not broken completely even in the vapour phase.", "fibs": ["hydrogen"]}
+{"text": "In fact, most carboxylic acids exist as dimer in the vapour phase or in the aprotic solvents.", "fibs": ["fact"]}
+{"text": "In vapour state or in aprotic solvent
+
+
+Simple aliphatic carboxylic acids having upto four carbon atoms are miscible in water due to the formation of hydrogen bonds with water.", "fibs": ["vapour"]}
+{"text": "The solubility decreases with increasing number of carbon atoms.", "fibs": ["solubility"]}
+{"text": "Higher carboxylic acids are practically insoluble in water due to the increased hydrophobic interaction of hydrocarbon part.", "fibs": ["carboxylic"]}
+{"text": "Benzoic acid, the simplest aromatic carboxylic acid is nearly insoluble in cold water.", "fibs": ["acid"]}
+{"text": "Carboxylic acids are also soluble in less polar organic solvents like benzene, ether, alcohol, chloroform, etc.", "fibs": ["benzene"]}
+{"text": "Hydrogen bonding of RCOOH with H2O
+
+
+
+
+
+
+
+12.9 Chemical Reactions
+The reaction of carboxylic acids are classified as follows:
+
+
+
+
+
+12.9.1 Reactions Involving Cleavage of O–H Bond
+
+
+Acidity
+
+
+Reactions with metals and alkalies
+
+
+
+
+
+
+
+
+          The carboxylic acids like alcohols evolve hydrogen with electropositive metals and form salts with alkalies similar to phenols.", "fibs": ["Hydrogen"]}
+{"text": "However, unlike phenols they react with weaker bases such as carbonates and hydrogencarbonates to evolve carbon dioxide.", "fibs": ["carbon"]}
+{"text": "This reaction is used to detect the presence of carboxyl group in an organic compound.", "fibs": ["reaction"]}
+{"text": "Carboxylic acids dissociate in water to give resonance stabilised carboxylate anions and hydronium ion.", "fibs": ["water"]}
+{"text": "For the above reaction:
+
+
+
+
+
+where Keq, is equilibrium constant and Ka is the acid dissociation constant.", "fibs": ["reaction"]}
+{"text": "For convenience, the strength of an acid is generally indicated by its pka value rather than its Ka value.", "fibs": ["convenience"]}
+{"text": "pKa = – log Ka
+The pKa of hydrochloric acid is –7.0, where as pKa of trifluoroacetic acid (the strongest carboxylic acid), benzoic acid and acetic acid are 0.23, 4.19 and 4.76, respectively.", "fibs": ["pKa"]}
+{"text": "Smaller the pKa, the stronger the acid ( the better it is as a proton donor).", "fibs": ["pKa"]}
+{"text": "Strong acids have pKa values < 1, the acids with pKa values between 1 and 5 are considered to be moderately strong acids, weak acids have pKa values between 5 and 15, and extremely weak acids have pKa values >15.", "fibs": ["pKa"]}
+{"text": "Carboxylic acids are weaker than mineral acids, but they are stronger acids than alcohols and many simple phenols (pKa is ~16 for ethanol and 10 for phenol).", "fibs": ["mineral"]}
+{"text": "In fact, carboxylic acids are amongst the most acidic organic compounds you have studied so far.", "fibs": ["fact"]}
+{"text": "You already know why phenols are more acidic than alcohols.", "fibs": ["acidic"]}
+{"text": "The higher acidity of carboxylic acids as compared to phenols can be understood similarly.", "fibs": ["acidity"]}
+{"text": "The conjugate base of carboxylic acid, a carboxylate ion, is stabilised by two equivalent resonance structures in which the negative charge is at the more electronegative oxygen atom.", "fibs": ["conjugate"]}
+{"text": "The conjugate base of phenol, a phenoxide ion, has non-equivalent resonance structures in which the negative charge is at the less electronegative carbon atom.", "fibs": ["conjugate"]}
+{"text": "Therefore, resonance in phenoxide ion is not as important as it is in carboxylate ion.", "fibs": ["resonance"]}
+{"text": "Further, the negative charge is delocalised over two electronegative oxygen atoms in carboxylate ion whereas it is less effectively delocalised over one oxygen atom and less electronegative carbon atoms in phenoxide ion (Unit 11, Class XII).", "fibs": ["charge"]}
+{"text": "Thus, the carboxylate ion is more stabilised than phenoxide ion, so carboxylic acids are more acidic than phenols.", "fibs": ["ion"]}
+{"text": "Effect of substituents on the acidity of carboxylic acids: Substituents may affect the stability of the conjugate base and thus, also affect the acidity of the carboxylic acids.", "fibs": ["Effect"]}
+{"text": "Electron withdrawing groups increase the acidity of carboxylic acids by stabilising the conjugate base through delocalisation of the negative charge by inductive and/or resonance effects.", "fibs": ["increase"]}
+{"text": "Conversely, electron donating groups decrease the acidity by destabilising the conjugate base.", "fibs": ["electron"]}
+{"text": "Electron withdrawing group (EWG) stabilises the carboxylate anion and strengthens the acid
+
+
+
+
+
+
+
+
+
+
+Electron donating group (EDG) destabilises the carboxylate anion and weakens the acid
+
+
+
+
+
+
+The effect of the following groups in increasing acidity order is
+Ph < I < Br < Cl < F < CN < NO2 < CF3
+Thus, the following acids are arranged in order of increasing acidity (based on pKa values):
+CF3COOH > CCl3COOH > CHCl2COOH > NO2CH2COOH > NC-CH2COOH >
+
+
+FCH2COOH > ClCH2COOH > BrCH2COOH > HCOOH > ClCH2CH2COOH >
+(continue)
+C6H5COOH > C6H5CH2COOH > CH3COOH > CH3CH2COOH
+(continue )
+Direct attachment of groups such as phenyl or vinyl to the carboxylic acid, increases the acidity of corresponding carboxylic acid, contrary to the decrease expected due to resonance effect shown below:
+
+This is because of greater electronegativity of sp2 hybridised carbon to which carboxyl carbon is attached.", "fibs": ["group"]}
+{"text": "The presence of electron withdrawing group on the phenyl of aromatic carboxylic acid increases their acidity while electron donating groups decrease their acidity.", "fibs": ["presence"]}
+{"text": "12.9.2 Reactions Involving Cleavage of C–OH Bond
+1.", "fibs": ["C–OH"]}
+{"text": "Formation of anhydride
+Carboxylic acids on heating with mineral acids such as H2SO4 or with P2O5 give corresponding anhydride.", "fibs": ["anhydride"]}
+{"text": "Esterification
+Carboxylic acids are esterified with alcohols or phenols in the presence of a mineral acid such as concentrated H2SO4 or HCl gas as a catalyst.", "fibs": ["presence"]}
+{"text": "Mechanism of esterification of carboxylic acids: The esterification of carboxylic acids with alcohols is a kind of nucleophilic acyl substitution.", "fibs": ["Mechanism"]}
+{"text": "Protonation of the carbonyl oxygen activates the carbonyl group towards nucleophilic addition of the alcohol.", "fibs": ["carbonyl"]}
+{"text": "Proton transfer in the tetrahedral intermediate converts the hydroxyl group into –+OH2 group, which, being a better leaving group, is eliminated as neutral water molecule.", "fibs": ["Proton"]}
+{"text": "The protonated ester so formed finally loses a proton to give the ester.", "fibs": ["ester"]}
+{"text": "Reactions with PCl5, PCl3 and SOCl2
+The hydroxyl group of carboxylic acids, behaves like that of alcohols and is easily replaced by chlorine atom on treating with PCl5, PCl3 or SOCl2.", "fibs": ["PCl5"]}
+{"text": "Thionyl chloride (SOCl2) is preferred because the other two products are gaseous and escape the reaction mixture making the purification of the products easier.", "fibs": ["chloride"]}
+{"text": "Reaction with ammonia
+Carboxylic acids react with ammonia to give ammonium salt which on further heating at high temperature give amides.", "fibs": ["Reaction"]}
+{"text": "For example:
+
+
+
+
+
+12.9.3 Reactions Involving –COOH Group
+1.", "fibs": ["example"]}
+{"text": "Reduction
+Carboxylic acids are reduced to primary alcohols by lithium aluminium hydride or better with diborane.", "fibs": ["lithium"]}
+{"text": "Diborane does not easily reduce functional groups such as ester, nitro, halo, etc.", "fibs": ["ester"]}
+{"text": "Sodium borohydride does not reduce the carboxyl group.", "fibs": ["Sodium"]}
+{"text": "Decarboxylation
+Carboxylic acids lose carbon dioxide to form hydrocarbons when their sodium salts are heated with sodalime (NaOH and CaO in the ratio of 3 : 1).", "fibs": ["carbon"]}
+{"text": "The reaction is known as decarboxylation.", "fibs": ["reaction"]}
+{"text": "Alkali metal salts of carboxylic acids also undergo decarboxylation on electrolysis of their aqueous solutions and form hydrocarbons having twice the number of carbon atoms present in the alkyl group of the acid.", "fibs": ["metal"]}
+{"text": "The reaction is known as Kolbe electrolysis (Unit 13, Class XI).", "fibs": ["reaction"]}
+{"text": "Substitution Reactions in the Hydrocarbon Part
+1.", "fibs": ["Substitution"]}
+{"text": "Halogenation
+
+
+
+Carboxylic acids having an α-hydrogen are halogenated at the α-position on treatment with chlorine or bromine in the presence of small amount of red phosphorus to give α-halocarboxylic acids.", "fibs": ["treatment"]}
+{"text": "The reaction is known as Hell-Volhard-Zelinsky reaction.", "fibs": ["reaction"]}
+{"text": "Ring substitution
+
+
+
+
+
+
+
+
+Aromatic carboxylic acids undergo electrophilic substitution reactions in which the carboxyl group acts as a deactivating and meta-directing group.", "fibs": ["substitution"]}
+{"text": "They however, do not undergo Friedel-Crafts reaction (because the carboxyl group is deactivating and the catalyst aluminium chloride (Lewis acid) gets bonded to the carboxyl group).", "fibs": ["reaction"]}
+{"text": "Intext Question
+12.8 Which acid of each pair shown here would you expect to be stronger?", "fibs": ["Question"]}
+{"text": "(i) CH3CO2H or CH2FCO2H 
+(ii) CH2FCO2H or CH2ClCO2H
+(iii) CH2FCH2CH2CO2H or CH3CHFCH2CO2H
+
+
+(iv)
+
+
+
+
+12.10 Uses of Carboxylic Acids
+
+Methanoic acid is used in rubber, textile, dyeing, leather and electroplating industries.", "fibs": ["CH3CO2H"]}
+{"text": "Ethanoic acid is used as solvent and as vinegar in food industry.", "fibs": ["acid"]}
+{"text": "Hexanedioic acid is used in the manufacture of nylon-6, 6.", "fibs": ["acid"]}
+{"text": "Esters of benzoic acid are used in perfumery.", "fibs": ["benzoic"]}
+{"text": "Sodium benzoate is used as a food preservative.", "fibs": ["Sodium"]}
+{"text": "Summary
+Aldehydes, ketones and carboxylic acids are some of the important classes of organic compounds containing carbonyl group.", "fibs": ["carboxylic"]}
+{"text": "The lower members are more soluble in water because they form hydrogen bonds with water.", "fibs": ["water"]}
+{"text": "The higher members, because of large size of hydrophobic chain of carbon atoms, are insoluble in water but soluble in common organic solvents.", "fibs": ["size"]}
+{"text": "Aldehydes are prepared by dehydrogenation or controlled oxidation of primary alcohols and controlled or selective reduction of acyl halides.", "fibs": ["dehydrogenation"]}
+{"text": "Aromatic aldehydes may also be prepared by oxidation of (i) methylbenzene with chromyl chloride or CrO3 in the presence of acetic anhydride, (ii) formylation of arenes with carbon monoxide and hydrochloric acid in the presence of anhydrous aluminium chloride, and (iii) cuprous chloride or by hydrolysis of benzal chloride.", "fibs": ["oxidation"]}
+{"text": "Ketones are prepared by oxidation of secondary alcohols and hydration of alkynes.", "fibs": ["oxidation"]}
+{"text": "Ketones are also prepared by reaction of acyl chloride with dialkylcadmium.", "fibs": ["reaction"]}
+{"text": "A good method for the preparation of aromatic ketones is the Friedel-Crafts acylation of aromatic hydrocarbons with acyl chlorides or anhydrides.", "fibs": ["method"]}
+{"text": "Both aldehydes and ketones can be prepared by ozonolysis of alkenes.", "fibs": ["ozonolysis"]}
+{"text": "Aldehydes and ketones undergo nucleophilic addition reactions onto the carbonyl group with a number of nucleophiles such as, HCN, NaHSO3, alcohols (or diols), ammonia derivatives, and Grignard reagents.", "fibs": ["nucleophilic"]}
+{"text": "The α-hydrogens in aldehydes and ketones are acidic.", "fibs": ["acidic"]}
+{"text": "Therefore, aldehydes and ketones having at least one α-hydrogen, undergo Aldol condensation in the presence of a base to give α-hydroxyaldehydes (aldol) and α-hydroxyketones(ketol), respectively.", "fibs": ["condensation"]}
+{"text": "Aldehydes having no α-hydrogen undergo Cannizzaro reaction in the presence of concentrated alkali.", "fibs": ["reaction"]}
+{"text": "Aldehydes and ketones are reduced to alcohols with NaBH4, LiAlH4, or by catalytic hydrogenation.", "fibs": ["NaBH4"]}
+{"text": "The carbonyl group of aldehydes and ketones can be reduced to a methylene group by Clemmensen reduction or Wolff-Kishner reduction.", "fibs": ["carbonyl"]}
+{"text": "Aldehydes are easily oxidised to carboxylic acids by mild oxidising reagents such as Tollens’ reagent and Fehling’s reagent.", "fibs": ["carboxylic"]}
+{"text": "These oxidation reactions are used to distinguish aldehydes from ketones.", "fibs": ["oxidation"]}
+{"text": "Carboxylic acids are prepared by the oxidation of primary alcohols, aldehydes and alkenes by hydrolysis of nitriles, and by treatment of Grignard reagents with carbon dioxide.", "fibs": ["oxidation"]}
+{"text": "Aromatic carboxylic acids are also prepared by side-chain oxidation of alkylbenzenes.", "fibs": ["carboxylic"]}
+{"text": "Carboxylic acids are considerably more acidic than alcohols and most of simple phenols.", "fibs": ["acidic"]}
+{"text": "Carboxylic acids are reduced to primary alcohols with LiAlH4, or better with diborane in ether solution and also undergo α-halogenation with Cl2 and Br2 in the presence of red phosphorus (Hell-Volhard Zelinsky reaction).", "fibs": ["LiAlH4"]}
+{"text": "Methanal, ethanal, propanone, benzaldehyde, formic acid, acetic acid and benzoic acid are highly useful compounds in industry.", "fibs": ["propanone"]}
+{"text": "Give an example of the reaction in each case.", "fibs": ["example"]}
+{"text": "(i) Cyanohydrin (ii) Acetal (iii) Semicarbazone 
+(iv) Aldol (v) Hemiacetal (vi) Oxime
+(vii) Ketal (vii) Imine (ix) 2,4-DNP-derivative
+ (x) Schiff’s base
+12.2 Name the following compounds according to IUPAC system of nomenclature:
+(i) CH3CH(CH3)CH2CH2CHO (ii) CH3CH2COCH(C2H5)CH2CH2Cl
+(iii) CH3CH=CHCHO (iv) CH3COCH2COCH3
+(v) CH3CH(CH3)CH2C(CH3)2COCH3 (vi) (CH3)3CCH2COOH
+(vii) OHCC6H4CHO-p
+12.3 Draw the structures of the following compounds.", "fibs": ["ii"]}
+{"text": "(i) 3-Methylbutanal (ii) p-Nitropropiophenone
+(iii) p-Methylbenzaldehyde (iv) 4-Methylpent-3-en-2-one
+(v) 4-Chloropentan-2-one (vi) 3-Bromo-4-phenylpentanoic acid
+(vii) p,p’-Dihydroxybenzophenone (viii) Hex-2-en-4-ynoic acid
+12.4 Write the IUPAC names of the following ketones and aldehydes.", "fibs": ["ii"]}
+{"text": "(i) CH3CO(CH2)4CH3 (ii) CH3CH2CHBrCH2CH(CH3)CHO
+(iii) CH3(CH2)5CHO (iv) Ph-CH=CH-CHO
+(v)  (vi) PhCOPh
+12.5 Draw structures of the following derivatives.", "fibs": ["CH3CO(CH2)4CH3"]}
+{"text": "(i) The 2,4-dinitrophenylhydrazone of benzaldehyde
+(ii) Cyclopropanone oxime
+(iii) Acetaldehydedimethylacetal
+(iv) The semicarbazone of cyclobutanone
+(v) The ethylene ketal of hexan-3-one
+(vi) The methyl hemiacetal of formaldehyde
+12.6 Predict the products formed when cyclohexanecarbaldehyde reacts with following reagents.", "fibs": ["benzaldehyde"]}
+{"text": "(i) PhMgBr and then H3O+ (ii) Tollens’ reagent
+(iii) Semicarbazide and weak acid (iv) Excess ethanol and acid
+(v) Zinc amalgam and dilute hydrochloric acid
+12.7 Which of the following compounds would undergo aldol condensation, which the Cannizzaro reaction and which neither?", "fibs": ["PhMgBr"]}
+{"text": "Write the structures of the expected products of aldol condensation and Cannizzaro reaction.", "fibs": ["aldol"]}
+{"text": "(i) Methanal (ii) 2-Methylpentanal (iii) Benzaldehyde
+(iv) Benzophenone (v) Cyclohexanone (vi) 1-Phenylpropanone
+(vii) Phenylacetaldehyde (viii) Butan-1-ol (ix) 2,2-Dimethylbutanal
+12.8 How will you convert ethanal into the following compounds?", "fibs": ["ii"]}
+{"text": "(i) Butane-1,3-diol (ii) But-2-enal (iii) But-2-enoic acid
+12.9 Write structural formulas and names of four possible aldol condensation products from propanal and butanal.", "fibs": ["ii"]}
+{"text": "In each case, indicate which aldehyde acts as nucleophile and which as electrophile.", "fibs": ["case"]}
+{"text": "12.10 An organic compound with the molecular formula C9H10O forms 2,4-DNP derivative, reduces Tollens’ reagent and undergoes Cannizzaro reaction.", "fibs": ["compound"]}
+{"text": "On vigorous oxidation, it gives 1,2-benzenedicarboxylic acid.", "fibs": ["oxidation"]}
+{"text": "Identify the compound.", "fibs": ["compound"]}
+{"text": "12.11 An organic compound (A) (molecular formula C8H16O2) was hydrolysed with dilute sulphuric acid to give a carboxylic acid (B) and an alcohol (C).", "fibs": ["compound"]}
+{"text": "Oxidation of (C) with chromic acid produced (B).", "fibs": ["Oxidation"]}
+{"text": "(C) on dehydration gives but-1-ene.", "fibs": ["C"]}
+{"text": "12.12 Arrange the following compounds in increasing order of their property as indicated:
+(i) Acetaldehyde, Acetone, Di-tert-butyl ketone, Methyl tert-butyl ketone
+            (reactivity towards HCN)
+(ii) CH3CH2CH(Br)COOH, CH3CH(Br)CH2COOH, (CH3)2CHCOOH,
+CH3CH2CH2COOH (acid strength)
+(iii) Benzoic acid, 4-Nitrobenzoic acid, 3,4-Dinitrobenzoic acid, 4-Methoxybenzoic acid (acid strength)
+12.13 Give simple chemical tests to distinguish between the following pairs of compounds.", "fibs": ["order"]}
+{"text": "(i) Propanal and Propanone (ii) Acetophenone and Benzophenone
+(iii) Phenol and Benzoic acid (iv) Benzoic acid and Ethyl benzoate
+(v) Pentan-2-one and Pentan-3-one (vi) Benzaldehyde and Acetophenone
+(vii) Ethanal and Propanal
+12.14 How will you prepare the following compounds from benzene?", "fibs": ["ii"]}
+{"text": "You may use any inorganic reagent and any organic reagent having not more than one carbon atom
+(i) Methyl benzoate (ii) m-Nitrobenzoic acid
+(iii) p-Nitrobenzoic acid (iv) Phenylacetic acid
+(v) p-Nitrobenzaldehyde.", "fibs": ["use"]}
+{"text": "(i) Propanone to Propene (ii) Benzoic acid to Benzaldehyde
+(iii) Ethanol to 3-Hydroxybutanal (iv) Benzene to m-Nitroacetophenone
+(v) Benzaldehyde to Benzophenone (vi) Bromobenzene to 1-Phenylethanol
+(vii) Benzaldehyde to 3-Phenylpropan-1-ol
+(viii) Benazaldehyde to α-Hydroxyphenylacetic acid
+(ix) Benzoic acid to m- Nitrobenzyl alcohol
+12.16 Describe the following:
+(i) Acetylation (ii) Cannizzaro reaction
+(iii) Cross aldol condensation (iv) Decarboxylation
+12.17 Complete each synthesis by giving missing starting material, reagent or products
+
+
+12.18 Give plausible explanation for each of the following:
+(i) Cyclohexanone forms cyanohydrin in good yield but 2,2,6-trimethylcyclo-hexanone does not.", "fibs": ["ii"]}
+{"text": "(ii) There are two –NH2 groups in semicarbazide.", "fibs": ["ii"]}
+{"text": "However, only one is involved in the formation of semicarbazones.", "fibs": ["formation"]}
+{"text": "(iii) During the preparation of esters from a carboxylic acid and an alcohol in the presence of an acid catalyst, the water or the ester should be removed as soon as it is formed.", "fibs": ["iii"]}
+{"text": "12.19 An organic compound contains 69.77% carbon, 11.63% hydrogen and rest oxygen.", "fibs": ["compound"]}
+{"text": "The molecular mass of the compound is 86.", "fibs": ["mass"]}
+{"text": "It does not reduce Tollens’ reagent but forms an addition compound with sodium hydrogensulphite and give positive iodoform test.", "fibs": ["’"]}
+{"text": "On vigorous oxidation it gives ethanoic and propanoic acid.", "fibs": ["oxidation"]}
+{"text": "Write the possible structure of the compound.", "fibs": ["structure"]}
+{"text": "12.20 Although phenoxide ion has more number of resonating structures than carboxylate ion, carboxylic acid is a stronger acid than phenol.", "fibs": ["phenoxide"]}
+{"text": "Answers to Some Intext Questions
+12.1
+
+
+
+
+
+
+
+
+
+
+
+12.2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12.3 CH3CH2CH3 < CH3OCH3 < CH3CHO < CH3CH2OH
+
+12.4 (i) Butanone < Propanone < Propanal < Ethanal
+(ii) Acetophenone < p-Tolualdehyde , Benzaldehyde < p-Nitrobenzaldehyde.", "fibs": ["CH3CH2CH3"]}
+{"text": "12.5
+
+
+12.6 (i) 3-Phenylpropanoic acid (ii) 3-Methylbut-2-enoic acid
+(iii) 2-Methylcyclopentanecarboxylic acid.", "fibs": ["acid"]}
+{"text": "(iv) 2,4,6-Trinitrobenzoic acid
+12.7 
+
+
+12.8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Table of Contents
+
+
+Unit 12
+
+
+Aldehydes, Ketones and Carboxylic Acids
+
+
+12.1 Nomenclature and Structure of Carbonyl Group
+
+
+12.1.1 Nomenclature
+
+
+
+
+
+
+
+12.1.2 Structure of the Carbonyl Group
+
+
+
+
+12.2 Preparation of Aldehydes and Ketones
+
+
+12.2.1 Preparation of Aldehydes and Ketones
+
+
+12.2.2 Preparation of Aldehydes
+
+
+12.2.3 Preparation of Ketones
+
+
+
+
+12.3 Physical Properties
+
+
+12.4 Chemical Reactions
+
+
+12.5 Uses of Aldehydes and Ketones
+
+
+12.6 Nomenclature and Structure of Carboxyl Group
+
+
+12.6.1 Nomenclature
+
+
+12.6.2 Structure of Carboxyl Group
+
+
+
+
+12.7 Methods of Preparation of Carboxylic Acids
+
+
+
+
+
+
+
+12.9 Chemical Reactions
+
+
+12.9.1 Reactions Involving Cleavage of O–H Bond
+
+
+
+
+
+
+
+12.9.2 Reactions Involving Cleavage of C–OH Bond
+
+
+
+
+
+
+
+
+
+
+12.9.3 Reactions Involving –COOH Group
+
+
+
+
+
+
+
+12.10 Uses of Carboxylic Acids
+
+
+Summary
+
+
+Exercises
+
+
+
+
+
+Answers to Some Intext Questions
+
+
+
+
+
+
+
+
+Landmarks
+
+Cover
+
+
+
+
+
+        Chapter 12
+        Aldehydes, Ketones and Carboxylic Acids", "fibs": ["iv"]}
+

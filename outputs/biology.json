@@ -1,0 +1,417 @@
+Analyzing input.txt
+{"text": " 
+
+Unit 1
+
+
+
+DIVERSITY IN THE LIVING WORLD
+
+
+
+Chapter 1
+The Living World
+ 
+Chapter 2
+Biological Classification
+ 
+Chapter 3
+Plant Kingdom
+ 
+Chapter 4
+Animal Kingdom
+
+Biology is the science of life forms and living processes.", "fibs": ["Unit"]}
+{"text": "The living world comprises an amazing diversity of living organisms.", "fibs": ["world"]}
+{"text": "Early man could easily perceive the difference between inanimate matter and living organisms.", "fibs": ["difference"]}
+{"text": "Early man deified some of the inanimate matter (wind, sea, fire etc.)", "fibs": ["matter"]}
+{"text": "A common feature of all such forms of inanimate and animate objects was the sense of awe or fear that they evoked.", "fibs": ["feature"]}
+{"text": "The description of living organisms including human beings began much later in human history.", "fibs": ["description"]}
+{"text": "Societies which indulged in anthropocentric view of biology could register limited progress in biological knowledge.", "fibs": ["anthropocentric"]}
+{"text": "Systematic and monumental description of life forms brought in, out of necessity, detailed systems of identification, nomenclature and classification.", "fibs": ["description"]}
+{"text": "The biggest spin off of such studies was the recognition of the sharing of similarities among living organisms both horizontally and vertically.", "fibs": ["recognition"]}
+{"text": "That all present day living organisms are related to each other and also to all organisms that ever lived on this earth, was a revelation which humbled man and led to cultural movements for conservation of biodiversity.", "fibs": ["day"]}
+{"text": "In the following chapters of this unit, you will get a description, including classification, of animals and plants from a taxonomist’s perspective.", "fibs": ["unit"]}
+{"text": "Ernst Mayr
+(1904 – 2004)
+Born on 5 July 1904, in Kempten, Germany, Ernst Mayr, the Harvard University evolutionary biologist who has been called ‘The Darwin of the 20th century’, was one of the 100 greatest scientists of all time.", "fibs": ["biologist"]}
+{"text": "Mayr joined Harvard’s Faculty of Arts and Sciences in 1953 and retired in 1975, assuming the title Alexander Agassiz Professor of Zoology Emeritus.", "fibs": ["’"]}
+{"text": "Throughout his nearly 80-year career, his research spanned ornithology, taxonomy, zoogeography, evolution, systematics, and the history and philosophy of biology.", "fibs": ["career"]}
+{"text": "He almost single-handedly made the origin of species diversity the central question of evolutionary biology that it is today.", "fibs": ["origin"]}
+{"text": "He also pioneered the currently accepted definition of a biological species.", "fibs": ["definition"]}
+{"text": "Mayr was awarded the three prizes widely regarded as the triple crown of biology: the Balzan Prize in 1983, the International Prize for Biology in 1994, and the Crafoord Prize in 1999.", "fibs": ["crown"]}
+{"text": "Mayr died at the age of 100 in the year 2004.", "fibs": ["age"]}
+{"text": "Chapter 1
+
+
+
+The Living World
+
+
+
+1.1 What is ‘Living’?", "fibs": ["Chapter"]}
+{"text": "1.2 Diversity in the Living World
+1.3 Taxonomic Categories
+1.4 Taxonomical Aids
+
+
+How wonderful is the living world !", "fibs": ["Diversity"]}
+{"text": "The wide range of living types is amazing.", "fibs": ["range"]}
+{"text": "The extraordinary habitats in which we find living organisms, be it cold mountains, deciduous forests, oceans, fresh water lakes, deserts or hot springs, leave us speechless.", "fibs": ["water"]}
+{"text": "The beauty of a galloping horse, of the migrating birds, the valley of flowers or the attacking shark evokes awe and a deep sense of wonder.", "fibs": ["beauty"]}
+{"text": "The ecological conflict and cooperation among members of a population and among populations of a community or even the molecular traffic inside a cell make us deeply reflect on – what indeed is life?", "fibs": ["conflict"]}
+{"text": "This question has two implicit questions within it.", "fibs": ["question"]}
+{"text": "The first is a technical one and seeks answer to what living is as opposed to the non-living, and the second is a philosophical one, and seeks answer to what the purpose of life is.", "fibs": ["answer"]}
+{"text": "As scientists, we shall not attempt answering the second question.", "fibs": ["attempt"]}
+{"text": "1.1 What is ‘Living’?", "fibs": ["‘"]}
+{"text": "When we try to define ‘living’, we conventionally look for distinctive characteristics exhibited by living organisms.", "fibs": ["‘"]}
+{"text": "Growth, reproduction, ability to sense environment and mount a suitable response come to our mind immediately as unique features of living organisms.", "fibs": ["Growth"]}
+{"text": "One can add a few more features like metabolism, ability to self-replicate, self-organise, interact and emergence to this list.", "fibs": ["metabolism"]}
+{"text": "Increase in mass and increase in number of individuals are twin characteristics of growth.", "fibs": ["mass"]}
+{"text": "A multicellular organism grows by cell division.", "fibs": ["multicellular"]}
+{"text": "In plants, this growth by cell division occurs continuously throughout their life span.", "fibs": ["growth"]}
+{"text": "In animals, this growth is seen only up to a certain age.", "fibs": ["growth"]}
+{"text": "However, cell division occurs in certain tissues to replace lost cells.", "fibs": ["cell"]}
+{"text": "Unicellular organisms grow by cell division.", "fibs": ["cell"]}
+{"text": "One can easily observe this in in vitro cultures by simply counting the number of cells under the microscope.", "fibs": ["number"]}
+{"text": "In majority of higher animals and plants, growth and reproduction are mutually exclusive events.", "fibs": ["majority"]}
+{"text": "One must remember that increase in body mass is considered as growth.", "fibs": ["increase"]}
+{"text": "Non-living objects also grow if we take increase in body mass as a criterion for growth.", "fibs": ["increase"]}
+{"text": "Mountains, boulders and sand mounds do grow.", "fibs": ["sand"]}
+{"text": "However, this kind of growth exhibited by non-living objects is by accumulation of material on the surface.", "fibs": ["kind"]}
+{"text": "In living organisms, growth is from inside.", "fibs": ["growth"]}
+{"text": "Growth, therefore, cannot be taken as a defining property of living organisms.", "fibs": ["Growth"]}
+{"text": "A dead organism does not grow.", "fibs": ["organism"]}
+{"text": "In multicellular organisms, reproduction refers to the production of progeny possessing features more or less similar to those of parents.", "fibs": ["multicellular"]}
+{"text": "Invariably and implicitly we refer to sexual reproduction.", "fibs": ["reproduction"]}
+{"text": "Fungi multiply and spread easily due to the millions of asexual spores they produce.", "fibs": ["spread"]}
+{"text": "In lower organisms like yeast and hydra, we observe budding.", "fibs": ["yeast"]}
+{"text": "In Planaria (flat worms), we observe true regeneration, i.e., a fragmented organism regenerates the lost part of its body and becomes, a new organism.", "fibs": ["regeneration"]}
+{"text": "The fungi, the filamentous algae, the protonema of mosses, all easily multiply by fragmentation.", "fibs": ["protonema"]}
+{"text": "When it comes to unicellular organisms like bacteria, unicellular algae or Amoeba, reproduction is synonymous with growth, i.e., increase in number of cells.", "fibs": ["unicellular"]}
+{"text": "We have already defined growth as equivalent to increase in cell number or mass.", "fibs": ["growth"]}
+{"text": "Hence, we notice that in single-celled organisms, we are not very clear about the usage of these two terms – growth and reproduction.", "fibs": ["notice"]}
+{"text": "Further, there are many organisms which do not reproduce (mules, sterile worker bees, infertile human couples, etc).", "fibs": ["worker"]}
+{"text": "Hence, reproduction also cannot be an all-inclusive defining characteristic of living organisms.", "fibs": ["reproduction"]}
+{"text": "Of course, no non-living object is capable of reproducing or replicating by itself.", "fibs": ["course"]}
+{"text": "Another characteristic of life is metabolism.", "fibs": ["life"]}
+{"text": "These conversions are chemical reactions or metabolic reactions.", "fibs": ["chemical"]}
+{"text": "There are thousands of metabolic reactions occurring simultaneously inside all living organisms, be they unicellular or multicellular.", "fibs": ["unicellular"]}
+{"text": "All plants, animals, fungi and microbes exhibit metabolism.", "fibs": ["exhibit"]}
+{"text": "The sum total of all the chemical reactions occurring in our body is metabolism.", "fibs": ["sum"]}
+{"text": "No non­-living object exhibits metabolism.", "fibs": ["object"]}
+{"text": "Metabolic reactions can be demonstrated outside the body in cell-free systems.", "fibs": ["body"]}
+{"text": "An isolated metabolic reaction(s) outside the body of an organism, performed in a test tube is neither living nor non-living.", "fibs": ["body"]}
+{"text": "Hence, while metabolism is a defining feature of all living organisms without exception, isolated metabolic reactions in vitro are not living things but surely living reactions.", "fibs": ["metabolism"]}
+{"text": "Hence, cellular organisation of the body is the defining feature of life forms.", "fibs": ["organisation"]}
+{"text": "Perhaps, the most obvious and technically complicated feature of all living organisms is this ability to sense their surroundings or environment and respond to these environmental stimuli which could be physical, chemical or biological.", "fibs": ["feature"]}
+{"text": "We sense our environment through our sense organs.", "fibs": ["sense"]}
+{"text": "Plants respond to external factors like light, water, temperature, other organisms, pollutants, etc.", "fibs": ["light"]}
+{"text": "All organisms, from the prokaryotes to the most complex eukaryotes can sense and respond to environmental cues.", "fibs": ["sense"]}
+{"text": "Photoperiod affects reproduction in seasonal breeders, both plants and animals.", "fibs": ["reproduction"]}
+{"text": "All organisms therefore, are ‘aware’ of their surroundings.", "fibs": ["‘"]}
+{"text": "Human being is the only organism who is aware of himself, i.e., has self-consciousness.", "fibs": ["organism"]}
+{"text": "Consciousness therefore, becomes the defining property of living organisms.", "fibs": ["Consciousness"]}
+{"text": "When it comes to human beings, it is all the more difficult to define the living state.", "fibs": ["state"]}
+{"text": "We observe patients lying in coma in hospitals virtually supported by machines which replace heart and lungs.", "fibs": ["coma"]}
+{"text": "The patient is otherwise brain-dead.", "fibs": ["patient"]}
+{"text": "The patient has no self-­consciousness.", "fibs": ["patient"]}
+{"text": "Are such patients who never come back to normal life, living or non-living?", "fibs": ["life"]}
+{"text": "Properties of tissues are not present in the constituent cells but arise as a result of interactions among the constituent cells.", "fibs": ["constituent"]}
+{"text": "Similarly, properties of cellular organelles are not present in the molecular constituents of the organelle but arise as a result of interactions among the molecular components comprising the organelle.", "fibs": ["organelle"]}
+{"text": "These interactions result in emergent properties at a higher level of organisation.", "fibs": ["result"]}
+{"text": "This phenomenon is true in the hierarchy of organisational complexity at all levels.", "fibs": ["phenomenon"]}
+{"text": "Biology is the story of life on earth.", "fibs": ["story"]}
+{"text": "Biology is the story of evolution of living organisms on earth.", "fibs": ["story"]}
+{"text": "All living organisms – present, past and future, are linked to one another by the sharing of the common genetic material, but to varying degrees.", "fibs": ["future"]}
+{"text": "1.2 Diversity in the Living World
+If you look around you will see a large variety of living organisms, be it potted plants, insects, birds, your pets or other animals and plants.", "fibs": ["Diversity"]}
+{"text": "There are also several organisms that you cannot see with your naked eye but they are all around you.", "fibs": ["eye"]}
+{"text": "If you were to increase the area that you make observations in, the range and variety of organisms that you see would increase.", "fibs": ["increase"]}
+{"text": "Obviously, if you were to visit a dense forest, you would probably see a much greater number and kinds of living organisms in it.", "fibs": ["visit"]}
+{"text": "Each different kind of plant, animal or organism that you see, represents a species.", "fibs": ["kind"]}
+{"text": "The number of species that are known and described range between 1.7-1.8 million.", "fibs": ["number"]}
+{"text": "This refers to biodiversity or the number and types of organisms present on earth.", "fibs": ["biodiversity"]}
+{"text": "As stated earlier, there are millions of plants and animals in the world; we know the plants and animals in our own area by their local names.", "fibs": ["world"]}
+{"text": "These local names would vary from place to place, even within a country.", "fibs": ["place"]}
+{"text": "Probably you would recognise the confusion that would be created if we did not find ways and means to talk to each other, to refer to organisms we are talking about.", "fibs": ["confusion"]}
+{"text": "Hence, there is a need to standardise the naming of living organisms such that a particular organism is known by the same name all over the world.", "fibs": ["need"]}
+{"text": "This process is called nomenclature.", "fibs": ["process"]}
+{"text": "Obviously, nomenclature or naming is only possible when the organism is described correctly and we know to what organism the name is attached to.", "fibs": ["nomenclature"]}
+{"text": "This is identification.", "fibs": ["identification"]}
+{"text": "In order to facilitate the study, number of scientists have established procedures to assign a scientific name to each known organism.", "fibs": ["order"]}
+{"text": "This is acceptable to biologists all over the world.", "fibs": ["world"]}
+{"text": "For plants, scientific names are based on agreed principles and criteria, which are provided in International Code for Botanical Nomenclature (ICBN).", "fibs": ["ICBN"]}
+{"text": "Animal taxonomists have evolved International Code of Zoological Nomenclature (ICZN).", "fibs": ["Animal"]}
+{"text": "The scientific names ensure that each organism has only one name.", "fibs": ["organism"]}
+{"text": "Description of any organism should enable the people (in any part of the world) to arrive at the same name.", "fibs": ["organism"]}
+{"text": "They also ensure that such a name has not been used for any other known organism.", "fibs": ["name"]}
+{"text": "Each name has two components – the Generic name and the specific epithet.", "fibs": ["name"]}
+{"text": "This system of providing a name with two components is called Binomial nomenclature.", "fibs": ["system"]}
+{"text": "This naming system given by Carolus Linnaeus is being practised by biologists all over the world.", "fibs": ["system"]}
+{"text": "This naming system using a two word format was found convenient.", "fibs": ["system"]}
+{"text": "Let us take the example of mango to understand the way of providing scientific names better.", "fibs": ["example"]}
+{"text": "The scientific name of mango is written as Mangifera indica.", "fibs": ["name"]}
+{"text": "Let us see how it is a binomial name.", "fibs": ["binomial"]}
+{"text": "In this name Mangifera represents the genus while indica, is a particular species, or a specific epithet.", "fibs": ["name"]}
+{"text": "Other universal rules of nomenclature are as follows:
+1.", "fibs": ["nomenclature"]}
+{"text": "They are Latinised or derived from Latin irrespective of their origin.", "fibs": ["origin"]}
+{"text": "The first word in a biological name represents the genus while the second component denotes the specific epithet.", "fibs": ["word"]}
+{"text": "Both the words in a biological name, when handwritten, are separately underlined, or printed in italics to indicate their Latin origin.", "fibs": ["name"]}
+{"text": "The first word denoting the genus starts with a capital letter while the specific epithet starts with a small letter.", "fibs": ["word"]}
+{"text": "It can be illustrated with the example of Mangifera indica.", "fibs": ["example"]}
+{"text": "Name of the author appears after the specific epithet, i.e., at the end of the biological name and is written in an abbreviated form, e.g., Mangifera indica Linn.", "fibs": ["Name"]}
+{"text": "It indicates that this species was first described by Linnaeus.", "fibs": ["species"]}
+{"text": "Since it is nearly impossible to study all the living organisms, it is necessary to devise some means to make this possible.", "fibs": ["study"]}
+{"text": "This process is classification.", "fibs": ["process"]}
+{"text": "Classification is the process by which anything is grouped into convenient categories based on some easily observable characters.", "fibs": ["Classification"]}
+{"text": "For example, we easily recognise groups such as plants or animals or dogs, cats or insects.", "fibs": ["example"]}
+{"text": "The moment we use any of these terms, we associate certain characters with the organism in that group.", "fibs": ["moment"]}
+{"text": "What image do you see when you think of a dog ?", "fibs": ["image"]}
+{"text": "Obviously, each one of us will see ‘dogs’ and not ‘cats’.", "fibs": ["‘"]}
+{"text": "Now, if we were to think of ‘Alsatians’ we know what we are talking about.", "fibs": ["‘"]}
+{"text": "Similarly, suppose we were to say ‘mammals’, you would, of course, think of animals with external ears and body hair.", "fibs": ["‘"]}
+{"text": "Likewise, in plants, if we try to talk of ‘Wheat’, the picture in each of our minds will be of wheat plants, not of rice or any other plant.", "fibs": ["‘"]}
+{"text": "Hence, all these - ‘Dogs’, ‘Cats’, ‘Mammals’, ‘Wheat’, ‘Rice’, ‘Plants’, ‘Animals’, etc., are convenient categories we use to study organisms.", "fibs": ["‘"]}
+{"text": "The scientific term for these categories is taxa.", "fibs": ["term"]}
+{"text": "Here you must recognise that taxa can indicate categories at very different levels.", "fibs": ["taxa"]}
+{"text": "‘Plants’ – also form a taxa.", "fibs": ["‘"]}
+{"text": "‘Wheat’ is also a taxa.", "fibs": ["‘"]}
+{"text": "Similarly, ‘animals’, ‘mammals’, ‘dogs’ are all taxa – but you know that a dog is a mammal and mammals are animals.", "fibs": ["‘"]}
+{"text": "Therefore, ‘animals’, ‘mammals’ and ‘dogs’ represent taxa at different levels.", "fibs": ["‘"]}
+{"text": "Hence, based on characteristics, all living organisms can be classified into different taxa.", "fibs": ["taxa"]}
+{"text": "This process of classification is taxonomy.", "fibs": ["process"]}
+{"text": "External and internal structure, along with the structure of cell, development process and ecological information of organisms are essential and form the basis of modern taxonomic studies.", "fibs": ["structure"]}
+{"text": "Hence, characterisation, identification, classification and nomenclature are the processes that are basic to taxonomy.", "fibs": ["characterisation"]}
+{"text": "Taxonomy is not something new.", "fibs": ["something"]}
+{"text": "Human beings have always been interested in knowing more and more about the various kinds of organisms, particularly with reference to their own use.", "fibs": ["reference"]}
+{"text": "In early days, human beings needed to find sources for their basic needs of food, clothing and shelter.", "fibs": ["food"]}
+{"text": "Hence, the earliest classifications were based on the ‘uses’ of various organisms.", "fibs": ["‘"]}
+{"text": "This branch of study was referred to as systematics.", "fibs": ["branch"]}
+{"text": "The word systematics is derived from the Latin word ‘systema’ which means systematic arrangement of organisms.", "fibs": ["word"]}
+{"text": "Linnaeus used Systema Naturae as the title of his publication.", "fibs": ["title"]}
+{"text": "The scope of systematics was later enlarged to include identification, nomenclature and classification.", "fibs": ["scope"]}
+{"text": "Systematics takes into account evolutionary relationships between organisms.", "fibs": ["account"]}
+{"text": "1.3 Taxonomic Categories
+Classification is not a single step process but involves hierarchy of steps in which each step represents a rank or category.", "fibs": ["step"]}
+{"text": "Since the category is a part of overall taxonomic arrangement, it is called the taxonomic category and all categories together constitute the taxonomic hierarchy.", "fibs": ["category"]}
+{"text": "Each category, referred to as a unit of classification, in fact, represents a rank and is commonly termed as taxon (pl.", "fibs": ["category"]}
+{"text": ": taxa).", "fibs": ["taxa"]}
+{"text": "Taxonomic categories and hierarchy can be illustrated by an example.", "fibs": ["hierarchy"]}
+{"text": "Insects represent a group of organisms sharing common features like three pairs of jointed legs.", "fibs": ["group"]}
+{"text": "It means insects are recognisable concrete objects which can be classified, and thus were given a rank or category.", "fibs": ["rank"]}
+{"text": "Can you name other such groups of organisms?", "fibs": ["name"]}
+{"text": "Remember, groups represent category.", "fibs": ["category"]}
+{"text": "Category further denotes rank.", "fibs": ["Category"]}
+{"text": "Each rank or taxon, in fact, represents a unit of classification.", "fibs": ["rank"]}
+{"text": "These taxonomic groups/categories are distinct biological entities and not merely morphological aggregates.", "fibs": ["taxonomic"]}
+{"text": "Taxonomical studies of all known organisms have led to the development of common categories such as kingdom, phylum or division (for plants), class, order, family, genus and species.", "fibs": ["development"]}
+{"text": "All organisms, including those in the plant and animal kingdoms have species as the lowest category.", "fibs": ["plant"]}
+{"text": "Now the question you may ask is, how to place an organism in various categories?", "fibs": ["question"]}
+{"text": "The basic requirement is the knowledge of characters of an individual or group of organisms.", "fibs": ["requirement"]}
+{"text": "This helps in identifying similarities and dissimilarities among the individuals of the same kind of organisms as well as of other kinds of organisms.", "fibs": ["kind"]}
+{"text": "1.3.1 Species
+Taxonomic studies consider a group of individual organisms with fundamental similarities as a species.", "fibs": ["group"]}
+{"text": "One should be able to distinguish one species from the other closely related species based on the distinct morphological differences.", "fibs": ["species"]}
+{"text": "Let us consider Mangifera indica, Solanum tuberosum (potato) and Panthera leo (lion).", "fibs": ["indica"]}
+{"text": "All the three names, indica, tuberosum and leo, represent the specific epithets, while the first words Mangifera, Solanum and Panthera are genera and represents another higher level of taxon or category.", "fibs": ["indica"]}
+{"text": "Each genus may have one or more than one specific epithets representing different organisms, but having morphological similarities.", "fibs": ["genus"]}
+{"text": "For example, Panthera has another specific epithet called tigris and Solanum includes species like nigrum and melongena.", "fibs": ["example"]}
+{"text": "Human beings belong to the species sapiens which is grouped in the genus Homo.", "fibs": ["species"]}
+{"text": "The scientific name thus, for human being, is written as Homo sapiens.", "fibs": ["name"]}
+{"text": "1.3.2 Genus
+Genus comprises a group of related species which has more characters in common in comparison to species of other genera.", "fibs": ["group"]}
+{"text": "We can say that genera are aggregates of closely related species.", "fibs": ["genera"]}
+{"text": "For example, potato and brinjal are two different species but both belong to the genus Solanum.", "fibs": ["example"]}
+{"text": "Lion (Panthera leo), leopard (P. pardus) and tiger (P. tigris) with several common features, are all species of the genus Panthera.", "fibs": ["leo"]}
+{"text": "This genus differs from another genus Felis which includes cats.", "fibs": ["genus"]}
+{"text": "1.3.3 Family
+The next category, Family, has a group of related genera with still less number of similarities as compared to genus and species.", "fibs": ["category"]}
+{"text": "Families are characterised on the basis of both vegetative and reproductive features of plant species.", "fibs": ["basis"]}
+{"text": "Among plants for example, three different genera Solanum, Petunia and Datura are placed in the family Solanaceae.", "fibs": ["example"]}
+{"text": "Among animals for example, genus Panthera, comprising lion, tiger, leopard is put along with genus, Felis (cats) in the family Felidae.", "fibs": ["example"]}
+{"text": "Similarly, if you observe the features of a cat and a dog, you will find some similarities and some differences as well.", "fibs": ["cat"]}
+{"text": "1.3.4 Order
+You have seen earlier that categories like species, genus and families are based on a number of similar characters.", "fibs": ["species"]}
+{"text": "Generally, order and other higher taxonomic categories are identified based on the aggregates of characters.", "fibs": ["order"]}
+{"text": "Order being a higher category, is the assemblage of families which exhibit a few similar characters.", "fibs": ["category"]}
+{"text": "The similar characters are less in number as compared to different genera included in a family.", "fibs": ["number"]}
+{"text": "Plant families like Convolvulaceae, Solanaceae are included in the order Polymoniales mainly based on the floral characters.", "fibs": ["order"]}
+{"text": "The animal order, Carnivora, includes families like Felidae and Canidae.", "fibs": ["animal"]}
+{"text": "Figure 1.1 Taxonomic categories showing hierarchial arrangement in ascending order
+
+
+1.3.5 Class
+This category includes related orders.", "fibs": ["Figure"]}
+{"text": "For example, order Primata comprising monkey, gorilla and gibbon is placed in class Mammalia along with order Carnivora that includes animals like tiger, cat and dog.", "fibs": ["example"]}
+{"text": "1.3.6 Phylum
+Classes comprising animals like fishes, amphibians, reptiles, birds along with mammals constitute the next higher category called Phylum.", "fibs": ["category"]}
+{"text": "All these, based on the common features like presence of notochord and dorsal hollow neural system, are included in phylum Chordata.", "fibs": ["presence"]}
+{"text": "In case of plants, classes with a few similar characters are assigned to a higher category called Division.", "fibs": ["case"]}
+{"text": "1.3.7 Kingdom
+All animals belonging to various phyla are assigned to the highest category called Kingdom Animalia in the classification system of animals.", "fibs": ["phyla"]}
+{"text": "The Kingdom Plantae, on the other hand, is distinct, and comprises all plants from various divisions.", "fibs": ["hand"]}
+{"text": "Henceforth, we will refer to these two groups as animal and plant kingdoms.", "fibs": ["animal"]}
+{"text": "The taxonomic categories from species to kingdom have been shown in ascending order starting with species in Figure 1.1.", "fibs": ["taxonomic"]}
+{"text": "However, taxonomists have also developed sub-categories in this hierarchy to facilitate more sound and scientific placement of various taxa.", "fibs": ["hierarchy"]}
+{"text": "Look at the hierarchy in Figure 1.1.", "fibs": ["hierarchy"]}
+{"text": "Can you recall the basis of arrangement?", "fibs": ["basis"]}
+{"text": "Say, for example, as we go higher from species to kingdom, the number of common characteristics goes on decreasing.", "fibs": ["example"]}
+{"text": "Lower the taxa, more are the characteristics that the members within the taxon share.", "fibs": ["taxa"]}
+{"text": "Higher the category, greater is the difficulty of determining the relationship to other taxa at the same level.", "fibs": ["category"]}
+{"text": "Hence, the problem of classification becomes more complex.", "fibs": ["problem"]}
+{"text": "Table 1.1 indicates the taxonomic categories to which some common organisms like housefly, man, mango and wheat belong.", "fibs": ["Table"]}
+{"text": "TABLE 1.1  Organisms with their Taxonomic Categories
+
+
+
+
+
+
+
+
+
+1.4 Taxonomical Aids
+
+Taxonomic studies of various species of plants, animals and other organisms are useful in agriculture, forestry, industry and in general in knowing our bio-resources and their diversity.", "fibs": ["TABLE"]}
+{"text": "These studies would require correct classification and identification of organisms.", "fibs": ["classification"]}
+{"text": "Identification of organisms requires intensive laboratory and field studies.", "fibs": ["laboratory"]}
+{"text": "The collection of actual specimens of plant and animal species is essential and is the prime source of taxonomic studies.", "fibs": ["collection"]}
+{"text": "These are also fundamental to studies and essential for training in systematics.", "fibs": ["training"]}
+{"text": "It is used for classification of an organism, and the information gathered is also stored along with the specimens.", "fibs": ["classification"]}
+{"text": "In some cases the specimen is preserved for future studies.", "fibs": ["specimen"]}
+{"text": "Biologists have established certain procedures and techniques to store and preserve the information as well as the specimens.", "fibs": ["store"]}
+{"text": "Some of these are explained to help you understand the usage of these aids.", "fibs": ["usage"]}
+{"text": "1.4.1 Herbarium
+Herbarium is a store house of collected plant specimens that are dried, pressed and preserved on sheets.", "fibs": ["store"]}
+{"text": "Further, these sheets are arranged according to a universally accepted system of classification.", "fibs": ["system"]}
+{"text": "These specimens, along with their descriptions on herbarium sheets, become a store house or repository for future use (Figure 1.2).", "fibs": ["herbarium"]}
+{"text": "The herbarium sheets also carry a label providing information about date and place of collection, English, local and botanical names, family, collector’s name, etc.", "fibs": ["herbarium"]}
+{"text": "Herbaria also serve as quick referral systems in taxonomical studies.", "fibs": ["referral"]}
+{"text": "Figure 1.2 Herbarium showing stored specimens
+
+
+1.4.2 Botanical Gardens
+These specialised gardens have collections of living plants for reference.", "fibs": ["Figure"]}
+{"text": "Plant species in these gardens are grown for identification purposes and each plant is labelled indicating its botanical/scientific name and its family.", "fibs": ["species"]}
+{"text": "1.4.3 Museum
+Biological museums are generally set up in educational institutes such as schools and colleges.", "fibs": ["institutes"]}
+{"text": "Museums have collections of preserved plant and animal specimens for study and reference.", "fibs": ["plant"]}
+{"text": "Plant and animal specimens may also be preserved as dry specimens.", "fibs": ["animal"]}
+{"text": "Insects are preserved in insect boxes after collecting, killing and pinning.", "fibs": ["insect"]}
+{"text": "1.4.4 Zoological Parks
+These are the places where wild animals are kept in protected environments under human care and which enable us to learn about their food habits and behaviour.", "fibs": ["care"]}
+{"text": "All animals in a zoo are provided, as far as possible, the conditions similar to their natural habitats.", "fibs": ["zoo"]}
+{"text": "Children love visiting these parks, commonly called Zoos (Figure 1.3).", "fibs": ["love"]}
+{"text": "Figure 1.3 Pictures showing animals in different zoological parks of India
+
+
+1.4.5 Key
+Key is another taxonomical aid used for identification of plants and animals based on the similarities and dissimilarities.", "fibs": ["Figure"]}
+{"text": "The keys are based on the contrasting characters generally in a pair called couplet.", "fibs": ["pair"]}
+{"text": "It represents the choice made between two opposite options.", "fibs": ["choice"]}
+{"text": "This results in acceptance of only one and rejection of the other.", "fibs": ["acceptance"]}
+{"text": "Each statement in the key is called a lead.", "fibs": ["statement"]}
+{"text": "Separate taxonomic keys are required for each taxonomic category such as family, genus and species for identification purposes.", "fibs": ["taxonomic"]}
+{"text": "Keys are generally analytical in nature.", "fibs": ["nature"]}
+{"text": "Flora, manuals, monographs and catalogues are some other means of recording descriptions.", "fibs": ["recording"]}
+{"text": "They also help in correct identification.", "fibs": ["identification"]}
+{"text": "Flora contains the actual account of habitat and distribution of plants of a given area.", "fibs": ["account"]}
+{"text": "These provide the index to the plant species found in a particular area.", "fibs": ["index"]}
+{"text": "Manuals are useful in providing information for identification of names of species found in an area.", "fibs": ["information"]}
+{"text": "Monographs contain information on any one taxon.", "fibs": ["information"]}
+{"text": "Summary
+The living world is rich in variety.", "fibs": ["world"]}
+{"text": "Millions of plants and animals have been identified and described but a large number still remains unknown.", "fibs": ["number"]}
+{"text": "The very range of organisms in terms of size, colour, habitat, physiological and morphological features make us seek the defining characteristics of living organisms.", "fibs": ["range"]}
+{"text": "In order to facilitate the study of kinds and diversity of organisms, biologists have evolved certain rules and principles for identification, nomenclature and classification of organisms.", "fibs": ["order"]}
+{"text": "The branch of knowledge dealing with these aspects is referred to as taxonomy.", "fibs": ["branch"]}
+{"text": "The taxonomic studies of various species of plants and animals are useful in agriculture, forestry, industry and in general for knowing our bio-resources and their diversity.", "fibs": ["taxonomic"]}
+{"text": "The basics of taxonomy like identification, naming and classification of organisms are universally evolved under international codes.", "fibs": ["taxonomy"]}
+{"text": "Based on the resemblances and distinct differences, each organism is identified and assigned a correct scientific/biological name comprising two words as per the binomial system of nomenclature.", "fibs": ["organism"]}
+{"text": "An organism represents/occupies a place or position in the system of classification.", "fibs": ["organism"]}
+{"text": "There are many categories/ranks and are generally referred to as taxonomic categories or taxa.", "fibs": ["taxonomic"]}
+{"text": "All the categories constitute a taxonomic hierarchy.", "fibs": ["taxonomic"]}
+{"text": "Taxonomists have developed a variety of taxonomic aids to facilitate identification, naming and classification of organisms.", "fibs": ["variety"]}
+{"text": "These studies are carried out from the actual specimens which are collected from the field and preserved as referrals in the form of herbaria, museums and in botanical gardens and zoological parks.", "fibs": ["field"]}
+{"text": "It requires special techniques for collection and preservation of specimens in herbaria and museums.", "fibs": ["collection"]}
+{"text": "Live specimens, on the other hand, of plants and animals, are found in botanical gardens or in zoological parks.", "fibs": ["hand"]}
+{"text": "Taxonomists also prepare and disseminate information through manuals and monographs for further taxonomic studies.", "fibs": ["information"]}
+{"text": "Taxonomic keys are tools that help in identification based on characteristics.", "fibs": ["identification"]}
+{"text": "Why are the classification systems changing every now and then?", "fibs": ["classification"]}
+{"text": "What do we learn from identification of individuals and populations?", "fibs": ["identification"]}
+{"text": "Given below is the scientific name of Mango.", "fibs": ["name"]}
+{"text": "Identify the correctly written name.", "fibs": ["name"]}
+{"text": "Mangifera Indica
+Mangifera indica
+6.", "fibs": ["indica"]}
+{"text": "Define a taxon.", "fibs": ["taxon"]}
+{"text": "Give some examples of taxa at different hierarchical levels.", "fibs": ["taxa"]}
+{"text": "Can you identify the correct sequence of taxonomical categories?", "fibs": ["sequence"]}
+{"text": "(a) Species  Order  Phylum  Kingdom
+(b) Genus  Species  Order  Kingdom
+(c) Species  Genus  Order  Phylum
+8.", "fibs": ["b"]}
+{"text": "Try to collect all the currently accepted meanings for the word ‘species’.", "fibs": ["word"]}
+{"text": "Discuss with your teacher the meaning of species in case of higher plants and animals on one hand, and bacteria on the other hand.", "fibs": ["teacher"]}
+{"text": "Define and understand the following terms:
+(i) Phylum   (ii) Class   (iii) Family  (iv) Order  (v) Genus
+10.", "fibs": ["ii"]}
+{"text": "How is a key helpful in the identification and classification of an organism?", "fibs": ["identification"]}
+{"text": "Illustrate the taxonomical hierarchy with suitable examples of a plant and an animal.", "fibs": ["hierarchy"]}
+{"text": "The Living World
+
+
+
+
+
+
+
+Table of Contents
+
+Unit 1
+
+DIVERSITY IN THE LIVING WORLD
+
+Chapter 1
+Chapter 2
+Chapter 3
+Chapter 4
+Chapter 1
+
+The Living World
+
+1.1 What is ‘Living’?", "fibs": ["Table"]}
+{"text": "1.2 Diversity in the Living World
+1.3 Taxonomic Categories
+1.4 Taxonomical Aids
+1.1 What is ‘Living’?", "fibs": ["Diversity"]}
+{"text": "1.2 Diversity in the Living World
+1.3 Taxonomic Categories
+1.3.1 Species
+1.3.2 Genus
+1.3.3 Family
+1.3.4 Order
+1.3.5 Class
+1.3.6 Phylum
+1.3.7 Kingdom
+1.4 Taxonomical Aids
+1.4.1 Herbarium
+1.4.2 Botanical Gardens
+1.4.3 Museum
+1.4.4 Zoological Parks
+1.4.5 Key
+
+
+Summary
+Exercises
+
+
+
+
+
+Landmarks
+
+Table of Contents", "fibs": ["Diversity"]}
+
