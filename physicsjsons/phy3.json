@@ -1,0 +1,925 @@
+Analyzing input.txt
+{"text": "
+
+
+
+ Chapter Three 
+
+
+Motion in a Straight Line 
+
+
+
+
+
+
+
+3.1	Introduction
+3.2	Position, path length and displacement
+3.3	Average velocity and average speed
+3.4	Instantaneous velocity and speed
+3.5	Acceleration
+3.6	Kinematic equations for uniformly accelerated motion
+3.7 Relative velocity
+Summary
+Points to ponder
+Exercises
+Additional exercises
+
+Appendix 3.1
+
+
+3.1 Introduction
+Motion is common to everything in the universe.", "fibs": ["Chapter"]}
+{"text": "We walk, run and ride a bicycle.", "fibs": ["bicycle"]}
+{"text": "Even when we are sleeping, air moves into and out of our lungs and blood flows in arteries and veins.", "fibs": ["air"]}
+{"text": "We see leaves falling from trees and water flowing down a dam.", "fibs": ["water"]}
+{"text": "Automobiles and planes carry people from one place to the other.", "fibs": ["place"]}
+{"text": "The earth rotates once every twenty-four hours and revolves round the sun once in a year.", "fibs": ["earth"]}
+{"text": "The sun itself is in motion in the Milky Way, which is again moving within its local group of galaxies.", "fibs": ["sun"]}
+{"text": "Motion is change in position of an object with time.", "fibs": ["change"]}
+{"text": "How does the position change with time ?", "fibs": ["position"]}
+{"text": "In this chapter, we shall learn how to describe motion.", "fibs": ["chapter"]}
+{"text": "For this, we develop the concepts of velocity and acceleration.", "fibs": ["velocity"]}
+{"text": "We shall confine ourselves to the study of motion of objects along a straight line, also known as rectilinear motion.", "fibs": ["study"]}
+{"text": "For the case of rectilinear motion with uniform acceleration, a set of simple equations can be obtained.", "fibs": ["case"]}
+{"text": "Finally, to understand the relative nature of motion, we introduce the concept of relative velocity.", "fibs": ["nature"]}
+{"text": "In our discussions, we shall treat the objects in motion as point objects.", "fibs": ["motion"]}
+{"text": "This approximation is valid so far as the size of the object is much smaller than the distance it moves in a reasonable duration of time.", "fibs": ["approximation"]}
+{"text": "In a good number of situations in real-life, the size of objects can be neglected and they can be considered as point-like objects without much error.", "fibs": ["number"]}
+{"text": "In Kinematics, we study ways to describe motion without going into the causes of motion.", "fibs": ["study"]}
+{"text": "What causes motion described in this chapter and the next chapter forms the subject matter of Chapter 5.", "fibs": ["motion"]}
+{"text": "3.2  Position, path length and displacement 
+
+Earlier you learnt that motion is change in position of an object with time.", "fibs": ["Position"]}
+{"text": "In order to specify position, we need to use a reference point and a set of axes.", "fibs": ["order"]}
+{"text": "It is convenient to choose a rectangular coordinate system consisting of three mutually perpenducular axes, labelled  X-, Y-, and Z- axes.", "fibs": ["system"]}
+{"text": "The point of intersection of these three axes is called origin (O) and serves as the reference point.", "fibs": ["point"]}
+{"text": "The coordinates (x, y. z) of an object describe the position of the object with respect to this coordinate system.", "fibs": ["x"]}
+{"text": "To measure time, we position a clock in this system.", "fibs": ["measure"]}
+{"text": "This coordinate system along with a clock constitutes a frame of reference.", "fibs": ["system"]}
+{"text": "If one or more coordinates of an object change with time, we say that the object is in motion.", "fibs": ["object"]}
+{"text": "Otherwise, the object is said to be at rest with respect to this frame of reference.", "fibs": ["object"]}
+{"text": "The choice of a set of axes in a frame of reference depends upon the situation.", "fibs": ["choice"]}
+{"text": "For example, for describing motion in one dimension, we need only one axis.", "fibs": ["example"]}
+{"text": "To describe motion in two/three dimensions, we need a set of two/three axes.", "fibs": ["motion"]}
+{"text": "Description of an event depends on the frame of reference chosen for the description.", "fibs": ["event"]}
+{"text": "For example, when you say that a car is moving on a road, you are describing the car with respect to a frame of reference attached to you or to the ground.", "fibs": ["example"]}
+{"text": "But with respect to a frame of reference attached with a person sitting in the car, the car is at rest.", "fibs": ["respect"]}
+{"text": "To describe motion along a straight line, we can choose an axis, say X-axis, so that it coincides with the path of the object.", "fibs": ["motion"]}
+{"text": "We then measure the position of the object with reference to a conveniently chosen origin, say O, as shown in Fig.", "fibs": ["measure"]}
+{"text": "Positions to the right of O are taken as positive and to the left of O, as negative.", "fibs": ["right"]}
+{"text": "Following this convention, the position coordinates of point P and Q in Fig.", "fibs": ["convention"]}
+{"text": "3.1 are +360 m and +240 m. Similarly, the position coordinate of point R is –120 m.
+
+Fig.", "fibs": ["m."]}
+{"text": "3.1 x-axis, origin and positions of a car at different times.", "fibs": ["origin"]}
+{"text": "Path length
+Consider the motion of a car along a straight line.", "fibs": ["length"]}
+{"text": "We choose the x-axis such that it coincides with the path of the car’s motion and origin of the axis as the point from where the car started moving, i.e.", "fibs": ["path"]}
+{"text": "the car was at x = 0 at t = 0 (Fig.3.1).", "fibs": ["car"]}
+{"text": "Let P, Q and R represent the positions of the car at different instants of time.", "fibs": ["P"]}
+{"text": "Consider two cases of motion.", "fibs": ["motion"]}
+{"text": "In the first case, the car moves from O to P.  Then the distance moved by the car is OP = +360 m. This distance is called the path length  traversed by the car.", "fibs": ["case"]}
+{"text": "In the second case, the car moves from O to P and then moves back from P to Q.", "fibs": ["case"]}
+{"text": "During this course of motion, the path length traversed is OP + PQ = + 360 m + (+120 m) = + 480 m.  Path length is a scalar quantity — a quantity that has a magnitude only and no direction (see Chapter 4).", "fibs": ["course"]}
+{"text": "Displacement
+It is useful to define another quantity displacement  as  the  change  in position.", "fibs": ["Displacement"]}
+{"text": "Let x1 and x2 be the positions of an object at time t1 and t2.", "fibs": ["x1"]}
+{"text": "Then its displacement, denoted by ∆x, in time ∆t = (t2 - t1), is given by the difference between the final and initial positions :
+ ∆x = x2 – x1
+(We use the Greek letter delta (∆) to denote a change in a quantity.)", "fibs": ["displacement"]}
+{"text": "If   x2 > x1, ∆x is positive; and if x2 < x1, ∆x is negative.", "fibs": ["x2"]}
+{"text": "Displacement has both magnitude and direction.", "fibs": ["Displacement"]}
+{"text": "You will read about vectors in the next chapter.", "fibs": ["chapter"]}
+{"text": "Presently, we are dealing with motion along a straight line (also called rectilinear motion) only.", "fibs": ["motion"]}
+{"text": "In one-dimensional motion, there are only two directions (backward and forward, upward and downward) in which an object can move, and these two directions can easily be specified by + and – signs.", "fibs": ["motion"]}
+{"text": "For example, displacement of the car in moving from O to P is :
+ ∆x = x2 – x1 = (+360 m) – 0 m = +360 m
+
+
+
+The displacement has a magnitude of 360 m and is directed in the positive x direction as indicated by the + sign.", "fibs": ["example"]}
+{"text": "Similarly, the displacement of the car from P to Q is 240 m – 360 m = – 120 m. The negative sign indicates the direction of displacement.", "fibs": ["displacement"]}
+{"text": "Thus, it is not necessary to use vector notation for discussing motion of objects in one-dimension.", "fibs": ["use"]}
+{"text": "The magnitude of displacement may or may not be equal to the path length traversed by an object.", "fibs": ["magnitude"]}
+{"text": "For example, for motion of the car from O to P, the path length is  +360 m and the displacement is +360 m. In this case, the magnitude of displacement (360 m) is equal to the path length (360 m).", "fibs": ["example"]}
+{"text": "But consider the motion of the car from O to P and back to Q.", "fibs": ["motion"]}
+{"text": "In this case, the path length = (+360 m) + (+120 m) = + 480 m. However, the displacement = (+240 m) – (0 m) =  + 240 m.  Thus, the magnitude of displacement (240 m) is not equal to the path length (480 m).", "fibs": ["case"]}
+{"text": "The magnitude of the displacement for a course of motion may be zero but the corresponding path length is not zero.", "fibs": ["magnitude"]}
+{"text": "For example, if the car starts from O, goes to P and then returns to O, the final position coincides with the initial position and the displacement is zero.", "fibs": ["example"]}
+{"text": "However, the path length of this journey is OP + PO = 360 m +  360 m = 720 m.
+	Motion of an object can be represented by a position-time graph as you have already learnt about it.", "fibs": ["path"]}
+{"text": "Such a graph is a powerful tool to represent and analyse different aspects of motion of an object.", "fibs": ["graph"]}
+{"text": "For motion along a straight line, say X-axis, only x-coordinate varies with time and we have an x-t graph.", "fibs": ["motion"]}
+{"text": "Let us first consider the simple case in which an object is stationary, e.g.", "fibs": ["case"]}
+{"text": "a car standing still at x = 40 m.  The position-time graph is a straight line parallel to the time axis, as shown in Fig.", "fibs": ["car"]}
+{"text": "3.2(a).", "fibs": ["3.2(a"]}
+{"text": "Fig.", "fibs": ["Fig"]}
+{"text": "3.2  Position-time graph of (a) stationary object, and (b) an object in uniform motion.", "fibs": ["graph"]}
+{"text": "If an object moving along the straight line  covers equal distances in equal intervals of time, it is said to be in uniform motion along a straight line.", "fibs": ["object"]}
+{"text": "Fig.", "fibs": ["Fig"]}
+{"text": "3.2(b) shows the position-time graph of such a motion.", "fibs": ["3.2(b"]}
+{"text": "Fig.", "fibs": ["Fig"]}
+{"text": "3.3 Position-time graph of a car.", "fibs": ["graph"]}
+{"text": "Now, let us consider the motion of a car that starts from rest at time t = 0 s from the origin O and picks up speed till t = 10 s and thereafter moves with uniform speed till t = 18 s. Then the brakes are applied and the car stops at t = 20 s and x = 296 m. The position-time graph for this case is shown in Fig.", "fibs": ["motion"]}
+{"text": "We shall refer to this graph in our discussion in the following sections.", "fibs": ["graph"]}
+{"text": "3.3  Average velocity and average speed
+When an object is in motion, its position changes with time.", "fibs": ["velocity"]}
+{"text": "But how fast is the position changing with time and in what direction?", "fibs": ["position"]}
+{"text": "To describe this, we define the quantity average velocity.", "fibs": ["quantity"]}
+{"text": "Average velocity is defined as the change in position or displacement (∆x) divided by the time intervals (∆t), in which the displacement occurs :
+ 
+(3.1)
+
+where x2  and x1 are the positions of the object at time t2and  t1, respectively.", "fibs": ["velocity"]}
+{"text": "Here the bar over the symbol for velocity is a standard notation used to indicate an average quantity.", "fibs": ["bar"]}
+{"text": "The SI unit for velocity is m/s or m s–1, although km h–1 is used in many everyday applications.", "fibs": ["SI"]}
+{"text": "Like displacement, average velocity is also a vector quantity.", "fibs": ["displacement"]}
+{"text": "But as explained earlier, for motion in a straight line, the directional aspect of the vector can be taken care of by + and – signs and we do not have to use the vector notation for velocity in this chapter.", "fibs": ["motion"]}
+{"text": "Fig.", "fibs": ["Fig"]}
+{"text": "3.4 The average velocity is the slope of line P1P2.", "fibs": ["velocity"]}
+{"text": "Consider the motion of the car in Fig.", "fibs": ["motion"]}
+{"text": "The portion of the x-t graph between t = 0 s and t = 8 s is blown up and shown in Fig.", "fibs": ["portion"]}
+{"text": "As seen from the plot, the average velocity of the car between time t = 5 s and t = 7 s is : 
+Geometrically, this is the slope of the straight line P1P2 connecting the initial position P1 to the final position P2  as shown in Fig.", "fibs": ["plot"]}
+{"text": "The average velocity can be positive or negative depending upon the sign of the displacement.", "fibs": ["velocity"]}
+{"text": "It is zero if the displacement is zero.", "fibs": ["displacement"]}
+{"text": "Fig.", "fibs": ["Fig"]}
+{"text": "3.5 shows the x-t graphs for an object, moving with positive velocity (Fig.", "fibs": ["object"]}
+{"text": "3.5a), moving with negative velocity (Fig.", "fibs": ["3.5a"]}
+{"text": "3.5b)  and at rest (Fig.", "fibs": ["3.5b"]}
+{"text": "3.5c).", "fibs": ["3.5c"]}
+{"text": "Fig.", "fibs": ["Fig"]}
+{"text": "3.5 Position-time graph for an object (a) moving with positive velocity, (b) moving with negative velocity, and (c) at rest.", "fibs": ["graph"]}
+{"text": "Average velocity as defined above involves only the displacement of the object.", "fibs": ["velocity"]}
+{"text": "We have seen earlier that the magnitude of displacement may be different from the actual path length.", "fibs": ["magnitude"]}
+{"text": "To describe the rate of motion over the actual path, we introduce another quantity called average speed.", "fibs": ["rate"]}
+{"text": "Average speed is defined as the total path length travelled divided by the total time interval during which the motion has taken place :
+ 
+(3.2)
+
+Average speed has obviously the same unit       (m s–1) as that of velocity.", "fibs": ["speed"]}
+{"text": "But it does not tell us in what direction an object is moving.", "fibs": ["direction"]}
+{"text": "Thus, it is always positive (in contrast to the average velocity which can be positive or negative).", "fibs": ["contrast"]}
+{"text": "If the motion of an object is along a straight line and in the same direction, the magnitude of displacement is equal to the total path length.", "fibs": ["motion"]}
+{"text": "In that case, the magnitude of average velocity is equal to the average speed.", "fibs": ["case"]}
+{"text": "This is not always the case, as you will see in the following example.", "fibs": ["case"]}
+{"text": "Example 3.1 A car is moving along a straight line, say OP in Fig.", "fibs": ["Example"]}
+{"text": "It moves from O to P in 18 s and returns from P to Q in 6.0 s.  What are the average velocity and average speed of the car in going (a) from O to P ?", "fibs": ["P"]}
+{"text": "and (b) from O to P and back to Q ?", "fibs": ["b"]}
+{"text": "Answer  (a)
+ 
+ 
+ 
+  
+Thus, in this case the average speed is equal to the magnitude of the average velocity.", "fibs": ["Answer"]}
+{"text": "(b) In this case,
+Thus, in this case the average speed is not equal to the magnitude of the average velocity.", "fibs": ["b"]}
+{"text": "This happens because the motion here involves change in direction so that the path length is greater than the magnitude of displacement.", "fibs": ["motion"]}
+{"text": "This shows that speed is, in general, greater than the magnitude of the velocity.", "fibs": ["speed"]}
+{"text": "If the car in Example 3.1 moves from O to P and comes back to O in the same time interval, average speed is 20 m/s but the average velocity is zero !", "fibs": ["car"]}
+{"text": "3.4  Instantaneous velocity and speed
+The average velocity tells us how fast an object has been moving over a given time interval but does not tell us how fast it moves at different instants of time during that interval.", "fibs": ["velocity"]}
+{"text": "For this, we define instantaneous velocity or simply velocity v at an instant t.
+	The velocity at an instant is defined as the limit of the average velocity as the time interval ∆t becomes infinitesimally small.", "fibs": ["velocity"]}
+{"text": "In other words, 
+ 
+(3.3a)
+
+ 
+(3.3b)
+
+where the symbol stands for the operation of taking limit as  ∆t → 0 of the quantity on its right.", "fibs": ["3.3a"]}
+{"text": "In the language of calculus, the quantity on the right hand side of Eq.", "fibs": ["language"]}
+{"text": "(3.3a) is the differential coefficient of x with respect to t and is denoted by   (see Appendix 3.1).", "fibs": ["3.3a"]}
+{"text": "It is the rate of change of position with respect to time, at that instant.", "fibs": ["rate"]}
+{"text": "We can use Eq.", "fibs": ["use"]}
+{"text": "(3.3a) for obtaining the value of velocity at an instant either graphically or numerically.", "fibs": ["3.3a"]}
+{"text": "Suppose that we want to obtain graphically the value of velocity at time  t = 4 s  (point P) for the motion of the car represented in Fig.", "fibs": ["value"]}
+{"text": "The figure has been redrawn in Fig.3.6 choosing different scales to facilitate the calculation.", "fibs": ["figure"]}
+{"text": "Let us take ∆t = 2 s centred at              t = 4 s. Then, by the definition of the average velocity, the slope of line P1P2  ( Fig.", "fibs": ["∆t"]}
+{"text": "3.6) gives the value of average velocity over the interval   3 s to 5 s.  Now, we decrease the value of ∆t from 2 s to 1 s.  Then line P1P2 becomes Q1Q2   and its slope gives the value of the average velocity over the interval 3.5 s to 4.5 s. In the limit ∆t → 0, the line P1P2 becomes tangent to the position-time curve at the point P and the velocity at t = 4 s is given by the slope of the tangent at that point.", "fibs": ["value"]}
+{"text": "It is difficult to show this process graphically.", "fibs": ["show"]}
+{"text": "But if we use numerical method to obtain the value of the velocity, the meaning of the limiting process becomes clear.", "fibs": ["use"]}
+{"text": "For the graph shown in Fig.", "fibs": ["graph"]}
+{"text": "3.6, x = 0.08 t3.", "fibs": ["x"]}
+{"text": "Table 3.1 gives the value of ∆x/∆t calculated for ∆t equal to 2.0 s, 1.0 s, 0.5 s, 0.1 s and 0.01 s centred at t = 4.0 s. The second and third columns give the value of t1=   and  and the fourth and the fifth columns give the corresponding values of x, i.e.", "fibs": ["Table"]}
+{"text": "x (t1) = 0.08 t13 and x (t2) = 0.08 t23.", "fibs": ["x"]}
+{"text": "The sixth column lists the difference ∆x = x (t2) – x (t1) and the last column gives the ratio of ∆x and ∆t, i.e.", "fibs": ["column"]}
+{"text": "the average velocity corresponding to the value of ∆t listed in the first column.", "fibs": ["velocity"]}
+{"text": "Fig.", "fibs": ["Fig"]}
+{"text": "3.6 Determining velocity from position-time graph.", "fibs": ["velocity"]}
+{"text": "Velocity at t = 4 s is the slope of the tangent to the graph at that instant.", "fibs": ["Velocity"]}
+{"text": "We see from Table 3.1 that as we decrease the value of ∆t from 2.0 s to 0.010 s, the value of the average velocity approaches the limiting value 3.84 m s–1 which is the value of velocity at t = 4.0 s, i.e.", "fibs": ["Table"]}
+{"text": "the value of dx/dt at t = 4.0 s. In this manner, we can calculate velocity at each instant for motion of the car shown in Fig.", "fibs": ["value"]}
+{"text": "For this case, the variation of velocity with time is found to be as shown in Fig.", "fibs": ["case"]}
+{"text": "Table 3.1 Limiting value of ∆x/∆t at t = 4 s
+
+
+
+
+Fig.", "fibs": ["Table"]}
+{"text": "3.7 	Velocity–time graph corresponding to motion shown in Fig.", "fibs": ["Velocity–time"]}
+{"text": "The graphical method for the determination of the instantaneous velocity is always not a convenient method.", "fibs": ["method"]}
+{"text": "For this, we must carefully plot the position–time graph and calculate the value of average velocity as ∆t becomes smaller and smaller.", "fibs": ["plot"]}
+{"text": "It is easier to calculate the value of velocity at different instants if we have data of positions at different instants or exact expression for the position as a function of time.", "fibs": ["value"]}
+{"text": "Then, we calculate ∆x/∆t from the data for decreasing the value of ∆t and find the limiting value as we have done in Table 3.1 or use differential calculus for the given expression and calculate dx/dt at different instants as done in the following example.", "fibs": ["∆x/∆t"]}
+{"text": "Example 3.2    The position of an object moving along x-axis is given by   x = a + bt2  where  a = 8.5 m, b = 2.5 m s–2 and t is measured in seconds.", "fibs": ["Example"]}
+{"text": "What is its velocity at t = 0 s and t = 2.0 s. What is the average velocity between t = 2.0 s and t = 4.0 s ?", "fibs": ["velocity"]}
+{"text": "Answer In notation of differential calculus, the velocity is
+
+
+
+
+
+
+  
+At   t = 0 s,      v = 0 m s–1   and at   t = 2.0 s,              v = 10 m s-1 .", "fibs": ["Answer"]}
+{"text": "From Fig.", "fibs": ["Fig"]}
+{"text": "3.7, we note that during the period     t =10 s to 18 s the velocity is constant.", "fibs": ["note"]}
+{"text": "Between period t =18 s to t = 20 s, it is uniformly decreasing  and  during  the  period t = 0 s to     t = 10 s, it is increasing.", "fibs": ["period"]}
+{"text": "Note that for uniform motion, velocity is the same as the average velocity at all instants.", "fibs": ["uniform"]}
+{"text": "Instantaneous speed or simply speed is the magnitude of velocity.", "fibs": ["speed"]}
+{"text": "For example, a velocity of + 24.0 m s–1 and a velocity of – 24.0 m s–1 — both have an associated speed of 24.0 m s-1.", "fibs": ["example"]}
+{"text": "It should be noted that though average speed over a finite interval of time is greater or equal to the magnitude of the average velocity, instantaneous speed at an instant is equal to the magnitude of the instantaneous velocity at that instant.", "fibs": ["speed"]}
+{"text": "3.5  Acceleration
+The velocity of an object, in general, changes during its course of motion.", "fibs": ["velocity"]}
+{"text": "How to describe this change?", "fibs": ["change"]}
+{"text": "Should it be described as the rate of change in velocity with distance or with time ?", "fibs": ["rate"]}
+{"text": "This was a problem even in Galileo’s time.", "fibs": ["problem"]}
+{"text": "It was first thought that this change could be described by the rate of change of velocity with distance.", "fibs": ["change"]}
+{"text": "But, through his studies of motion of freely falling objects and motion of objects on an inclined plane, Galileo concluded that the rate of change of velocity with time is a constant of motion for all objects in free fall.", "fibs": ["motion"]}
+{"text": "On the other hand, the change in velocity with distance is not constant – it decreases with the increasing distance of fall.", "fibs": ["hand"]}
+{"text": "This led to the concept of acceleration as the rate of change of velocity with time.", "fibs": ["concept"]}
+{"text": "The average acceleration  over a time interval is defined as the change of velocity divided by the time interval :	
+ 
+(3.4)
+
+where v2 and v1 are the instantaneous velocities or simply velocities at time  t2 and t1 .", "fibs": ["acceleration"]}
+{"text": "It is the average change of velocity per unit time.", "fibs": ["change"]}
+{"text": "The SI unit of acceleration is m s–2 .", "fibs": ["SI"]}
+{"text": "On a plot of velocity versus time, the average acceleration is the slope of the straight line connecting the points corresponding to (v2, t2) and (v1, t1).", "fibs": ["plot"]}
+{"text": "The average acceleration for     velocity-time graph shown in Fig.", "fibs": ["acceleration"]}
+{"text": "3.7 for different time intervals 0 s - 10 s, 10 s – 18 s, and 18 s – 20 s are :
+0 s - 10 s	
+10 s - 18 s    
+18 s - 20 s     
+
+Fig.", "fibs": ["time"]}
+{"text": "3.8 	Acceleration as a function of time for motion represented in Fig.", "fibs": ["function"]}
+{"text": "Instantaneous acceleration is defined in the same way as the instantaneous velocity :
+ 
+(3.5)
+
+The acceleration at an instant is the slope of the tangent to the v–t curve at that instant.", "fibs": ["acceleration"]}
+{"text": "For the v–t curve shown in  Fig.", "fibs": ["v–t"]}
+{"text": "3.7, we can obtain acceleration at every instant of time.", "fibs": ["acceleration"]}
+{"text": "The resulting a – t curve is shown in Fig.", "fibs": ["t"]}
+{"text": "We see that the acceleration is nonuniform over the period  0 s to 10 s. It is zero between 10 s and 18 s and is constant with value -12 m s–2  between 18 s and 20 s. When the acceleration is uniform, obviously, it equals the average acceleration over that period.", "fibs": ["acceleration"]}
+{"text": "Since velocity is a quantity having both magnitude and direction, a change in velocity may involve either or both of these factors.", "fibs": ["velocity"]}
+{"text": "Acceleration, therefore, may result from a change in speed (magnitude), a change in direction or changes in both.", "fibs": ["Acceleration"]}
+{"text": "Like velocity, acceleration can also be positive, negative or zero.", "fibs": ["velocity"]}
+{"text": "Position-time graphs for motion with positive, negative and zero acceleration are shown in Figs.", "fibs": ["motion"]}
+{"text": "3.9 (a), (b) and (c), respectively.", "fibs": ["b"]}
+{"text": "Note that the graph curves upward for positive acceleration; downward for negative acceleration and it is a straight line for zero acceleration.", "fibs": ["graph"]}
+{"text": "As an exercise, identify in Fig.", "fibs": ["exercise"]}
+{"text": "3.3, the regions of the curve that correspond to these three cases.", "fibs": ["curve"]}
+{"text": "Although acceleration can vary with time, our study in this chapter will be restricted to motion with constant acceleration.", "fibs": ["acceleration"]}
+{"text": "In this case, the average acceleration equals the constant value of acceleration during the interval.", "fibs": ["case"]}
+{"text": "If the velocity of an object is vo at t = 0 and v at time t, we have
+          
+(3.6)
+
+Fig.", "fibs": ["velocity"]}
+{"text": "3.9	Position-time graph for motion with                 (a) positive acceleration; (b) negative acceleration, and (c) zero acceleration.", "fibs": ["graph"]}
+{"text": "Let us see how velocity-time graph looks like for some simple cases.", "fibs": ["graph"]}
+{"text": "Fig.", "fibs": ["Fig"]}
+{"text": "3.10 shows     velocity-time graph for motion with constant acceleration for the following cases :
+
+
+
+Fig.", "fibs": ["graph"]}
+{"text": "3.10 Velocity–time graph for motions with constant acceleration.", "fibs": ["Velocity–time"]}
+{"text": "(a) Motion in positive direction with positive acceleration, (b) Motion in positive direction with negative acceleration, (c) Motion in negative direction with negative acceleration, (d) Motion of an object with negative acceleration that changes direction at time t1.", "fibs": ["direction"]}
+{"text": "Between times 0 to t1, its moves in positive x - direction and between t1 and t2 it moves in the opposite direction.", "fibs": ["t1"]}
+{"text": "(a)	An object is moving in a positive direction with a positive acceleration, for example the motion of the car in  Fig.", "fibs": ["object"]}
+{"text": "3.3 between t = 0 s and t = 10 s.   
+
+
+
+
+(b)	An object is moving in positive direction with a negative acceleration, for example, motion of the car in Fig 3.3 between t = 18 s and 20 s.
+(c)	An object is moving in negative direction with a negative acceleration, for example the motion of a car moving from O in Fig.", "fibs": ["t"]}
+{"text": "3.1 in negative x-direction with increasing speed.", "fibs": ["speed"]}
+{"text": "(d)	An object is moving in positive direction till time t1, and then turns back with the same negative acceleration, for example the motion of a car from point O to point Q in Fig.", "fibs": ["object"]}
+{"text": "3.1 till time t1 with decreasing speed and turning back and moving with the same negative acceleration.", "fibs": ["time"]}
+{"text": "An interesting feature of a velocity-time graph for any moving object is that the area under the curve represents the displacement over a given time interval.", "fibs": ["feature"]}
+{"text": "A general proof of this statement requires use of calculus.", "fibs": ["proof"]}
+{"text": "We can, however, see that it is true for the simple case of an object moving with constant velocity u.", "fibs": ["case"]}
+{"text": "Its velocity-time graph is as shown in Fig.", "fibs": ["graph"]}
+{"text": "Fig.", "fibs": ["Fig"]}
+{"text": "3.11 Area under v–t curve equals displacement of the object over a given time interval.", "fibs": ["v–t"]}
+{"text": "The v-t curve is a straight line parallel to the time axis and the area under it between t = 0 and t = T is the area of the rectangle of height u and base T. Therefore, area = u × T = uT which is the displacement in this time interval.", "fibs": ["curve"]}
+{"text": "How come in this case an area is equal to a distance?", "fibs": ["case"]}
+{"text": "Note the dimensions of quantities on the two coordinate axes, and you will arrive at the answer.", "fibs": ["answer"]}
+{"text": "Note that the x-t, v-t, and a-t graphs shown in several figures in this chapter have sharp kinks at some points implying that the functions are not differentiable at these points.", "fibs": ["chapter"]}
+{"text": "In any realistic situation, the functions will be differentiable at all points and the graphs will be smooth.", "fibs": ["situation"]}
+{"text": "What this means physically is that acceleration and velocity cannot change values abruptly at an instant.", "fibs": ["acceleration"]}
+{"text": "3.6	Kinematic equations for uniformly accelerated motion
+For uniformly accelerated motion, we can derive some simple equations that relate displacement (x), time taken (t), initial velocity (v0), final velocity (v) and acceleration (a).", "fibs": ["motion"]}
+{"text": "Equation (3.6) already obtained gives a relation between final and initial velocities v and  v0  of an object moving with uniform acceleration a : 
+              v = v0 + at                                                                       (3.6)
+This relation is graphically represented in Fig.", "fibs": ["Equation"]}
+{"text": "Fig.", "fibs": ["Fig"]}
+{"text": "3.12 Area under v-t curve for an object with uniform acceleration.", "fibs": ["curve"]}
+{"text": "The area under this curve is :
+Area between instants 0 and t = Area of triangle ABC + Area of rectangle OACD
+ 
+As explained in the previous section, the area under v-t curve represents the displacement.", "fibs": ["area"]}
+{"text": "Therefore, the displacement x of the object is :
+ 
+(3.7)
+
+But	
+Therefore,	 
+or,	
+(3.8)
+
+Equation (3.7) can also be written as 
+ 
+(3.9a)
+
+where,  
+ 
+(constant acceleration only)  				(3.9b)
+
+Equations (3.9a) and  (3.9b) mean that the object has undergone displacement x with an average velocity equal to the arithmetic average of the initial and final velocities.", "fibs": ["displacement"]}
+{"text": "From Eq.", "fibs": ["Eq."]}
+{"text": "(3.6), t = (v – v0)/a.", "fibs": ["t"]}
+{"text": "Substituting this in Eq.", "fibs": ["Eq."]}
+{"text": "(3.9a), we get 
+ 
+ 
+(3.10)
+
+This equation can also be obtained by substituting the value of t from Eq.", "fibs": ["3.9a"]}
+{"text": "(3.6) into Eq.", "fibs": ["Eq."]}
+{"text": "(3.8).", "fibs": ["3.8)"]}
+{"text": "Thus, we have obtained three important equations :
+ 
+  
+ 
+(3.11a)
+
+connecting five quantities v0,  v, a, t and x.", "fibs": ["3.11a"]}
+{"text": "These are kinematic equations of rectilinear motion for constant acceleration.", "fibs": ["motion"]}
+{"text": "The set of Eq.", "fibs": ["Eq."]}
+{"text": "(3.11a) were obtained by assuming that at t = 0, the position of the particle, x is 0.", "fibs": ["3.11a"]}
+{"text": "We can obtain a more general equation if we take  the  position coordinate at t = 0 as non-zero, say x0.", "fibs": ["equation"]}
+{"text": "(3.11a) are modified (replacing x by x – x0 ) to :
+ 
+ 
+(3.11b)
+
+ 
+(3.11c)
+
+
+
+Example 3.3 Obtain equations of motion for constant acceleration using method of calculus.", "fibs": ["3.11a"]}
+{"text": "Answer  By definition
+ 
+			 dv = a dt
+Integrating both sides 
+ 
+          (a is constant)
+ 
+ 
+Further, 	       
+  dx = v dt
+Integrating both sides
+
+  
+We can write
+ 
+			or, v dv = a dx
+Integrating both sides,
+ 
+ 
+ 
+The advantage of this method is that it can be used for motion with non-uniform acceleration also.", "fibs": ["Answer"]}
+{"text": "Now, we shall use these equations to some important cases.", "fibs": ["use"]}
+{"text": "Example 3.4 A ball is thrown vertically upwards with a velocity of 20 m s–1 from the top of a multistorey building.", "fibs": ["Example"]}
+{"text": "The height of the point from where the ball is thrown is 25.0 m from the ground.", "fibs": ["height"]}
+{"text": "(a) How high will the ball rise ?", "fibs": ["ball"]}
+{"text": "and (b) how long will it be before the ball hits the ground?", "fibs": ["b"]}
+{"text": "Take g = 10 m s–2.", "fibs": ["g"]}
+{"text": "Answer (a) Let us take the y-axis in the vertically upward direction with zero at the ground, as shown in Fig.", "fibs": ["Answer"]}
+{"text": "Now  vo = + 20 m s–1,	
+		   a  =  – g = –10 m s–2, 
+		   v  =  0 m s–1
+If the ball rises to height y from the point of launch, then using the equation
+  
+we get
+	 	0 = (20)2 + 2(–10)(y – y0)
+Solving,  we get, (y – y0) = 20 m.
+(b) We can solve this part of the problem in two ways.", "fibs": ["vo"]}
+{"text": "Fig.", "fibs": ["Fig"]}
+{"text": "3.13       
+FIRST METHOD :  In the first method, we split the path in two parts : the upward motion  (A to B) and the downward motion (B to C) and calculate the corresponding time taken t1 and t2.", "fibs": ["METHOD"]}
+{"text": "Since the velocity  at B is zero, we have : 
+v  =  vo +  at
+        			0 = 20  – 10t1
+Or,	           t1 = 2 s
+This is the time in going from A to B.", "fibs": ["velocity"]}
+{"text": "From B, or the point of  the maximum height, the ball falls freely under the acceleration due to gravity.", "fibs": ["point"]}
+{"text": "The ball is moving in negative y direction.", "fibs": ["ball"]}
+{"text": "We use equation
+ 
+We have, y0 = 45 m, y = 0, v0 = 0, a = – g  = –10 m s–2
+		   0  =  45 + (½) (–10) t22
+Solving, we get t2 = 3 s
+Therefore, the total time taken by the ball before it hits the ground = t1 + t2  =  2 s + 3 s = 5 s.
+SECOND METHOD : The total time taken can also be calculated by noting the coordinates of initial and final positions of the ball with respect to the origin chosen and using equation
+ 
+Now	y0  = 25 m        y = 0 m	 
+ 	vo = 20 m s-1,	a  = –10m s–2,  t  =  ?", "fibs": ["use"]}
+{"text": "0 = 25  +20 t  + (½)  (-10) t2
+­Or,	5t2 – 20t  – 25  =  0 
+Solving this quadratic equation for t, we get 
+ t = 5s
+Note that the second method is better since we do not have to worry about the path of the motion as the motion is under constant acceleration.", "fibs": ["t"]}
+{"text": "Example 3.5  Free-fall : Discuss the motion of an object under free  fall.", "fibs": ["Example"]}
+{"text": "Neglect air resistance.", "fibs": ["air"]}
+{"text": "Answer An object released near the surface of the Earth is accelerated downward under the influence of the force of gravity.", "fibs": ["Answer"]}
+{"text": "The magnitude of acceleration due to gravity is represented by g.  If air resistance is neglected, the object is said to be in free fall.", "fibs": ["magnitude"]}
+{"text": "If the height through which the object falls is small compared to the earth’s radius, g can be taken to be constant, equal to   9.8 m s–2.", "fibs": ["height"]}
+{"text": "Free fall is thus a case of motion with uniform acceleration.", "fibs": ["fall"]}
+{"text": "We assume that the motion is in y-direction, more correctly in –y-direction because we choose upward direction as positive.", "fibs": ["motion"]}
+{"text": "Since the acceleration due to gravity is always downward, it is in the negative direction and we have
+ a = – g  = – 9.8 m s–2
+The object is released from rest at y = 0.", "fibs": ["acceleration"]}
+{"text": "Therefore, v0 = 0 and the equations of motion become: 
+	v =  0 – g t      	      = –9.8 t      m s–1
+ y =  0 – ½ g t2   = –4.9 t2    m
+	v2 = 0 – 2 g y     = –19.6 y   m2 s–2
+These equations give the velocity and the distance travelled as a function of time and also the variation of velocity with distance.", "fibs": ["v0"]}
+{"text": "The variation of acceleration, velocity, and distance, with time have been plotted in Fig.", "fibs": ["variation"]}
+{"text": "3.14(a), (b) and (c).", "fibs": ["3.14(a"]}
+{"text": "Fig.", "fibs": ["Fig"]}
+{"text": "3.14 Motion of an object under free fall.", "fibs": ["object"]}
+{"text": "(a)  Variation of acceleration with time.", "fibs": ["acceleration"]}
+{"text": "(b) Variation of velocity with time.", "fibs": ["b"]}
+{"text": "(c) Variation of distance with time 	t
+
+ Example 3.6 Galileo’s law of odd numbers : “The distances traversed, during equal intervals    of time, by a body falling from rest, stand to one another in the same ratio as the odd numbers beginning with unity [namely, 1: 3: 5: 7…...].”  Prove it.", "fibs": ["distance"]}
+{"text": "Answer  Let us divide the time interval of motion of an object under free fall into many equal intervals   and find out the distances traversed during successive intervals of time.", "fibs": ["Answer"]}
+{"text": "Since initial velocity is zero, we have
+Using this equation, we can calculate the position of the object after different time intervals, 0, τ, 2τ,  3τ… which are given in second column of Table 3.2.", "fibs": ["velocity"]}
+{"text": "If we take (–1/ 2) gτ2 as y0 — the position coordinate after first time interval τ, then third column gives the positions in the unit of yo.", "fibs": ["–1/"]}
+{"text": "The fourth column gives the distances traversed in successive τs.", "fibs": ["column"]}
+{"text": "We find that the distances are in the simple ratio 1: 3: 5: 7: 9: 11… as  shown  in the last column.", "fibs": ["ratio"]}
+{"text": "This  law was established by Galileo Galilei (1564-1642) who was the first to make quantitative studies of free fall.", "fibs": ["law"]}
+{"text": "Table 3.2
+
+
+
+
+
+
+ Example 3.7  Stopping distance of vehicles : When brakes are applied to a moving vehicle, the distance it travels before stopping is called stopping distance.", "fibs": ["Table"]}
+{"text": "It is an important factor for road safety and depends on the initial velocity (v0) and the braking capacity, or deceleration, –a that is caused by the braking.", "fibs": ["factor"]}
+{"text": "Derive an expression for stopping distance of a vehicle in terms of vo and a.", "fibs": ["expression"]}
+{"text": "Answer Let the distance travelled by the vehicle before it stops be ds.", "fibs": ["Answer"]}
+{"text": "Then, using equation of motion  v2 = vo2 + 2 ax, and noting that  v = 0, we have the stopping distance
+
+Thus, the stopping distance is proportional to the square of the initial velocity.", "fibs": ["equation"]}
+{"text": "Doubling the initial velocity increases the stopping distance by a factor of 4 (for the same deceleration).", "fibs": ["velocity"]}
+{"text": "For  the car of a particular make, the braking distance was found to be 10 m, 20 m, 34 m and 50 m corresponding to velocities of 11, 15, 20 and 25 m/s which are nearly consistent with the above formula.", "fibs": ["car"]}
+{"text": "Stopping distance is an important factor considered in setting speed limits, for example, in school zones.", "fibs": ["distance"]}
+{"text": "t
+
+
+
+
+
+ Example 3.8  Reaction time :  When a situation demands our immediate action, it takes some time before we really respond.", "fibs": ["t"]}
+{"text": "Reaction time is the time a person takes to observe, think and act.", "fibs": ["Reaction"]}
+{"text": "For example, if a person is driving and suddenly a boy appears on the road, then the time elapsed before he slams the brakes of the car is the reaction time.", "fibs": ["example"]}
+{"text": "Reaction time depends on complexity of the situation and on an individual.", "fibs": ["Reaction"]}
+{"text": "You can measure your reaction time by a simple experiment.", "fibs": ["measure"]}
+{"text": "Take a ruler and ask your friend to drop it vertically through the gap between your thumb and forefinger (Fig.", "fibs": ["ruler"]}
+{"text": "After you catch it, find the distance d travelled by the ruler.", "fibs": ["distance"]}
+{"text": "In a particular case, d was found to be 21.0 cm.", "fibs": ["case"]}
+{"text": "Estimate reaction time.", "fibs": ["reaction"]}
+{"text": "Fig.", "fibs": ["Fig"]}
+{"text": "3.15 Measuring the reaction time.", "fibs": ["reaction"]}
+{"text": "Answer The ruler drops under free fall.", "fibs": ["Answer"]}
+{"text": "Therefore, vo = 0, and a = –g = –9.8 m s–2.", "fibs": ["vo"]}
+{"text": "The distance travelled d and the reaction time tr are related by
+ 
+Or,  	
+Given d = 21.0 cm and g = 9.8 m s–2  the reaction time is
+  
+3.7  Relative velocity
+
+
+
+
+
+You must be familiar with the experience of travelling in a train and being overtaken by another train moving in the same direction as you are.", "fibs": ["distance"]}
+{"text": "While that train must be travelling faster than you to be able to pass you, it does seem slower to you than it would be to someone standing on the ground and watching both the trains.", "fibs": ["train"]}
+{"text": "In case both the trains have the same velocity with respect to the ground, then to you the other train would seem to be not moving at all.", "fibs": ["case"]}
+{"text": "To understand such observations, we now introduce the concept of relative velocity.", "fibs": ["concept"]}
+{"text": "Consider two objects A and B moving uniformly with average velocities vA and vB in one dimension, say along x-axis.", "fibs": ["vA"]}
+{"text": "(Unless otherwise specified, the velocities mentioned in this chapter are measured with reference to the ground).", "fibs": ["chapter"]}
+{"text": "If xA (0) and xB (0) are positions of objects A and B, respectively at time t = 0, their positions xA (t) and xB (t) at time t are given by:
+ xA (t )  =  xA (0)  +  vA  t                                                     (3.12a)
+ xB (t)   =  xB (0)  +  vB t                                                      (3.12b)
+Then, the displacement from object A to object B is given by
+	xBA(t)  =  xB (t)  –  xA (t)  
+	= [ xB (0) – xA (0) ] + (vB – vA) t.                                       (3.13)
+Equation (3.13) is easily interpreted.", "fibs": ["xA"]}
+{"text": "It tells us that as seen from object A, object B has a velocity vB – vA because the displacement from A to B changes steadily by the amount vB – vA in each unit of time.", "fibs": ["object"]}
+{"text": "We say that the velocity of object B relative to object A is vB – vA :
+ vBA  =  vB  – vA                                                                   (3.14a)
+Similarly, velocity of object A relative to object B is:
+ vAB  =  vA – vB                                                                   (3.14b)
+This shows:	vBA = – vAB                                                  (3.14c)
+
+Fig.", "fibs": ["velocity"]}
+{"text": "Now we consider some special cases :	
+(a) If vB = vA, vB – vA  = 0.", "fibs": ["vB"]}
+{"text": "Then, from Eq.", "fibs": ["Eq."]}
+{"text": "(3.13), xB (t) – xA (t) = xB (0) – xA (0).", "fibs": ["xB"]}
+{"text": "Therefore, the two objects stay at a constant distance (xB (0) – xA (0)) apart, and their position–time graphs are straight lines parallel to each other as shown in Fig.", "fibs": ["distance"]}
+{"text": "The relative velocity vAB or vBA is zero in this case.", "fibs": ["velocity"]}
+{"text": "(b) If vA > vB, vB – vA is negative.", "fibs": ["b"]}
+{"text": "One graph is steeper than the other and they meet at a common point.", "fibs": ["graph"]}
+{"text": "For example, suppose vA  = 20 m s-1 and xA (0) = 10 m; and vB = 10 m s-1, xB (0) = 40 m; then the time at which they meet is t = 3 s (Fig.", "fibs": ["example"]}
+{"text": "At this instant they are both at a position xA (t) = xB (t) = 70 m. Thus, object A overtakes object B at this time.", "fibs": ["instant"]}
+{"text": "In this case,vBA = 10 m s–1 – 20 m s–1 = – 10 m s–1= – vAB.", "fibs": ["case,vBA"]}
+{"text": "(c) Suppose vA and vB are of opposite signs.", "fibs": ["vA"]}
+{"text": "For example, if in the above example object A is moving with 20 m s–1 starting at  xA(0) = 10 m and object B is moving with – 10 m s–1 starting at xB (0) = 40 m,  the two objects meet at t = 1 s (Fig.", "fibs": ["example"]}
+{"text": "3.18).", "fibs": ["3.18)"]}
+{"text": "The velocity of B relative to A, vBA = [–10 – (20)] m s–1 = –30 m s–1 = – vAB.", "fibs": ["velocity"]}
+{"text": "In this case, the magnitude of vBA or vAB ( = 30 m s–1) is greater than the magnitude of velocity of A or that of B.", "fibs": ["case"]}
+{"text": "If the objects under consideration are two trains, then for a person sitting on either of the two, the other train seems to go very fast.", "fibs": ["consideration"]}
+{"text": "Note that Eq.", "fibs": ["Eq."]}
+{"text": "(3.14) are valid even if vA and vB represent instantaneous velocities.", "fibs": ["vA"]}
+{"text": "Fig.", "fibs": ["Fig"]}
+{"text": "3.17 Position-time graphs of two objects with unequal velocities, showing the time of meeting.", "fibs": ["time"]}
+{"text": "Fig.", "fibs": ["Fig"]}
+{"text": "3.18 Position-time graphs of two objects with velocities in opposite directions, showing the time of meeting.", "fibs": ["time"]}
+{"text": "Example 3.9  Two parallel rail tracks run north-south.", "fibs": ["Example"]}
+{"text": "Train A moves north with a speed of 54 km h–1, and train B moves south with a speed of 90 km h–1.", "fibs": ["speed"]}
+{"text": "What is the
+(a)	velocity of B with respect to A ?,
+(b)	velocity of ground with respect to B ?, and
+(c)	velocity of a monkey running on the roof of the train A against its motion (with a velocity of 18 km h–1 with respect to the train A) as observed by a man standing on the ground ?", "fibs": ["velocity"]}
+{"text": "Answer  Choose the positive direction of x-axis to be from south to north.", "fibs": ["Answer"]}
+{"text": "Then,
+ vA =  + 54 km h–1  =  15 m s–1
+ vB  =  – 90 km h–1  =  – 25 m s–1
+Relative velocity of B with respect to A = vB – vA= – 40 m s–1 , i.e.", "fibs": ["vA"]}
+{"text": "the train B appears to A to move with a speed of 40 m s–1 from north to south.", "fibs": ["train"]}
+{"text": "Relative velocity of ground with respect to B = 0 – vB = 25 m s–1.", "fibs": ["velocity"]}
+{"text": "In (c), let the velocity of the monkey with respect to ground be vM.", "fibs": ["velocity"]}
+{"text": "Relative velocity of the monkey with respect to A, 
+vMA = vM – vA = –18 km h–1 =–5 ms–1.", "fibs": ["velocity"]}
+{"text": "Therefore, vM = (15 – 5) m s–1 = 10 m s–1.", "fibs": ["vM"]}
+{"text": "An object is said to be in motion if its position changes with time.", "fibs": ["object"]}
+{"text": "The position of the object can be specified with reference to a conveniently chosen origin.", "fibs": ["position"]}
+{"text": "For motion in a straight line, position to the right of the origin is taken as positive and to the left as negative.", "fibs": ["motion"]}
+{"text": "Path length is defined as the total length of the path traversed by an object.", "fibs": ["length"]}
+{"text": "Displacement is the change in position : ∆x  =  x2 – x1.", "fibs": ["Displacement"]}
+{"text": "Path length is greater or equal to the magnitude of the displacement between the same points.", "fibs": ["length"]}
+{"text": "An object is said to be in uniform motion in a straight line if its displacement is  equal in equal intervals of time.", "fibs": ["object"]}
+{"text": "Otherwise, the motion is said to be non-uniform.", "fibs": ["motion"]}
+{"text": "Average velocity is the displacement divided by the time interval in which the displacement occurs :
+ 
+ On an x-t graph, the average velocity over a time interval is the slope of the line connecting the initial and final positions corresponding to that interval.", "fibs": ["velocity"]}
+{"text": "Average Speed is the ratio of total path length traversed and the corresponding time interval.", "fibs": ["Speed"]}
+{"text": "The average speed of an object is greater or equal to the magnitude of the average velocity over a given time interval.", "fibs": ["speed"]}
+{"text": "Instantaneous velocity or simply velocity is defined as the limit of the average velocity as the time interval ∆t becomes infinitesimally small : 
+ 
+	The velocity at a particular instant is equal to the slope of the tangent drawn on         position-time graph at that instant.", "fibs": ["velocity"]}
+{"text": "Average acceleration is the change in velocity divided by the time interval during which the change occurs :
+ 
+9.", "fibs": ["acceleration"]}
+{"text": "Instantaneous acceleration is defined as the limit of the average acceleration as the time interval ∆t goes to zero :
+ 
+	The acceleration of an object at a particular time is the slope of the velocity-time graph at that instant of time.", "fibs": ["acceleration"]}
+{"text": "For uniform motion, acceleration is zero and the x-t graph is a straight line inclined to the time axis and the v-t graph is a straight line parallel to the time axis.", "fibs": ["uniform"]}
+{"text": "For motion with uniform acceleration, x-t graph is a parabola while the v-t graph is a straight line inclined to the time axis.", "fibs": ["motion"]}
+{"text": "The area under the velocity-time curve between times t1 and t2 is equal to the displacement of the object during that interval of time.", "fibs": ["area"]}
+{"text": "For objects in uniformly accelerated rectilinear motion, the five quantities, displacement x, time taken t, initial velocity v0, final velocity v and acceleration a are related by a set of simple equations called kinematic equations of motion :
+					        v = v0 +  at
+ 
+ 
+	if the position of the object at time t = 0 is 0.", "fibs": ["motion"]}
+{"text": "If the particle starts at x = x0 , x in above equations is replaced by (x – x0).", "fibs": ["particle"]}
+{"text": "The path length traversed by an object between two points is, in general, not the same as the magnitude of displacement.", "fibs": ["path"]}
+{"text": "The displacement depends only on the end points; the path length (as the name implies) depends on the actual path.", "fibs": ["displacement"]}
+{"text": "In one dimension, the two quantities are equal only if the object does not change its direction during the course of motion.", "fibs": ["dimension"]}
+{"text": "In all other cases, the path length is greater than the magnitude of displacement.", "fibs": ["path"]}
+{"text": "In view of point 1 above, the average speed of an object is greater than or equal to the magnitude of the average velocity over a given time interval.", "fibs": ["view"]}
+{"text": "The two are equal only if the path length is equal to the magnitude of displacement.", "fibs": ["path"]}
+{"text": "The origin and the positive direction of an axis are a matter of choice.", "fibs": ["origin"]}
+{"text": "You should first specify this choice before you assign signs to quantities like displacement, velocity and acceleration.", "fibs": ["choice"]}
+{"text": "If a particle is speeding up, acceleration is in the direction of velocity; if its speed is decreasing, acceleration is in the direction opposite to that of the velocity.", "fibs": ["particle"]}
+{"text": "This statement is independent of the choice of the origin and the axis.", "fibs": ["statement"]}
+{"text": "The sign of acceleration does not tell us whether the particle’s speed is increasing or decreasing.", "fibs": ["sign"]}
+{"text": "The sign of acceleration (as mentioned in point 3) depends on the choice of the positive direction of the axis.", "fibs": ["sign"]}
+{"text": "For example, if the vertically upward direction is chosen to be the positive direction of the axis, the acceleration due to gravity is negative.", "fibs": ["example"]}
+{"text": "If a particle is falling under gravity, this acceleration, though negative, results in increase in speed.", "fibs": ["particle"]}
+{"text": "For a particle thrown upward, the same negative acceleration (of gravity) results in decrease in speed.", "fibs": ["particle"]}
+{"text": "The zero velocity of a particle at any instant does not necessarily imply zero acceleration at that instant.", "fibs": ["velocity"]}
+{"text": "A particle may be momentarily at rest and yet have non-zero acceleration.", "fibs": ["particle"]}
+{"text": "For example, a particle thrown up has zero velocity at its uppermost point but the acceleration at that instant continues to be the acceleration due to gravity.", "fibs": ["example"]}
+{"text": "In the kinematic equations of motion [Eq.", "fibs": ["motion"]}
+{"text": "The equations are applicable in all situations (for one dimensional motion with constant acceleration) provided the values of different quantities are substituted in the equations with proper signs.", "fibs": ["motion"]}
+{"text": "The definitions of instantaneous velocity and acceleration (Eqs.", "fibs": ["velocity"]}
+{"text": "(3.3) and (3.5)) are exact and are always correct while the kinematic equations (Eq.", "fibs": ["Eq."]}
+{"text": "(3.11)) are true only for motion in which the magnitude and the direction of acceleration are constant during the course of motion.", "fibs": ["motion"]}
+{"text": "Exercises
+3.1	In which of the following examples of motion, can the body be considered approximately a point object:
+	(a)	a railway carriage moving without jerks between two stations.", "fibs": ["motion"]}
+{"text": "(b)	a monkey sitting on top of a man cycling smoothly on a circular track.", "fibs": ["b"]}
+{"text": "(c)	a spinning cricket ball that turns sharply on hitting the ground.", "fibs": ["cricket"]}
+{"text": "(d)	a tumbling beaker that has slipped off the edge of a table.", "fibs": ["beaker"]}
+{"text": "3.2	The position-time (x-t) graphs for two children A and B returning from their school O to their homes P and Q respectively are shown in Fig.", "fibs": ["school"]}
+{"text": "Choose the correct entries in the brackets below ;
+	(a)	(A/B) lives closer to the school than (B/A)
+	(b)	(A/B) starts from the school earlier than (B/A)
+	(c)	(A/B) walks faster than (B/A)
+	(d)	A and B reach home at the (same/different) time
+	(e)	(A/B) overtakes (B/A) on the road (once/twice).", "fibs": ["school"]}
+{"text": "Fig.", "fibs": ["Fig"]}
+{"text": "3.19
+3.3	A woman starts from her home at 9.00 am, walks with a speed of 5 km h–1 on a straight road up to her office 2.5 km away, stays at the office up to 5.00 pm, and returns home by an auto with a speed of 25 km h–1.", "fibs": ["woman"]}
+{"text": "Choose suitable scales and plot the x-t graph of her motion.", "fibs": ["plot"]}
+{"text": "3.4	A drunkard walking in a narrow lane takes 5 steps forward and 3 steps backward, followed again by 5 steps forward and 3 steps backward, and so on.", "fibs": ["drunkard"]}
+{"text": "Each step is 1 m long and requires 1 s. Plot the x-t graph of his motion.", "fibs": ["step"]}
+{"text": "Determine graphically and otherwise how long the drunkard takes to fall in a pit 13 m away from the start.", "fibs": ["drunkard"]}
+{"text": "3.5	A jet airplane travelling at the speed of 500 km h–1 ejects its products of combustion at the speed of 1500 km h–1 relative to the jet plane.", "fibs": ["jet"]}
+{"text": "What is the speed of the latter with respect to an observer on the ground ?", "fibs": ["speed"]}
+{"text": "3.6	A car moving along a straight highway with speed of 126 km h–1 is brought to a stop within a distance of 200 m. What is the retardation of the car (assumed uniform), and how long does it take for the car to stop ?", "fibs": ["car"]}
+{"text": "3.7	Two trains A and B of length 400 m each are moving on two parallel tracks with a uniform speed of 72 km h–1 in the same direction, with A ahead of B.", "fibs": ["length"]}
+{"text": "The driver of B decides to overtake A and accelerates by  1 m s–2.", "fibs": ["driver"]}
+{"text": "If after 50 s, the guard of B just brushes past the driver of A, what was the original distance between them ?", "fibs": ["guard"]}
+{"text": "3.8	On a two-lane road, car A is travelling with a speed of 36 km h–1.", "fibs": ["road"]}
+{"text": "Two cars B and C approach car A in opposite directions with a speed of 54 km h–1 each.", "fibs": ["C"]}
+{"text": "At a certain instant, when the distance AB is equal to AC, both being 1 km, B decides to overtake A before C does.", "fibs": ["instant"]}
+{"text": "What minimum acceleration of car B is required to avoid an accident ?", "fibs": ["acceleration"]}
+{"text": "3.9	Two towns A and B are connected by a regular bus service with a bus leaving in either direction every T minutes.", "fibs": ["bus"]}
+{"text": "A man cycling with a speed of 20 km h–1 in the direction A to B notices that a bus goes past him every 18 min in the direction of his motion, and every 6 min in the opposite direction.", "fibs": ["cycling"]}
+{"text": "What is the period T of the bus service and with what speed (assumed constant) do the buses ply on the   road?", "fibs": ["period"]}
+{"text": "3.10	A player throws a ball upwards with an initial speed of 29.4 m s–1.", "fibs": ["player"]}
+{"text": "(a)	What is the direction of acceleration during the upward motion of the ball ?", "fibs": ["direction"]}
+{"text": "(b)	What are the velocity and acceleration of the ball at the highest point of its motion ?", "fibs": ["b"]}
+{"text": "(c)	Choose the x = 0 m and t = 0 s to be the location and time of the ball at its highest point, vertically downward direction to be the positive direction of      x-axis, and give the signs of position, velocity and acceleration of the ball during its upward, and downward motion.", "fibs": ["x"]}
+{"text": "(d)	To what height does the ball rise and after how long does the ball return to the player’s hands ?", "fibs": ["height"]}
+{"text": "(Take g = 9.8 m s–2 and neglect air resistance).", "fibs": ["g"]}
+{"text": "3.11		Read each statement below carefully and state with reasons and examples, if it is 		true or false ;
+A particle in one-dimensional motion
+	(a)	with zero speed at an instant may have non-zero acceleration at that instant
+	(b)	with zero speed may have non-zero velocity,
+	(c)	with constant speed must have zero acceleration,
+	(d)	with positive value of acceleration must be speeding up.", "fibs": ["statement"]}
+{"text": "3.12	A ball is dropped from a height of 90 m on a floor.", "fibs": ["ball"]}
+{"text": "At each collision with the floor, the ball loses one tenth of its speed.", "fibs": ["collision"]}
+{"text": "Plot the speed-time graph of its motion between t = 0 to 12 s.	
+3.13	Explain clearly, with examples, the distinction between :
+	(a)	magnitude of displacement (sometimes called distance) over an interval of time, and the total length of path covered by a particle over the same interval;
+	(b)	magnitude of average velocity over an interval of time, and the average speed over the same interval.", "fibs": ["Plot"]}
+{"text": "[Average speed of a particle over an interval of time is defined as the total path length divided by the time interval].", "fibs": ["speed"]}
+{"text": "Show in both (a) and (b) that the second quantity is either greater than or equal to the first.", "fibs": ["b"]}
+{"text": "When is the equality sign true ?", "fibs": ["equality"]}
+{"text": "[For simplicity, consider one-dimensional motion only].", "fibs": ["simplicity"]}
+{"text": "3.14	A man walks on a straight road from his home to a market 2.5 km away with a speed of 5 km h–1.", "fibs": ["road"]}
+{"text": "Finding the market closed, he instantly turns and walks back home with a speed of 7.5 km h–1.", "fibs": ["market"]}
+{"text": "What is the 
+	(a)	magnitude of average velocity, and
+	(b)	average speed of the man over the interval of time (i) 0 to 30 min, (ii) 0 to         50 min, (iii) 0 to 40 min ?", "fibs": ["magnitude"]}
+{"text": "[Note: You will appreciate from this exercise why it is better to define average speed as total path length divided by time, and not as magnitude of average velocity.", "fibs": ["exercise"]}
+{"text": "You would not like to tell the tired man on his return home that his average speed was zero !]", "fibs": ["return"]}
+{"text": "3.15	In Exercises 3.13 and 3.14, we have carefully distinguished between average speed and magnitude of average velocity.", "fibs": ["speed"]}
+{"text": "No such distinction is necessary when we consider instantaneous speed and magnitude of velocity.", "fibs": ["distinction"]}
+{"text": "The instantaneous speed is always equal to the magnitude of instantaneous velocity.", "fibs": ["speed"]}
+{"text": "3.16	Look at the graphs (a) to (d) (Fig.", "fibs": ["Fig"]}
+{"text": "3.20) carefully and state, with reasons, which of these cannot possibly represent one-dimensional motion of a particle.", "fibs": ["state"]}
+{"text": "Fig.", "fibs": ["Fig"]}
+{"text": "3.20 
+3.17	Figure 3.21 shows the x-t plot of one-dimensional motion of a particle.", "fibs": ["Figure"]}
+{"text": "Is it correct to say from the graph that the particle moves in a straight line for    t < 0 and on a parabolic path for t >0 ?", "fibs": ["graph"]}
+{"text": "If not, suggest a suitable physical context for this graph.", "fibs": ["context"]}
+{"text": "Fig.", "fibs": ["Fig"]}
+{"text": "3.21
+  
+3.18	A police van moving on a highway with a speed of 30 km h–1 fires a bullet at a thief’s car speeding away in the same direction with a speed of 192 km h–1.", "fibs": ["police"]}
+{"text": "If the muzzle speed of the bullet is 150 m s–1, with what speed does the bullet hit the thief’s car ?", "fibs": ["muzzle"]}
+{"text": "(Note: Obtain that speed which is relevant for damaging the thief’s car).", "fibs": ["speed"]}
+{"text": "3.19	Suggest a suitable physical situation for each of the following graphs (Fig 3.22):
+
+Fig.", "fibs": ["situation"]}
+{"text": "3.22 
+3.20	Figure 3.23 gives the x-t plot of a particle executing one-dimensional simple harmonic motion.", "fibs": ["Figure"]}
+{"text": "(You will learn about this motion in more detail in Chapter14).", "fibs": ["motion"]}
+{"text": "Give the signs of position, velocity and acceleration variables of the particle at t = 0.3 s, 1.2 s, – 1.2 s.
+Fig.", "fibs": ["position"]}
+{"text": "3.23  
+3.21	Figure 3.24 gives the x-t plot of a particle in one-dimensional motion.", "fibs": ["Figure"]}
+{"text": "Three different equal intervals of time are shown.", "fibs": ["time"]}
+{"text": "In which interval is the average speed greatest, and in which is it the least ?", "fibs": ["interval"]}
+{"text": "Give the sign of average velocity for each interval.", "fibs": ["sign"]}
+{"text": "Fig.", "fibs": ["Fig"]}
+{"text": "3.24
+3.22	Figure 3.25 gives a speed-time graph of a particle in motion along a constant direction.", "fibs": ["Figure"]}
+{"text": "Three equal intervals of time are shown.", "fibs": ["time"]}
+{"text": "In which interval is the average acceleration greatest in magnitude ?", "fibs": ["interval"]}
+{"text": "In which interval is the average speed greatest ?", "fibs": ["interval"]}
+{"text": "Choosing the positive direction as the constant direction of motion, give the signs of v and a in the three intervals.", "fibs": ["direction"]}
+{"text": "What are the accelerations at the points A, B, C and D ?", "fibs": ["C"]}
+{"text": "Fig.", "fibs": ["Fig"]}
+{"text": "3.25
+
+Additional Exercises
+3.23	A three-wheeler starts from rest, accelerates uniformly with 1 m s–2 on a straight road for 10 s, and then moves with uniform velocity.", "fibs": ["rest"]}
+{"text": "Plot the distance covered by the vehicle during the nth second (n = 1,2,3….)", "fibs": ["Plot"]}
+{"text": "versus n. What do you expect this plot to be during accelerated motion : a straight 	line or a parabola ?", "fibs": ["n."]}
+{"text": "3.24	A boy standing on a stationary lift (open from above) throws a ball upwards with the maximum initial speed he can, equal to 49 m s–1.", "fibs": ["boy"]}
+{"text": "How much time does the ball take to return to his hands?", "fibs": ["time"]}
+{"text": "If the lift starts moving up with a uniform speed of  5 m s-1 and the boy again throws the ball up with the maximum speed he can, how long does the ball take to return to his hands ?", "fibs": ["uniform"]}
+{"text": "3.25	On a long horizontally moving belt (Fig.", "fibs": ["belt"]}
+{"text": "3.26), a child runs to and fro with a speed 9 km h–1 (with respect to the belt) between his father and mother located 50 m apart on the moving belt.", "fibs": ["child"]}
+{"text": "The belt moves with a speed of 4 km h–1.", "fibs": ["belt"]}
+{"text": "For an observer on a stationary platform outside, what is the 
+	(a)	speed of the child running in the direction of motion of the belt ?.", "fibs": ["observer"]}
+{"text": "(b)	speed of the child running opposite to the direction of motion of the belt ?", "fibs": ["b"]}
+{"text": "(c)	time taken by the child in (a) and (b) ?", "fibs": ["time"]}
+{"text": "Which of the answers alter if motion is viewed by one of the parents ?", "fibs": ["motion"]}
+{"text": "Fig.", "fibs": ["Fig"]}
+{"text": "3.26 
+3.26	Two stones are thrown up simultaneously from the edge of a cliff 200 m high with initial speeds of 15 m s–1 and 30 m s–1.", "fibs": ["edge"]}
+{"text": "Verify that the graph shown in  Fig.", "fibs": ["graph"]}
+{"text": "3.27 correctly represents the time  variation of the relative position of the second stone with respect to the first.", "fibs": ["time"]}
+{"text": "Neglect air resistance and assume that the stones do not rebound after hitting the ground.", "fibs": ["air"]}
+{"text": "Take g = 10 m s–2.", "fibs": ["g"]}
+{"text": "Give the equations for the linear and curved parts of the plot.", "fibs": ["plot"]}
+{"text": "Fig.", "fibs": ["Fig"]}
+{"text": "3.27
+3.27	The speed-time graph of a particle moving along a fixed direction is shown in Fig.", "fibs": ["graph"]}
+{"text": "Obtain the distance traversed by the particle between (a) t = 0 s to 10 s, (b) t = 2 s to 6 s.
+Fig.", "fibs": ["distance"]}
+{"text": "3.28
+	What is the average speed of the particle over the intervals in (a) and (b) ?", "fibs": ["speed"]}
+{"text": "3.28	The  velocity-time  graph  of  a  particle in one-dimensional  motion is shown in Fig.", "fibs": ["graph"]}
+{"text": "3.29 :
+
+Fig.", "fibs": ["Fig"]}
+{"text": "3.29 
+	Which of the following formulae are correct for describing the motion of the particle over the time-interval t1 to t2:
+ (a)	x(t2 ) = x(t1) + v (t1) (t2 – t1) +(½) a (t2 – t1)2
+ (b)	v(t2 ) = v(t1) + a (t2 – t1)
+ (c)	vaverage = (x(t2) – x(t1))/(t2 – t1)
+ (d)	aaverage = (v(t2) – v(t1))/(t2 – t1)
+ (e)	x(t2 ) = x(t1) + vaverage (t2 – t1) + (½) aaverage  (t2 – t1)2
+ (f)	x(t2 ) – x(t1) = area under the v-t curve bounded by the t-axis and the dotted line shown.", "fibs": ["motion"]}
+{"text": "APPENDIX  3.1 :  ELEMENTS OF CALCULUS
+
+
+Differential Calculus
+Using the concept of ‘differential coefficient’ or ‘derivative’, we can easily define velocity and acceleration.", "fibs": ["APPENDIX"]}
+{"text": "Though you will learn in detail in mathematics about derivatives, we shall introduce this concept in brief in this Appendix so as to facilitate its use in describing physical quantities involved in motion.", "fibs": ["detail"]}
+{"text": "Suppose we have a quantity y whose value depends upon a single variable x, and is expressed by an equation defining y as some specific function of x.", "fibs": ["quantity"]}
+{"text": "This is represented as:
+ y = f (x)                                                                                  (1)
+This relationship can be visualised by drawing a graph of function y = f (x) regarding y and x as Cartesian coordinates, as shown in Fig.", "fibs": ["f"]}
+{"text": "Fig.", "fibs": ["Fig"]}
+{"text": "3.30
+	Consider the point P on the curve y = f (x) whose coordinates are (x, y) and another point Q where coordinates are (x + ∆x, y + ∆y).", "fibs": ["point"]}
+{"text": "The slope of the line joining P and Q is given by:
+ 
+(2)
+
+	Suppose now that the point Q moves along the curve towards P.  In this process, ∆y and ∆x decrease and approach zero; though their ratio   will not necessarily vanish.", "fibs": ["slope"]}
+{"text": "What happens to the line PQ as ∆y→ 0, ∆x→ 0.", "fibs": ["line"]}
+{"text": "You can see that this line becomes a tangent to the curve at point P as shown in Fig.", "fibs": ["line"]}
+{"text": "3.30(b).", "fibs": ["3.30(b"]}
+{"text": "This means that tan θ  approaches the slope of  the tangent at P, denoted by m:   
+ 
+(3)
+
+The limit of the ratio ∆y/∆x as  ∆x approaches zero is called the derivative of y with respect to x and is written as dy/dx.", "fibs": ["θ"]}
+{"text": "It represents the slope of the tangent line to the curve y = f (x) at the point (x, y).", "fibs": ["slope"]}
+{"text": "Since y = f (x) and y + ∆y = f (x + ∆x), we can write the definition of the derivative as: 
+
+Given below are some elementary formulae for derivatives of functions.", "fibs": ["f"]}
+{"text": "In these u (x) and v (x) represent arbitrary functions of x, and a and b denote constant quantities that are independent of x.  Derivatives of some common functions are also listed .", "fibs": ["x"]}
+{"text": "In terms of derivatives, instantaneous velocity and acceleration are defined as
+
+
+Integral Calculus
+You are familiar with the notion of area.", "fibs": ["velocity"]}
+{"text": "For example, the area of a rectangle is length times breadth and that of a triangle is half of the product of base and height.", "fibs": ["example"]}
+{"text": "But how to deal with the problem of determination of area of an irregular figure?", "fibs": ["deal"]}
+{"text": "The mathematical notion of integral is necessary in connection with such problems.", "fibs": ["notion"]}
+{"text": "Let us take a concrete example.", "fibs": ["example"]}
+{"text": "Suppose a variable force f (x) acts on a particle in its motion along x - axis from x = a to x = b.", "fibs": ["force"]}
+{"text": "The problem is to determine the work done (W) by the force on the particle during the motion.", "fibs": ["problem"]}
+{"text": "This problem is discussed in detail in Chapter 6.", "fibs": ["problem"]}
+{"text": "Figure 3.31 shows the variation of  F(x)  with x.", "fibs": ["Figure"]}
+{"text": "If the force were constant, work  would  be  simply  the area F (b-a) as shown in Fig.", "fibs": ["force"]}
+{"text": "3.31(i).", "fibs": ["3.31(i"]}
+{"text": "But in the general case, force is varying .", "fibs": ["case"]}
+{"text": "Fig.", "fibs": ["Fig"]}
+{"text": "3.31
+	To calculate the area under this curve  [Fig.", "fibs": ["area"]}
+{"text": "3.31  (ii)], let us employ the following trick.", "fibs": ["ii"]}
+{"text": "Divide the interval on x-axis from a to b into a large number (N) of small intervals: x0(=a) to x1, x1 to x2 ; x2 to x3, ................................ xN-1 to xN (=b).", "fibs": ["interval"]}
+{"text": "The area under the curve is thus divided into N strips.", "fibs": ["area"]}
+{"text": "Each strip is approximately a rectangle, since the variation of  F(x) over a strip is negligible.", "fibs": ["strip"]}
+{"text": "The area of the ith strip shown [Fig.", "fibs": ["area"]}
+{"text": "3.31(ii)] is then approximately 
+
+where ∆x is the width of the strip which we have taken to be the same for all the strips.", "fibs": ["3.31(ii"]}
+{"text": "You may wonder whether we should put F(xi-1) or the mean of F(xi)  and  F(xi-1) in the above expression.", "fibs": ["wonder"]}
+{"text": "If we take N to be very very large (N→∞ ),  it does not really matter, since then the strip will be so thin that the difference between  F(xi) and F(xi-1)  is vanishingly small.", "fibs": ["N"]}
+{"text": "The total area under the curve then is:
+
+	The limit of this sum as N→∞  is known as the integral of F(x) over x from a to b.", "fibs": ["area"]}
+{"text": "It is given a special symbol as shown below:   	
+The integral sign ∫ looks like an elongated S, reminding us that it basically is the limit of the sum of an infinite number of terms.", "fibs": ["symbol"]}
+{"text": "A most significant mathematical fact is that integration is, in a sense, an inverse of differentiation.", "fibs": ["fact"]}
+{"text": "Suppose we have a function g (x) whose derivative is f (x), i.e.", "fibs": ["function"]}
+{"text": "The function g (x) is known as the indefinite integral of f (x) and is denoted as:
+An integral with lower and upper limits is known as a definite integral.", "fibs": ["function"]}
+{"text": "It is a number.", "fibs": ["number"]}
+{"text": "Indefinite integral has no limits; it is a function.", "fibs": ["integral"]}
+{"text": "A fundamental theorem of mathematics states that
+
+	As an example, suppose f (x) = x2 and we wish to determine the value of the definite integral from x =1 to x = 2.", "fibs": ["theorem"]}
+{"text": "The function g (x) whose derivative is x2 is x3/3.", "fibs": ["function"]}
+{"text": "Therefore, 
+Clearly, to evaluate definite integrals, we need to know the corresponding indefinite integrals.", "fibs": ["need"]}
+{"text": "Some common indefinite integrals are
+ 
+ 
+ 
+This introduction to differential and integral calculus is not rigorous and is intended to convey to you the basic notions of calculus.", "fibs": ["introduction"]}
+{"text": "Table of Contents
+
+
+Chapter Three
+
+
+Motion in a Straight Line
+
+
+3.1 Introduction
+
+
+3.2 Position, path length and displacement
+
+
+3.3 Average velocity and average speed
+
+
+3.4 Instantaneous velocity and speed
+
+
+3.5 Acceleration
+
+
+3.6 Kinematic equations for uniformly accelerated motion
+
+
+3.7 Relative velocity
+
+
+Summary
+
+
+Exercises
+
+
+
+
+
+
+Landmarks
+
+
+Cover
+
+
+
+
+
+
+
+
+        Chapter ThreeMOTION IN A STRAIGHT LINE", "fibs": ["Table"]}
+

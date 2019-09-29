@@ -1,0 +1,945 @@
+Analyzing input.txt
+{"text": "
+
+
+
+
+
+
+
+
+Chapter Eleven
+
+Dual Nature of Radiation and Matter
+
+
+11.1  Introduction
+The Maxwell’s equations of electromagnetism and Hertz experiments on the generation and detection of electromagnetic waves in 1887 strongly established the wave nature of light.", "fibs": ["Chapter"]}
+{"text": "Towards the same period at the end of 19th century, experimental investigations on conduction of electricity (electric discharge) through gases at low pressure in a discharge tube led to many historic discoveries.", "fibs": ["period"]}
+{"text": "The discovery of X-rays by Roentgen in 1895, and of electron by J. J. Thomson in 1897, were important milestones in the understanding of atomic structure.", "fibs": ["discovery"]}
+{"text": "It was found that at sufficiently low pressure of about 0.001 mm of mercury column, a discharge took place between the two electrodes on applying the electric field to the gas in the discharge tube.", "fibs": ["pressure"]}
+{"text": "A fluorescent glow appeared on the glass opposite to cathode.", "fibs": ["glow"]}
+{"text": "The colour of glow of the glass depended on the type of glass, it  being  yellowish-green for soda glass.", "fibs": ["colour"]}
+{"text": "The cause of this fluorescence was attributed to the radiation which appeared to be coming from the cathode.", "fibs": ["cause"]}
+{"text": "These cathode rays were discovered, in 1870, by William Crookes who later, in 1879, suggested that these rays consisted of streams of fast moving negatively charged particles.", "fibs": ["cathode"]}
+{"text": "The British physicist J. J. Thomson (1856-1940) confirmed this hypothesis.", "fibs": ["physicist"]}
+{"text": "By applying mutually perpendicular electric and magnetic fields across the discharge tube, J. J. Thomson was the first to determine experimentally the speed and the specific charge [charge to mass ratio (e/m)] of the cathode ray particles.", "fibs": ["discharge"]}
+{"text": "They were found to travel with speeds ranging from about 0.1 to 0.2 times the speed of light (3 ×108 m/s).", "fibs": ["travel"]}
+{"text": "The presently accepted value of e/m is 1.76 × 10­11 C/kg.", "fibs": ["value"]}
+{"text": "Further, the value of e/m was found to be independent of the nature of the material/metal used as the cathode (emitter), or the gas introduced in the discharge tube.", "fibs": ["value"]}
+{"text": "This observation suggested the universality of the cathode ray particles.", "fibs": ["observation"]}
+{"text": "Around the same time, in 1887, it was found that certain metals, when irradiated by ultraviolet light, emitted negatively charged particles having small speeds.", "fibs": ["time"]}
+{"text": "Also, certain metals when heated to a high temperature were found to emit negatively charged particles.", "fibs": ["temperature"]}
+{"text": "The value of e/m of these particles was found to be the same as that for cathode ray particles.", "fibs": ["value"]}
+{"text": "These observations thus established that all these particles, although produced under different conditions, were identical in nature.", "fibs": ["nature"]}
+{"text": "J. J. Thomson, in 1897, named these particles as electrons, and suggested that they were fundamental, universal  constituents of matter.", "fibs": ["matter"]}
+{"text": "For his epoch-making discovery of electron, through his theoretical and experimental investigations on conduction of electricity by gasses, he was awarded the Nobel Prize in Physics in 1906.", "fibs": ["discovery"]}
+{"text": "In 1913, the American physicist R. A. Millikan (1868-1953) performed the pioneering oil-drop experiment for the precise measurement of the charge on an electron.", "fibs": ["physicist"]}
+{"text": "He found that  the charge on an oil-droplet was always an integral multiple of an elementary charge, 1.602 × 10–19 C. Millikan’s experiment established that electric charge is quantised.", "fibs": ["charge"]}
+{"text": "From the values of charge (e) and specific charge (e/m), the mass (m) of the electron could be determined.", "fibs": ["charge"]}
+{"text": "11.2  Electron Emission
+We know that metals have free electrons (negatively charged particles) that are responsible for their conductivity.", "fibs": ["Emission"]}
+{"text": "However, the free electrons cannot normally escape out of the metal surface.", "fibs": ["metal"]}
+{"text": "If an electron attempts to come out of the metal, the metal surface acquires a positive charge  and pulls the electron back to  the metal.", "fibs": ["electron"]}
+{"text": "The free electron is thus held inside the metal surface by the attractive forces of the ions.", "fibs": ["electron"]}
+{"text": "Consequently, the electron can come out of the metal surface only if it has got sufficient energy to overcome the attractive pull.", "fibs": ["electron"]}
+{"text": "A certain minimum amount of energy is required to be given  to an electron to pull it out from the surface of the metal.", "fibs": ["amount"]}
+{"text": "This minimum energy required by an electron to escape from the metal surface is called the work function of the metal.", "fibs": ["energy"]}
+{"text": "It is generally denoted by φ0 and measured in ev (electron volt).", "fibs": ["φ0"]}
+{"text": "One electron volt is the energy gained by an electron when it has been accelerated by  a  potential difference  of 1 volt, so that  1 eV = 1.602 ×10–19 J.", "fibs": ["electron"]}
+{"text": "This unit of energy is commonly used in atomic and nuclear physics.", "fibs": ["unit"]}
+{"text": "The work function (φ0)  depends on the properties of the metal and the nature of its surface.", "fibs": ["work"]}
+{"text": "The values of work function of some metals are given in Table 11.1.", "fibs": ["work"]}
+{"text": "These values are approximate as they are very sensitive to surface impurities.", "fibs": ["surface"]}
+{"text": "Note from Table 11.1 that the work function of platinum is the highest (φ0 = 5.65 eV) while it is the lowest (φ0 = 2.14 eV) for caesium.", "fibs": ["Table"]}
+{"text": "The minimum energy required for the electron emission from the metal surface can be supplied to the free electrons by any one of the following physical processes:
+
+
+
+
+
+(i)	Thermionic emission: By suitably heating, sufficient thermal energy can be imparted to the free electrons to enable them to come out of the metal.", "fibs": ["energy"]}
+{"text": "(ii)	Field emission: By applying a very strong electric field (of the order of 108 V m–1) to a metal, electrons can be pulled out of the metal, as in a spark plug.", "fibs": ["ii"]}
+{"text": "(iii)	Photoelectric emission: When light of suitable frequency illuminates a metal surface, electrons are emitted from the metal surface.", "fibs": ["iii"]}
+{"text": "11.3  Photoelectric Effect
+11.3.1  Hertz’s observations
+The phenomenon of photoelectric emission was discovered in 1887 by Heinrich Hertz (1857-1894), during his electromagnetic wave experiments.", "fibs": ["Effect"]}
+{"text": "In his experimental investigation on the production of electromagnetic waves by means of a spark discharge, Hertz observed that high voltage sparks across the detector loop were enhanced when the emitter plate was illuminated by ultraviolet light from an arc lamp.", "fibs": ["investigation"]}
+{"text": "Light shining on the metal surface somehow facilitated the escape of free, charged particles which we now know as electrons.", "fibs": ["metal"]}
+{"text": "When light falls on a metal surface, some electrons near the surface absorb enough energy from the incident radiation to overcome the attraction of the positive ions in the material of the surface.", "fibs": ["light"]}
+{"text": "After gaining sufficient energy from the incident light, the electrons escape from the surface of the metal into the surrounding space.", "fibs": ["energy"]}
+{"text": "11.3.2  Hallwachs’ and Lenard’s observations
+Wilhelm Hallwachs and Philipp Lenard investigated the phenomenon of photoelectric emission in detail during 1886-1902.", "fibs": ["’"]}
+{"text": "Lenard (1862-1947) observed that when ultraviolet radiations were allowed to fall on the emitter plate of an evacuated glass tube enclosing two electrodes (metal plates), current flows in the circuit (Fig.", "fibs": ["fall"]}
+{"text": "As soon as the ultraviolet radiations were stopped, the current flow also stopped.", "fibs": ["flow"]}
+{"text": "These observations indicate that when ultraviolet radiations fall on the emitter plate C, electrons are ejected from it which are attracted towards the positive, collector plate A by the electric field.", "fibs": ["fall"]}
+{"text": "The electrons flow through the evacuated glass tube, resulting in the current flow.", "fibs": ["flow"]}
+{"text": "Thus, light falling on the surface of the emitter causes current in the external circuit.", "fibs": ["light"]}
+{"text": "Hallwachs and Lenard studied how this photo current varied with collector plate potential, and with frequency and intensity of incident light.", "fibs": ["photo"]}
+{"text": "Hallwachs, in 1888, undertook the study further and connected a negatively charged zinc plate to an electroscope.", "fibs": ["study"]}
+{"text": "He observed that the zinc plate lost its charge when it was illuminated by ultraviolet light.", "fibs": ["zinc"]}
+{"text": "Further, the uncharged zinc plate became positively charged when it was irradiated by ultraviolet light.", "fibs": ["zinc"]}
+{"text": "Positive charge on a  positively charged zinc plate was found to be further enhanced when it was illuminated by ultraviolet light.", "fibs": ["charge"]}
+{"text": "From these observations he concluded that negatively charged particles were emitted from the zinc plate under the action of ultraviolet light.", "fibs": ["zinc"]}
+{"text": "After the discovery of the electron in 1897, it became evident that the incident light causes electrons to be emitted from the emitter plate.", "fibs": ["discovery"]}
+{"text": "Due to negative charge, the emitted electrons are pushed towards the collector plate by the electric field.", "fibs": ["charge"]}
+{"text": "Hallwachs and  Lenard also observed that when ultraviolet light fell on the emitter plate, no electrons were emitted at all when the frequency of the incident light was smaller than a certain minimum value, called the threshold frequency.", "fibs": ["light"]}
+{"text": "This minimum frequency depends on the nature of the material of the emitter plate.", "fibs": ["frequency"]}
+{"text": "It was found that certain metals like zinc, cadmium, magnesium, etc., responded only to ultraviolet light, having short wavelength, to cause electron emission from the surface.", "fibs": ["zinc"]}
+{"text": "However, some alkali metals such as lithium, sodium, potassium, caesium and rubidium were sensitive even to visible light.", "fibs": ["lithium"]}
+{"text": "All these photosensitive substances emit electrons when they are illuminated by light.", "fibs": ["light"]}
+{"text": "After the discovery of electrons, these electrons were termed as photoelectrons.", "fibs": ["discovery"]}
+{"text": "The phenomenon is called  photoelectric effect.", "fibs": ["phenomenon"]}
+{"text": "11.4 Experimental Study of Photoelectric Effect
+Figure 11.1 depicts a  schematic view of the arrangement used for the experimental study of the photoelectric effect.", "fibs": ["Effect"]}
+{"text": "It consists of an evacuated glass/quartz tube having a photosensitive plate C and another metal plate A. Monochromatic light from the source S of sufficiently short wavelength passes through the window W and falls on the photosensitive plate C  (emitter).", "fibs": ["glass/quartz"]}
+{"text": "A transparent quartz window is sealed on to the glass tube, which permits ultraviolet radiation to pass through it and irradiate the photosensitive plate C. The electrons are emitted by the plate C and are collected by the plate A (collector), by the electric field created by the battery.", "fibs": ["quartz"]}
+{"text": "The battery maintains the potential difference between the plates C and A, that can be varied.", "fibs": ["battery"]}
+{"text": "The polarity of the plates C and A can be reversed by a commutator.", "fibs": ["polarity"]}
+{"text": "Thus, the plate A can be maintained at a desired positive or negative potential with respect to emitter C. When the collector plate A is positive with respect to the emitter plate C, the electrons are attracted to it.", "fibs": ["plate"]}
+{"text": "The emission of electrons causes flow of electric current in the circuit.", "fibs": ["emission"]}
+{"text": "The potential difference between the emitter and collector plates is measured by a voltmeter (V) whereas the resulting photo current flowing in the circuit is measured by a microammeter (µA).", "fibs": ["difference"]}
+{"text": "The photoelectric current can be increased or decreased by varying the potential of collector plate A with respect to the emitter plate C. The intensity and frequency of the incident light can be varied, as can the potential difference V between the emitter C and the collector A.", "fibs": ["photoelectric"]}
+{"text": "Figure 11.1 Experimental arrangement for  study of photoelectric effect.", "fibs": ["Figure"]}
+{"text": "11.4.1  Effect of intensity of light on photocurrent
+The collector A is maintained at a positive potential with respect to emitter C so that electrons ejected from C are attracted towards collector A.", "fibs": ["Effect"]}
+{"text": "Keeping the frequency of the incident radiation and the potential fixed, the intensity of light is varied and the resulting photoelectric current is measured each time.", "fibs": ["frequency"]}
+{"text": "It is found that the photocurrent increases linearly with intensity of incident light as shown graphically in Fig.", "fibs": ["photocurrent"]}
+{"text": "The photocurrent is directly  proportional to the number of photoelectrons emitted per second.", "fibs": ["photocurrent"]}
+{"text": "This implies that the number of photoelectrons emitted per second is directly proportional to the intensity of incident radiation.", "fibs": ["number"]}
+{"text": "Figure 11.2 Variation of Photoelectric current with intensity of light.", "fibs": ["Figure"]}
+{"text": "11.4.2  Effect of potential on photoelectric current 
+We first keep the plate A at some positive potential with respect to the plate C and illuminate the plate C with light of fixed frequency ν  and fixed intensity I1.", "fibs": ["Effect"]}
+{"text": "We next vary the positive potential of plate A gradually and measure the resulting photocurrent each time.", "fibs": ["plate"]}
+{"text": "It is found that the photoelectric current increases with increase in positive (accelerating) potential.", "fibs": ["photoelectric"]}
+{"text": "At some stage, for a certain positive potential of plate A, all the emitted electrons are  collected by the plate A and the photoelectric current becomes maximum or  saturates.", "fibs": ["stage"]}
+{"text": "If we increase the accelerating potential of plate A further, the photocurrent does not increase.", "fibs": ["increase"]}
+{"text": "This maximum value of the photoelectric current is called  saturation current.", "fibs": ["value"]}
+{"text": "Saturation current corresponds to the case when all the photoelectrons emitted by the emitter plate C reach the collector plate A.", "fibs": ["Saturation"]}
+{"text": "We now apply a negative (retarding) potential to the plate A with respect to the plate C and make it increasingly negative gradually.", "fibs": ["plate"]}
+{"text": "When the polarity is reversed, the electrons are repelled and only the most energetic electrons are able to reach the collector A.", "fibs": ["polarity"]}
+{"text": "The photocurrent is found to decrease rapidly until it drops to zero at a certain sharply defined, critical value of the negative potential V0 on the plate A.", "fibs": ["photocurrent"]}
+{"text": "For a particular frequency of incident radiation, the minimum negative (retarding) potential V0 given to the plate A for which the photocurrent stops or becomes zero is called the cut-off or stopping potential.", "fibs": ["frequency"]}
+{"text": "Figure 11.3 Variation of photocurrent with collector plate potential for different intensity of incident radiation.", "fibs": ["Figure"]}
+{"text": "The interpretation of the observation in terms of photoelectrons is straightforward.", "fibs": ["interpretation"]}
+{"text": "All the photoelectrons emitted from the metal do not have the same energy.", "fibs": ["metal"]}
+{"text": "Photoelectric current is zero when the stopping potential is sufficient to repel even the most energetic photoelectrons, with the maximum kinetic energy (Kmax), so that
+Kmax = e V0    (11.1)
+We can now repeat this experiment with incident radiation of the same frequency but of higher intensity I2 and I3 (I3 > I2 > I1).", "fibs": ["energy"]}
+{"text": "We note that the saturation currents are now found to be at higher values.", "fibs": ["note"]}
+{"text": "This shows that more electrons are being emitted per second, proportional to the intensity of incident radiation.", "fibs": ["intensity"]}
+{"text": "But the stopping potential remains the same as that for the incident radiation of intensity I1, as shown graphically in Fig.", "fibs": ["incident"]}
+{"text": "Thus, for a given frequency of the incident radiation, the stopping potential is independent of its intensity.", "fibs": ["frequency"]}
+{"text": "In other words, the maximum kinetic energy of photoelectrons depends on the light source and the emitter plate material, but is independent of intensity of incident radiation.", "fibs": ["energy"]}
+{"text": "11.4.3	Effect of frequency of incident radiation on stopping potential
+We now study the relation between the frequency ν of the incident radiation and the stopping potential V0.", "fibs": ["Effect"]}
+{"text": "We suitably adjust the same intensity of light radiation at various frequencies and study the variation of photocurrent with collector plate potential.", "fibs": ["intensity"]}
+{"text": "The resulting variation is shown in Fig.", "fibs": ["variation"]}
+{"text": "We obtain different values of stopping potential but the same value of the saturation current for incident radiation of different frequencies.", "fibs": ["value"]}
+{"text": "The energy of the emitted electrons depends on the frequency of the incident radiations.", "fibs": ["energy"]}
+{"text": "The stopping potential is more negative for higher frequencies of incident radiation.", "fibs": ["incident"]}
+{"text": "Note from Fig.", "fibs": ["Fig"]}
+{"text": "11.4  that the stopping potentials are in the order V03 > V02 > V01 if the frequencies are in the order ν3 > ν2 > ν1 .", "fibs": ["order"]}
+{"text": "This implies that greater the frequency of incident light, greater is the maximum kinetic energy of the photoelectrons.", "fibs": ["frequency"]}
+{"text": "Consequently, we need greater retarding potential to stop them completely.", "fibs": ["need"]}
+{"text": "If we plot a graph between the frequency of incident radiation and the corresponding stopping potential for different metals we get a straight line, as shown in Fig.", "fibs": ["plot"]}
+{"text": "Figure 11.4 Variation of photoelectric current with collector plate potential for different frequencies of incident radiation.", "fibs": ["Figure"]}
+{"text": "Figure 11.5 Variation of stopping potential V0 with frequency ν of incident radiation for a given photosensitive material.", "fibs": ["Figure"]}
+{"text": "The graph shows that
+(i)	the stopping potential V0 varies linearly with the frequency of incident radiation for a given photosensitive material.", "fibs": ["graph"]}
+{"text": "(ii)	there exists a certain minimum cut-off frequency ν0 for which the stopping potential is zero.", "fibs": ["ii"]}
+{"text": "These observations have two implications:
+(i)	The maximum kinetic energy of the photoelectrons varies linearly with the frequency of incident radiation, but is independent of its intensity.", "fibs": ["energy"]}
+{"text": "(ii) For a frequency ν of incident radiation, lower than the cut-off frequency ν0, no photoelectric emission is possible even if the intensity is large.", "fibs": ["ii"]}
+{"text": "This minimum, cut-off frequency ν0, is called the threshold frequency.", "fibs": ["frequency"]}
+{"text": "Different photosensitive materials respond differently to light.", "fibs": ["light"]}
+{"text": "Selenium is more sensitive than zinc or copper.", "fibs": ["zinc"]}
+{"text": "The same photosensitive substance  gives different response to light of different wavelengths.", "fibs": ["substance"]}
+{"text": "For example, ultraviolet light gives rise to  photoelectric effect in copper  while green or red light does not.", "fibs": ["example"]}
+{"text": "Note that in all the above experiments, it is found that, if frequency of the incident radiation exceeds the threshold frequency, the photoelectric emission starts instantaneously without any apparent time lag, even if the incident radiation is very dim.", "fibs": ["frequency"]}
+{"text": "It is now known that emission starts in a time of the order of 10–9 s or less.", "fibs": ["emission"]}
+{"text": "We now summarise the experimental features and observations described in this section.", "fibs": ["section"]}
+{"text": "(i)	For a given photosensitive material and frequency of incident radiation (above the threshold frequency), the photoelectric current is directly proportional to the intensity of incident light (Fig.", "fibs": ["material"]}
+{"text": "(ii)	For a given photosensitive material and frequency of incident radiation, saturation current is found to be proportional to the intensity of incident radiation whereas the stopping potential is independent of its intensity (Fig.", "fibs": ["ii"]}
+{"text": "(iii)	For a given photosensitive material, there exists a certain minimum cut-off frequency of the incident radiation, called the threshold frequency, below which no emission of photoelectrons takes place, no matter how intense the incident light is.", "fibs": ["iii"]}
+{"text": "Above the threshold frequency, the stopping potential or equivalently the maximum kinetic energy of the emitted photoelectrons increases linearly with the frequency of the incident radiation, but is independent of its intensity (Fig.", "fibs": ["threshold"]}
+{"text": "(iv)	The photoelectric emission is an instantaneous process without any apparent time lag (∼10–9s or less), even when the incident radiation is made exceedingly dim.", "fibs": ["iv"]}
+{"text": "11.5	Photoelectric Effect and Wave Theory oF Light
+The wave nature of light was well established by the end of the nineteenth century.", "fibs": ["Effect"]}
+{"text": "The phenomena of interference, diffraction and polarisation were explained in a natural and satisfactory way by the wave picture of light.", "fibs": ["interference"]}
+{"text": "According to this picture, light is an electromagnetic wave consisting  of electric and magnetic fields with continuous distribution of energy over the region of space over which the wave is extended.", "fibs": ["picture"]}
+{"text": "Let us now see if this wave picture of light can explain the observations on photoelectric  emission given in the previous section.", "fibs": ["wave"]}
+{"text": "According to the wave picture of light, the free electrons at the surface of the metal (over which the beam of radiation falls) absorb the radiant energy continuously.", "fibs": ["wave"]}
+{"text": "The greater the intensity of radiation, the greater are the amplitude of electric and magnetic fields.", "fibs": ["intensity"]}
+{"text": "Consequently, the greater the intensity, the greater should be the energy absorbed by each electron.", "fibs": ["intensity"]}
+{"text": "In this picture, the maximum kinetic energy of the photoelectrons on the surface is then expected to increase with increase in intensity.", "fibs": ["picture"]}
+{"text": "Also, no matter what the frequency of radiation is, a sufficiently intense beam of radiation (over sufficient time) should be able to impart enough energy to the electrons, so that they exceed the minimum energy needed to escape from the metal surface .", "fibs": ["matter"]}
+{"text": "A threshold frequency, therefore, should not exist.", "fibs": ["threshold"]}
+{"text": "These expectations of the wave theory directly contradict observations (i), (ii) and (iii) given at the end of sub-section 11.4.3.", "fibs": ["wave"]}
+{"text": "Further, we should note that in the wave picture, the absorption of energy by electron takes place continuously over the entire wavefront of the radiation.", "fibs": ["note"]}
+{"text": "Since a large number of electrons absorb energy, the energy absorbed per electron per unit time turns out to be small.", "fibs": ["number"]}
+{"text": "Explicit calculations estimate that it can take hours or more for a single electron to pick up sufficient energy to overcome the work function and come out of the metal.", "fibs": ["estimate"]}
+{"text": "This conclusion is again in striking contrast to observation (iv) that the photoelectric emission is instantaneous.", "fibs": ["conclusion"]}
+{"text": "In short, the wave picture is unable to explain the most basic features of  photoelectric  emission.", "fibs": ["wave"]}
+{"text": "11.6	Einstein’s Photoelectric Equation: Energy Quantum of Radiation
+In 1905, Albert Einstein (1879-1955) proposed a radically new picture of electromagnetic radiation to explain photoelectric effect.", "fibs": ["’"]}
+{"text": "In this picture, photoelectric emission does not take place by continuous absorption of energy from radiation.", "fibs": ["picture"]}
+{"text": "Radiation energy is built up of discrete units – the so called quanta of energy of radiation.", "fibs": ["Radiation"]}
+{"text": "Each quantum of radiant energy has energy hν, where h is Planck’s constant and ν the frequency of light.", "fibs": ["quantum"]}
+{"text": "In photoelectric effect, an electron absorbs a quantum of energy (hν) of radiation.", "fibs": ["photoelectric"]}
+{"text": "If this quantum of energy absorbed exceeds the minimum energy needed for the electron to escape from the metal surface (work function φ0), the electron is emitted with maximum kinetic energy 
+Kmax = hν – φ0           	(11.2)
+More tightly bound electrons will emerge with kinetic energies less than the maximum value.", "fibs": ["quantum"]}
+{"text": "Note that the intensity of light of a given frequency is determined by the number of photons incident per second.", "fibs": ["intensity"]}
+{"text": "Increasing the intensity will increase the number of emitted electrons per second.", "fibs": ["intensity"]}
+{"text": "However, the maximum kinetic energy of the emitted photoelectrons is determined by the energy of each photon.", "fibs": ["energy"]}
+{"text": "Albert Einstein (1879 – 1955)
+
+
+
+
+
+
+Albert Einstein (1879 – 1955) Einstein, one of the greatest physicists of all time, was born in Ulm, Germany.", "fibs": ["time"]}
+{"text": "In the first paper, he introduced the notion of light quanta (now called photons) and used it to explain the features of photoelectric effect.", "fibs": ["paper"]}
+{"text": "In the second paper, he developed a theory of Brownian motion, confirmed experimentally a few years later and provided a convincing evidence of the atomic picture of matter.", "fibs": ["paper"]}
+{"text": "The third paper gave birth to the special theory of relativity.", "fibs": ["paper"]}
+{"text": "In 1916, he published the general theory of relativity.", "fibs": ["theory"]}
+{"text": "Some of Einstein’s most significant later contributions are: the notion of stimulated emission introduced in an alternative derivation of Planck’s blackbody radiation law, static model of the universe which started modern cosmology, quantum statistics of a gas of massive bosons, and a critical analysis of the foundations of quantum mechanics.", "fibs": ["’"]}
+{"text": "In 1921, he was awarded the Nobel Prize in physics for his contribution to theoretical physics and the photoelectric effect.", "fibs": ["physics"]}
+{"text": "Equation (11.2) is known as Einstein’s photoelectric equation.", "fibs": ["Equation"]}
+{"text": "We now see how this equation accounts in a simple and elegant manner all the observations on photoelectric effect given at the end of  sub-section 11.4.3.", "fibs": ["equation"]}
+{"text": "•	According to Eq.", "fibs": ["•"]}
+{"text": "(11.2), Kmax depends linearly on ν, and is independent of intensity of radiation, in agreement with observation.", "fibs": ["ν"]}
+{"text": "This has happened because in Einstein’s picture, photoelectric effect arises from the absorption of a single quantum of radiation by a single electron.", "fibs": ["’"]}
+{"text": "The intensity of radiation (that is proportional to the number of energy quanta per unit area per unit time) is irrelevant to this basic process.", "fibs": ["intensity"]}
+{"text": "•	Since Kmax must be non-negative, Eq.", "fibs": ["•"]}
+{"text": "(11.2 ) implies that photoelectric emission is possible only if
+	h ν > φ0
+	or 	ν > ν0 , where 
+	ν0 =       	(11.3)
+ Equation (11.3) shows that the greater the work function φ0, the higher the minimum or threshold frequency ν0 needed to emit photoelectrons.", "fibs": ["photoelectric"]}
+{"text": "Thus, there exists a threshold frequency ν0 (= φ0/h) for the metal surface, below which no photoelectric  emission is possible, no matter how intense the incident radiation may be or how long it falls on the surface.", "fibs": ["threshold"]}
+{"text": "•	In this picture, intensity of radiation as noted above, is proportional to the number of energy quanta per unit area per unit time.", "fibs": ["•"]}
+{"text": "The greater the number of energy quanta available, the greater is the number of electrons absorbing the energy quanta  and greater, therefore, is the number of electrons coming out of the metal (for ν > ν0).", "fibs": ["number"]}
+{"text": "This explains why, for ν > ν0 , photoelectric current is proportional to intensity.", "fibs": ["ν"]}
+{"text": "•	In Einstein’s picture, the basic elementary process involved in photoelectric effect is the absorption of a light quantum by an electron.", "fibs": ["•"]}
+{"text": "This process is instantaneous.", "fibs": ["process"]}
+{"text": "Thus, whatever may be the intensity i.e., the number of quanta of radiation per unit area per unit time, photoelectric emission is instantaneous.", "fibs": ["intensity"]}
+{"text": "Low intensity does not mean delay in emission, since the basic elementary process is the same.", "fibs": ["intensity"]}
+{"text": "Intensity only determines how many electrons are able to participate in the elementary process (absorption of a light quantum by a single electron) and, therefore, the photoelectric current.", "fibs": ["Intensity"]}
+{"text": "Using Eq.", "fibs": ["Eq."]}
+{"text": "(11.1), the photoelectric equation, Eq.", "fibs": ["photoelectric"]}
+{"text": "(11.2), can be written as
+e V0 = h ν  – φ0; for 
+or  V0 =  (11.4) 
+This is an important result.", "fibs": ["h"]}
+{"text": "It predicts that the V0 versus ν  curve is a straight line with slope = (h/e), independent of the nature of the material.", "fibs": ["ν"]}
+{"text": "During 1906-1916, Millikan performed a series of experiments on photoelectric effect, aimed at disproving Einstein’s photoelectric equation.", "fibs": ["series"]}
+{"text": "He measured the slope of the straight line obtained for sodium, similar to that shown in Fig.", "fibs": ["slope"]}
+{"text": "Using the known value of e, he determined the value of Planck’s constant h. This value was close to the value of Planck’s contant (= 6.626 × 10–34J s) determined in an entirely different context.", "fibs": ["value"]}
+{"text": "In this way, in 1916, Millikan proved the validity of Einstein’s photoelectric equation, instead of disproving it.", "fibs": ["way"]}
+{"text": "The successful explanation of photoelectric effect using the hypothesis of light quanta and the experimental determination of values of h and φ0, in agreement with values obtained from other experiments, led to the acceptance of Einstein’s picture of photoelectric effect.", "fibs": ["explanation"]}
+{"text": "Millikan verified photoelectric equation with great precision, for a number of alkali metals over a wide range of radiation frequencies.", "fibs": ["photoelectric"]}
+{"text": "11.7  Particle Nature of Light: The Photon
+Photoelectric effect thus gave evidence to the strange fact that light in interaction with matter behaved as if it was made of quanta or packets of energy, each of energy h ν.", "fibs": ["effect"]}
+{"text": "Is the light quantum of energy to be associated with a particle?", "fibs": ["light"]}
+{"text": "Einstein arrived at the important result, that the light quantum can also be associated with momentum (h ν/c).", "fibs": ["result"]}
+{"text": "A definite value of energy as well as momentum is a strong sign that the light quantum can be associated with a particle.", "fibs": ["value"]}
+{"text": "This particle was later named photon.", "fibs": ["particle"]}
+{"text": "The particle-like behaviour of light was further confirmed, in 1924, by the experiment of A.H. Compton (1892-1962) on scattering of X-rays from electrons.", "fibs": ["behaviour"]}
+{"text": "In 1921, Einstein was awarded the Nobel Prize in Physics for his contribution to theoretical physics and the photoelectric effect.", "fibs": ["contribution"]}
+{"text": "In 1923, Millikan was awarded the Nobel Prize in physics for his work on the elementary charge of electricity and on the photoelectric effect.", "fibs": ["physics"]}
+{"text": "We can summarise the photon picture of electromagnetic  radiation as follows:
+(i) In interaction of radiation with matter, radiation behaves as if it is made up of particles called photons.", "fibs": ["photon"]}
+{"text": "(ii) Each photon has energy E (=hν) and momentum p (= h ν/c), and  speed c, the speed of light.", "fibs": ["ii"]}
+{"text": "(iii)	All photons of light of a particular frequency  ν, or wavelength λ, have the same energy E (=hν = hc/λ) and momentum  p (= hν/c= h/λ), whatever the intensity of radiation may be.", "fibs": ["iii"]}
+{"text": "By increasing the intensity of light of given wavelength, there is only an increase in the number of photons per second crossing a given area, with each photon having the same energy.", "fibs": ["intensity"]}
+{"text": "Thus, photon energy is independent of intensity of radiation.", "fibs": ["photon"]}
+{"text": "(iv) Photons are electrically neutral and are not deflected by electric and magnetic fields.", "fibs": ["iv"]}
+{"text": "(v) In a photon-particle collision (such as photon-electron collision), the total energy and total momentum are conserved.", "fibs": ["v"]}
+{"text": "However, the number of photons may not be conserved in a collision.", "fibs": ["number"]}
+{"text": "The photon may be absorbed or a new photon may be created.", "fibs": ["photon"]}
+{"text": "Example 11.1 Monochromatic light of frequency 6.0 ×1014 Hz is produced by a laser.", "fibs": ["Example"]}
+{"text": "The power emitted is 2.0 ×10–3 W. (a) What is the energy of a photon in the light beam?", "fibs": ["power"]}
+{"text": "(b) How many photons per second, on an average, are emitted by the source?", "fibs": ["b"]}
+{"text": "Solution
+(a) Each photon has an energy
+E = h ν = ( 6.63 ×10–34 J s) (6.0 ×1014 Hz)
+= 3.98 × 10–19 J
+(b)	If N is the number of photons emitted by the source per second, the power P transmitted in the beam equals N times the energy per photon E, so that P = N E. Then
+N = 
+= 5.0 ×1015 photons per second.", "fibs": ["photon"]}
+{"text": "Example 11.2 The work function of caesium is 2.14 eV.", "fibs": ["Example"]}
+{"text": "Find (a) the threshold frequency for caesium, and (b) the wavelength of the incident light if the photocurrent is brought to zero by a stopping potential of 0.60 V.
+Solution
+(a)	For the cut-off or threshold frequency, the energy h ν0 of the incident radiation must be equal to work function φ0, so that
+ν0 = 
+
+Thus, for frequencies less than this threshold frequency, no photoelectrons are ejected.", "fibs": ["threshold"]}
+{"text": "(b)	Photocurrent reduces to zero, when maximum kinetic energy of the emitted photoelectrons equals the potential energy e V0 by the retarding potential V0.", "fibs": ["b"]}
+{"text": "Einstein’s Photoelectric equation is
+eV0 = hν – φ0 =  – φ0
+or,	λ = hc/(eV0 + φ0)
+
+
+
+Example 11.3 The wavelength of light in the visible region is about 390 nm for violet colour, about 550 nm (average wavelength) for yellow-green colour and about 760 nm for red colour.", "fibs": ["’"]}
+{"text": "(a)	What are the energies of photons in (eV) at the (i) violet end, (ii) average wavelength, yellow-green colour, and (iii) red end of the visible spectrum?", "fibs": ["eV"]}
+{"text": "(Take h = 6.63×10–34 J s and 1 eV = 1.6×10 –19J.)", "fibs": ["h"]}
+{"text": "(b)	From which of the photosensitive materials with work functions listed in Table 11.1 and using the results of (i), (ii) and (iii) of (a), can you build a photoelectric device that operates with visible light?", "fibs": ["b"]}
+{"text": "Solution
+(a)	Energy of the incident photon, E = hν = hc/λ
+E = (6.63×10–34J s) (3×108 m/s)/λ
+
+(i)	For violet light, λ1 = 390 nm (lower wavelength end)
+Incident photon energy, E1 = 
+= 5.10 × 10–19J
+ = 3.19 eV
+(ii)	For yellow-green light, λ2 = 550 nm (average wavelength)
+Incident photon energy, E2 = 
+= 3.62×10–19 J = 2.26 eV
+(iii)	For red light, λ3 = 760 nm (higher wavelength end)
+Incident photon energy, E3 = 
+= 2.62×10–19 J = 1.64 eV
+
+(b)	For a photoelectric device to operate, we require incident light energy E to be equal to or greater than the work function φ0 of the material.", "fibs": ["incident"]}
+{"text": "Thus, the photoelectric device will operate with violet light (with E = 3.19 eV) photosensitive material Na (with φ0 = 2.75 eV), K (with φ0 = 2.30 eV) and Cs (with φ0 = 2.14 eV).", "fibs": ["photoelectric"]}
+{"text": "It will also operate with yellow-green light (with E = 2.26 eV) for Cs (with φ0 = 2.14 eV) only.", "fibs": ["light"]}
+{"text": "However, it will not operate with red light (with E = 1.64 eV) for any of these photosensitive materials.", "fibs": ["light"]}
+{"text": "11.8  Wave Nature of Matter
+The dual (wave-particle) nature of light (electromagnetic radiation, in general) comes out clearly from what we have learnt in this and the preceding chapters.", "fibs": ["Matter"]}
+{"text": "The wave nature of light shows up in the phenomena of interference, diffraction and polarisation.", "fibs": ["wave"]}
+{"text": "On the other hand, in photoelectric effect and Compton effect which involve energy and momentum transfer, radiation behaves as if it is made up of a bunch of particles – the photons.", "fibs": ["hand"]}
+{"text": "Whether a particle or wave description is best suited for understanding an experiment depends on the nature of the experiment.", "fibs": ["particle"]}
+{"text": "For example, in the familiar  phenomenon of seeing an object by our eye, both descriptions are important.", "fibs": ["example"]}
+{"text": "The gathering and focussing mechanism of light by the eye-lens is well described in the wave picture.", "fibs": ["gathering"]}
+{"text": "But its absorption by the rods and cones (of the retina) requires the photon picture of light.", "fibs": ["absorption"]}
+{"text": "A natural question arises: If radiation has a dual (wave-particle) nature, might not the particles of nature (the electrons, protons, etc.)", "fibs": ["question"]}
+{"text": "also exhibit wave-like character?", "fibs": ["exhibit"]}
+{"text": "In 1924, the French physicist Louis Victor de Broglie (pronounced as de Broy) (1892-1987) put forward the bold hypothesis that moving particles of matter should display wave-like properties under suitable conditions.", "fibs": ["physicist"]}
+{"text": "He reasoned that nature was symmetrical and that the two basic physical entities – matter and energy, must have symmetrical character.", "fibs": ["nature"]}
+{"text": "If radiation shows dual aspects, so should matter.", "fibs": ["radiation"]}
+{"text": "De Broglie proposed that the wave length λ  associated with a particle of momentum p is given as
+λ  =  (11.5)
+where m  is the mass of the particle and v its speed.", "fibs": ["wave"]}
+{"text": "Equation (11.5) is known as the de Broglie relation and the wavelength λ of the matter wave is called de Broglie wavelength.", "fibs": ["Equation"]}
+{"text": "The dual aspect of matter is evident in the de Broglie relation.", "fibs": ["aspect"]}
+{"text": "On the left hand side of Eq.", "fibs": ["hand"]}
+{"text": "(11.5), λ  is the attribute of a wave while on the right hand side the momentum p is a typical attribute of a particle.", "fibs": ["λ"]}
+{"text": "Planck’s constant  h  relates the two attributes.", "fibs": ["’"]}
+{"text": "Equation (11.5) for a material particle is basically a hypothesis whose validity can be tested only by experiment.", "fibs": ["Equation"]}
+{"text": "However, it is interesting to see that it is satisfied also by a photon.", "fibs": ["photon"]}
+{"text": "For a photon, as we have seen,
+p = hν /c	(11.6)  
+Therefore,
+	(11.7)
+That is, the de Broglie wavelength of a photon given by Eq.", "fibs": ["photon"]}
+{"text": "(11.5) equals the wavelength of electromagnetic radiation of which the photon is a quantum of energy and momentum.", "fibs": ["wavelength"]}
+{"text": "Clearly, from Eq.", "fibs": ["Eq."]}
+{"text": "(11.5 ), λ  is smaller for a heavier particle (large m) or more energetic particle (large v).", "fibs": ["λ"]}
+{"text": "For example, the de Broglie wavelength of a ball of mass 0.12 kg moving with a speed of 20 m s–1 is easily calculated: 
+Photocell
+A photocell is a technological application of the photoelectric effect.", "fibs": ["example"]}
+{"text": "It is a device whose electrical properties are affected by light.", "fibs": ["device"]}
+{"text": "It is also sometimes called an electric eye.", "fibs": ["eye"]}
+{"text": "A photocell consists of a semi-cylindrical photo-sensitive metal plate C (emitter) and a wire loop A (collector) supported in an evacuated glass or quartz bulb.", "fibs": ["photocell"]}
+{"text": "It is connected to the external circuit having a high-tension battery B and microammeter (µA) as shown in the Figure.", "fibs": ["circuit"]}
+{"text": "Sometimes, instead of the plate C, a thin layer of photosensitive material is pasted on the inside of the bulb.", "fibs": ["plate"]}
+{"text": "A part of the bulb is left clean for the light to enter it.", "fibs": ["part"]}
+{"text": "A photo cell
+When light of suitable wavelength falls on the emitter C, photoelectrons are emitted.", "fibs": ["photo"]}
+{"text": "These photoelectrons are drawn to the collector A. Photocurrent of the order of a few microampere can be normally obtained from a photo cell.", "fibs": ["collector"]}
+{"text": "A photocell converts a change in intensity of illumination into a change in photocurrent.", "fibs": ["photocell"]}
+{"text": "This current can be used to operate control systems and in light measuring devices.", "fibs": ["control"]}
+{"text": "A photocell of lead sulphide sensitive to infrared radiation is used in electronic ignition circuits.", "fibs": ["photocell"]}
+{"text": "A Photo cell
+In scientific work, photo cells are used whenever it is necessary to measure the intensity of light.", "fibs": ["cell"]}
+{"text": "Light meters in photographic cameras make use of photo cells to measure the intensity of incident light.", "fibs": ["use"]}
+{"text": "The photocells, inserted in the door light electric circuit, are used as automatic door opener.", "fibs": ["door"]}
+{"text": "A person approaching a doorway may interrupt a light beam which is incident on a photocell.", "fibs": ["person"]}
+{"text": "The abrupt change in photocurrent may be used to start a motor which opens the door or rings an alarm.", "fibs": ["change"]}
+{"text": "They are used in the control of a counting device which records every interruption of the light beam caused by a person or object passing across the beam.", "fibs": ["control"]}
+{"text": "So photocells help count the persons entering an auditorium, provided they enter the hall one by one.", "fibs": ["count"]}
+{"text": "They are used for detection of traffic law defaulters: an alarm may be sounded whenever a beam of (invisible) radiation is intercepted.", "fibs": ["detection"]}
+{"text": "In burglar alarm, (invisible) ultraviolet light is continuously made to fall on a photocell installed at the doorway.", "fibs": ["burglar"]}
+{"text": "A person entering the door interrupts the beam falling on the photocell.", "fibs": ["person"]}
+{"text": "The abrupt change in photocurrent is used to start an electric bell ringing.", "fibs": ["change"]}
+{"text": "In fire alarm, a number of photocells are installed at suitable places in a building.", "fibs": ["fire"]}
+{"text": "In the event of breaking out of fire, light radiations fall upon the photocell.", "fibs": ["event"]}
+{"text": "This completes the electric circuit through an electric bell or a siren which starts operating as a warning signal.", "fibs": ["circuit"]}
+{"text": "Photocells are used in the reproduction of sound in motion pictures and in the television camera for scanning and telecasting scenes.", "fibs": ["reproduction"]}
+{"text": "They are used in industries for detecting minor flaws or holes in metal sheets.", "fibs": ["metal"]}
+{"text": "p = m v = 0.12 kg × 20 m s–1 = 2.40 kg m s–1
+λ =  =  = 2.76 × 10–34 m
+This wavelength is so small that it is beyond any measurement.", "fibs": ["p"]}
+{"text": "This is the reason why macroscopic objects in our daily life do not show wave-like properties.", "fibs": ["reason"]}
+{"text": "On the other hand, in the sub-atomic domain, the wave character of particles is significant and measurable.", "fibs": ["hand"]}
+{"text": "Consider an electron (mass m, charge e) accelerated from rest through a potential V. The kinetic energy K of the electron equals the work done (eV ) on it by the electric field:
+K = e V               (11.8)
+Now	, K = m v2 =  , so that
+p =         (11.9)
+The de Broglie wavelength λ of the electron is then
+λ  =             	(11.10)
+Substituting the numerical values of h, m, e, we get
+                      (11.11)
+where V is the magnitude of accelerating potential in volts.", "fibs": ["electron"]}
+{"text": "For a 120 V accelerating potential, Eq.", "fibs": ["V"]}
+{"text": "(11.11) gives  λ  = 0.112 nm.", "fibs": ["λ"]}
+{"text": "This wavelength is of the same order as the spacing between the atomic planes in crystals.", "fibs": ["wavelength"]}
+{"text": "This suggests that matter waves associated with an electron could be verified by crystal diffraction experiments analogous to X-ray diffraction.", "fibs": ["matter"]}
+{"text": "We describe the experimental verification of the de Broglie hypothesis in the next section.", "fibs": ["verification"]}
+{"text": "In 1929, de Broglie was awarded the Nobel Prize in Physics for his discovery of the wave nature of electrons.", "fibs": ["discovery"]}
+{"text": "Louis Victor de Broglie (1892 – 1987)
+
+
+
+
+
+Louis Victor de Broglie (1892 – 1987) French physicist who put forth revolutionary idea of wave nature of matter.", "fibs": ["physicist"]}
+{"text": "This idea was developed by Erwin Schródinger into a full-fledged theory of quantum mechanics commonly known as wave mechanics.", "fibs": ["idea"]}
+{"text": "In 1929, he was awarded the Nobel Prize in Physics for his discovery of the wave nature of electrons.", "fibs": ["discovery"]}
+{"text": "The matter–wave picture elegantly incorporated the Heisenberg’s uncertainty principle.", "fibs": ["matter–wave"]}
+{"text": "According to the principle, it is not possible to measure both the position and momentum of an electron (or any other particle) at the same time exactly.", "fibs": ["principle"]}
+{"text": "There is always some uncertainty (∆ x) in the specification of position and some uncertainty (∆p) in the specification of momentum.", "fibs": ["uncertainty"]}
+{"text": "The product of  ∆x and ∆p is of the order of ö* (with ö = h/2π), i.e.,
+∆x ∆p ≈ ö	(11.12) 
+Equation (11.12) allows the possibility that ∆x is zero; but then ∆p must be infinite in order that the product is non-zero.", "fibs": ["product"]}
+{"text": "Similarly, if ∆p is zero, ∆x must be infinite.", "fibs": ["∆p"]}
+{"text": "Ordinarily, both ∆x and ∆p are non-zero such that their product is of the order of ö.", "fibs": ["∆x"]}
+{"text": "Now, if an electron has a definite momentum p, (i.e.∆p = 0), by the de Broglie relation, it has a definite wavelength λ.", "fibs": ["electron"]}
+{"text": "A wave of definite (single) wavelength extends all over space.", "fibs": ["wave"]}
+{"text": "By Born’s probability interpretation this means that the electron is not localised in any finite region of space.", "fibs": ["’"]}
+{"text": "That is, its position uncertainty is infinite (∆x → ∞), which is consistent with the uncertainty principle.", "fibs": ["position"]}
+{"text": "* A more rigorous treatment gives ∆x ∆p ≥  ö /2.", "fibs": ["treatment"]}
+{"text": "In general, the matter wave associated with the electron is not extended all over space.", "fibs": ["matter"]}
+{"text": "It is a wave packet extending over some finite region of space.", "fibs": ["wave"]}
+{"text": "In that case ∆x is not infinite but has some finite value depending on the extension of the wave packet.", "fibs": ["case"]}
+{"text": "Also, you must appreciate that a wave packet of finite extension does not have a single wavelength.", "fibs": ["wave"]}
+{"text": "It is built up of wavelengths spread around some central wavelength.", "fibs": ["spread"]}
+{"text": "By de Broglie’s relation, then, the momentum of the electron will also have a spread – an uncertainty ∆p.", "fibs": ["’"]}
+{"text": "This is as expected from the uncertainty principle.", "fibs": ["uncertainty"]}
+{"text": "It can be shown that the wave packet description together with de Broglie relation and Born’s probability interpretation reproduce the Heisenberg’s uncertainty principle exactly.", "fibs": ["wave"]}
+{"text": "Figure 11.6 (a) The wave packet description of an electron.", "fibs": ["Figure"]}
+{"text": "The wave packet corresponds to a spread of wavelength around some central wavelength (and hence by de Broglie relation,  a spread in momentum).", "fibs": ["wave"]}
+{"text": "Consequently, it is associated with an uncertainty in position  (∆x) and an uncertainty in momentum (∆p).", "fibs": ["uncertainty"]}
+{"text": "(b) The matter wave corresponding to a  definite momentum of an electron  extends all over space.", "fibs": ["b"]}
+{"text": "In this case,  ∆p = 0 and ∆ x → ∞.", "fibs": ["case"]}
+{"text": "In Chapter 12, the de Broglie relation will be seen to justify Bohr’s postulate on quantisation of angular momentum of electron in an atom.", "fibs": ["Chapter"]}
+{"text": "Figure 11.6 shows a schematic diagram of (a) a localised wave packet, and (b) an extended wave with fixed wavelength.", "fibs": ["Figure"]}
+{"text": "Example 11.4 What is the de Broglie wavelength associated with (a) an electron moving with a speed of 5.4×106 m/s, and (b) a ball of mass 150 g travelling at 30.0 m/s?", "fibs": ["Example"]}
+{"text": "Solution
+(a)	For the electron:
+	Mass m = 9.11×10–31 kg, speed v = 5.4×106 m/s.", "fibs": ["electron"]}
+{"text": "Then, momentum p  = m v = 9.11×10–31 (kg) × 5.4 × 106 (m/s)	
+ p  = 4.92 × 10–24 kg m/s
+	de Broglie wavelength, λ = h/p 
+	   = 
+	 λ = 0.135 nm
+(b)	For the ball:
+	Mass m’ = 0.150 kg, speed v ’ = 30.0 m/s.", "fibs": ["momentum"]}
+{"text": "Then momentum p’ = m’ v’ = 0.150 (kg) × 30.0 (m/s)
+ p’= 4.50 kg m/s
+	de Broglie wavelength λ’ = h/p’.", "fibs": ["momentum"]}
+{"text": "λ’	= 1.47 ×10–34 m
+The de Broglie wavelength of electron is comparable with X-ray wavelengths.", "fibs": ["λ"]}
+{"text": "However, for the ball it is about 10–19 times the size of the proton, quite beyond experimental measurement.", "fibs": ["ball"]}
+{"text": "Example 11.5 An electron, an α-particle, and a proton have the same kinetic energy.", "fibs": ["Example"]}
+{"text": "Which of these particles has the shortest de Broglie wavelength?", "fibs": ["wavelength"]}
+{"text": "Solution
+For a particle, de Broglie wavelength, λ = h/p
+Kinetic energy, K = p2/2m
+Then, 
+For the same kinetic energy K, the de Broglie wavelength associated with the particle is inversely proportional to the square root of their masses.", "fibs": ["particle"]}
+{"text": "A proton  is 1836 times massive than an electron and an α-particle  four times that of a proton.", "fibs": ["proton"]}
+{"text": "Hence, α – particle has the shortest de Broglie wavelength.", "fibs": ["α"]}
+{"text": "Probability interpretation to matter waves
+
+It is worth pausing here to reflect on just what a matter wave associated with a particle, say, an electron, means.", "fibs": ["Probability"]}
+{"text": "Actually, a truly satisfactory physical understanding of the dual nature of matter and radiation has not emerged so far.", "fibs": ["understanding"]}
+{"text": "The great founders of quantum mechanics (Niels Bohr, Albert Einstein, and many others) struggled with this and related concepts for long.", "fibs": ["quantum"]}
+{"text": "Still the deep physical interpretation of quantum mechanics continues to be an area of active research.", "fibs": ["interpretation"]}
+{"text": "Despite this, the concept of matter wave has been mathematically introduced in modern quantum mechanics with great success.", "fibs": ["concept"]}
+{"text": "An important milestone in this connection was when Max Born (1882-1970) suggested a probability interpretation to the matter wave amplitude.", "fibs": ["milestone"]}
+{"text": "According to this, the intensity (square of the amplitude) of the matter wave at a point determines the probability density of the particle at that point.", "fibs": ["intensity"]}
+{"text": "Probability density means probability per unit volume.", "fibs": ["Probability"]}
+{"text": "Thus, if A is the amplitude of the wave at a point, |A|2 ∆V is the probability of the particle being found in a small volume ∆V around that point.", "fibs": ["amplitude"]}
+{"text": "Thus, if the intensity of matter wave is large in a certain region, there is a greater probability of the particle being found there than where the intensity is small.", "fibs": ["intensity"]}
+{"text": "Example 11.6 A particle is moving three times as fast as an electron.", "fibs": ["Example"]}
+{"text": "The ratio of the de Broglie wavelength of the particle to that of the electron is 1.813 × 10–4.", "fibs": ["ratio"]}
+{"text": "Calculate the particle’s mass and identify the particle.", "fibs": ["particle"]}
+{"text": "Solution
+de Broglie wavelength of a moving particle, having mass m and velocity v:
+
+Mass, m = h/λv
+For an electron, mass me = h/λe ve
+Now, we have v/ve = 3 and 
+λ/λe  = 1.813 × 10–4
+Then, mass of the particle, m = me 
+m = (9.11×10–31 kg) × (1/3) × (1/1.813 × 10–4)
+m = 1.675 × 10–27 kg.", "fibs": ["wavelength"]}
+{"text": "Thus, the particle, with this mass could be a proton or a neutron.", "fibs": ["particle"]}
+{"text": "Example 11.7 What is the de Broglie wavelength associated with an electron, accelerated through a potential differnece of 100 volts?", "fibs": ["Example"]}
+{"text": "Solution Accelerating potential V = 100 V. The de Broglie wavelength λ is
+λ = h /p  nm
+λ  nm = 0.123 nm
+
+The de Broglie wavelength associated with an electron in this case is of the order of X-ray wavelengths.", "fibs": ["V"]}
+{"text": "11.9  Davisson and Germer Experiment
+The wave nature of electrons was first experimentally verified by C.J.", "fibs": ["Experiment"]}
+{"text": "Thomson, in 1928, who observed diffraction effects with beams of electrons scattered by crystals.", "fibs": ["diffraction"]}
+{"text": "Davisson and Thomson shared the Nobel Prize in 1937 for their experimental discovery of diffraction of electrons by crystals.", "fibs": ["discovery"]}
+{"text": "The experimental arrange-ment used by Davisson and Germer is schematically shown in Fig.", "fibs": ["Fig"]}
+{"text": "It consists of an electron gun which comprises of a tungsten filament F, coated with barium oxide and heated by a low voltage power supply (L.T.", "fibs": ["electron"]}
+{"text": "or battery).", "fibs": ["battery"]}
+{"text": "Electrons emitted by the filament are accelerated to a desired velocity by applying suitable potential/voltage from a high voltage power supply (H.T.", "fibs": ["filament"]}
+{"text": "or battery).", "fibs": ["battery"]}
+{"text": "They are made to pass through a cylinder with fine holes along its axis, producing a fine collimated beam.", "fibs": ["cylinder"]}
+{"text": "The beam is made to fall on the surface of a nickel crystal.", "fibs": ["beam"]}
+{"text": "The electrons are scattered in all directions by the atoms of the crystal.", "fibs": ["crystal"]}
+{"text": "The intensity of the electron beam, scattered in a given direction, is measured by the electron detector (collector).", "fibs": ["intensity"]}
+{"text": "The detector can be moved on a circular scale and is connected to a sensitive galvanometer, which records the current.", "fibs": ["detector"]}
+{"text": "The deflection of the galvanometer is proportional to the intensity of the electron beam entering the collector.", "fibs": ["deflection"]}
+{"text": "The  apparatus is enclosed in an evacuated chamber.", "fibs": ["apparatus"]}
+{"text": "By moving the  detector  on the circular scale at different positions, the intensity of the scattered electron beam is measured for different values of angle of scattering θ which is the angle between the incident and the scattered electron beams.", "fibs": ["detector"]}
+{"text": "The variation of the intensity (I) of the scattered electrons with the angle of scattering θ  is obtained for different accelerating voltages.", "fibs": ["variation"]}
+{"text": "Figure 11.7 Davisson-Germer electron diffraction arrangement.", "fibs": ["Figure"]}
+{"text": "The experiment was performed by varying the accelarating voltage from 44 V to 68 V. It was noticed that a strong peak appeared in the intensity (I) of the scattered electron for an accelarating voltage of 54V at a scattering angle θ = 50°
+The appearance of the peak in a particular direction is due to the constructive interference of electrons scattered from different layers of the regularly spaced atoms of the crystals.", "fibs": ["experiment"]}
+{"text": "From the electron diffraction measurements, the wavelength of matter waves was found to be 0.165 nm.", "fibs": ["electron"]}
+{"text": "The de Broglie wavelength λ associated with electrons, using Eq.", "fibs": ["wavelength"]}
+{"text": "(11.11), for V = 54 V is given by
+λ = h /p  nm
+λ  nm =  0.167 nm
+Thus, there is an excellent agreement between the theoretical value and the experimentally obtained value of de Broglie wavelength.", "fibs": ["V"]}
+{"text": "Davisson-Germer experiment thus strikingly confirms the wave nature of electrons and the de Broglie relation.", "fibs": ["experiment"]}
+{"text": "More recently, in 1989, the wave nature of a beam of electrons was experimentally demonstrated in a double-slit experiment, similar to that used for the wave nature of light.", "fibs": ["wave"]}
+{"text": "Also, in an experiment in 1994, interference fringes were obtained with the beams of iodine molecules, which are about a million times more massive than electrons.", "fibs": ["experiment"]}
+{"text": "The de Broglie hypothesis has been basic to the development of modern quantum mechanics.", "fibs": ["hypothesis"]}
+{"text": "It has also led to the field of electron optics.", "fibs": ["field"]}
+{"text": "The wave properties of electrons have been utilised in the design of electron microscope which is a great improvement, with higher resolution, over the optical microscope.", "fibs": ["wave"]}
+{"text": "The minimum energy needed by an electron to come out from a  metal surface is called the work function of the metal.", "fibs": ["energy"]}
+{"text": "Energy (greater than the work function (φο) required for electron emission from the metal surface can be supplied by suitably heating or applying strong electric field or irradiating it by light of suitable frequency.", "fibs": ["work"]}
+{"text": "Photoelectric effect is the phenomenon of emission of electrons by metals when illuminated by light of suitable frequency.", "fibs": ["effect"]}
+{"text": "Certain metals respond to ultraviolet light while others are sensitive even to the visible light.", "fibs": ["light"]}
+{"text": "Photoelectric effect involves conversion of light energy into electrical energy.", "fibs": ["effect"]}
+{"text": "It follows the law of conservation of energy.", "fibs": ["law"]}
+{"text": "The photoelectric emission is an instantaneous process and possesses certain special features.", "fibs": ["photoelectric"]}
+{"text": "Photoelectric current depends on (i) the intensity of incident light, (ii) the potential difference applied between the two electrodes, and (iii) the nature of the emitter material.", "fibs": ["intensity"]}
+{"text": "The stopping potential (Vo) depends on (i) the frequency of incident light, and (ii) the nature of the emitter material.", "fibs": ["frequency"]}
+{"text": "For a given frequency of incident light, it is independent of its intensity.", "fibs": ["frequency"]}
+{"text": "The stopping potential is directly related to the maximum kinetic energy of electrons emitted: e V0 = (1/2) m v2max = Kmax.", "fibs": ["energy"]}
+{"text": "Below a certain frequency (threshold frequency) ν0, characteristic of the metal, no photoelectric emission takes place, no matter how large the intensity may be.", "fibs": ["frequency"]}
+{"text": "The classical wave theory could not explain the main features of photoelectric effect.", "fibs": ["wave"]}
+{"text": "Its picture of continuous absorption of energy from radiation could not explain the independence of Kmax on intensity, the existence of νo and the instantaneous nature of the process.", "fibs": ["picture"]}
+{"text": "Einstein explained these features on the basis of photon picture of light.", "fibs": ["basis"]}
+{"text": "According to this, light is composed of discrete packets of energy called quanta or photons.", "fibs": ["light"]}
+{"text": "Each photon carries an energy E (= h ν) and momentum p (= h/λ), which depend on the frequency (ν ) of incident light and not on its intensity.", "fibs": ["photon"]}
+{"text": "Photoelectric emission from the metal surface occurs due to absorption of a photon by an electron.", "fibs": ["emission"]}
+{"text": "Einstein’s photoelectric equation is in accordance with the energy conservation law as applied to the photon absorption by an electron in the metal.", "fibs": ["’"]}
+{"text": "The maximum kinetic energy (1/2)m v2max is equal to the photon energy (hν) minus the work function φ0 (= hν0) of the target metal: 
+ m v2max = V0 e = hν – φ0 = h (ν – ν0) 
+ This photoelectric equation explains all the features of the photoelectric effect.", "fibs": ["energy"]}
+{"text": "Millikan’s first precise measurements confirmed the Einstein’s photoelectric equation and obtained an accurate value of Planck’s constant h. This led to the acceptance of particle or photon description (nature) of electromagnetic radiation, introduced by Einstein.", "fibs": ["’"]}
+{"text": "Radiation has dual nature: wave and particle.", "fibs": ["Radiation"]}
+{"text": "The nature of experiment determines whether a wave or particle description is best suited for understanding the experimental result.", "fibs": ["nature"]}
+{"text": "Reasoning that radiation and matter should be symmetrical in nature, Louis Victor de Broglie attributed a wave-like character to matter (material particles).", "fibs": ["Reasoning"]}
+{"text": "The waves associated with the moving material particles are called matter waves or de Broglie waves.", "fibs": ["material"]}
+{"text": "The de Broglie wavelength (λ) associated with a moving particle is related to its momentum p as:  λ = h/p.", "fibs": ["wavelength"]}
+{"text": "The dualism of matter is inherent in the de Broglie relation which contains a wave concept (λ) and a particle concept (p).", "fibs": ["dualism"]}
+{"text": "The de Broglie wavelength is independent of the charge and nature of the material  particle.", "fibs": ["wavelength"]}
+{"text": "It is significantly measurable (of the order of the atomic-planes spacing in crystals) only in case of sub-atomic particles like electrons, protons, etc.", "fibs": ["order"]}
+{"text": "(due to smallness of their masses and hence, momenta).", "fibs": ["smallness"]}
+{"text": "However, it is indeed very small, quite beyond measurement, in case of macroscopic objects, commonly  encountered in everyday life.", "fibs": ["measurement"]}
+{"text": "Electron diffraction experiments by Davisson and Germer, and by G. P. Thomson, as well as many later experiments, have verified and confirmed the wave-nature of electrons.", "fibs": ["diffraction"]}
+{"text": "The de Broglie hypothesis of matter waves supports the Bohr’s concept of stationary orbits.", "fibs": ["hypothesis"]}
+{"text": "Free electrons in a metal are free in the sense that they move inside the metal in a constant potential (This is only an approximation).", "fibs": ["metal"]}
+{"text": "They are not free to move out of the metal.", "fibs": ["move"]}
+{"text": "They need additional energy to get out of the metal.", "fibs": ["need"]}
+{"text": "Free electrons in a metal do not all have the same energy.", "fibs": ["metal"]}
+{"text": "Like molecules in a gas jar, the electrons have a certain energy distribution at a given temperature.", "fibs": ["gas"]}
+{"text": "This distribution is different from the usual Maxwell’s distribution that you have learnt in the study of kinetic theory of gases.", "fibs": ["distribution"]}
+{"text": "You will learn about it in later courses, but the difference has to do with the fact that electrons obey Pauli’s exclusion principle.", "fibs": ["difference"]}
+{"text": "Because of the energy distribution of free electrons in a metal, the energy required by an electron to come out of the metal is different for different electrons.", "fibs": ["energy"]}
+{"text": "Electrons with higher energy require less additional energy to come out of the metal than those with lower energies.", "fibs": ["energy"]}
+{"text": "Work function is the least energy required by an electron to come out of the metal.", "fibs": ["Work"]}
+{"text": "Observations on photoelectric effect imply that in the event of matter-light interaction, absorption of energy takes place in discrete units of hν.", "fibs": ["photoelectric"]}
+{"text": "This is not quite the same as saying that light consists of particles, each of energy hν.", "fibs": ["light"]}
+{"text": "Observations on the stopping potential (its independence of intensity and dependence on frequency) are the crucial discriminator between the wave-picture and photon-picture of photoelectric effect.", "fibs": ["independence"]}
+{"text": "The wavelength of a matter wave given by   has physical significance; its phase velocity  vp has no physical significance.", "fibs": ["wavelength"]}
+{"text": "However, the group velocity of the matter wave is physically meaningful and equals the velocity of the particle.", "fibs": ["group"]}
+{"text": "Exercises
+11.1	Find the 
+	(a)	maximum frequency, and 
+	(b)	minimum wavelength of X-rays produced by 30 kV electrons.", "fibs": ["frequency"]}
+{"text": "11.2	The work function of caesium metal is 2.14 eV.", "fibs": ["work"]}
+{"text": "When light of frequency 6 ×1014Hz is incident on the metal surface, photoemission of electrons occurs.", "fibs": ["light"]}
+{"text": "What is the 
+	(a)	maximum kinetic energy of the emitted electrons, 
+	(b)	Stopping potential, and 
+	(c)	maximum speed of the emitted photoelectrons?", "fibs": ["energy"]}
+{"text": "11.3	The photoelectric cut-off voltage in a certain experiment is 1.5 V. What is the maximum kinetic energy of photoelectrons emitted?", "fibs": ["photoelectric"]}
+{"text": "11.4	Monochromatic light of wavelength 632.8 nm is produced by a helium-neon laser.", "fibs": ["light"]}
+{"text": "The power emitted is 9.42 mW.", "fibs": ["power"]}
+{"text": "(a)	Find the energy and momentum of each photon in the light beam, 
+	(b)	How many photons per second, on the average, arrive at a target irradiated by this beam?", "fibs": ["energy"]}
+{"text": "(Assume the beam to have uniform cross-section which is less than the target area), and 
+	(c)	How fast does a hydrogen atom have to travel in order to have the same momentum as that of the photon?", "fibs": ["beam"]}
+{"text": "11.5	The energy flux of sunlight reaching the surface of the earth is 1.388 × 103 W/m2.", "fibs": ["energy"]}
+{"text": "How many photons (nearly) per square metre are incident on the Earth per second?", "fibs": ["square"]}
+{"text": "Assume that the photons in the sunlight have an average wavelength of 550 nm.", "fibs": ["sunlight"]}
+{"text": "11.6	In an experiment on photoelectric effect, the slope of the cut-off voltage versus frequency of incident light is found to be 4.12 × 10–15 V s. Calculate the value of Planck’s constant.", "fibs": ["experiment"]}
+{"text": "11.7	A 100W sodium lamp radiates energy uniformly in all directions.", "fibs": ["sodium"]}
+{"text": "The lamp is located at the centre of a large sphere that absorbs all the sodium light which is incident on it.", "fibs": ["lamp"]}
+{"text": "The wavelength of the sodium light is 589 nm.", "fibs": ["wavelength"]}
+{"text": "(a) What is the energy per photon associated with the sodium light?", "fibs": ["energy"]}
+{"text": "(b) At what rate are the photons delivered to the sphere?", "fibs": ["b"]}
+{"text": "11.8	The threshold frequency for a certain metal is 3.3 × 1014 Hz.", "fibs": ["threshold"]}
+{"text": "If light of frequency 8.2 × 1014 Hz is incident on the metal, predict the cut-off voltage for the photoelectric emission.", "fibs": ["light"]}
+{"text": "11.9	The work function for a certain metal is 4.2 eV.", "fibs": ["work"]}
+{"text": "Will this metal give photoelectric emission for incident radiation of wavelength 330 nm?", "fibs": ["metal"]}
+{"text": "11.10	Light of frequency 7.21 × 1014 Hz is incident on a metal surface.", "fibs": ["frequency"]}
+{"text": "Electrons with a maximum speed of 6.0 × 105 m/s are ejected from the surface.", "fibs": ["speed"]}
+{"text": "What is the threshold frequency for photoemission of electrons?", "fibs": ["threshold"]}
+{"text": "11.11	Light of wavelength 488 nm is produced by an argon laser which is used in the photoelectric effect.", "fibs": ["wavelength"]}
+{"text": "When light from this spectral line is incident on the emitter, the stopping (cut-off) potential of photoelectrons is 0.38 V. Find the work function of the material from which the emitter is made.", "fibs": ["light"]}
+{"text": "11.12	Calculate the 
+	(a)	momentum, and 
+	(b)	de Broglie wavelength of the electrons accelerated through a potential difference of 56 V.
+11.13	What is the 
+	(a)	momentum, 
+	(b)	speed, and 
+	(c) 	de Broglie wavelength of an electron with kinetic energy of 120 eV.", "fibs": ["momentum"]}
+{"text": "11.14	The wavelength of light from the spectral emission line of sodium is 589 nm.", "fibs": ["wavelength"]}
+{"text": "Find the kinetic energy at which
+	(a)	an electron, and 
+	(b)	a neutron, would have the same de Broglie wavelength.", "fibs": ["energy"]}
+{"text": "11.15	What is the de Broglie wavelength of
+	(a)	a bullet of mass 0.040 kg travelling at the speed of 1.0 km/s,
+	(b)	a ball of mass 0.060 kg  moving at a speed of 1.0 m/s, and
+	(c)	a dust particle of mass 1.0 × 10–9 kg drifting with a speed of 2.2 m/s?", "fibs": ["wavelength"]}
+{"text": "11.16	An electron and a photon each have a wavelength of 1.00 nm.", "fibs": ["electron"]}
+{"text": "Find 
+	(a)	their momenta,
+	(b)	the energy of the photon, and 
+	(c)	the kinetic energy of electron.", "fibs": ["momenta"]}
+{"text": "11.17	(a)	For what kinetic energy of a neutron will the associated de Broglie wavelength be 1.40 × 10–10 m?", "fibs": ["energy"]}
+{"text": "(b)	Also find the de Broglie wavelength of a neutron, in thermal equilibrium with matter, having an average kinetic energy of (3/2) k T at 300 K.
+11.18	Show that the wavelength of electromagnetic radiation is equal to the de Broglie wavelength of its quantum (photon).", "fibs": ["b"]}
+{"text": "11.19	What is the de Broglie wavelength of a nitrogen molecule in air at 300 K?", "fibs": ["wavelength"]}
+{"text": "Assume that the molecule is moving with the root-mean-square speed of molecules at this temperature.", "fibs": ["molecule"]}
+{"text": "(Atomic mass of nitrogen = 14.0076 u)
+Additional Exercises
+11.20	(a)	Estimate the speed with which electrons emitted from a heated emitter of an evacuated tube impinge on the collector maintained at a potential difference of 500 V with respect to the emitter.", "fibs": ["mass"]}
+{"text": "The specific charge of the electron, i.e., its e/m is given to be 1.76 × 1011 C kg–1.", "fibs": ["charge"]}
+{"text": "(b)	Use the same formula you employ in (a) to obtain electron speed for an collector potential of 10 MV.", "fibs": ["b"]}
+{"text": "In what way is the formula to be modified?", "fibs": ["way"]}
+{"text": "11.21	(a)	A monoenergetic electron beam with electron speed of 5.20 × 106 m s–1 is subject to a magnetic field of 1.30 × 10–4 T normal to the beam velocity.", "fibs": ["electron"]}
+{"text": "What is the radius of the circle traced by the beam, given e/m for electron equals 1.76 × 1011C kg–1.", "fibs": ["radius"]}
+{"text": "(b)	Is the formula you employ in (a) valid for calculating radius of the path of a 20 MeV electron beam?", "fibs": ["b"]}
+{"text": "If not, in what way is it modified?", "fibs": ["way"]}
+{"text": "[Note: Exercises 11.20(b) and 11.21(b) take you to relativistic mechanics which is beyond the scope of this book.", "fibs": ["11.20(b"]}
+{"text": "They have been inserted here simply to emphasise the point that the formulas you use in part (a) of the exercises are not valid at very high speeds or energies.", "fibs": ["point"]}
+{"text": "See answers at the end to know what ‘very high speed or energy’ means.]", "fibs": ["end"]}
+{"text": "11.22	An electron gun with its collector at a potential of 100 V fires out electrons in a spherical bulb containing hydrogen gas at low pressure (∼10–2 mm of Hg).", "fibs": ["electron"]}
+{"text": "A magnetic field of 2.83 × 10–4 T curves the path of the electrons in a circular orbit of radius 12.0 cm.", "fibs": ["field"]}
+{"text": "(The path can be viewed because the gas ions in the path focus the beam by attracting electrons, and emitting light by electron capture; this method is known as the ‘fine beam tube’ method.)", "fibs": ["path"]}
+{"text": "Determine e/m from the data.", "fibs": ["e/m"]}
+{"text": "11.23	(a)	An X-ray tube produces a continuous spectrum of radiation with its short wavelength end at 0.45 Å.", "fibs": ["X-ray"]}
+{"text": "What is the maximum energy of a photon in the radiation?", "fibs": ["energy"]}
+{"text": "(b)	From your answer to (a), guess what order of accelerating voltage (for electrons) is required in such a tube?", "fibs": ["b"]}
+{"text": "11.24	In an accelerator experiment on high-energy collisions of electrons with positrons, a certain event is interpreted as annihilation of an electron-positron pair of total energy 10.2 BeV into two γ-rays of equal energy.", "fibs": ["accelerator"]}
+{"text": "What is the wavelength associated with each γ-ray?", "fibs": ["wavelength"]}
+{"text": "(1BeV = 109 eV)
+11.25	Estimating the following two numbers should be interesting.", "fibs": ["1BeV"]}
+{"text": "The first number will tell you why radio engineers do not need to worry much about photons!", "fibs": ["number"]}
+{"text": "The second number tells you why our eye can never ‘count photons’, even in barely detectable light.", "fibs": ["number"]}
+{"text": "(a)	The number of photons emitted per second by a Medium wave transmitter of 10 kW power, emitting radiowaves of wavelength 500 m. 
+	(b) The number of photons entering the pupil of our eye per second corresponding to the minimum intensity of white light that we humans can perceive (∼10–10 W m–2).", "fibs": ["number"]}
+{"text": "Take the area of the pupil to be about 0.4 cm2, and the average frequency of white light to be about 6 × 1014 Hz.", "fibs": ["area"]}
+{"text": "11.26	Ultraviolet light of wavelength 2271 Å from a 100 W mercury source irradiates a photo-cell made of molybdenum metal.", "fibs": ["Ultraviolet"]}
+{"text": "If the stopping potential is –1.3 V, estimate the work function of the metal.", "fibs": ["–1.3"]}
+{"text": "How would the photo-cell respond to a high intensity (∼105 W m–2) red light of wavelength 6328 Å produced by a He-Ne laser?", "fibs": ["intensity"]}
+{"text": "11.27	Monochromatic radiation of wavelength 640.2 nm (1nm = 10–9 m) from a neon lamp irradiates photosensitive material made of caesium on tungsten.", "fibs": ["radiation"]}
+{"text": "The stopping voltage is measured to be 0.54 V. The source is replaced by an iron source and its 427.2 nm line irradiates the same photo-cell.", "fibs": ["voltage"]}
+{"text": "Predict the new stopping voltage.", "fibs": ["voltage"]}
+{"text": "11.28	A mercury lamp is a convenient source for studying frequency dependence of photoelectric emission, since it gives a number of spectral lines ranging from the UV to the red end of the visible spectrum.", "fibs": ["mercury"]}
+{"text": "In our experiment with rubidium photo-cell, the following lines from a mercury source were used:
+	λ1 = 3650 Å, λ2= 4047 Å, λ3= 4358 Å, λ4= 5461 Å, λ5= 6907 Å,
+	The stopping voltages, respectively, were measured to be:
+	V01 = 1.28 V, V02 = 0.95 V, V03 = 0.74 V, V04 = 0.16 V, V05 = 0 V
+Determine the value of Planck’s constant h, the threshold frequency and work function for the material.", "fibs": ["experiment"]}
+{"text": "[Note: You will notice that to get h from the data, you will need to know e (which you can take to be 1.6 × 10–19 C).", "fibs": ["notice"]}
+{"text": "Experiments of this kind on Na, Li, K, etc.", "fibs": ["kind"]}
+{"text": "were performed by Millikan, who, using his own value of e (from the oil-drop experiment) confirmed Einstein’s photoelectric equation and at the same time gave an independent estimate of the value of h.]
+11.29	The work function for the following metals is given:
+	Na: 2.75 eV; K: 2.30 eV; Mo: 4.17 eV; Ni: 5.15 eV.", "fibs": ["value"]}
+{"text": "Which of these metals will not give photoelectric emission for a radiation of wavelength 3300 Å from a He-Cd laser placed 1 m away from the photocell?", "fibs": ["photoelectric"]}
+{"text": "What happens if the laser is brought nearer and placed 50 cm away?", "fibs": ["laser"]}
+{"text": "11.30	Light of intensity 10–5 W m–2 falls on a sodium photo-cell of surface area 2 cm2.", "fibs": ["intensity"]}
+{"text": "Assuming that the top 5 layers of sodium absorb the incident energy, estimate time required for photoelectric emission in the wave-picture of radiation.", "fibs": ["sodium"]}
+{"text": "The work function for the metal is given to be about 2 eV.", "fibs": ["work"]}
+{"text": "What is the implication of your answer?", "fibs": ["implication"]}
+{"text": "11.31	Crystal diffraction experiments can be performed using X-rays, or electrons accelerated through appropriate voltage.", "fibs": ["diffraction"]}
+{"text": "Which probe has greater energy?", "fibs": ["probe"]}
+{"text": "(For quantitative comparison, take the wavelength of the probe equal to 1 Å, which is of the order of inter-atomic spacing in the lattice) (me=9.11 × 10–31 kg).", "fibs": ["comparison"]}
+{"text": "11.32	(a)	Obtain the de Broglie wavelength of a neutron of kinetic energy 150 eV.", "fibs": ["wavelength"]}
+{"text": "As you have seen in Exercise 11.31, an electron beam of this energy is suitable for crystal diffraction experiments.", "fibs": ["Exercise"]}
+{"text": "Would a neutron beam of the same energy be equally suitable?", "fibs": ["neutron"]}
+{"text": "(mn = 1.675 × 10–27 kg)	
+ (b)	Obtain the de Broglie wavelength associated with thermal neutrons at room temperature (27 °C).", "fibs": ["mn"]}
+{"text": "Hence explain why a fast neutron beam needs to be thermalised with the environment before it can be used for neutron diffraction experiments.", "fibs": ["neutron"]}
+{"text": "11.33	An electron microscope uses electrons accelerated by a voltage of 50 kV.", "fibs": ["electron"]}
+{"text": "Determine the de Broglie wavelength associated with the electrons.", "fibs": ["wavelength"]}
+{"text": "If other factors (such as numerical aperture, etc.)", "fibs": ["aperture"]}
+{"text": "are taken to be roughly the same, how does the resolving power of an electron microscope compare with that of an optical microscope which uses yellow light?", "fibs": ["power"]}
+{"text": "11.34	The wavelength of a probe is roughly a measure of the size of a structure that it can probe in some detail.", "fibs": ["wavelength"]}
+{"text": "The quark structure of protons and neutrons appears at the minute length-scale of 10–15 m or less.", "fibs": ["quark"]}
+{"text": "This structure was first probed in early 1970’s using high energy electron beams produced by a linear accelerator at Stanford, USA.", "fibs": ["structure"]}
+{"text": "Guess what might have been the order of energy of these electron beams.", "fibs": ["order"]}
+{"text": "(Rest mass energy of electron = 0.511 MeV.)", "fibs": ["mass"]}
+{"text": "11.35	Find the typical de Broglie wavelength associated with a He atom in helium gas at room temperature (27 °C) and 1 atm pressure; and compare it with the mean separation between two atoms under these conditions.", "fibs": ["wavelength"]}
+{"text": "11.36	Compute the typical de Broglie wavelength of an electron in a metal at 27 °C and compare it with the mean separation between two electrons in a metal which is given to be about 2 × 10–10 m.
+	[Note: Exercises 11.35 and 11.36 reveal that while the wave-packets associated with gaseous molecules under ordinary conditions are non-overlapping, the electron wave-packets in a metal strongly overlap with one another.", "fibs": ["wavelength"]}
+{"text": "This suggests that whereas molecules in an ordinary gas can be distinguished apart, electrons in a metal cannot be distintguished apart from one another.", "fibs": ["gas"]}
+{"text": "This indistinguishibility has many fundamental implications which you will explore in more advanced Physics courses.]", "fibs": ["indistinguishibility"]}
+{"text": "11.37	Answer the following questions:
+	(a)	Quarks inside protons and neutrons are thought to carry fractional charges [(+2/3)e ;  (–1/3)e].", "fibs": ["Answer"]}
+{"text": "Why do they not show up in Millikan’s oil-drop experiment?", "fibs": ["show"]}
+{"text": "(b)	What is so special about the combination e/m?", "fibs": ["b"]}
+{"text": "(d)	Every metal has a definite work function.", "fibs": ["metal"]}
+{"text": "Why do all photoelectrons not come out with the same energy if incident radiation is monochromatic?", "fibs": ["energy"]}
+{"text": "Why is there an energy distribution of photoelectrons?", "fibs": ["energy"]}
+{"text": "(e)	The energy and momentum of an electron are related to the frequency and wavelength of the associated matter wave by the relations:
+		E = h ν, p =  
+		But while the value of λ is physically significant, the value of ν (and therefore, the value of the phase speed ν λ) has no physical significance.", "fibs": ["energy"]}
+{"text": "Appendix 
+
+11.1  The history of wave-particle flip-flop
+What is light?", "fibs": ["Appendix"]}
+{"text": "This question has haunted mankind for a long time.", "fibs": ["question"]}
+{"text": "But systematic experiments were done by scientists since the dawn of the scientific and industrial era, about four centuries ago.", "fibs": ["dawn"]}
+{"text": "Around the same time, theoretical models about what light is made of were developed.", "fibs": ["time"]}
+{"text": "While building a model in any branch of science, it is essential to see that it is able to explain all the experimental observations existing at that time.", "fibs": ["building"]}
+{"text": "It is therefore appropriate to summarize some observations about light that were known in the seventeenth century.", "fibs": ["light"]}
+{"text": "The properties of light known at that time included (a) rectilinear propagation of light, (b) reflection from plane and curved surfaces, (c) refraction at the boundary of two media, (d) dispersion into various colours, (e) high speed.", "fibs": ["light"]}
+{"text": "For example, Snell formulated his laws of refraction in 1621.", "fibs": ["example"]}
+{"text": "Several scientists right from the days of Galileo had tried to measure the speed of light.", "fibs": ["right"]}
+{"text": "They had only concluded that it was higher than the limit of their measurement.", "fibs": ["limit"]}
+{"text": "Two models of light were also proposed in the seventeenth century.", "fibs": ["light"]}
+{"text": "Descartes, in early decades of seventeenth century, proposed that light consists of particles, while Huygens, around 1650-60, proposed that light consists of waves.", "fibs": ["century"]}
+{"text": "Descartes′ proposal was merely a philosophical model, devoid of any experiments or scientific arguments.", "fibs": ["proposal"]}
+{"text": "Newton soon after, around 1660-70, extended Descartes′ particle model, known as corpuscular theory, built it up as a scientific theory, and explained various known properties with it.", "fibs": ["particle"]}
+{"text": "These models, light as waves and as particles, in a sense, are quite opposite of each other.", "fibs": ["light"]}
+{"text": "But both models could explain all the known properties of light.", "fibs": ["light"]}
+{"text": "There was nothing to choose between them.", "fibs": ["nothing"]}
+{"text": "The history of the development of these models over the next few centuries is interesting.", "fibs": ["history"]}
+{"text": "Bartholinus, in 1669, discovered double refraction of light in some crystals, and Huygens, in 1678, was quick to explain it on the basis of his wave theory of light.", "fibs": ["refraction"]}
+{"text": "In spite of this, for over one hundred years, Newton’s particle model was firmly believed and preferred over the wave model.", "fibs": ["spite"]}
+{"text": "This was partly because of its simplicity and partly because of Newton’s influence on contemporary physics.", "fibs": ["simplicity"]}
+{"text": "Then in 1801, Young performed his double-slit experiment and observed interference fringes.", "fibs": ["experiment"]}
+{"text": "This phenomenon could be explained only by wave theory.", "fibs": ["phenomenon"]}
+{"text": "It was realized that diffraction was also another phenomenon which could be explained only by wave theory.", "fibs": ["diffraction"]}
+{"text": "In fact, it was a natural consequence of Huygens idea of secondary wavelets emanating from every point in the path of light.", "fibs": ["fact"]}
+{"text": "These experiments could not be explained by assuming that light consists of particles.", "fibs": ["light"]}
+{"text": "Another phenomenon of polarisation was discovered around 1810, and this too could be naturally explained by the wave theory.", "fibs": ["phenomenon"]}
+{"text": "Thus wave theory of Huygens came to the forefront and Newton’s particle theory went into the background.", "fibs": ["wave"]}
+{"text": "This situation again continued for almost a century.", "fibs": ["situation"]}
+{"text": "Better experiments were performed in the nineteenth century to determine the speed of light.", "fibs": ["century"]}
+{"text": "With more accurate experiments, a value of 3×108 m/s for speed of light in vacuum was arrived at.", "fibs": ["value"]}
+{"text": "Around 1860, Maxwell proposed his equations of electromagnetism and it was realized that all electromagnetic phenomena known at that time could be explained by Maxwell’s four equations.", "fibs": ["electromagnetism"]}
+{"text": "Soon Maxwell showed that electric and magnetic fields could propagate through empty space (vacuum) in the form of electromagnetic waves.", "fibs": ["space"]}
+{"text": "He calculated the speed of these waves and arrived at a theoretical value of 2.998×108  m/s.", "fibs": ["speed"]}
+{"text": "The close agreement of this value with the experimental value suggested that light consists of electromagnetic waves.", "fibs": ["agreement"]}
+{"text": "In 1887 Hertz demonstrated the generation and detection of such waves.", "fibs": ["generation"]}
+{"text": "This established the wave theory of light on a firm footing.", "fibs": ["wave"]}
+{"text": "We might say that while eighteenth century belonged to the particle model, the nineteenth century belonged to the wave model of light.", "fibs": ["century"]}
+{"text": "Vast amounts of experiments were done during the period 1850-1900 on heat and related phenomena, an altogether different area of physics.", "fibs": ["period"]}
+{"text": "Theories and models like kinetic theory and thermodynamics were developed which quite successfully explained the various phenomena, except one.", "fibs": ["theory"]}
+{"text": "Every body at any temperature emits radiation of all wavelengths.", "fibs": ["body"]}
+{"text": "It also absorbs radiation falling on it.", "fibs": ["radiation"]}
+{"text": "A body which absorbs all the radiation falling on it is called a black body.", "fibs": ["body"]}
+{"text": "It is an ideal concept in physics, like concepts of a point mass or uniform motion.", "fibs": ["concept"]}
+{"text": "A graph of the intensity of radiation emitted by a body versus wavelength is called the black body spectrum.", "fibs": ["graph"]}
+{"text": "No theory in those days could explain the complete black body spectrum!", "fibs": ["theory"]}
+{"text": "In 1900, Planck hit upon a novel idea.", "fibs": ["novel"]}
+{"text": "If we assume, he said, that radiation is emitted in packets of energy instead of continuously as in a wave, then we can explain the black body spectrum.", "fibs": ["radiation"]}
+{"text": "Planck himself regarded these quanta, or packets, as a property of emission and absorption, rather than that of light.", "fibs": ["quanta"]}
+{"text": "He derived a formula which agreed with the entire spectrum.", "fibs": ["formula"]}
+{"text": "This was a confusing mixture of wave and particle pictures – radiation is emitted as a particle, it travels as a wave, and is again absorbed as a particle!", "fibs": ["mixture"]}
+{"text": "Moreover, this put physicists in a dilemma.", "fibs": ["dilemma"]}
+{"text": "Should we again accept the particle picture of light just to explain one phenomenon?", "fibs": ["particle"]}
+{"text": "Then what happens to the phenomena of interference and diffraction which cannot be explained by the particle model?", "fibs": ["interference"]}
+{"text": "But soon in 1905, Einstein explained the photoelectric effect by assuming the particle picture of light.", "fibs": ["photoelectric"]}
+{"text": "In 1907, Debye explained the low temperature specific heats of solids by using the particle picture for lattice vibrations in a crystalline solid.", "fibs": ["temperature"]}
+{"text": "Both these phenomena belonging to widely diverse areas of physics could be explained only by the particle model and not by the wave model.", "fibs": ["physics"]}
+{"text": "In 1923, Compton’s x-ray scattering experiments from atoms also went in favour of the particle picture.", "fibs": ["’"]}
+{"text": "This increased the dilemma further.", "fibs": ["dilemma"]}
+{"text": "Thus by 1923, physicists faced with the following situation.", "fibs": ["situation"]}
+{"text": "(a) There were some phenomena like rectilinear propagation, reflection, refraction, which could be explained by either particle model or by wave model.", "fibs": ["propagation"]}
+{"text": "(b) There were some phenomena such as diffraction and interference which could be explained only by the wave model but not by the particle model.", "fibs": ["b"]}
+{"text": "(c) There were some phenomena such as black body radiation, photoelectric effect, and Compton scattering which could be explained only by the particle model but not by the wave model.", "fibs": ["body"]}
+{"text": "Somebody in those days aptly remarked that light behaves as a particle on Mondays, Wednesdays and Fridays, and as a wave on Tuesdays, Thursdays and Saturdays, and we don’t talk of light on Sundays!", "fibs": ["Somebody"]}
+{"text": "In 1924, de Broglie proposed his theory of wave-particle duality in which he said that not only photons of light but also ‘particles’ of matter such as electrons and atoms possess a dual character, sometimes behaving like a particle and sometimes as a wave.", "fibs": ["theory"]}
+{"text": "He gave a formula connecting their mass, velocity, momentum (particle characteristics), with their wavelength and frequency (wave characteristics)!", "fibs": ["formula"]}
+{"text": "In 1927 Thomson, and Davisson and Germer, in separate experiments, showed that electrons did behave like waves with a wavelength which agreed with that given by de Broglie’s formula.", "fibs": ["wavelength"]}
+{"text": "Their experiment was on diffraction of electrons through crystalline solids, in which the regular arrangement of atoms acted like a grating.", "fibs": ["experiment"]}
+{"text": "Very soon, diffraction experiments with other ‘particles’ such as neutrons and protons were performed and these too confirmed with de Broglie’s formula.", "fibs": ["diffraction"]}
+{"text": "This confirmed wave-particle duality as an established principle of physics.", "fibs": ["wave-particle"]}
+{"text": "Here was a principle, physicists thought, which explained all the phenomena mentioned above not only for light but also for the so-called particles.", "fibs": ["principle"]}
+{"text": "But there was no basic theoretical foundation for wave-particle duality.", "fibs": ["foundation"]}
+{"text": "De Broglie’s proposal was merely a qualitative argument based on symmetry of nature.", "fibs": ["’"]}
+{"text": "Wave-particle duality was at best a principle, not an outcome of a sound fundamental theory.", "fibs": ["Wave-particle"]}
+{"text": "It is true that all experiments whatever agreed with de Broglie formula.", "fibs": ["formula"]}
+{"text": "But physics does not work that way.", "fibs": ["physics"]}
+{"text": "On the one hand, it needs experimental confirmation, while on the other hand, it also needs sound theoretical basis for the models proposed.", "fibs": ["hand"]}
+{"text": "Dirac developed his theory of radiation in about 1928, and Heisenberg and Pauli gave it a firm footing by 1930.", "fibs": ["theory"]}
+{"text": "Tomonaga, Schwinger, and Feynman, in late 1940s, produced further refinements and cleared the theory of inconsistencies which were noticed.", "fibs": ["theory"]}
+{"text": "All these theories mainly put wave-particle duality on a theoretical footing.", "fibs": ["wave-particle"]}
+{"text": "Although the story continues, it grows more and more complex and beyond the scope of this note.", "fibs": ["story"]}
+{"text": "But we have here the essential structure of what happened, and let us be satisfied with it at the moment.", "fibs": ["structure"]}
+{"text": "Now it is regarded as a natural consequence of present theories of physics that electromagnetic radiation as well as particles of matter exhibit both wave and particle properties in different experiments, and sometimes even in the different parts of the same experiment.", "fibs": ["consequence"]}
+{"text": "Table of Contents
+
+
+Chapter Eleven
+
+
+Dual Nature of Radiation and Matter
+
+
+
+
+
+11.1 Introduction
+
+
+
+
+
+
+
+11.2 Electron Emission
+
+
+
+
+
+
+
+11.3 Photoelectric Effect
+
+
+11.3.1 Hertz’s observations
+
+
+11.3.2 Hallwachs’ and Lenard’s observations
+
+
+
+
+
+
+
+11.4 Experimental Study of Photoelectric Effect
+
+
+11.4.1 Effect of intensity of light on photocurrent
+
+
+11.4.2 Effect of potential on photoelectric current
+
+
+11.4.3 Effect of frequency of incident radiation on stopping potential
+
+
+
+
+
+
+
+11.5 Photoelectric Effect and Wave Theory oF Light
+
+
+
+
+
+
+
+11.6 Einstein’s Photoelectric Equation: Energy Quantum of Radiation
+
+
+Albert Einstein (1879 – 1955)
+
+
+
+
+
+
+
+11.7 Particle Nature of Light: The Photon
+
+
+11.8 Wave Nature of Matter
+
+
+A photo cell
+
+
+Louis Victor de Broglie (1892 – 1987)
+
+
+Probability interpretation to matter waves
+
+
+
+
+11.9 Davisson and Germer Experiment
+
+
+Summary
+
+
+Points to Ponder
+
+
+
+
+Exercises
+
+
+Additional Exercises
+
+
+
+
+Appendix
+
+
+
+
+
+11.1 The history of wave-particle flip-flop
+
+
+
+
+
+
+
+
+Landmarks
+
+
+Cover
+
+
+
+
+
+
+
+
+        Chapter 11
+        Dual Nature of Radiation and Matter", "fibs": ["Table"]}
+

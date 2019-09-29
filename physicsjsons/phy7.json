@@ -1,0 +1,1083 @@
+Analyzing input.txt
+{"text": "
+
+
+
+
+
+
+Chapter Ten
+
+Wave Optics
+
+
+10.1  Introduction
+In 1637 Descartes gave the corpuscular model of light and derived Snell’s law.", "fibs": ["Chapter"]}
+{"text": "It explained the laws of reflection and refraction of light at an interface.", "fibs": ["reflection"]}
+{"text": "The corpuscular model predicted that if the ray of light (on refraction) bends towards the normal then the speed of light would be greater in the second medium.", "fibs": ["model"]}
+{"text": "This corpuscular model of light was further developed by Isaac Newton in his famous book entitled OPTICKS and because of the tremendous popularity of this book, the corpuscular model is very often attributed to Newton.", "fibs": ["model"]}
+{"text": "In 1678, the Dutch physicist Christiaan Huygens put forward the wave theory of light – it is this wave model of light that we will discuss in this chapter.", "fibs": ["physicist"]}
+{"text": "As we will see, the wave model could satisfactorily explain the phenomena of reflection and refraction; however, it predicted that on refraction if the wave bends towards the normal then the speed of light would be less in the second medium.", "fibs": ["wave"]}
+{"text": "This is in contradiction to the prediction made by using the corpuscular model of light.", "fibs": ["contradiction"]}
+{"text": "It was much later confirmed by experiments where it was shown that the speed of light in water is less than the speed in air confirming the prediction of the wave model; Foucault carried out this experiment in 1850.", "fibs": ["speed"]}
+{"text": "The wave theory was not readily accepted primarily because of Newton’s authority and also because light could travel through vacuum and it was felt that a wave would always require a medium to propagate from one point to the other.", "fibs": ["wave"]}
+{"text": "However, when Thomas Young performed his famous interference experiment in 1801, it was firmly established that light is indeed a wave phenomenon.", "fibs": ["interference"]}
+{"text": "The wavelength of visible light was measured and found to be extremely small; for example, the wavelength of yellow light is about 0.6 µm.", "fibs": ["wavelength"]}
+{"text": "Because of the smallness of the wavelength of visible light (in comparison to the dimensions of typical mirrors and lenses), light can be assumed to approximately travel in straight lines.", "fibs": ["smallness"]}
+{"text": "This is the field of geometrical optics, which we had discussed in the previous chapter.", "fibs": ["field"]}
+{"text": "Indeed, the branch of optics in which one completely neglects the finiteness of the wavelength is called geometrical optics and a ray is defined as the path of energy propagation in the limit of wavelength tending to zero.", "fibs": ["branch"]}
+{"text": "After the interference experiment of Young in 1801, for the next 40 years or so, many experiments were carried out involving the interference and diffraction of lightwaves; these experiments could only be satisfactorily explained by assuming a wave model of light.", "fibs": ["interference"]}
+{"text": "Thus, around the middle of the nineteenth century, the wave theory seemed to be very well established.", "fibs": ["middle"]}
+{"text": "The only major difficulty was that since it was thought that a wave required a medium for its propagation, how could light waves propagate through vacuum.", "fibs": ["difficulty"]}
+{"text": "This was explained when Maxwell put forward his famous electromagnetic theory of light.", "fibs": ["theory"]}
+{"text": "Maxwell had developed a set of equations describing the laws of electricity and magnetism and using these equations he derived what is known as the wave equation from which he predicted the existence of electromagnetic waves*.", "fibs": ["electricity"]}
+{"text": "From the wave equation, Maxwell could calculate the speed of electromagnetic waves in free space and he found that the theoretical value was very close to the measured value of speed of light.", "fibs": ["wave"]}
+{"text": "From this, he propounded that light must be an electromagnetic wave.", "fibs": ["light"]}
+{"text": "Thus, according to Maxwell, light waves are associated with changing electric and magnetic fields; changing electric field produces a time and space varying magnetic field and a changing magnetic field produces a time and space varying electric field.", "fibs": ["light"]}
+{"text": "The changing electric and magnetic fields result in the propagation of electromagnetic waves (or light waves) even in vacuum.", "fibs": ["result"]}
+{"text": "In this chapter we will first discuss the original formulation of the Huygens principle and derive the laws of reflection and refraction.", "fibs": ["chapter"]}
+{"text": "In Sections 10.4 and 10.5, we will discuss the phenomenon of interference which is based on the principle of superposition.", "fibs": ["phenomenon"]}
+{"text": "In Section 10.6 we will discuss the phenomenon of diffraction which is based on Huygens-Fresnel principle.", "fibs": ["Section"]}
+{"text": "Finally in Section 10.7 we will discuss the phenomenon of polarisation which is based on the fact that the light waves are transverse electromagnetic waves.", "fibs": ["Section"]}
+{"text": "*	Maxwell had predicted the existence of electromagnetic waves around 1855; it was much later (around 1890) that Heinrich Hertz produced radiowaves in the laboratory.", "fibs": ["existence"]}
+{"text": "J.C. Bose and G. Marconi made practical applications of the Hertzian waves
+
+
+
+
+Does light travel in a straight line?", "fibs": ["light"]}
+{"text": "Light travels in a straight line in Class VI; it does not do so in Class XII and beyond!", "fibs": ["line"]}
+{"text": "Surprised, aren’t you?", "fibs": ["aren"]}
+{"text": "In school, you are shown an experiment in which you take three cardboards with pinholes in them, place a candle on one side and look from the other side.", "fibs": ["school"]}
+{"text": "If the flame of the candle and the three pinholes are in a straight line, you can see the candle.", "fibs": ["flame"]}
+{"text": "Even if one of them is displaced a little, you cannot see the candle.", "fibs": ["candle"]}
+{"text": "This proves, so your teacher says, that light travels in a straight line.", "fibs": ["teacher"]}
+{"text": "In the present book, there are two consecutive chapters, one on ray optics and the other on wave optics.", "fibs": ["book"]}
+{"text": "Ray optics is based on rectilinear propagation of light, and deals with mirrors, lenses, reflection, refraction, etc.", "fibs": ["propagation"]}
+{"text": "Then you come to the chapter on wave optics, and you are told that light travels as a wave, that it can bend around objects, it can diffract and interfere, etc.", "fibs": ["chapter"]}
+{"text": "In optical region, light has a wavelength of about half a micrometre.", "fibs": ["region"]}
+{"text": "If it encounters an obstacle of about this size, it can bend around it and can be seen on the other side.", "fibs": ["obstacle"]}
+{"text": "Thus a micrometre size obstacle will not be able to stop a light ray.", "fibs": ["micrometre"]}
+{"text": "If the obstacle is much larger, however, light will not be able to bend to that extent, and will not be seen on the other side.", "fibs": ["obstacle"]}
+{"text": "This is a property of a wave in general, and can be seen in sound waves too.", "fibs": ["property"]}
+{"text": "The sound wave of our speech has a wavelength of about 50cm to 1 m. If it meets an obstacle of the size of a few metres, it bends around it and reaches points behind the obstacle.", "fibs": ["sound"]}
+{"text": "But when it comes across a larger obstacle of a few hundred metres, such as a hillock, most of it is reflected and is heard as an echo.", "fibs": ["obstacle"]}
+{"text": "Then what about the primary school experiment?", "fibs": ["school"]}
+{"text": "What happens there is that when we move any cardboard, the displacement is of the order of a few millimetres, which is much larger than the wavelength of light.", "fibs": ["move"]}
+{"text": "Hence the candle cannot be seen.", "fibs": ["candle"]}
+{"text": "If we are able to move one of the cardboards by a micrometer or less, light will be able to diffract, and the candle will still be seen.", "fibs": ["move"]}
+{"text": "One could add to the first sentence in this box: It learns how to bend as it grows up!", "fibs": ["sentence"]}
+{"text": "10.2  Huygens Principle
+We would first define a wavefront: when we drop a small stone on a calm pool of water, waves spread out from the point of impact.", "fibs": ["Principle"]}
+{"text": "Every point on the surface starts oscillating with time.", "fibs": ["point"]}
+{"text": "At any instant, a photograph of the surface would show circular rings on which the disturbance is maximum.", "fibs": ["instant"]}
+{"text": "Clearly, all points on such a circle are oscillating in phase because they are at the same distance from the source.", "fibs": ["circle"]}
+{"text": "Such a locus of points, which oscillate in phase is called a wavefront; thus a wavefront is defined as a surface of constant phase.", "fibs": ["locus"]}
+{"text": "The speed with which the wavefront moves outwards from the source is called the speed of the wave.", "fibs": ["speed"]}
+{"text": "The energy of the wave travels in a direction perpendicular to the wavefront.", "fibs": ["energy"]}
+{"text": "Figure 10.1 (a) A diverging spherical wave emanating from a point source.", "fibs": ["Figure"]}
+{"text": "If we have a point source emitting waves uniformly in all directions, then the locus of points which have the same amplitude and vibrate in the same phase are spheres and we have what is known as a spherical wave as shown in Fig.", "fibs": ["point"]}
+{"text": "10.1(a).", "fibs": ["10.1(a"]}
+{"text": "At a large distance from the source, a small portion of the sphere can be considered as a plane and we have what is known as a plane wave [Fig.", "fibs": ["distance"]}
+{"text": "10.1(b)].", "fibs": ["10.1(b"]}
+{"text": "Figure 10.1 (b) At a large distance from the source, a small portion of the spherical wave can be approximated by a plane wave.", "fibs": ["Figure"]}
+{"text": "Now, if we know the shape of the wavefront at t = 0, then Huygens principle allows us to determine the shape of the wavefront at a later time τ.", "fibs": ["shape"]}
+{"text": "Thus, Huygens principle is essentially a geometrical construction, which given the shape of the wafefront at any time allows us to determine the shape of the wavefront at a later time.", "fibs": ["principle"]}
+{"text": "Let us consider a diverging wave and let F1F2 represent a portion of the spherical wavefront at t = 0 (Fig.", "fibs": ["wave"]}
+{"text": "Now, according to Huygens principle, each point of the wavefront is the source of a secondary disturbance and the wavelets emanating from these points spread out in all directions with the speed of the wave.", "fibs": ["principle"]}
+{"text": "These wavelets emanating from the wavefront are usually referred to as secondary wavelets and if we draw a common tangent to all these spheres, we obtain the new position of the wavefront at a later time.", "fibs": ["wavefront"]}
+{"text": "Thus, if we wish to determine the shape of the wavefront at t = τ, we draw spheres of radius vτ from each point on the spherical wavefront where v represents the speed of the waves in the medium.", "fibs": ["shape"]}
+{"text": "If we now draw a common tangent to all these spheres, we obtain the new position of the wavefront at t = τ.", "fibs": ["position"]}
+{"text": "The new wavefront shown as G1G2 in Fig.", "fibs": ["wavefront"]}
+{"text": "10.2 is again spherical with point O as the centre.", "fibs": ["point"]}
+{"text": "Figure 10.2 F1F2 represents the spherical wavefront (with O as centre) at t = 0.", "fibs": ["Figure"]}
+{"text": "The envelope of the secondary wavelets emanating from F1F2 produces the forward moving wavefront G1G2.", "fibs": ["envelope"]}
+{"text": "The backwave D1D2 does not exist.", "fibs": ["backwave"]}
+{"text": "Figure 10.3 Huygens geometrical construction for a plane wave propagating to the right.", "fibs": ["Figure"]}
+{"text": "F1 F2 is the plane wavefront at t = 0 and G1G2 is the wavefront at a later time τ.", "fibs": ["plane"]}
+{"text": "The lines A1A2, B1B2 … etc., are normal to both F1F2 and G1G2 and represent rays.", "fibs": ["…"]}
+{"text": "The above model has one shortcoming: we also have a backwave which is shown as D1D2 in Fig.", "fibs": ["model"]}
+{"text": "Huygens argued that the amplitude of the secondary wavelets is maximum in the forward direction and zero in the backward direction; by making this adhoc assumption, Huygens could explain the absence of the backwave.", "fibs": ["amplitude"]}
+{"text": "However, this adhoc assumption is not satisfactory and the absence of the backwave is really justified from more rigorous wave theory.", "fibs": ["adhoc"]}
+{"text": "In a similar manner, we can use Huygens principle to determine the shape of the wavefront for a plane wave propagating through a medium (Fig.", "fibs": ["manner"]}
+{"text": "10.3	Refraction and Reflection of Plane Waves using Huygens Principle
+
+10.3.1  Refraction of a plane wave
+We will now use Huygens principle to derive the laws of refraction.", "fibs": ["Principle"]}
+{"text": "Let PP′ represent the surface separating medium 1 and medium 2, as shown in Fig.", "fibs": ["PP′"]}
+{"text": "Let v1 and v2 represent the speed of light in medium 1 and medium 2, respectively.", "fibs": ["v1"]}
+{"text": "We assume a plane wavefront AB propagating in the direction A′A incident on the interface at an angle i as shown in the figure.", "fibs": ["plane"]}
+{"text": "Let τ be the time taken by the wavefront to travel the distance BC.", "fibs": ["τ"]}
+{"text": "Thus, 
+	BC = v1 τ
+
+
+
+
+
+
+FIGURE 10.4 A plane wave AB is incident at an angle i on the surface PP¢ separating medium 1 and medium 2.", "fibs": ["BC"]}
+{"text": "The plane wave undergoes refraction and CE represents the refracted wavefront.", "fibs": ["plane"]}
+{"text": "The figure corresponds to v2 < v1 so that the refracted waves bends towards the normal.", "fibs": ["figure"]}
+{"text": "Christiaan Huygens (1629 – 1695)
+
+Dutch physicist, astronomer, mathematician and the founder of the wave theory of light.", "fibs": ["physicist"]}
+{"text": "His book, Treatise on light, makes fascinating reading even today.", "fibs": ["book"]}
+{"text": "He brilliantly explained the double refraction shown by the mineral calcite in this work in addition to reflection and refraction.", "fibs": ["refraction"]}
+{"text": "He was the first to analyse circular and simple harmonic motion and designed and built improved clocks and telescopes.", "fibs": ["analyse"]}
+{"text": "He discovered the true geometry of Saturn’s rings.", "fibs": ["geometry"]}
+{"text": "In order to determine the shape of the refracted wavefront, we draw a sphere of radius v2τ from the point A in the second medium (the speed of the wave in the second medium is v2).", "fibs": ["order"]}
+{"text": "Let CE represent a tangent plane drawn from the point C on to the sphere.", "fibs": ["CE"]}
+{"text": "Then, AE = v2 τ   and CE would represent the refracted wavefront.", "fibs": ["AE"]}
+{"text": "If we now consider the triangles ABC and AEC, we readily obtain Figure 10.4 A plane wave AB is incident at an angle i on the surface PP′  separating medium 1 and medium 2.", "fibs": ["Figure"]}
+{"text": "The plane wave undergoes refraction and CE represents the refracted wavefront.", "fibs": ["plane"]}
+{"text": "The figure corresponds to v2 < v1 so that the refracted waves bends towards the normal.", "fibs": ["figure"]}
+{"text": "sin i =         (10.1)
+and
+sin r =        	(10.2)
+where i and r are the angles of incidence and refraction, respectively.", "fibs": ["sin"]}
+{"text": "Thus we obtain
+               	(10.3)
+From the above equation, we get the important result that if r < i (i.e., if the ray bends toward the normal), the speed of the light wave in the second medium (v2) will be less then the speed of the light wave in the first medium (v1).", "fibs": ["equation"]}
+{"text": "This prediction is opposite to the prediction from the corpuscular model of light and as later experiments showed, the prediction of the wave theory is correct.", "fibs": ["prediction"]}
+{"text": "Now, if c represents the speed of light in vacuum, then,
+                (10.4)
+and
+n2 =               (10.5)
+are known as the refractive indices of medium 1 and medium 2, respectively.", "fibs": ["speed"]}
+{"text": "In terms of the refractive indices, Eq.", "fibs": ["Eq."]}
+{"text": "(10.3) can be written as
+n1 sin i = n2 sin r	(10.6)
+This is the Snell’s law of refraction.", "fibs": ["n1"]}
+{"text": "Further, if  λ1 and λ 2 denote the wavelengths of light in medium 1 and medium 2, respectively and if the distance BC is equal to λ 1 then the distance AE will be equal to λ 2 (because if the crest from B has reached C in time τ, then the crest from A should have also reached E in time τ); thus,
+
+or
+    (10.7)
+The above equation implies that when a wave gets refracted into a denser medium (v1 > v2) the wavelength and the speed of propagation decrease but the frequency ν (= v/λ) remains the same.", "fibs": ["λ1"]}
+{"text": "10.3.2  Refraction at a rarer medium
+We now consider refraction of a plane wave at a rarer medium, i.e., v2 > v1.", "fibs": ["medium"]}
+{"text": "Proceeding in an exactly similar manner we can construct a refracted wavefront as shown in Fig.", "fibs": ["manner"]}
+{"text": "The angle of refraction will now be greater than angle of incidence; however, we will still have n1 sin i = n2 sin r .", "fibs": ["angle"]}
+{"text": "We define an angle ic by the following equation
+           	(10.8)
+Thus, if i = ic then sin r = 1 and r = 90°.", "fibs": ["angle"]}
+{"text": "Obviously, for i > ic, there can not be any refracted wave.", "fibs": ["ic"]}
+{"text": "The angle ic is known as the critical angle and for all angles of incidence greater than the critical angle, we will not have any refracted wave and the wave will undergo what is known as total internal reflection.", "fibs": ["angle"]}
+{"text": "The phenomenon of total internal reflection and its applications was discussed in Section 9.4.", "fibs": ["phenomenon"]}
+{"text": "FIGURE 10.5 Refraction of a plane wave incident on a rarer medium for which v2 > v1.", "fibs": ["FIGURE"]}
+{"text": "The plane wave bends away from the normal.", "fibs": ["plane"]}
+{"text": "10.3.3  Reflection of a plane wave by a plane surface
+We next consider a plane wave AB incident at an angle i on a reflecting surface MN.", "fibs": ["plane"]}
+{"text": "If v represents the speed of the wave in the medium and if τ represents the time taken by the wavefront to advance from the point B to C then the distance Figure 10.5 Refraction of a plane wave incident on a rarer medium for which v2 > v1.", "fibs": ["v"]}
+{"text": "The plane wave bends away from the normal.", "fibs": ["plane"]}
+{"text": "BC =  vτ 
+In order to construct the reflected wavefront we draw a sphere of radius vτ from the point A as shown in Fig.", "fibs": ["vτ"]}
+{"text": "Let CE represent the tangent plane drawn from the point C to this sphere.", "fibs": ["CE"]}
+{"text": "Obviously 
+AE = BC = vτ 
+
+FIGURE 10.6 Reflection of a plane wave AB by the reflecting surface MN.", "fibs": ["AE"]}
+{"text": "AB and CE represent incident and reflected wavefronts.", "fibs": ["CE"]}
+{"text": "If we now consider the triangles EAC and BAC we will find that they are congruent and therefore, the angles i and r (as shown in Fig.", "fibs": ["BAC"]}
+{"text": "This is the law of reflection.", "fibs": ["law"]}
+{"text": "Once we have the laws of reflection and refraction, the behaviour of prisms, lenses, and mirrors can be understood.", "fibs": ["reflection"]}
+{"text": "These phenomena were discussed in detail in Chapter 9 on the basis of rectilinear propagation of light.", "fibs": ["detail"]}
+{"text": "Here we just describe the behaviour of the wavefronts as they undergo reflection or refraction.", "fibs": ["behaviour"]}
+{"text": "In Fig.", "fibs": ["Fig"]}
+{"text": "10.7(a) we consider a plane wave passing through a thin prism.", "fibs": ["10.7(a"]}
+{"text": "Clearly, since the speed of light waves is less in glass, the lower portion of the incoming wavefront (which travels through the greatest thickness of glass) will get delayed resulting in a tilt in the emerging wavefront as shown in the figure.", "fibs": ["speed"]}
+{"text": "In Fig.", "fibs": ["Fig"]}
+{"text": "10.7(b) we consider a plane wave incident on a thin convex lens; the central part of the incident plane wave traverses the thickest portion of the lens and is delayed the most.", "fibs": ["10.7(b"]}
+{"text": "The emerging wavefront has a depression at the centre and therefore the wavefront becomes spherical and converges to the point F which is known as the focus.", "fibs": ["wavefront"]}
+{"text": "In Fig.", "fibs": ["Fig"]}
+{"text": "10.7(c) a plane wave is incident on a concave mirror and on reflection we have a spherical wave converging to the focal point F. In a similar manner, we can understand refraction and reflection by concave lenses and convex mirrors.", "fibs": ["10.7(c"]}
+{"text": "Figure 10.7 Refraction of a plane wave by (a) a thin prism, (b) a convex lens.", "fibs": ["Figure"]}
+{"text": "(c) Reflection of a plane wave by a concave mirror.", "fibs": ["plane"]}
+{"text": "From the above discussion it follows that the total time taken from a point on the object to the corresponding point on the image is the same measured along any ray.", "fibs": ["discussion"]}
+{"text": "For example, when a convex lens focusses light to form a real image, although the ray going through the centre traverses a shorter path, but because of the slower speed in glass, the time taken is the same as for rays travelling near the edge of the lens.", "fibs": ["example"]}
+{"text": "10.3.4  The doppler effect
+
+
+
+We should mention here that one should be careful in constructing the wavefronts if the source (or the observer) is moving.", "fibs": ["doppler"]}
+{"text": "For example, if there is no medium and the source moves away from the observer, then later wavefronts have to travel a greater distance to reach the observer and hence take a longer time.", "fibs": ["example"]}
+{"text": "The time taken between the arrival of two successive wavefronts is hence longer at the observer than it is at the source.", "fibs": ["time"]}
+{"text": "Thus, when the source moves away from the observer the frequency as measured by the source will be smaller.", "fibs": ["source"]}
+{"text": "This is known as the Doppler effect.", "fibs": ["effect"]}
+{"text": "Astronomers call the increase in wavelength due to doppler effect as  red shift since a wavelength in the middle of the visible region of the spectrum moves towards the red end of the spectrum.", "fibs": ["increase"]}
+{"text": "When waves are received from a source moving towards the observer, there is an apparent decrease in wavelength, this is referred to as blue shift.", "fibs": ["source"]}
+{"text": "You have already encountered Doppler effect for sound waves in Chapter 15 of Class XI textbook.", "fibs": ["effect"]}
+{"text": "For velocities small compared to the speed of light, we can use the same formulae which we use for sound waves.", "fibs": ["speed"]}
+{"text": "The fractional change in frequency ∆ν/ν is given by –vradial/c, where vradial is the component of the source velocity along the line joining the observer to the source relative to the observer; vradial is considered positive when the source moves away from the observer.", "fibs": ["change"]}
+{"text": "Thus, the Doppler shift can be expressed as:
+         (10.9)
+The formula given above is valid only when the speed of the source is small compared to that of light.", "fibs": ["shift"]}
+{"text": "A more accurate formula for the Doppler effect which is valid even when the speeds are close to that of light, requires the use of Einstein’s special theory of relativity.", "fibs": ["formula"]}
+{"text": "The Doppler effect for light is very important in astronomy.", "fibs": ["effect"]}
+{"text": "It is the basis for the measurements of the radial velocities of distant galaxies.", "fibs": ["basis"]}
+{"text": "Example 10.1 What speed should a galaxy move with respect to us so that the sodium line at 589.0 nm is observed at 589.6 nm?", "fibs": ["Example"]}
+{"text": "Solution  Since νλ = c,   (for small changes in ν and λ).", "fibs": ["νλ"]}
+{"text": "For
+∆λ = 589.6 – 589.0 = + 0.6 nm
+we get [using Eq.", "fibs": ["∆λ"]}
+{"text": "(10.9)]
+
+
+or, vradial 
+= 306 km/s
+Therefore, the galaxy is moving away from us.", "fibs": ["galaxy"]}
+{"text": "Example 10.2
+(a)	When monochromatic light is incident on a surface separating two media, the reflected and refracted light both have the same frequency as the incident frequency.", "fibs": ["Example"]}
+{"text": "(b)	When light travels from a rarer to a denser medium, the speed decreases.", "fibs": ["b"]}
+{"text": "Does the reduction in speed imply a reduction in the energy carried by the light wave?", "fibs": ["reduction"]}
+{"text": "(c)	In the wave picture of light, intensity of light is determined by the square of the amplitude of the wave.", "fibs": ["wave"]}
+{"text": "What determines the intensity of light in the photon picture of light.", "fibs": ["intensity"]}
+{"text": "Solution
+(a)	Reflection and refraction arise through interaction of incident light with the atomic constituents of matter.", "fibs": ["refraction"]}
+{"text": "Atoms may be viewed as
+oscillators, which take up the frequency of the external agency (light) causing forced oscillations.", "fibs": ["frequency"]}
+{"text": "The frequency of light emitted by a charged oscillator equals its frequency of oscillation.", "fibs": ["frequency"]}
+{"text": "Thus, the frequency of scattered light equals the frequency of incident light.", "fibs": ["frequency"]}
+{"text": "(b)	No.", "fibs": ["b"]}
+{"text": "Energy carried by a wave depends on the amplitude of the wave, not on the speed of wave propagation.", "fibs": ["wave"]}
+{"text": "(c)	For a given frequency, intensity of light in the photon picture is determined by the number of photons crossing an unit area per unit time.", "fibs": ["frequency"]}
+{"text": "10.4  Coherent and Incoherent Addition of Waves
+In this section we will discuss the interference pattern produced by the superposition of two waves.", "fibs": ["Addition"]}
+{"text": "You may recall that we had discussed the superposition principle in Chapter 15 of your Class XI textbook.", "fibs": ["superposition"]}
+{"text": "Indeed the entire field of interference is based on the superposition principle according to which at a particular point in the medium, the resultant displacement produced by a number of waves is the vector sum of the displacements produced by each of the waves.", "fibs": ["field"]}
+{"text": "(a)
+
+
+
+
+
+(b)
+
+Figure 10.8 (a) Two needles oscillating in phase in water represent two coherent sources.", "fibs": ["b"]}
+{"text": "(b) The pattern of displacement of water molecules at an instant on the surface of water showing nodal N (no displacement) and antinodal A (maximum displacement) lines.", "fibs": ["b"]}
+{"text": "Consider two needles S1 and S2 moving periodically up and down in an identical fashion in a trough of water [Fig.", "fibs": ["fashion"]}
+{"text": "10.8(a)].", "fibs": ["10.8(a"]}
+{"text": "They produce two water waves, and at a particular point, the phase difference between the displacements produced by each of the waves does not change with time; when this happens the two sources are said to be coherent.", "fibs": ["water"]}
+{"text": "Figure 10.8(b) shows the position of crests (solid circles) and troughs (dashed circles) at a given instant of time.", "fibs": ["Figure"]}
+{"text": "Consider a point P for which
+S1 P = S2 P
+Since the distances S1 P and S2 P are equal, waves from S1 and S2 will take the same time to travel to the point P and waves that emanate from S1 and S2 in phase will also arrive, at the point P, in phase.", "fibs": ["point"]}
+{"text": "Thus, if the displacement produced by the source S1 at the point P is given by
+y1 = a cos ωt
+then, the displacement produced by the source S2 (at the point P) will also be given by
+y2 = a cos ωt
+Thus, the resultant of displacement at P would be given by 
+y = y1 + y2 = 2 a cos ωt
+Since the intensity is proportional to the square of the amplitude, the resultant intensity will be given by 
+I = 4 I0 
+where I0 represents the intensity produced by each one of the individual sources; I0 is proportional to a2.", "fibs": ["displacement"]}
+{"text": "In fact at any point on the perpendicular bisector of S1S2, the intensity will be 4I0.", "fibs": ["fact"]}
+{"text": "The two sources are said to interfere constructively and we have what is referred to as constructive interference.", "fibs": ["interference"]}
+{"text": "We next consider a point Q [Fig.", "fibs": ["point"]}
+{"text": "10.9(a)] 
+for which
+S2Q –S1Q = 2λ
+The waves emanating from S1 will arrive exactly two cycles earlier than the waves from S2 and will again be in phase [Fig.", "fibs": ["10.9(a"]}
+{"text": "10.9(a)].", "fibs": ["10.9(a"]}
+{"text": "Thus, if the displacement produced by  S1  is given by 
+y1 = a cos ωt
+then the displacement produced by  S2  will be given by
+y2 = a cos (ωt – 4π)  =  a cos ωt
+where we have used the fact that a path difference of 2λ corresponds to a phase difference of 4π.", "fibs": ["displacement"]}
+{"text": "The two displacements are once again in phase and the intensity will again be 4 I0 giving rise to constructive interference.", "fibs": ["phase"]}
+{"text": "In the above analysis we have assumed that the distances S1Q and S2Q are much greater than d (which represents the distance between S1 and S2) so that although S1Q and S2Q are not equal, the amplitudes of the displacement produced by each wave are very nearly the same.", "fibs": ["analysis"]}
+{"text": "Figure 10.9 (a) Constructive interference at a point Q for which the path difference is 2λ.", "fibs": ["Figure"]}
+{"text": "(b) Destructive interference at a point R for which the path difference is 
+
+
+
+We next consider a point R [Fig.", "fibs": ["b"]}
+{"text": "10.9(b)] for which 
+S2R – S1R = –2.5λ
+The waves emanating from S1 will arrive exactly two and a half cycles later than the waves from S2  [Fig.", "fibs": ["10.9(b"]}
+{"text": "10.10(b)].", "fibs": ["10.10(b"]}
+{"text": "Thus if the displacement produced by  S1  is given by
+y1 = a cos ωt
+then the displacement produced by  S2  will be given by
+y2 = a cos (ωt + 5π)  = – a cos ωt
+where we have used the fact that a path difference of 2.5λ corresponds to a phase difference of 5π.", "fibs": ["displacement"]}
+{"text": "The two displacements are now out of phase and the two displacements will cancel out to give zero intensity.", "fibs": ["phase"]}
+{"text": "This is referred to as destructive interference.", "fibs": ["interference"]}
+{"text": "To summarise: If we have two coherent sources S1 and S2 vibrating in phase, then for an arbitrary point P whenever the path difference, 
+S1P  ~ S2P =  nλ     (n = 0, 1, 2, 3,...)	(10.10)
+we will have constructive interference and the resultant intensity will be 4I0; the sign ~ between  S1P and S2 P represents the difference between  S1P and S2 P. On the other hand, if the point P is such that the path difference,
+S1P  ~ S2P = (n+) λ     (n = 0, 1, 2, 3, ...)	(10.11)
+we will have destructive interference and the resultant intensity will be zero.", "fibs": ["phase"]}
+{"text": "Now, for any other arbitrary point G (Fig.", "fibs": ["point"]}
+{"text": "10.10) let the phase difference between the two displacements be φ.", "fibs": ["phase"]}
+{"text": "Thus, if the displacement produced by S1 is given by 
+
+
+
+
+
+
+Figure 10.10 Locus of points for which  S1P – S2P is equal to zero, ±λ, ± 2λ, ± 3λ.", "fibs": ["displacement"]}
+{"text": "y1 = a cos ωt
+then, the displacement produced by S2 would be
+y2 = a cos (ωt + φ)
+and the resultant displacement will be given by
+y = y1 + y2 
+  = a [cos ωt + cos (ωt +φ)]
+   = 2 a cos (φ/2) cos (ωt + φ/2)
+  
+The amplitude of the resultant displacement is 2a cos (φ/2) and therefore the intensity at that point will be
+I = 4 I0 cos2 (φ/2)	(10.12)
+If φ = 0, ± 2 π, ± 4 π,… which corresponds to the condition given by Eq.", "fibs": ["y1"]}
+{"text": "(10.10) we will have constructive interference leading to maximum intensity.", "fibs": ["interference"]}
+{"text": "On the other hand, if φ = ± π, ± 3π, ± 5π … [which corresponds to the condition given by Eq.", "fibs": ["hand"]}
+{"text": "(10.11)] we will have destructive interference leading to zero intensity.", "fibs": ["interference"]}
+{"text": "Now if the two sources are coherent (i.e., if the two needles are going up and down regularly) then the phase difference φ at any point will not change with time and we will have a stable interference pattern; i.e., the positions of maxima and minima will not change with time.", "fibs": ["phase"]}
+{"text": "However, if the two needles do not maintain a constant phase difference, then the interference pattern will also change with time and, if the phase difference changes very rapidly with time, the positions of maxima and minima will also vary rapidly with time and we will see a “time-averaged” intensity distribution.", "fibs": ["phase"]}
+{"text": "When this happens, we will observe an average intensity that will be given by
+	(10.13)
+where angular brackets represent time averaging.", "fibs": ["intensity"]}
+{"text": "Indeed it is shown in Section 7.2 that if φ(t) varies randomly with time, the time-averaged quantity < cos2 (φ/2) > will be 1/2.", "fibs": ["Section"]}
+{"text": "This is also intuitively obvious because the function cos2 (φ/2)  will randomly vary between 0 and 1 and the average value will be 1/2.", "fibs": ["function"]}
+{"text": "The resultant intensity will be given by
+ I = 2 I0	(10.14) 
+at all points.", "fibs": ["intensity"]}
+{"text": "When the phase difference between the two vibrating sources changes rapidly with time, we say that the two sources are incoherent and when this happens the intensities just add up.", "fibs": ["phase"]}
+{"text": "This is indeed what happens when two separate light sources illuminate a wall.", "fibs": ["light"]}
+{"text": "10.5	Interference of Light Waves and Young’s Experiment
+We will now discuss interference using light waves.", "fibs": ["’"]}
+{"text": "If we use two sodium lamps illuminating two pinholes (Fig.", "fibs": ["use"]}
+{"text": "10.11) we will not observe any interference fringes.", "fibs": ["interference"]}
+{"text": "This is because of the fact that the light wave emitted from an ordinary source (like a sodium lamp) undergoes abrupt phase changes in times of the order of 10–10 seconds.", "fibs": ["fact"]}
+{"text": "Thus the light waves coming out from two independent sources of light will not have any fixed phase relationship and would be incoherent, when this happens, as discussed in the previous section, the intensities on the screen will add up.", "fibs": ["light"]}
+{"text": "The British physicist Thomas Young used an ingenious technique to “lock” the phases of the waves emanating from S1 and S2.", "fibs": ["physicist"]}
+{"text": "He made two pinholes S1 and S2 (very close to each other) on an opaque screen [Fig.", "fibs": ["screen"]}
+{"text": "10.12(a)].", "fibs": ["10.12(a"]}
+{"text": "These were illuminated by another pinholes that was in turn, lit by a bright source.", "fibs": ["source"]}
+{"text": "Light waves spread out from S and fall on both S1 and S2.", "fibs": ["spread"]}
+{"text": "S1 and S2 then behave like two coherent sources because light waves coming out from S1 and S2 are derived from the same original source and any abrupt phase change in S will manifest in exactly similar phase changes in the light coming out from S1 and S2.", "fibs": ["light"]}
+{"text": "Thus, the two sources S1 and S2 will be locked in phase; i.e., they will be coherent like the two vibrating needle in our water wave example [Fig.", "fibs": ["phase"]}
+{"text": "10.8(a)].", "fibs": ["10.8(a"]}
+{"text": "FIGURE 10.11 If two sodium lamps illuminate two pinholes S1 and S2, the intensities will add up and no interference fringes will be observed on the screen.", "fibs": ["FIGURE"]}
+{"text": "FIGURE 10.12 Young’s arrangement to produce interference pattern.", "fibs": ["FIGURE"]}
+{"text": "Thus spherical waves emanating from S1 and S2 will produce interference fringes on the screen GG′, as shown in Fig.", "fibs": ["interference"]}
+{"text": "10.12(b).", "fibs": ["10.12(b"]}
+{"text": "The positions of maximum and minimum intensities can be calculated by using the analysis given in Section 10.4 where we had shown that for an arbitrary point P on the line GG′ [Fig.", "fibs": ["analysis"]}
+{"text": "10.12(b)] to correspond to a maximum, we must have
+S2P – S1P = nλ;    n = 0, 1, 2 ...	(10.15)
+Now,
+
+
+
+	(a)	(b)
+Figure 10.12 Young’s arrangement to produce interference pattern.", "fibs": ["10.12(b"]}
+{"text": "(S2P)2 – (S1P)2 =  = 2x d
+where	S1S2 = d and OP = x.", "fibs": ["2x"]}
+{"text": "Thus
+S2P – S1P =                                        (10.16)
+If x, d<<D then negligible error will be introduced if S2P + S1P (in the denominator) is replaced by 2D.", "fibs": ["=("]}
+{"text": "For example, for d = 0.1 cm, D = 100 cm, OP = 1 cm (which correspond to typical values for an interference experiment using light waves), we have
+S2P + S1P  =   [(100)2 + (1.05)2]½ + [(100)2 + (0.95)2]½
+ 200.01 cm
+Thus if we replace S2P + S1P by 2 D, the error involved is about 0.005%.", "fibs": ["example"]}
+{"text": "In this approximation, Eq.", "fibs": ["approximation"]}
+{"text": "(10.16) becomes
+
+
+
+
+
+
+Thomas Young (1773 – 1829)
+
+Thomas Young (1773 – 1829) English physicist, physician and Egyptologist.", "fibs": ["physicist"]}
+{"text": "Young worked on a wide variety of scientific problems, ranging from the structure of the eye and the mechanism of vision to the decipherment of the Rosetta stone.", "fibs": ["variety"]}
+{"text": "He revived the wave theory of light and recognised that interference phenomena provide proof of the wave properties of light.", "fibs": ["wave"]}
+{"text": "S2P – S1P ≈         (10.17)
+Hence we will have constructive interference resulting in a bright region when  = nλ [Eq.", "fibs": ["≈"]}
+{"text": "That is, 
+x = xn = ; n = 0, ± 1, ± 2, ...       (10.18)
+On the other hand, we will have destructive interference resulting in a dark region when = (n+) λ that is
+x = xn = (n+)     (10.19)
+Thus dark and bright bands appear on the screen, as shown in Fig.", "fibs": ["x"]}
+{"text": "Equations (10.18) and (10.19) show that dark and bright fringes are equally spaced and the distance between two consecutive bright and dark fringes is given by
+β = xn+1 –xn  or  β =         (10.20)
+which is the expression for the fringe width.", "fibs": ["10.18)"]}
+{"text": "Obviously, the central point O (in Fig.", "fibs": ["point"]}
+{"text": "10.12) will be bright because S1O = S2O and it will correspond to n = 0 [Eq.", "fibs": ["Eq."]}
+{"text": "(10.18)].", "fibs": ["10.18)"]}
+{"text": "If we consider the line perpendicular to the plane of the paper and passing through O [i.e., along the y-axis] then all points on this line will be equidistant from S1 and S2 and we will have a bright central fringe which is a straight line as shown in Fig.", "fibs": ["line"]}
+{"text": "In order to determine the shape of the interference pattern on the screen we note that a particular fringe would correspond to the locus of points with a constant value of S2P – S1P.", "fibs": ["order"]}
+{"text": "Whenever this constant  is an integral multiple of λ, the fringe will be bright and whenever it is an odd integral multiple of λ/2 it will be a dark fringe.", "fibs": ["integral"]}
+{"text": "Now, the locus of the point P lying in the x-y plane such that S2P – S1P (= ∆) is a constant, is a hyperbola.", "fibs": ["locus"]}
+{"text": "Thus the fringe pattern will strictly be a hyperbola; however, if the distance D is very large compared to the fringe width, the fringes will be very nearly straight lines as shown in Fig.", "fibs": ["fringe"]}
+{"text": "Figure 10.13 Computer generated fringe pattern produced by two point source S1 and S2 on the screen GG′ (Fig.", "fibs": ["Figure"]}
+{"text": "10.12); (a) and (b) correspond to d = 0.005 mm and 0.025 mm, respectively (both figures correspond to D = 5 cm and λ = 5 × 10–5 cm.)", "fibs": ["b"]}
+{"text": "(Adopted from OPTICS by A. Ghatak, Tata McGraw Hill Publishing Co. Ltd., New Delhi, 2000.)", "fibs": ["OPTICS"]}
+{"text": "In the double-slit experiment shown in Fig.", "fibs": ["experiment"]}
+{"text": "10.12(b), we have taken the source hole S on the perpendicular bisector of the two slits, which is shown as the line SO.", "fibs": ["10.12(b"]}
+{"text": "What happens if the source S is slightly away from the perpendicular bisector.", "fibs": ["source"]}
+{"text": "Consider that the source is moved to some new point S′ and suppose that Q is the mid-point of S1 and S2.", "fibs": ["source"]}
+{"text": "If the angle S′QS is φ, then the central bright fringe occurs at an angle –φ, on the other side.", "fibs": ["angle"]}
+{"text": "Thus, if the source S is on the perpendicular bisector, then the central fringe occurs at O, also on the perpendicular bisector.", "fibs": ["source"]}
+{"text": "If S is shifted by an angle φ to point S′, then the central fringe appears at a point O′ at an angle –φ, which means that it is shifted by the same angle on the other side of the bisector.", "fibs": ["angle"]}
+{"text": "This also means that the source S′, the mid-point Q and the point O′ of the central fringe are in a straight line.", "fibs": ["source"]}
+{"text": "We end this section by quoting from the Nobel lecture of Dennis Gabor*
+The wave nature of light was demonstrated convincingly for the first time in 1801 by Thomas Young by a wonderfully simple experiment.", "fibs": ["end"]}
+{"text": "He let a ray of sunlight into a dark room, placed a dark screen in front of it, pierced with two small pinholes, and beyond this, at some distance, a white screen.", "fibs": ["ray"]}
+{"text": "He then saw two darkish lines at both sides of a bright line, which gave him sufficient encouragement to repeat the experiment, this time with spirit flame as light source, with a little salt in it to produce the bright yellow sodium light.", "fibs": ["line"]}
+{"text": "This time he saw a number of dark lines, regularly spaced; the first clear proof that light added to light can produce darkness.", "fibs": ["time"]}
+{"text": "This phenomenon is called interference.", "fibs": ["phenomenon"]}
+{"text": "Thomas Young had expected it because he believed in the wave theory of light.", "fibs": ["wave"]}
+{"text": "*Dennis Gabor received the 1971 Nobel Prize in Physics for discovering theprinciples of holography
+We should mention here that the fringes are straight lines although S1 and S2 are point sources.", "fibs": ["holography"]}
+{"text": "If we had slits instead of the point sources (Fig.", "fibs": ["point"]}
+{"text": "10.14), each pair of points would have produced straight line fringes resulting in straight line fringes with increased intensities.", "fibs": ["pair"]}
+{"text": "Figure 10.14 Photograph and the graph of the intensity distribution in Young’s double-slit experiment.", "fibs": ["Figure"]}
+{"text": "Example 10.3 Two slits are made one millimetre apart and the screen is placed one metre away.", "fibs": ["Example"]}
+{"text": "What is the fringe separation when blue-green light of wavelength 500 nm is used?", "fibs": ["fringe"]}
+{"text": "Solution Fringe spacing 
+			         = 5 × 10–4 m = 0.5 mm
+
+Example 10.4 What is the eff ect on the interference fringes in a Young’s double-slit experiment due to each of the following operations:
+(a)	the screen is moved away from the plane of the slits;
+(b)	the (monochromatic) source is replaced by another (monochromatic) source of shorter wavelength;
+(c)	the separation between the two slits is increased;
+(d)	the source slit is moved closer to the double-slit plane;
+(e)	the width of the source slit is increased;
+(f)	the monochromatic source is replaced by a source of white light?", "fibs": ["spacing"]}
+{"text": "(In each operation, take all parameters, other than the one specified, to remain unchanged.)", "fibs": ["operation"]}
+{"text": "Solution
+
+(a)	Angular separation of the fringes remains constant (= λ/d).", "fibs": ["separation"]}
+{"text": "The actual separation of the fringes increases in proportion to the distance of the screen from the plane of the two slits.", "fibs": ["separation"]}
+{"text": "(b)	The separation of the fringes (and also angular separation) decreases.", "fibs": ["b"]}
+{"text": "See, however, the condition mentioned in (d) below.", "fibs": ["condition"]}
+{"text": "(c)	The separation of the fringes (and also angular separation) decreases.", "fibs": ["separation"]}
+{"text": "See, however, the condition mentioned in (d) below.", "fibs": ["condition"]}
+{"text": "(d)	Let s be the size of the source and S its distance from the plane of the two slits.", "fibs": ["size"]}
+{"text": "For interference fringes to be seen, the condition s/S < λ/d should be satisfied; otherwise, interference patterns produced by different parts of the source overlap and no fringes are seen.", "fibs": ["interference"]}
+{"text": "Thus, as S decreases (i.e., the source slit is brought closer), the interference pattern gets less and less sharp, and when the source is brought too close for this condition to be valid, the fringes disappear.", "fibs": ["source"]}
+{"text": "Till this happens, the fringe separation remains fixed.", "fibs": ["fringe"]}
+{"text": "As the source slit width increases, fringe pattern gets less and less sharp.", "fibs": ["source"]}
+{"text": "When the source slit is so wide that the condition s/S ≤ λ/d is not satisfied, the interference pattern disappears.", "fibs": ["source"]}
+{"text": "(f)	The interference patterns due to different component colours of white light overlap (incoherently).", "fibs": ["f"]}
+{"text": "The central bright fringes for different colours are at the same position.", "fibs": ["position"]}
+{"text": "Therefore, the central fringe is white.", "fibs": ["fringe"]}
+{"text": "For a point P for which S2P –S1P = λb/2, where λb (≈ 4000 Å) represents the wavelength for the blue colour, the blue component will be absent and the fringe will appear red in colour.", "fibs": ["point"]}
+{"text": "Slightly farther away where S2Q–S1Q = λb = λr/2 where λr (≈ 8000 Å) is the wavelength for the red colour, the fringe will be predominantly blue.", "fibs": ["λb"]}
+{"text": "Thus, the fringe closest on either side of the central white fringe is red and the farthest will appear blue.", "fibs": ["fringe"]}
+{"text": "After a few fringes, no clear fringe pattern is seen.", "fibs": ["fringe"]}
+{"text": "10.6  Diffraction
+If we look clearly at the shadow cast by an opaque object, close to the region of geometrical shadow, there are alternate dark and bright regions just like in interference.", "fibs": ["shadow"]}
+{"text": "This happens due to the phenomenon of diffraction.", "fibs": ["phenomenon"]}
+{"text": "Diffraction is a general characteristic exhibited by all types of waves, be it sound waves, light waves, water waves or matter waves.", "fibs": ["Diffraction"]}
+{"text": "Since the wavelength of light is much smaller than the dimensions of most obstacles; we do not encounter diffraction effects of light in everyday observations.", "fibs": ["wavelength"]}
+{"text": "However, the finite resolution of our eye or of optical instruments such as telescopes or microscopes is limited due to the phenomenon of diffraction.", "fibs": ["resolution"]}
+{"text": "Indeed the colours that you see when a CD is viewed is due to diffraction effects.", "fibs": ["diffraction"]}
+{"text": "We will now discuss the phenomenon of diffraction.", "fibs": ["phenomenon"]}
+{"text": "10.6.1  The single slit
+In the discussion of Young’s experiment, we stated that a single narrow slit acts as a new source from which light spreads out.", "fibs": ["slit"]}
+{"text": "Even before Young, early experimenters – including Newton – had noticed that light spreads out from narrow holes and slits.", "fibs": ["light"]}
+{"text": "It seems to turn around corners and enter regions where we would expect a shadow.", "fibs": ["shadow"]}
+{"text": "These effects, known as diffraction, can only be properly understood using wave ideas.", "fibs": ["diffraction"]}
+{"text": "After all, you are hardly surprised to hear sound waves from someone talking around a corner!", "fibs": ["sound"]}
+{"text": "When the double slit in Young’s experiment is replaced by a single narrow slit (illuminated by a monochromatic source), a broad pattern with a central bright region is seen.", "fibs": ["slit"]}
+{"text": "On both sides, there are alternate dark and bright regions, the intensity becoming weaker away from the centre (Fig.", "fibs": ["intensity"]}
+{"text": "To understand this, go to Fig.", "fibs": ["Fig"]}
+{"text": "10.15, which shows a parallel beam of light falling normally on a single slit LN of width a.", "fibs": ["beam"]}
+{"text": "The diffracted light goes on to meet a screen.", "fibs": ["light"]}
+{"text": "The midpoint of the slit is M.
+A straight line through M perpendicular to the slit plane meets the screen at C. We want the intensity at any point P on the screen.", "fibs": ["midpoint"]}
+{"text": "As before, straight lines joining P to the different points L,M,N, etc., can be treated as parallel, making an angle θ with the normal MC.", "fibs": ["P"]}
+{"text": "The basic idea is to divide the slit into much smaller parts, and add their contributions at P with the proper phase differences.", "fibs": ["idea"]}
+{"text": "We are treating different parts of the wavefront at the slit as secondary sources.", "fibs": ["wavefront"]}
+{"text": "Because the incoming wavefront is parallel to the plane of the slit, these sources are in phase.", "fibs": ["wavefront"]}
+{"text": "The path difference NP – LP between the two edges of the slit can be calculated exactly as for Young’s experiment.", "fibs": ["path"]}
+{"text": "From Fig.", "fibs": ["Fig"]}
+{"text": "10.15,
+NP – LP = NQ
+		   = a sin θ 
+		   ≈ a θ  (for smaller angles) (10.21)
+Similarly, if two points M1 and M2 in the slit plane are separated by y, the path difference M2P – M1P ≈ yθ.", "fibs": ["NQ"]}
+{"text": "We now have to sum up equal, coherent contributions from a large number of sources, each with a different phase.", "fibs": ["sum"]}
+{"text": "This calculation was made by Fresnel using integral calculus, so we omit it here.", "fibs": ["calculation"]}
+{"text": "The main features of the diffraction pattern can be understood by simple arguments.", "fibs": ["diffraction"]}
+{"text": "At the central point C on the screen, the angle θ is zero.", "fibs": ["point"]}
+{"text": "All path differences are zero and hence all the parts of the slit contribute in phase.", "fibs": ["path"]}
+{"text": "This gives maximum intensity at C. Experimental observation shown in Fig.", "fibs": ["intensity"]}
+{"text": "10.15 indicates that the intensity has a central maximum at θ = 0 and other secondary maxima at θ ≈  (n+1/2) λ/a, and has minima (zero intensity) at θ ≈  nλ/a, n = ±1, ±2, ±3, ....", "fibs": ["intensity"]}
+{"text": "It is easy to see why it has minima at these values of angle.", "fibs": ["minima"]}
+{"text": "Consider first the angle θ where the path difference aθ is λ.", "fibs": ["angle"]}
+{"text": "(10.22)
+Now, divide the slit into two equal halves LM and MN each of size a/2.", "fibs": ["slit"]}
+{"text": "For every point M1 in LM, there is a point M2 in MN such that M1M2 = a/2.", "fibs": ["point"]}
+{"text": "The path difference between M1 and M2 at P = M2P – M1P = θa/2 = λ/2 for the angle chosen.", "fibs": ["path"]}
+{"text": "This means that the contributions from M1 and M2 are 180° out of phase and cancel in the direction θ = λ/a.", "fibs": ["180°"]}
+{"text": "Contributions from the two halves of the slit LM and MN, therefore, cancel each other.", "fibs": ["slit"]}
+{"text": "Equation (10.22) gives the angle at which the intensity falls to zero.", "fibs": ["Equation"]}
+{"text": "One can similarly show that the intensity is zero for θ = nλ/a, with n being any integer (except zero!).", "fibs": ["show"]}
+{"text": "Notice that the angular size of the central maximum increases when the slit width a decreases.", "fibs": ["Notice"]}
+{"text": "Figure 10.15  The geometry of path differences for diffraction by a single slit.", "fibs": ["Figure"]}
+{"text": "It is also easy to see why there are maxima at θ  = (n + 1/2) λ/a and why they go on becoming weaker and weaker with increasing n. Consider an angle θ = 3λ/2a which is midway between two of the dark fringes.", "fibs": ["maxima"]}
+{"text": "Divide the slit into three equal parts.", "fibs": ["slit"]}
+{"text": "If we take the first two thirds of the slit, the path difference between the two ends would be 
+	(10.23)
+The first two-thirds of the slit can therefore be divided into two halves which have a λ/2 path difference.", "fibs": ["slit"]}
+{"text": "The contributions of these two halves cancel in the same manner as described earlier.", "fibs": ["manner"]}
+{"text": "Only the remaining one-third of the slit contributes to the intensity at a point between the two minima.", "fibs": ["one-third"]}
+{"text": "Clearly, this will be much weaker than the central maximum (where the entire slit contributes in phase).", "fibs": ["slit"]}
+{"text": "One can similarly show that there are maxima at (n + 1/2) λ/a with n = 2, 3, etc.", "fibs": ["show"]}
+{"text": "These become weaker with increasing n, since only one-fifth, one-seventh, etc., of the slit contributes in these cases.", "fibs": ["one-fifth"]}
+{"text": "The photograph and intensity pattern corresponding to it is shown in Fig.", "fibs": ["photograph"]}
+{"text": "Figure 10.16 Intensity distribution and photograph of fringes due to diffraction at single slit.", "fibs": ["Figure"]}
+{"text": "There has been prolonged discussion about difference between intereference and diffraction among scientists since the discovery of these phenomena.", "fibs": ["discussion"]}
+{"text": "In this context, it is interesting to note what Richard Feynman* has said in his famous Feynman Lectures on Physics:
+No one has ever been able to define the difference between interference and diffraction satisfactorily.", "fibs": ["context"]}
+{"text": "It is just a question of usage, and there is no specific, important physical difference between them.", "fibs": ["question"]}
+{"text": "The best we can do is, roughly speaking, is to say that when there are only a few sources, say two interfering sources, then the result is usually called interference, but if there is a large number of them, it seems that the word diffraction is more often used.", "fibs": ["result"]}
+{"text": "In the double-slit experiment, we must note that the pattern on the screen is actually a superposition of single-slit diffraction from each slit or hole, and the double-slit interference pattern.", "fibs": ["experiment"]}
+{"text": "This is shown in Fig.", "fibs": ["Fig"]}
+{"text": "It shows a broader diffraction peak in which there appear several fringes of smaller width due to double-slit interference.", "fibs": ["diffraction"]}
+{"text": "The number of interference fringes occuring in the broad diffraction peak depends on the ratio d/a, that is the ratio of the distance between the two slits to the width of a slit.", "fibs": ["number"]}
+{"text": "In the limit of a becoming very small, the diffraction pattern will become very flat and we will obsrve the two-slit interference pattern [see Fig.", "fibs": ["limit"]}
+{"text": "10.13(b)].", "fibs": ["10.13(b"]}
+{"text": "FIGURE 10.17 The actual double-slit interference pattern The envelope shows the single slit diffraction..", "fibs": ["FIGURE"]}
+{"text": "Example 10.5 In Example 10.3, what should the width of each slit be to obtain 10 maxima of the double slit pattern within the central maximum of the single slit pattern?", "fibs": ["Example"]}
+{"text": "Solution We want  
+ 
+Notice that the wavelength of light and distance of the screen do not enter in the calculation of a.", "fibs": ["Notice"]}
+{"text": "In the double-slit interference experiment of Fig.", "fibs": ["interference"]}
+{"text": "10.12, what happens if we close one slit?", "fibs": ["slit"]}
+{"text": "You will see that it now amounts to a single slit.", "fibs": ["slit"]}
+{"text": "But you will have to take care of some shift in the pattern.", "fibs": ["care"]}
+{"text": "We now have a source at S, and only one hole (or slit) S1 or S2.", "fibs": ["source"]}
+{"text": "This will produce a single-slit diffraction pattern on the screen.", "fibs": ["diffraction"]}
+{"text": "The centre of the central bright fringe will appear at a point which lies on the straight line SS1 or SS2, as the case may be.", "fibs": ["centre"]}
+{"text": "We now compare and contrast the interference pattern with that seen for a coherently illuminated single slit (usually called the single slit diffraction pattern).", "fibs": ["contrast"]}
+{"text": "(i)	The interference pattern has a number of equally spaced  bright and dark bands.", "fibs": ["interference"]}
+{"text": "The diffraction pattern has a central bright maximum  which is twice as wide as the other maxima.", "fibs": ["diffraction"]}
+{"text": "The intensity falls as we go to successive maxima away from the centre, on either side.", "fibs": ["intensity"]}
+{"text": "(ii)	We calculate the interference pattern by superposing two waves originating from the two narrow slits.", "fibs": ["ii"]}
+{"text": "The diffraction pattern is a superposition of a continuous family of waves originating from each point on a single slit.", "fibs": ["diffraction"]}
+{"text": "*	Richand Feynman was one of the recipients of the 1965 Nobel Prize in Physics for his fundamental work in quantum electrodynamics.", "fibs": ["work"]}
+{"text": "(iii)	For a single slit of width a, the first null of the interference pattern occurs at  an angle of λ/a.", "fibs": ["iii"]}
+{"text": "At the same angle of λ/a, we get a maximum (not a null) for two narrow slits separated by a distance a.", "fibs": ["angle"]}
+{"text": "One must understand that both d and a have to be quite small, to be able to observe good interference and diffraction patterns.", "fibs": ["interference"]}
+{"text": "For example, the separation d between the two slits must be of the order of a milimetre or so.", "fibs": ["example"]}
+{"text": "The width a of each slit must be even smaller, of the order of 0.1 or 0.2 mm.", "fibs": ["width"]}
+{"text": "In our discussion of Young’s experiment and the single-slit diffraction, we have assumed that the screen on which the fringes are formed is at a large distance.", "fibs": ["discussion"]}
+{"text": "The two or more paths from the slits to the screen were treated as parallel.", "fibs": ["screen"]}
+{"text": "This situation also occurs when we place a converging lens after the slits and place the screen at the focus.", "fibs": ["situation"]}
+{"text": "Parallel paths from the slit are combined at a single point on the screen.", "fibs": ["slit"]}
+{"text": "Note that the lens does not introduce any extra path differences in a parallel beam.", "fibs": ["lens"]}
+{"text": "This arrangement is often used since it gives more intensity than placing the screen far away.", "fibs": ["arrangement"]}
+{"text": "If f is the focal length of the lens, then we can easily work out  the size of the central bright maximum.", "fibs": ["f"]}
+{"text": "In terms of angles, the separation of the central maximum from the first null of the diffraction pattern is λ/a.", "fibs": ["separation"]}
+{"text": "Hence, the size on the screen will be f λ/a.", "fibs": ["size"]}
+{"text": "10.6.2  Seeing the single slit diffraction pattern
+It is surprisingly easy to see the single-slit diffraction pattern for oneself.", "fibs": ["slit"]}
+{"text": "The equipment needed can be found in most homes –– two razor blades and one clear glass electric bulb preferably with a straight filament.", "fibs": ["equipment"]}
+{"text": "One has to hold the two blades so that the edges are parallel and have a narrow slit in between.", "fibs": ["slit"]}
+{"text": "This is easily done with the thumb and forefingers (Fig.", "fibs": ["thumb"]}
+{"text": "10.18).", "fibs": ["10.18)"]}
+{"text": "Keep the slit parallel to the filament, right in front of the eye.", "fibs": ["slit"]}
+{"text": "With slight adjustment of the width of the slit and the parallelism of the edges, the pattern should be seen with its bright and dark bands.", "fibs": ["adjustment"]}
+{"text": "Since the position of all the bands (except the central one) depends on wavelength, they will show some colours.", "fibs": ["position"]}
+{"text": "Using a filter for red or blue will make the fringes clearer.", "fibs": ["filter"]}
+{"text": "In this experiment, the filament plays the role of the first slit S in Fig.", "fibs": ["experiment"]}
+{"text": "The lens of the eye focuses the pattern on the screen (the retina of the eye).", "fibs": ["lens"]}
+{"text": "Figure 10.18 Holding two blades to form a single slit.", "fibs": ["Figure"]}
+{"text": "A bulb filament viewed through this shows clear diffraction bands.", "fibs": ["bulb"]}
+{"text": "With some effort, one can cut a double slit in an aluminium foil with a blade.", "fibs": ["effort"]}
+{"text": "The bulb filament can be viewed as before to repeat Young’s experiment.", "fibs": ["bulb"]}
+{"text": "In daytime, there is another suitable bright source subtending a small angle at the eye.", "fibs": ["source"]}
+{"text": "This is the reflection of the Sun in any shiny convex surface (e.g., a cycle bell).", "fibs": ["reflection"]}
+{"text": "Do not try direct sunlight – it can damage the eye and will not give fringes anyway as the Sun subtends an angle of (1/2)°.", "fibs": ["sunlight"]}
+{"text": "In interference and diffraction, light energy is redistributed.", "fibs": ["interference"]}
+{"text": "If it reduces in one region, producing a dark fringe, it increases in another region, producing a bright fringe.", "fibs": ["region"]}
+{"text": "There is no gain or loss of energy, which is consistent with the principle of conservation of energy.", "fibs": ["gain"]}
+{"text": "10.6.3  Resolving power of optical instruments
+In Chapter 9 we had discussed about telescopes.", "fibs": ["power"]}
+{"text": "The angular resolution of the telescope is determined by the objective of the telescope.", "fibs": ["resolution"]}
+{"text": "The stars which are not resolved in the image produced by the objective cannot be resolved by any further magnification produced by the eyepiece.", "fibs": ["image"]}
+{"text": "The primary purpose of the eyepiece is to provide magnification of the image produced by the objective.", "fibs": ["purpose"]}
+{"text": "Consider a parallel beam of light falling on a convex lens.", "fibs": ["beam"]}
+{"text": "If the lens is well corrected for aberrations, then geometrical optics tells us that the beam will get focused to a point.", "fibs": ["lens"]}
+{"text": "However, because of diffraction, the beam instead of getting focused to a point gets focused to a spot of finite area.", "fibs": ["diffraction"]}
+{"text": "In this case the effects due to diffraction can be taken into account by considering a plane wave incident on a circular aperture followed by a convex lens (Fig.", "fibs": ["case"]}
+{"text": "The analysis of the corresponding diffraction pattern is quite involved; however, in principle, it is similar to the analysis carried out to obtain the single-slit diffraction pattern.", "fibs": ["analysis"]}
+{"text": "Taking into account the effects due to diffraction, the pattern on the focal plane would consist of a central bright region surrounded by concentric dark and bright rings (Fig.", "fibs": ["account"]}
+{"text": "A detailed analysis shows that the radius of the central bright region is approximately given by 
+	(10.24)
+where f  is the focal length of the lens and 2a is the diameter of the circular aperture or the diameter of the lens, whichever is smaller.", "fibs": ["analysis"]}
+{"text": "Typically if
+λ ≈  0.5 µm,  f ≈  20 cm  and  a ≈  5 cm
+we have 
+r0 ≈  1.2 µm
+Although the size of the spot is very small, it plays an important role in determining the limit of resolution of optical instruments like a telescope or a microscope.", "fibs": ["λ"]}
+{"text": "For the two stars to be just resolved
+
+
+
+
+
+
+
+
+Figure 10.19 A parallel beam of light is incident on a convex lens.", "fibs": ["Figure"]}
+{"text": "Because of diffraction effects, the beam gets focused to a spot of radius ≈ 0.61 λf/a.", "fibs": ["diffraction"]}
+{"text": "implying
+	(10.25)
+Thus ∆θ will be small if the diameter of the objective is large.", "fibs": ["∆θ"]}
+{"text": "This implies that the telescope will have better resolving power if a is large.", "fibs": ["telescope"]}
+{"text": "It is for this reason that for better resolution, a telescope must have a large diameter objective.", "fibs": ["reason"]}
+{"text": "Example 10.6 Assume that light of wavelength 6000Å is coming from a star.", "fibs": ["Example"]}
+{"text": "What is the limit of resolution of a telescope whose objective has a diameter of 100 inch?", "fibs": ["limit"]}
+{"text": "Solution A 100 inch telescope implies that 2a = 100 inch  = 254 cm.", "fibs": ["inch"]}
+{"text": "Thus if,
+		λ ≈ 6000Å = 6×10–5 cm
+	then
+ radians
+
+We can apply a similar argument to the objective lens of a microscope.", "fibs": ["λ"]}
+{"text": "In this case, the object is placed slightly beyond f, so that a real image is formed at a distance v [Fig.", "fibs": ["case"]}
+{"text": "The magnification (ratio of image size to object size) is given by m ≈ v/f.", "fibs": ["magnification"]}
+{"text": "It can be seen from Fig.", "fibs": ["Fig"]}
+{"text": "10.20 that D/f ≈ 2 tan β        (10.26)
+where 2β is the angle subtended by the diameter of the objective lens at the focus of the microscope.", "fibs": ["D/f"]}
+{"text": "FIGURE 10.20 Real image formed by the objective lens of the microscope.", "fibs": ["FIGURE"]}
+{"text": "Determine the resolving power of your eye
+You can estimate the resolving power of your eye with a simple experiment.", "fibs": ["power"]}
+{"text": "Make black stripes of equal width separated by white stripes; see figure here.", "fibs": ["width"]}
+{"text": "All the black stripes should be of equal width, while the width of the intermediate white stripes should increase as you go from the left to the right.", "fibs": ["width"]}
+{"text": "For example, let all black stripes have a width of 5 mm.", "fibs": ["example"]}
+{"text": "Let the width of the first two white stripes be 0.5 mm each, the next two white stripes be 1 mm each, the next two 1.5 mm each, etc.", "fibs": ["width"]}
+{"text": "Paste this pattern on a wall in a room or laboratory, at the height of your eye.", "fibs": ["Paste"]}
+{"text": "Now watch the pattern, preferably with one eye.", "fibs": ["pattern"]}
+{"text": "By moving away or closer to the wall, find the position where you can just see some two black stripes as separate stripes.", "fibs": ["wall"]}
+{"text": "All the black stripes to the left of this stripe would merge into one another and would not be distinguishable.", "fibs": ["stripe"]}
+{"text": "On the other hand, the black stripes to the right of this would be more and more clearly visible.", "fibs": ["hand"]}
+{"text": "Note the width d of the white stripe which separates the two regions, and measure the distance D of the wall from your eye.", "fibs": ["width"]}
+{"text": "Then d/D is the resolution of your eye.", "fibs": ["d/D"]}
+{"text": "You have watched specks of dust floating in air in a sunbeam entering through your window.", "fibs": ["dust"]}
+{"text": "Find the distance (of a speck) which you can clearly see and distinguish from a neighbouring speck.", "fibs": ["distance"]}
+{"text": "Knowing the resolution of your eye and the distance of the speck, estimate the size of the speck of dust.", "fibs": ["resolution"]}
+{"text": "When the separation between two points in a microscopic specimen is comparable to the wavelength λ of the light, the diffraction effects become important.", "fibs": ["separation"]}
+{"text": "The image of a point object will again be a diffraction pattern whose size in the image plane will be 
+          (10.27)
+Two objects whose images are closer than this distance will not be resolved, they will be seen as one.", "fibs": ["image"]}
+{"text": "The corresponding minimum separation, dmin, in the object plane is given by
+
+
+
+dmin =  
+
+
+
+
+
+	      = 
+or, since 
+            = 	(10.28)
+Now, combining Eqs.", "fibs": ["separation"]}
+{"text": "(10.26) and (10.28), we get
+ 
+≈ (10.29)
+If the medium between the object and the objective lens is not air but a medium of refractive index n, Eq.", "fibs": ["10.28)"]}
+{"text": "(10.29)  gets  modified to 		
+                 (10.30)
+The product n sinβ is called the numerical aperture and is sometimes marked on the objective.", "fibs": ["product"]}
+{"text": "The resolving power of the microscope is given by the reciprocal of the minimum separation of two points seen as distinct.", "fibs": ["power"]}
+{"text": "It can be seen from Eq.", "fibs": ["Eq."]}
+{"text": "(10.30) that the resolving power can be increased by choosing a medium of higher refractive index.", "fibs": ["power"]}
+{"text": "Usually an oil having a refractive index close to that of the objective glass is used.", "fibs": ["oil"]}
+{"text": "Such an arrangement is called an ‘oil immersion objective’.", "fibs": ["arrangement"]}
+{"text": "Notice that it is not possible to make sinβ larger than unity.", "fibs": ["Notice"]}
+{"text": "Thus, we see that the resolving power of a microscope is basically determined by the wavelength of the light used.", "fibs": ["power"]}
+{"text": "There is a likelihood of confusion between resolution and magnification, and similarly between the role of a telescope and a microscope to deal with these parameters.", "fibs": ["likelihood"]}
+{"text": "A telescope produces images of far objects nearer to our eye.", "fibs": ["telescope"]}
+{"text": "Therefore objects which are not resolved at far distance, can be resolved by looking at them through a telescope.", "fibs": ["distance"]}
+{"text": "A microscope, on the other hand, magnifies objects (which are near to us) and produces their larger image.", "fibs": ["microscope"]}
+{"text": "We may be looking at two stars or two satellites of a far-away planet, or we may be looking at different regions of a living cell.", "fibs": ["planet"]}
+{"text": "In this context, it is good to remember that a telescope resolves whereas a microscope magnifies.", "fibs": ["context"]}
+{"text": "10.6.4  The validity of ray optics
+An aperture (i.e., slit or hole) of size a illuminated by a parallel beam sends diffracted light into an angle of approximately ≈ λ/a.", "fibs": ["validity"]}
+{"text": "This is the angular size of the bright central maximum.", "fibs": ["size"]}
+{"text": "In travelling a distance z, the diffracted beam therefore acquires a width zλ/a due to diffraction.", "fibs": ["distance"]}
+{"text": "It is interesting to ask at what value of z the spreading due to diffraction becomes comparable to the size a of the aperture.", "fibs": ["value"]}
+{"text": "We thus approximately equate zλ/a with a.", "fibs": ["zλ/a"]}
+{"text": "This gives the distance beyond which divergence of the beam of width a becomes significant.", "fibs": ["distance"]}
+{"text": "Therefore,
+        	(10.31)
+We define a quantity zF  called the Fresnel distance by the following equation
+
+Equation (10.31) shows that for distances much smaller than zF , the spreading due to diffraction is smaller compared to the size of the beam.", "fibs": ["quantity"]}
+{"text": "It becomes comparable when the distance is approximately  zF.", "fibs": ["distance"]}
+{"text": "For distances much greater than zF, the spreading due to diffraction dominates over that due to ray optics (i.e., the size a of the aperture).", "fibs": ["zF"]}
+{"text": "Equation (10.31) also shows that ray optics is valid in the limit of wavelength tending to zero.", "fibs": ["Equation"]}
+{"text": "Example 10.7 For what distance is ray optics a good approximation when the aperture is 3 mm wide and the wavelength is 500 nm?", "fibs": ["Example"]}
+{"text": "Solution  
+This example shows that even with a small aperture, diffraction spreading can be neglected for rays many metres in length.", "fibs": ["example"]}
+{"text": "Thus, ray optics is valid in many common situations.", "fibs": ["ray"]}
+{"text": "10.7  Polarisation
+Consider holding a long string that is held horizontally, the other end of which is assumed to be fixed.", "fibs": ["string"]}
+{"text": "If we move the end of the string up and down in a periodic manner, we will generate a wave propagating  in the +x direction (Fig.", "fibs": ["move"]}
+{"text": "Such a wave could be described by the following equation 
+
+
+
+Figure 10.21 (a) The curves represent the displacement of a string at  t = 0 and at t = ∆t, respectively when a sinusoidal wave is propagating  in the +x-direction.", "fibs": ["wave"]}
+{"text": "(b) The curve represents the time variation  of the displacement at x = 0 when a sinusoidal wave is propagating  in the +x-direction.", "fibs": ["b"]}
+{"text": "At x = ∆x, the time variation of the displacement will be slightly displaced to the right.", "fibs": ["x"]}
+{"text": "y (x,t) = a sin (kx – ωt)        (10.32)
+where a and ω (= 2πν) represent the amplitude and the angular frequency of the wave, respectively; further, 
+                      (10.33)
+represents the wavelength associated with the wave.", "fibs": ["x,t"]}
+{"text": "We had discussed propagation of such waves in Chapter 15 of Class XI textbook.", "fibs": ["propagation"]}
+{"text": "Since the displacement (which is along the y direction) is at right angles to the direction of propagation of the wave, we have what is known as a transverse wave.", "fibs": ["displacement"]}
+{"text": "Also, since the displacement is in the y direction, it is often referred to as a y-polarised wave.", "fibs": ["displacement"]}
+{"text": "Since each point on the string moves on a straight line, the wave is also referred to as a linearly polarised wave.", "fibs": ["point"]}
+{"text": "Further, the string always remains confined to the x-y plane and therefore it is also referred to as a plane polarised wave.", "fibs": ["string"]}
+{"text": "In a similar manner we can consider the vibration of the string in the x-z plane generating a z-polarised wave whose displacement will be given by
+
+
+
+z (x,t) = a sin (kx – ωt)	(10.34)
+It should be mentioned that the linearly polarised waves [described by Eqs.", "fibs": ["manner"]}
+{"text": "(10.33) and (10.34)] are all transverse waves; i.e., the displacement of each point of the string is always at right angles to the direction of propagation of the wave.", "fibs": ["displacement"]}
+{"text": "Finally, if the plane of vibration of the string is changed randomly in very short intervals of time, then we have what is known as an unpolarised wave.", "fibs": ["plane"]}
+{"text": "Thus, for an unpolarised wave the displacement will be randomly changing with time though it will always be perpendicular to the direction of propagation.", "fibs": ["wave"]}
+{"text": "Light waves are transverse in nature; i.e., the electric field associated with a propagating light wave is always at right angles to the direction of propagation of the wave.", "fibs": ["nature"]}
+{"text": "This can be easily demonstrated using a simple polaroid.", "fibs": ["polaroid"]}
+{"text": "You must have seen thin plastic like sheets, which are called polaroids.", "fibs": ["plastic"]}
+{"text": "A polaroid consists of long chain molecules aligned in a particular direction.", "fibs": ["polaroid"]}
+{"text": "The electric vectors (associated with the propagating light wave) along the direction of the aligned molecules get absorbed.", "fibs": ["light"]}
+{"text": "Thus, if an unpolarised light wave is incident on such a polaroid then the light wave will get linearly polarised with the electric vector oscillating along a direction perpendicular to the aligned molecules; this direction is known as the pass-axis of the polaroid.", "fibs": ["light"]}
+{"text": "Thus, if the light from an ordinary source (like a sodium lamp) passes through a polaroid sheet P1, it is observed that its intensity is reduced by half.", "fibs": ["light"]}
+{"text": "Rotating P1 has no effect on the transmitted beam and transmitted intensity remains constant.", "fibs": ["effect"]}
+{"text": "Now, let an identical piece of polaroid P2 be placed before P1.", "fibs": ["piece"]}
+{"text": "As expected, the light from the lamp is reduced in intensity on passing through P2 alone.", "fibs": ["light"]}
+{"text": "But now rotating P1 has a dramatic effect on the light coming from P2.", "fibs": ["effect"]}
+{"text": "In one position, the intensity transmitted by P2 followed by P1 is nearly zero.", "fibs": ["position"]}
+{"text": "When turned by 90° from this position, P1 transmits nearly the full intensity emerging from P2 (Fig.", "fibs": ["90°"]}
+{"text": "The above experiment can be easily understood by assuming that light passing through the polaroid P2 gets polarised along  the pass-axis of  P2.", "fibs": ["experiment"]}
+{"text": "If the pass-axis of  P2 makes an angle θ with the pass-axis of  P1, then  when the polarised beam passes through the polaroid P2, the component  E cos θ  (along the pass-axis of P2) will pass through P2.", "fibs": ["angle"]}
+{"text": "Thus, as we rotate the polaroid P1 (or P2), the intensity will vary as:
+I = I0 cos2θ	(10.35)
+where I0 is the intensity of the polarized light after passing through P1.", "fibs": ["polaroid"]}
+{"text": "This is known as Malus’ law.", "fibs": ["’"]}
+{"text": "The above discussion shows that the intensity coming out of a single polaroid is half of the incident intensity.", "fibs": ["discussion"]}
+{"text": "By putting a second polaroid, the intensity can be further controlled from 50% to zero of the incident intensity by adjusting the angle between the pass-axes of two polaroids.", "fibs": ["polaroid"]}
+{"text": "Figure 10.22 (a) Passage of light through two polaroids P2 and P1.", "fibs": ["Figure"]}
+{"text": "The transmitted fraction falls from 1 to 0 as the angle between them varies from 0° to 90°.", "fibs": ["fraction"]}
+{"text": "Notice that the light seen through a single polaroid  P1 does not vary with angle.", "fibs": ["Notice"]}
+{"text": "(b) Behaviour of the electric vector when light passes through two polaroids.", "fibs": ["b"]}
+{"text": "The transmitted polarisation is the component parallel to the polaroid axis.The double arrows show the oscillations of the electric vector.", "fibs": ["polarisation"]}
+{"text": "Polaroids can be used to control the intensity, in sunglasses, windowpanes, etc.", "fibs": ["control"]}
+{"text": "Polaroids are also used in photographic cameras and 3D movie cameras.", "fibs": ["movie"]}
+{"text": "Example 10.8 Discuss the intensity of transmitted light when a polaroid sheet is rotated between two crossed polaroids?", "fibs": ["Example"]}
+{"text": "Solution Let I0 be the intensity of polarised light after passing through the first polariser P1.", "fibs": ["intensity"]}
+{"text": "Then the intensity of light after passing through second polariser P2 will be 
+
+where θ is the angle between pass axes of P1 and P2.", "fibs": ["intensity"]}
+{"text": "Since P1 and P3 are crossed the angle between the pass axes of P2 and P3 will be (π/2–θ).", "fibs": ["angle"]}
+{"text": "Hence the intensity of light emerging from P3 will be
+
+= I0 cos2θ sin2θ =(I0/4) sin22θ
+
+Therefore, the transmitted intensity will be maximum when θ = π/4.", "fibs": ["intensity"]}
+{"text": "10.7.1  Polarisation by scattering 
+The light from a clear blue portion of the sky shows a rise and fall of intensity when viewed through a polaroid which is rotated.", "fibs": ["light"]}
+{"text": "This is nothing but sunlight, which has changed its direction (having been scattered) on encountering the molecules of the earth’s atmosphere.", "fibs": ["nothing"]}
+{"text": "As Fig.", "fibs": ["Fig"]}
+{"text": "10.23(a) shows, the incident sunlight is unpolarised.", "fibs": ["10.23(a"]}
+{"text": "The dots stand for polarisation perpendicular to the plane of the figure.", "fibs": ["polarisation"]}
+{"text": "The double arrows show polarisation in the plane of the figure.", "fibs": ["show"]}
+{"text": "(There is no phase relation between these two in unpolarised light).", "fibs": ["phase"]}
+{"text": "Under the influence of the electric field of the incident wave the electrons in the molecules acquire components of motion in both these directions.", "fibs": ["influence"]}
+{"text": "We have drawn an observer looking at 90° to the direction of the sun.", "fibs": ["observer"]}
+{"text": "Clearly, charges accelerating parallel to the double arrows do not radiate energy towards this observer since their acceleration has no transverse component.", "fibs": ["energy"]}
+{"text": "The radiation scattered by the molecule is therefore represented by dots.", "fibs": ["radiation"]}
+{"text": "It is polarised perpendicular to the plane of the figure.", "fibs": ["plane"]}
+{"text": "This explains the polarisation of scattered light from the sky.", "fibs": ["polarisation"]}
+{"text": "FIGURE 10.23 (a) Polarisation of the blue scattered light from the sky.", "fibs": ["FIGURE"]}
+{"text": "The incident sunlight is unpolarised (dots and arrows).", "fibs": ["incident"]}
+{"text": "A typical molecule is shown.", "fibs": ["molecule"]}
+{"text": "It scatters light by 90° polarised normal to the plane of the paper (dots only).", "fibs": ["light"]}
+{"text": "(b) Polarisation of light reflected from a transparent medium at the Brewster angle (reflected ray perpendicular to refracted ray).", "fibs": ["b"]}
+{"text": "The scattering of light by molecules was intensively investigated by C.V. Raman and his collaborators in Kolkata in the 1920s.", "fibs": ["light"]}
+{"text": "Raman was awarded the Nobel Prize for Physics in 1930 for this work.", "fibs": ["work"]}
+{"text": "A SPECIAL CASE OF TOTAL TRANSMISSION
+When light is incident on an interface of two media, it is observed that some part of it gets reflected and some part gets transmitted.", "fibs": ["SPECIAL"]}
+{"text": "Consider a related question: Is it possible that under some conditions a monochromatic beam of light incident on a surface (which is normally reflective) gets completely transmitted with no reflection?", "fibs": ["question"]}
+{"text": "To your surprise, the answer is yes.Let us try a simple experiment and check what happens.", "fibs": ["surprise"]}
+{"text": "Arrange a laser, a good polariser, a prism and screen as shown in the figure here.Let the light emitted by the laser source pass through the polariser and be incident on the surface of the prism at the Brewster’s angle of incidence iB.", "fibs": ["laser"]}
+{"text": "Now rotate the polariser carefully and you will observe that for a specific alignment of the polariser, the light incident on the prism is completely transmitted and no light is reflected from the surface of the prism.", "fibs": ["polariser"]}
+{"text": "The reflected spot will completely vanish.", "fibs": ["spot"]}
+{"text": "10.7.2  Polarisation by reflection
+Figure 10.23(b) shows light reflected from a transparent medium, say, water.", "fibs": ["reflection"]}
+{"text": "As before, the dots and arrows indicate that both polarisations are present in the incident and refracted waves.", "fibs": ["incident"]}
+{"text": "We have drawn a situation in which the reflected wave travels at right angles to the refracted wave.", "fibs": ["situation"]}
+{"text": "The oscillating electrons in the water produce the reflected wave.", "fibs": ["water"]}
+{"text": "These move in the two directions transverse to the radiation from wave in the medium, i.e., the refracted wave.", "fibs": ["move"]}
+{"text": "The arrows are parallel to the direction of the reflected wave.", "fibs": ["direction"]}
+{"text": "Motion in this direction does not contribute to the reflected wave.", "fibs": ["direction"]}
+{"text": "As the figure shows, the reflected light is therefore linearly polarised perpendicular to the plane of the figure (represented by dots).", "fibs": ["figure"]}
+{"text": "This can be checked by looking at the reflected light through an analyser.", "fibs": ["light"]}
+{"text": "The transmitted intensity will be zero when the axis of the analyser is in the plane of the figure, i.e., the plane of incidence.", "fibs": ["intensity"]}
+{"text": "When unpolarised light is incident on the boundary between two transparent media, the reflected light is polarised with its electric vector perpendicular to the plane of incidence when the  refracted and reflected rays make a right angle with each other.", "fibs": ["light"]}
+{"text": "Thus we have seen that when reflected wave is perpendicular to the refracted wave, the reflected wave is a totally polarised wave.", "fibs": ["wave"]}
+{"text": "The angle of incidence in this case is called Brewster’s angle and is denoted by iB.", "fibs": ["angle"]}
+{"text": "We can see that iB is related to the refractive index of the denser medium.", "fibs": ["iB"]}
+{"text": "Since we have iB+r = π/2, we get from Snell’s law
+
+	(10.36)
+This is known as Brewster’s law.", "fibs": ["iB+r"]}
+{"text": "Example 10.9 Unpolarised light is incident on a plane glass surface.", "fibs": ["Example"]}
+{"text": "What should be the angle of incidence so that the reflected and refracted rays are perpendicular to each other?", "fibs": ["angle"]}
+{"text": "Solution For i + r to be equal to π/2, we should have tan iB = µ = 1.5.", "fibs": ["r"]}
+{"text": "This gives iB = 57°.", "fibs": ["iB"]}
+{"text": "This is the Brewster’s angle for air to glass interface.", "fibs": ["’"]}
+{"text": "For simplicity, we have discussed scattering of light by 90°, and reflection at the Brewster angle.", "fibs": ["simplicity"]}
+{"text": "In this special situation, one of the two perpendicular components of the electric field is zero.", "fibs": ["situation"]}
+{"text": "There is no stable phase relationship between the two perpendicular components since these are derived from two perpendicular components of an unpolarised beam.", "fibs": ["phase"]}
+{"text": "When such light is viewed through a rotating analyser, one sees a maximum and a minimum of intensity but not complete darkness.", "fibs": ["light"]}
+{"text": "This kind of light is called partially polarised.", "fibs": ["kind"]}
+{"text": "Let us try to understand the situation.", "fibs": ["situation"]}
+{"text": "When an unpolarised beam of light is incident at the Brewster’s angle on an interface of two media, only part of light with electric field vector perpendicular to the plane of incidence will be reflected.", "fibs": ["beam"]}
+{"text": "Now by using a good polariser, if we completely remove all the light with its electric vector perpendicular to the plane of incidence and let this light be incident on the surface of the prism at Brewster’s angle, you will then observe no reflection and there will be total transmission of light.", "fibs": ["polariser"]}
+{"text": "We began this chapter by pointing out that there are some phenomena which can be explained only by the wave theory.", "fibs": ["chapter"]}
+{"text": "In order to develop a proper understanding, we first described how some phenomena like reflection and refraction, which were studied on this basis of Ray Optics in Chapter 9, can also be understood on the basis of Wave Optics.", "fibs": ["order"]}
+{"text": "Then we described Young’s double slit experiment which was a turning point in the study of optics.", "fibs": ["’"]}
+{"text": "Finally, we described some associated points such as diffraction, resolution, polarisation, and validity of ray optics.", "fibs": ["diffraction"]}
+{"text": "In the next chapter, you will see how new experiments led to new theories at the turn of the century around 1900 A.D.
+
+
+Summary
+1.", "fibs": ["chapter"]}
+{"text": "Huygens’ principle tells us that each point on a wavefront is a source of secondary waves, which add up to give the wavefront at a later time.", "fibs": ["’"]}
+{"text": "Huygens’ construction tells us that the new wavefront is the forward envelope of the secondary waves.", "fibs": ["’"]}
+{"text": "When the speed of light is independent of direction, the secondary waves are spherical.", "fibs": ["speed"]}
+{"text": "The rays are then perpendicular to both the wavefronts and the time of travel is the same measured along any ray.", "fibs": ["time"]}
+{"text": "This principle leads to the well known laws of reflection and refraction.", "fibs": ["principle"]}
+{"text": "The principle of superposition of waves applies whenever two or more sources of light illuminate the same point.", "fibs": ["principle"]}
+{"text": "When we consider the intensity of light due to these sources at the given point, there is an interference term in addition to the sum of the individual intensities.", "fibs": ["intensity"]}
+{"text": "But this term is important only if it has a non-zero average, which occurs only if the sources have the same frequency and a stable phase difference.", "fibs": ["term"]}
+{"text": "Young’s double slit of separation d gives equally spaced fringes of angular separation λ/d.", "fibs": ["’"]}
+{"text": "The source, mid-point of the slits, and central bright fringe lie in a straight line.", "fibs": ["source"]}
+{"text": "An extended source will destroy the fringes if it subtends angle more than λ/d at the slits.", "fibs": ["source"]}
+{"text": "A single slit of width a gives a diffraction pattern with a central maximum.", "fibs": ["slit"]}
+{"text": "The intensity falls to zero at angles of  etc., with successively weaker secondary maxima in between.", "fibs": ["intensity"]}
+{"text": "Diffraction limits the angular resolution of a telescope to λ/D where D is the diameter.", "fibs": ["Diffraction"]}
+{"text": "Similarly, a microscope objective subtending angle 2β at the focus, in a medium of refractive index n, will just separate two objects spaced at a distance λ/(2n sin β), which is the resolution limit of a microscope.", "fibs": ["microscope"]}
+{"text": "Diffraction determines the limitations of the concept of light rays.", "fibs": ["Diffraction"]}
+{"text": "A beam of width atravels a distance a2/λ, called the Fresnel distance, before it starts to spread out due to diffraction.", "fibs": ["beam"]}
+{"text": "Natural light, e.g., from the sun is unpolarised.", "fibs": ["light"]}
+{"text": "This means the electric vector takes all possible directions in the transverse plane, rapidly and randomly, during a measurement.", "fibs": ["vector"]}
+{"text": "A polaroid transmits only one component (parallel to a special axis).", "fibs": ["polaroid"]}
+{"text": "The resulting light is called linearly polarised or plane polarised.", "fibs": ["light"]}
+{"text": "When this kind of light is viewed through a second polaroid whose axis turns through 2π, two maxima and minima of intensity are seen.", "fibs": ["kind"]}
+{"text": "Polarised light can also be produced by reflection at a special angle (called the Brewster angle) and by scattering through π/2 in the earth’s atmosphere.", "fibs": ["light"]}
+{"text": "Waves from a point source spread out in all directions, while light was seen to travel along  narrow  rays.", "fibs": ["point"]}
+{"text": "It required the insight and experiment of Huygens, Young and Fresnel to understand how a wave theory could explain all aspects of the behaviour of light.", "fibs": ["insight"]}
+{"text": "The crucial new feature of waves is interference of amplitudes from different sources which can be both constructive and destructive, as shown in Young’s experiment.", "fibs": ["feature"]}
+{"text": "Diffraction phenomena define the limits of ray optics.", "fibs": ["Diffraction"]}
+{"text": "The limit of the ability of microscopes and telescopes to distinguish very close objects is set by the wavelength of light.", "fibs": ["limit"]}
+{"text": "Most interference and diffraction effects exist even for longitudinal waves like sound in air.", "fibs": ["interference"]}
+{"text": "But polarisation phenomena are special to transverse waves like light waves.", "fibs": ["polarisation"]}
+{"text": "Exercises
+10.1	Monochromatic light of wavelength 589 nm is incident from air on a water surface.", "fibs": ["light"]}
+{"text": "What are the wavelength, frequency and speed of  (a) reflected, and (b) refracted light?", "fibs": ["wavelength"]}
+{"text": "Refractive index of water is 1.33.", "fibs": ["index"]}
+{"text": "10.2 What is the shape of the wavefront in each of the following cases:
+	(a)	Light diverging from a point source.", "fibs": ["shape"]}
+{"text": "(b)	Light emerging out of a convex lens when a point source is placed at its focus.", "fibs": ["b"]}
+{"text": "(c)	The portion of the wavefront of light from a distant star intercepted by the Earth.", "fibs": ["portion"]}
+{"text": "10.3 (a)	The refractive index of glass is 1.5.", "fibs": ["index"]}
+{"text": "What is the speed of light in glass?", "fibs": ["speed"]}
+{"text": "(Speed of light in vacuum is 3.0 × 108 m s–1)
+	(b)	Is the speed of light in glass independent of the colour of light?", "fibs": ["Speed"]}
+{"text": "If not, which of  the two colours red and violet travels slower in a glass prism?", "fibs": ["violet"]}
+{"text": "10.4 In a Young’s double-slit experiment, the slits are separated by 0.28 mm and the screen is placed 1.4 m away.", "fibs": ["’"]}
+{"text": "The distance between the central bright fringe and the fourth bright fringe is measured to be 1.2 cm.", "fibs": ["distance"]}
+{"text": "Determine the wavelength of light used in the experiment.", "fibs": ["wavelength"]}
+{"text": "10.5 In Young’s double-slit experiment using monochromatic light of wavelength λ, the intensity of light at a point on the screen where path difference is λ, is K units.", "fibs": ["’"]}
+{"text": "What is the intensity of light at a point where path difference is λ/3?", "fibs": ["intensity"]}
+{"text": "10.6 A beam of light consisting of two wavelengths, 650 nm and 520 nm, is used to obtain interference fringes in a Young’s double-slit experiment.", "fibs": ["beam"]}
+{"text": "(a)	Find the distance of the third bright fringe on the screen from the central maximum for wavelength 650 nm.", "fibs": ["distance"]}
+{"text": "(b)	What is the least distance from the central maximum where the bright fringes due to both the wavelengths coincide?", "fibs": ["b"]}
+{"text": "10.7 In a double-slit experiment the angular width of a fringe is found to be 0.2° on a screen placed 1 m away.", "fibs": ["experiment"]}
+{"text": "The wavelength of light used is 600 nm.", "fibs": ["wavelength"]}
+{"text": "What will be the angular width of the fringe if the entire experimental apparatus is immersed in water?", "fibs": ["width"]}
+{"text": "Take refractive index of water to be 4/3.", "fibs": ["index"]}
+{"text": "10.8 What is the Brewster angle for air to glass transition?", "fibs": ["angle"]}
+{"text": "(Refractive index of glass = 1.5.)", "fibs": ["index"]}
+{"text": "10.9 Light of wavelength 5000 Å falls on a plane reflecting surface.", "fibs": ["wavelength"]}
+{"text": "What are the wavelength and frequency of the reflected light?", "fibs": ["wavelength"]}
+{"text": "For what angle of incidence is the reflected ray normal to the incident ray?", "fibs": ["angle"]}
+{"text": "10.10 Estimate the distance for which ray optics is good approximation for an aperture of 4 mm and wavelength 400 nm.", "fibs": ["distance"]}
+{"text": "Additional Exercises
+ 
+10.11 The 6563 Å Hα line emitted by hydrogen in a star is found to be red-shifted by 15 Å.", "fibs": ["line"]}
+{"text": "Estimate the speed with which the star is receding from the Earth.", "fibs": ["speed"]}
+{"text": "10.12 Explain how Corpuscular theory predicts the speed of light in a medium, say, water, to be greater than the speed of light in vacuum.", "fibs": ["theory"]}
+{"text": "Is the prediction confirmed by experimental determination of the speed of light in water?", "fibs": ["prediction"]}
+{"text": "If not, which alternative picture of light is consistent with experiment?", "fibs": ["alternative"]}
+{"text": "10.13	You have learnt in the text how Huygens’ principle leads to the laws of reflection and refraction.", "fibs": ["learnt"]}
+{"text": "Use the same principle to deduce directly that a point object placed in front of a plane mirror produces a virtual image whose distance from the mirror is equal to the object distance from the mirror.", "fibs": ["principle"]}
+{"text": "10.14	Let us list some of the factors, which could possibly influence the speed of wave propagation:
+	(i)	nature of the source.", "fibs": ["list"]}
+{"text": "(ii)	direction of propagation.", "fibs": ["ii"]}
+{"text": "(iii)	motion of the source and/or observer.", "fibs": ["iii"]}
+{"text": "(iv)	wavelength.", "fibs": ["iv"]}
+{"text": "(v)	intensity of the wave.On which of these factors, if any, does
+	(a)	the speed of light in vacuum,
+	(b)	the speed of light in a medium (say, glass or water),depend?", "fibs": ["v"]}
+{"text": "10.15	For sound waves, the Doppler formula for frequency shift differs slightly between the two situations: (i) source at rest; observer moving, and (ii) source moving; observer at rest.", "fibs": ["sound"]}
+{"text": "The exact Doppler formulas for the case of light waves in vacuum are, however, strictly identical for these situations.", "fibs": ["case"]}
+{"text": "Would you expect the formulas to be strictly identical for the two situations in case of light travelling in a medium?", "fibs": ["case"]}
+{"text": "10.16 In double-slit experiment using light of wavelength 600 nm, the angular width of a fringe formed on a distant screen is 0.1°.", "fibs": ["experiment"]}
+{"text": "What is the spacing between the two slits?", "fibs": ["spacing"]}
+{"text": "10.17 Answer the following questions:
+	(a)	In a single slit diffraction experiment, the width of the slit is made double the original width.", "fibs": ["Answer"]}
+{"text": "How does this affect the size and intensity of the central diffraction band?", "fibs": ["size"]}
+{"text": "(b)	In what way is diffraction from each slit related to the interference pattern in a double-slit experiment?", "fibs": ["b"]}
+{"text": "(c)	When a tiny circular obstacle is placed in the path of light from a distant source, a bright spot is seen at the centre of the shadow of the obstacle.", "fibs": ["obstacle"]}
+{"text": "(d)	Two students are separated by a 7 m partition wall in a room 10 m high.", "fibs": ["partition"]}
+{"text": "If both light and sound waves can bend around obstacles, how is it that the students are unable to see each other even though they can converse easily.", "fibs": ["light"]}
+{"text": "(e)	Ray optics is based on the assumption that light travels in a straight line.", "fibs": ["assumption"]}
+{"text": "Diffraction effects (observed when light propagates through small apertures/slits or around small obstacles) disprove this assumption.", "fibs": ["Diffraction"]}
+{"text": "Yet the ray optics assumption is so commonly used in understanding location and several other properties of images in optical instruments.", "fibs": ["ray"]}
+{"text": "What is the justification?", "fibs": ["justification"]}
+{"text": "10.18 Two towers on top of two hills are 40 km apart.", "fibs": ["km"]}
+{"text": "The line joining them passes 50 m above a hill halfway between the towers.", "fibs": ["line"]}
+{"text": "What is the longest wavelength of radio waves, which can be sent between the towers without appreciable diffraction effects?", "fibs": ["wavelength"]}
+{"text": "10.19 A parallel beam of light of wavelength 500 nm falls on a narrow slit and the resulting diffraction pattern is observed on a screen 1 m away.", "fibs": ["beam"]}
+{"text": "It is observed that the first minimum is at a distance of 2.5 mm from the centre of the screen.", "fibs": ["distance"]}
+{"text": "Find the width of the slit.", "fibs": ["width"]}
+{"text": "10.20 Answer the following questions:
+	(a)	When a low flying aircraft passes overhead, we sometimes notice a slight shaking of the picture on our TV screen.", "fibs": ["Answer"]}
+{"text": "Suggest a possible explanation.", "fibs": ["explanation"]}
+{"text": "(b)	As you have learnt in the text, the principle of linear superposition of wave displacement is basic to understanding intensity distributions in diffraction and interference patterns.", "fibs": ["b"]}
+{"text": "What is the justification of this principle?", "fibs": ["justification"]}
+{"text": "10.21	In deriving the single slit diffraction pattern, it was stated that the intensity is zero at angles of nλ/a.", "fibs": ["slit"]}
+{"text": "Justify this by suitably dividing the slit to bring out the cancellation.", "fibs": ["slit"]}
+{"text": "Table of Contents
+
+
+
+
+
+
+
+
+Chapter Ten
+
+
+Wave Optics
+
+
+
+
+
+10.1 Introduction
+
+
+Does light travel in a straight line?", "fibs": ["Table"]}
+{"text": "10.2 Huygens Principle
+
+
+10.3 Refraction and Reflection of Plane Waves using Huygens Principle
+
+
+10.3.1 Refraction of a plane wave
+
+
+10.3.2 Refraction at a rarer medium
+
+
+10.3.3 Reflection of a plane wave by a plane surface
+
+
+10.3.4 The doppler effect
+
+
+
+
+10.4 Coherent and Incoherent Addition of Waves
+
+
+10.5 Interference of Light Waves and Young’s Experiment
+
+
+10.6 Diffraction
+
+
+10.6.1 The single slit
+
+
+
+
+
+10.6.2 Seeing the single slit diffraction pattern
+
+
+10.6.3 Resolving power of optical instruments
+
+
+Determine the resolving power of your eye
+
+
+10.6.4 The validity of ray optics
+
+
+
+
+10.7 Polarisation
+
+
+10.7.1 Polarisation by scattering
+
+
+
+
+A SPECIAL CASE OF TOTAL TRANSMISSION
+
+
+10.7.2 Polarisation by reflection
+
+
+
+
+Summary
+
+
+Points to Ponder
+
+
+Exercises
+
+
+Additional Exercises
+
+
+
+
+
+
+Landmarks
+
+
+Cover
+
+
+
+
+
+
+
+
+        Chapter 10
+        Wave Optics", "fibs": ["Principle"]}
+
