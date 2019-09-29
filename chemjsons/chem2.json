@@ -1,0 +1,1604 @@
+Analyzing input.txt
+{"text": " 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Unit 2
+structure of atom
+
+
+
+
+
+
+
+Objectives
+
+
+
+After studying this unit you will be able to
+•	know about the discovery of electron, proton and neutron and their characteristics;
+•	describe Thomson, Rutherford and Bohr atomic models;
+•	understand the important features of the quantum mechanical model of atom;
+•	understand nature of electromagnetic radiation and Planck’s quantum theory; 
+•	explain the photoelectric effect and describe features of atomic spectra;
+•	state the de Broglie relation and Heisenberg uncertainty principle; 
+•	define an atomic orbital in terms of quantum numbers;
+•	state aufbau principle, Pauli exclusion principle and Hund’s rule of maximum multiplicity; and
+•	write the electronic configurations of atoms.", "fibs": ["Unit"]}
+{"text": ""The rich diversity of chemical behaviour of different elements can be traced to the differences in the internal structure of atoms of these elements".", "fibs": ["diversity"]}
+{"text": "The existence of atoms has been proposed since the time of early Indian and Greek philosophers (400 B.C.)", "fibs": ["existence"]}
+{"text": "who were of the view that atoms are the fundamental building blocks of matter.", "fibs": ["view"]}
+{"text": "According to them, the continued subdivisions of matter would ultimately yield atoms which would not be further divisible.", "fibs": ["matter"]}
+{"text": "The word ‘atom’  has been derived from the Greek word ‘a-tomio’ which means ‘uncut-able’ or ‘non-divisible’.", "fibs": ["word"]}
+{"text": "These earlier ideas were mere speculations and there was no way to test them experimentally.", "fibs": ["way"]}
+{"text": "These ideas remained dormant  for a very long time and were revived again by scientists in the nineteenth century.", "fibs": ["time"]}
+{"text": "The atomic theory of matter was first proposed on a firm scientific basis by John Dalton, a British school teacher in 1808.", "fibs": ["theory"]}
+{"text": "His theory, called Dalton’s atomic theory, regarded the atom as the ultimate particle of matter (Unit 1).", "fibs": ["theory"]}
+{"text": "Dalton’s atomic theory was able to explain the law of conservation of mass, law of constant composition and law of multiple proportion very successfully.", "fibs": ["’"]}
+{"text": "However, it failed to explain the results of many experiments, for example, it was known that substances like glass or ebonite when rubbed with silk or fur get electrically charged.", "fibs": ["example"]}
+{"text": "In this unit we start with the experimental observations made by scientists towards the end of nineteenth and beginning of twentieth century.", "fibs": ["unit"]}
+{"text": "These established that atoms are made of sub-atomic particles, i.e., electrons,  protons and neutrons — a concept very different from that of Dalton.", "fibs": ["—"]}
+{"text": "2.1	Discovery of Sub-atomic Particles
+An insight into the structure of atom was obtained from the experiments on electrical discharge through gases.", "fibs": ["insight"]}
+{"text": "Before we discuss these results we need to keep in mind a basic rule regarding the behaviour of charged particles : “Like charges repel each other and unlike charges attract each other”.", "fibs": ["need"]}
+{"text": "2.1.1 Discovery of Electron 
+In 1830, Michael Faraday showed that if electricity is passed through a solution of an electrolyte, chemical reactions occurred at the electrodes, which resulted in the liberation and deposition of matter at the electrodes.", "fibs": ["electricity"]}
+{"text": "He formulated certain laws which you will study in class XII.", "fibs": ["study"]}
+{"text": "These results suggested the particulate nature of electricity.", "fibs": ["nature"]}
+{"text": "In mid 1850s many scientists mainly Faraday began to study electrical discharge in partially evacuated tubes, known as cathode ray discharge tubes.", "fibs": ["study"]}
+{"text": "It is depicted in Fig.", "fibs": ["Fig"]}
+{"text": "A cathode ray tube is made of glass containing two thin pieces of metal, called electrodes, sealed in it.", "fibs": ["cathode"]}
+{"text": "The electrical discharge through the gases could be observed only at very low pressures and at very high voltages.", "fibs": ["discharge"]}
+{"text": "The pressure of different gases could be adjusted by evacuation of the glass tubes.", "fibs": ["pressure"]}
+{"text": "When sufficiently high voltage is applied across the electrodes, current starts flowing through a stream of particles moving in the tube from the negative electrode (cathode) to the positive electrode (anode).", "fibs": ["voltage"]}
+{"text": "These were called cathode rays or cathode ray particles.", "fibs": ["cathode"]}
+{"text": "The flow of current from cathode to anode was further checked by making a hole in the anode and coating the tube behind anode with phosphorescent material zinc sulphide.", "fibs": ["flow"]}
+{"text": "When these rays, after passing through anode, strike the zinc sulphide coating, a bright spot is developed on the coating [Fig.", "fibs": ["anode"]}
+{"text": "2.1(b)].", "fibs": ["2.1(b"]}
+{"text": "(i)	The cathode rays start from cathode and move towards the anode.", "fibs": ["cathode"]}
+{"text": "Fig.", "fibs": ["Fig"]}
+{"text": "2.1(b) 	A cathode ray discharge tube with perforated anode
+
+
+
+
+
+Fig.", "fibs": ["2.1(b"]}
+{"text": "2.1(a)  A cathode ray discharge tube
+
+
+
+
+(ii)	These rays themselves are not visible but their behaviour can be observed with the help of certain kind of materials (fluorescent or phosphorescent) which glow when hit by them.", "fibs": ["2.1(a"]}
+{"text": "Television picture tubes are cathode ray tubes and television pictures result due to fluorescence on the television screen coated with certain fluorescent or phosphorescent materials.", "fibs": ["picture"]}
+{"text": "(iii)	In the absence of electrical or magnetic field, these rays travel in straight lines (Fig.", "fibs": ["iii"]}
+{"text": "(iv)	In the presence of electrical or magnetic field, the behaviour of cathode rays are similar to that expected from negatively charged particles, suggesting that the cathode rays consist of negatively charged particles, called electrons.", "fibs": ["iv"]}
+{"text": "(v)	The characteristics of cathode rays (electrons) do not depend upon the material of electrodes and the nature of the gas present in the cathode ray tube.", "fibs": ["v"]}
+{"text": "Thus, we can conclude that electrons are basic constituent of all the atoms.", "fibs": ["constituent"]}
+{"text": "2.1.2	Charge to Mass Ratio of Electron
+In 1897, British physicist J.J. Thomson measured the ratio of electrical charge (e) to the mass of electron (me ) by using cathode ray tube and applying electrical and magnetic field perpendicular to each other as well as to the path of electrons (Fig.", "fibs": ["physicist"]}
+{"text": "When only electric field is applied, the electrons deviate from their path and hit the cathode ray tube at point A (Fig.", "fibs": ["field"]}
+{"text": "Similarly when only magnetic field is applied, electron strikes the cathode ray tube at point C. By carefully balancing the electrical and magnetic field strength, it is possible to bring back the electron to the path which is followed in the absence of electric or magnetic field and they hit the screen at point B. Thomson argued that the amount of deviation of the particles from their path in the presence of electrical or magnetic field depends upon:
+(i)	the magnitude of the negative charge on the particle, greater the magnitude of the charge on the particle, greater is the interaction with the electric or magnetic field and thus greater is the deflection.", "fibs": ["field"]}
+{"text": "(ii)	the mass of the particle — lighter the particle, greater the deflection.", "fibs": ["ii"]}
+{"text": "(iii)	the strength of the electrical or magnetic field — the deflection of electrons from its original path increases with the increase in the voltage across the electrodes, or the strength of the magnetic field.", "fibs": ["iii"]}
+{"text": "By carrying out accurate measurements on the amount of deflections observed by the electrons on the electric field strength or magnetic field strength, Thomson was able to determine the value of e/me as:
+
+Where me is the mass of the electron in kg and e is the magnitude of the charge on the electron in coulomb (C).", "fibs": ["amount"]}
+{"text": "Since electrons are negatively charged, the charge on electron is –e.", "fibs": ["charge"]}
+{"text": "2.1.3 Charge on the Electron
+R.A. Millikan (1868-1953) devised a method known as oil drop experiment (1906-14), to determine the charge on the electrons.", "fibs": ["method"]}
+{"text": "He found the charge on the electron to be – 1.6 × 10–19 C. The present accepted value of electrical charge is – 1.602176 × 10–19 C. The mass of the  electron (me) was determined by combining these results with Thomson’s value of e/me ratio.", "fibs": ["charge"]}
+{"text": "Fig.", "fibs": ["Fig"]}
+{"text": "2.2   The apparatus to determine the charge to the mass ratio of electron
+
+
+
+
+2.1.4 Discovery of Protons and Neutrons
+Electrical discharge carried out in the modified cathode ray tube led to the discovery of canal rays carrying positively charged particles.", "fibs": ["apparatus"]}
+{"text": "(i)	Unlike cathode rays, mass of positively charged particles depends upon the nature of gas present in the cathode ray tube.", "fibs": ["cathode"]}
+{"text": "(ii)	The charge to mass ratio of the particles depends on the gas from which these originate.", "fibs": ["ii"]}
+{"text": "(iii)	Some of the positively charged particles carry a multiple of the fundamental unit of electrical charge.", "fibs": ["iii"]}
+{"text": "(iv)	The behaviour of these particles in the magnetic or electrical field is opposite to that observed for electron or cathode rays.", "fibs": ["iv"]}
+{"text": "The smallest and lightest positive ion was obtained from hydrogen and was called proton.", "fibs": ["ion"]}
+{"text": "This positively charged particle was  characterised in 1919.", "fibs": ["particle"]}
+{"text": "Later, a need was felt for the presence of electrically neutral particle as one of the constituent of atom.", "fibs": ["need"]}
+{"text": "These particles were discovered by Chadwick (1932) by bombarding a thin sheet of beryllium by α-particles.", "fibs": ["sheet"]}
+{"text": "When electrically neutral particles having a mass slightly greater than that of protons were emitted.", "fibs": ["mass"]}
+{"text": "The important properties of all these fundamental particles are given in Table 2.1.", "fibs": ["Table"]}
+{"text": "2.2	Atomic Models
+Observations obtained from the experiments mentioned in the previous sections have suggested that Dalton’s indivisible atom is composed of sub-atomic particles carrying positive and negative charges.", "fibs": ["’"]}
+{"text": "The major problems before the scientists after the discovery of sub-atomic particles were:
+•	to account for the stability of atom,
+• to compare the behaviour of elements in terms of both physical and chemical properties,
+• to explain the formation of different kinds of molecules by the combination of different atoms and,
+
+• to understand the origin and nature of the characteristics of electromagnetic radiation absorbed or emitted by atoms.", "fibs": ["discovery"]}
+{"text": "Millikan’s Oil Drop Method
+In this method, oil droplets in the form of mist, produced by the atomiser, were allowed to enter through a tiny hole in the upper plate of electrical condenser.", "fibs": ["’"]}
+{"text": "The downward motion of these droplets was viewed through the telescope, equipped with a micrometer eye piece.", "fibs": ["motion"]}
+{"text": "By measuring the rate of fall of these droplets, Millikan was able to measure the mass of oil droplets.", "fibs": ["rate"]}
+{"text": "The air inside the chamber was ionized by passing a beam of  X-rays through it.", "fibs": ["air"]}
+{"text": "The electrical charge on these oil droplets was acquired by collisions with gaseous ions.", "fibs": ["charge"]}
+{"text": "The fall of these charged oil droplets can be retarded, accelerated or made stationary depending upon the charge on the droplets and the polarity and strength of the voltage applied to the plate.", "fibs": ["fall"]}
+{"text": "By carefully measuring the effects of electrical field strength on the motion of oil droplets, Millikan concluded that the magnitude of electrical charge, q, on the droplets is always an integral multiple of the electrical charge, e, that is, q = n e, where n = 1, 2, 3... .", "fibs": ["field"]}
+{"text": "Fig.", "fibs": ["Fig"]}
+{"text": "2.3 The Millikan oil drop apparatus for measuring charge ‘e’.", "fibs": ["oil"]}
+{"text": "In chamber, the forces acting on oil drop are: gravitational, electrostatic due to electrical field and a viscous drag force when the oil drop is moving.", "fibs": ["chamber"]}
+{"text": "Table 2.1  Properties of Fundamental Particles
+
+
+
+
+
+Different atomic models were proposed to explain the distributions of these charged particles in an atom.", "fibs": ["Table"]}
+{"text": "Although some of these models were not able to explain the stability of atoms, two of these models, one proposed by J.J. Thomson and the other proposed by Ernest Rutherford are discussed below.", "fibs": ["stability"]}
+{"text": "2.2.1 Thomson Model of Atom
+J. J. Thomson, in 1898, proposed that an atom possesses a spherical shape (radius approximately 10–10 m) in which the positive charge is uniformly distributed.", "fibs": ["Model"]}
+{"text": "The electrons are embedded into it in such a manner as to give the most stable electrostatic arrangement (Fig.", "fibs": ["manner"]}
+{"text": "Many different names are given to this model, for example, plum pudding, raisin pudding or watermelon.", "fibs": ["model"]}
+{"text": "This model can be visualised as a pudding or watermelon of positive charge with plums or seeds (electrons) embedded into it.", "fibs": ["model"]}
+{"text": "An important feature of this model is that the mass of the atom is assumed to be uniformly distributed over the atom.", "fibs": ["feature"]}
+{"text": "Although this model was able to explain the overall neutrality of the atom, but was not consistent with the results of later experiments.", "fibs": ["model"]}
+{"text": "Thomson was awarded Nobel Prize for physics in 1906, for his theoretical and experimental investigations on the conduction of electricity by gases.", "fibs": ["physics"]}
+{"text": "Fig.2.4  Thomson model of atom
+
+
+
+
+
+In the later half of the nineteenth century different kinds of rays were discovered, besides those mentioned earlier.", "fibs": ["model"]}
+{"text": "Wilhalm Röentgen (1845-1923) in 1895 showed that when electrons strike a material in the cathode ray tubes, produce rays which can cause fluorescence in the fluorescent materials placed outside the cathode ray tubes.", "fibs": ["strike"]}
+{"text": "Since Röentgen did not know the nature of the radiation, he named them X-rays and the name is still carried on.", "fibs": ["nature"]}
+{"text": "It was noticed that X-rays are produced effectively when electrons strike the dense metal anode, called targets.", "fibs": ["strike"]}
+{"text": "These are not deflected by the electric and magnetic fields and have a very high penetrating power through the matter and that is the reason that these rays are used to study the interior of the objects.", "fibs": ["power"]}
+{"text": "These rays are of very short wavelengths (∼0.1 nm) and possess electro-magnetic character (Section 2.3.1).", "fibs": ["∼0.1"]}
+{"text": "Henri Becqueral (1852-1908) observed that there are certain elements which emit radiation on their own and named this phenomenon as  radioactivity and the elements known as radioactive elements.", "fibs": ["radiation"]}
+{"text": "This field was developed by Marie Curie, Piere Curie, Rutherford and Fredrick Soddy.", "fibs": ["field"]}
+{"text": "It was observed that three kinds of rays i.e., α, β- and γ-rays are emitted.", "fibs": ["α"]}
+{"text": "Rutherford found that α-rays consists of high energy particles carrying two units of positive charge and four unit of atomic mass.", "fibs": ["energy"]}
+{"text": "He concluded that α- particles are helium nuclei as when α- particles combined with two electrons yielded helium gas.", "fibs": ["α"]}
+{"text": "The γ-rays are high energy radiations like X-rays, are neutral in nature and do not consist of particles.", "fibs": ["energy"]}
+{"text": "As regards penetrating power, α-particles are the least, followed by β-rays (100 times that of α–particles) and γ-rays (1000 times of that α-particles).", "fibs": ["power"]}
+{"text": "2.2.2	Rutherford’s Nuclear Model of Atom
+Rutherford and his students (Hans Geiger and Ernest Marsden) bombarded very thin gold foil with α–particles.", "fibs": ["’"]}
+{"text": "Rutherford’s famous α–particle scattering experiment is represented in Fig.", "fibs": ["’"]}
+{"text": "A stream of high energy α–particles from a radioactive source was directed at a thin foil (thickness ∼ 100 nm) of gold metal.", "fibs": ["stream"]}
+{"text": "The thin gold foil had a circular fluorescent zinc sulphide screen around it.", "fibs": ["gold"]}
+{"text": "Whenever α–particles struck the screen, a tiny flash of light was produced at that point.", "fibs": ["screen"]}
+{"text": "B. Schematic molecular view of the gold foil
+
+
+
+
+
+
+
+
+A. Rutherford’s scattering experiment
+
+
+Fig.", "fibs": ["view"]}
+{"text": "2.5 Schematic view of Rutherford’s scattering experiment.", "fibs": ["view"]}
+{"text": "When a beam of alpha (α) particles is “shot” at a thin gold foil, most of them pass through without much effect.", "fibs": ["beam"]}
+{"text": "The results of scattering experiment were quite unexpected.", "fibs": ["experiment"]}
+{"text": "According to Thomson model of atom, the mass of each gold atom in the foil should have been spread evenly over the entire atom, and α– particles had enough energy to pass directly through such a uniform distribution of mass.", "fibs": ["model"]}
+{"text": "It was expected that the particles would slow down and change directions only by a small angles as they passed through the foil.", "fibs": ["change"]}
+{"text": "It was observed that:
+(i)	most of the α–particles passed through the gold foil undeflected.", "fibs": ["gold"]}
+{"text": "(ii)	a small fraction of the α–particles was deflected by small angles.", "fibs": ["ii"]}
+{"text": "(iii)	a very few α–particles (∼1 in 20,000) bounced back, that is, were deflected by nearly 180°.", "fibs": ["iii"]}
+{"text": "On the basis of the observations, Rutherford drew the following conclusions regarding the structure of atom:
+(i)	Most of the space in the atom is empty as most of the α–particles passed through the foil undeflected.", "fibs": ["basis"]}
+{"text": "(ii)	A few positively charged α–particles were deflected.", "fibs": ["ii"]}
+{"text": "The deflection must be due to enormous repulsive force showing that the positive charge of the atom is not spread throughout the atom as Thomson had presumed.", "fibs": ["deflection"]}
+{"text": "The positive charge has to be concentrated in a very small volume that repelled and deflected the positively charged α–particles.", "fibs": ["charge"]}
+{"text": "(iii)	Calculations by Rutherford showed that the volume occupied by the nucleus is negligibly small as compared to the total volume of the atom.", "fibs": ["iii"]}
+{"text": "The radius of the atom is about 10–10 m, while that of nucleus is 10–15 m. One can appreciate this difference in size by realising that if a cricket ball represents a nucleus, then the radius of atom would be about 5 km.", "fibs": ["radius"]}
+{"text": "On the basis of above observations and conclusions, Rutherford proposed the nuclear model of atom.", "fibs": ["basis"]}
+{"text": "According to this model:
+(i)	The positive charge and most of the mass of the atom was densely concentrated in extremely small region.", "fibs": ["model"]}
+{"text": "This very small portion of the atom was called nucleus by Rutherford.", "fibs": ["portion"]}
+{"text": "(ii) 	The nucleus is surrounded by electrons that move around the nucleus with a very high speed in circular paths called orbits.", "fibs": ["ii"]}
+{"text": "Thus, Rutherford’s model of atom resembles the solar system in which the nucleus plays the role of sun and the electrons that of revolving planets.", "fibs": ["’"]}
+{"text": "(iii) 	Electrons and the nucleus are held together by electrostatic forces of attraction.", "fibs": ["iii"]}
+{"text": "2.2.3	Atomic Number and Mass Number
+The presence of positive charge on the nucleus is due to the protons in the nucleus.", "fibs": ["Number"]}
+{"text": "As established earlier, the charge on the proton is equal but opposite to that of electron.", "fibs": ["charge"]}
+{"text": "The number of protons present in the nucleus is equal to atomic number (Z ).", "fibs": ["number"]}
+{"text": "For example, the number of protons in the hydrogen nucleus is 1, in sodium atom it is 11, therefore their atomic numbers are 1 and 11 respectively.", "fibs": ["example"]}
+{"text": "In order to keep the electrical neutrality,  the number of electrons in an atom is equal to the number of protons (atomic number, Z ).", "fibs": ["order"]}
+{"text": "For example, number of electrons in hydrogen atom and sodium atom are 1 and 11 respectively.", "fibs": ["example"]}
+{"text": "Atomic number (Z) = number of protons in              					     the nucleus of an atom = number of electrons in a nuetral atom     (2.3)
+While the positive charge of the nucleus is due to protons, the mass of the nucleus,  due to protons and neutrons.", "fibs": ["number"]}
+{"text": "As discussed earlier protons and neutrons present in the nucleus are collectively known as nucleons.", "fibs": ["nucleus"]}
+{"text": "The total number of nucleons is termed as mass number (A) of the atom.", "fibs": ["number"]}
+{"text": "mass number (A) = number of protons (Z)
+                         + number of		                            neutrons (n)    (2.4)	
+2.2.4 Isobars and Isotopes
+The composition of any atom can be represented by using the normal element symbol (X) with super-script on the left hand side as the atomic mass number (A) and subscript (Z) on the left hand side as the atomic number (i.e., AZ X).", "fibs": ["mass"]}
+{"text": "Isobars are the atoms with same mass number but different atomic number for example, 614C and 714N.", "fibs": ["mass"]}
+{"text": "On the other hand, atoms with identical atomic number but different atomic mass number are known as Isotopes.", "fibs": ["hand"]}
+{"text": "In other words (according to equation 2.4), it is evident that difference between the isotopes is due to the presence of different number of neutrons present in the nucleus.", "fibs": ["equation"]}
+{"text": "For example, considering of hydrogen atom again, 99.985% of hydrogen atoms contain only one proton.", "fibs": ["example"]}
+{"text": "This isotope is called protium (11H).", "fibs": ["isotope"]}
+{"text": "Rest of the percentage of hydrogen atom contains two other isotopes, the one containing 1 proton and 1 neutron is called deuterium (12D, 0.015%) and the other one possessing 1 proton and 2 neutrons is called tritium (13T ).", "fibs": ["percentage"]}
+{"text": "The latter isotope is found in trace amounts on the earth.", "fibs": ["latter"]}
+{"text": "Other examples of commonly occuring isotopes are: carbon atoms containing 6, 7 and 8 neutrons besides 6 protons (); chlorine atoms containing 18 and 20 neutrons besides 17 protons ().", "fibs": ["carbon"]}
+{"text": "Lastly an important point to mention regarding isotopes is that chemical properties of atoms are controlled by the number of electrons, which are determined by the number of protons in the nucleus.", "fibs": ["point"]}
+{"text": "Number of neutrons present in the nucleus have very little effect on the chemical properties of an element.", "fibs": ["Number"]}
+{"text": "Therefore, all the isotopes of a given element show same chemical behaviour.", "fibs": ["element"]}
+{"text": "Problem 2.1 
+Calculate the number of protons, neutrons and electrons in .", "fibs": ["number"]}
+{"text": "Solution
+In this case, , Z = 35, A = 80, species is neutral
+Number of protons = number of electrons = Z = 35
+Number of neutrons = 80 – 35 = 45, (equation 2.4)
+Problem 2.2 
+The number of electrons, protons and neutrons in a species are equal to 18, 16 and 16 respectively.", "fibs": ["case"]}
+{"text": "Assign the proper symbol to the species.", "fibs": ["symbol"]}
+{"text": "Solution
+The atomic number is equal to number of protons = 16.", "fibs": ["number"]}
+{"text": "The element is sulphur (S).", "fibs": ["element"]}
+{"text": "Atomic mass number = number of protons + number of neutrons
+= 16 + 16 = 32
+Species is not neutral as the number of protons is not equal to electrons.", "fibs": ["mass"]}
+{"text": "It is anion (negatively charged) with charge equal to excess electrons = 18 – 16 = 2.", "fibs": ["anion"]}
+{"text": "Symbol is .", "fibs": ["Symbol"]}
+{"text": "Note : Before using the notation AZ X, find out whether the species is a neutral atom, a cation or an anion.", "fibs": ["notation"]}
+{"text": "If it is a neutral atom, equation (2.3) is valid, i.e., number of protons = number of electrons = atomic number.", "fibs": ["atom"]}
+{"text": "If the species is an ion, determine whether the number of protons are larger (cation, positive ion) or smaller (anion, negative ion) than the number of electrons.", "fibs": ["species"]}
+{"text": "Number of neutrons is always given by A–Z, whether the species is neutral or ion.", "fibs": ["Number"]}
+{"text": "2.2.5 Drawbacks of Rutherford Model
+As you have learnt above, Rutherford nuclear model of an atom is like a small scale solar system with the nucleus playing the role of the massive sun and the electrons being similar to the lighter planets.", "fibs": ["Model"]}
+{"text": "When classical mechanics* is applied to the solar system, it shows that the planets describe well-defined orbits around the sun.", "fibs": ["system"]}
+{"text": "The gravitational force between the planets is given by the expression  where m1 and m2 are the masses, r is the distance of separation of the masses and G is the gravitational constant.", "fibs": ["force"]}
+{"text": "The theory can also calculate precisely the planetary orbits and these are in agreement with the experimental measurements.", "fibs": ["theory"]}
+{"text": "The similarity between the solar system and nuclear model suggests that electrons should move around the nucleus in well defined orbits.", "fibs": ["similarity"]}
+{"text": "Further, the coulomb force (kq1q2/r2 where q1 and q2 are the charges, r is the distance of separation of the charges and k is the proportionality constant) between electron and the nucleus is mathematically similar to the gravitational force.", "fibs": ["coulomb"]}
+{"text": "However, when a body is moving in an orbit, it undergoes acceleration even if it is moving with a constant speed in an orbit because of changing direction.", "fibs": ["body"]}
+{"text": "So an electron in the nuclear model describing planet like orbits is under acceleration.", "fibs": ["electron"]}
+{"text": "According to the electromagnetic theory of Maxwell, charged particles when accelerated should emit electromagnetic radiation (This feature does not exist for planets since they are uncharged).", "fibs": ["theory"]}
+{"text": "Therefore, an electron in an orbit will emit radiation, the energy carried by radiation comes from electronic motion.", "fibs": ["electron"]}
+{"text": "The orbit will thus continue to shrink.", "fibs": ["orbit"]}
+{"text": "Calculations show that it should take an electron only 10–8 s to spiral into the nucleus.", "fibs": ["show"]}
+{"text": "Thus, the Rutherford model cannot explain the stability of an atom.", "fibs": ["model"]}
+{"text": "If the motion of an electron is described on the basis of the classical mechanics and electromagnetic theory, you may ask that  since the motion of electrons in orbits is  leading to the instability of the atom, then why not consider electrons as stationary around the nucleus.", "fibs": ["motion"]}
+{"text": "If the electrons were stationary, electrostatic attraction between the dense nucleus and the electrons would pull the electrons toward the nucleus to forma miniature version of Thomson’s model of atom.", "fibs": ["attraction"]}
+{"text": "* Classical mechanics is a theoretical science based on Newton’s laws of motion.", "fibs": ["science"]}
+{"text": "It specifies the laws of motion of macroscopic objects.", "fibs": ["motion"]}
+{"text": "Another serious drawback of the Rutherford model is that it says nothing about  distribution of the electrons around the nucleus and the energies of these electrons.", "fibs": ["drawback"]}
+{"text": "2.3 Developments Leading to the Bohr’s Model of Atom
+Historically, results observed from the studies of interactions of radiations with matter have provided immense information regarding the structure of atoms and molecules.", "fibs": ["’"]}
+{"text": "Neils Bohr utilised these results to improve upon the model proposed by Rutherford.", "fibs": ["model"]}
+{"text": "Two developments played a major role in the formulation of Bohr’s model of atom.", "fibs": ["role"]}
+{"text": "These were:
+(i)	Dual character of the electromagnetic radiation which means that radiations possess both wave like and particle like properties, and
+(ii)	Experimental results regarding atomic spectra.", "fibs": ["character"]}
+{"text": "First, we will discuss about the duel nature of electromagnetic radiations.", "fibs": ["duel"]}
+{"text": "Experimental results regarding atomic spectra will be discussed in Section 2.4.", "fibs": ["Section"]}
+{"text": "2.3.1 Wave Nature of Electromagnetic Radiation
+In the mid-nineteenth century, physicists actively studied absorption and emission of radiation by heated objects.", "fibs": ["Radiation"]}
+{"text": "They tried to find out of what the thermal radiation is made.", "fibs": ["radiation"]}
+{"text": "It is now a well-known fact that thermal radiations consist of electromagnetic waves of various frequencies or wavelengths.", "fibs": ["fact"]}
+{"text": "It is based on a number of modern concepts, which were unknown in the mid-nineteenth century.", "fibs": ["number"]}
+{"text": "First active study of thermal radiation laws occured in the 1850’s and the theory of electromagnetic waves and the emission of such waves by accelerating charged particles was developed in the early 1870’s by James Clerk Maxwell, which was experimentally confirmed later by Heinrich Hertz.", "fibs": ["study"]}
+{"text": "James Maxwell (1870) was the first to give a comprehensive explanation about the interaction between the charged bodies and the behaviour of electrical and magnetic fields on macroscopic level.", "fibs": ["explanation"]}
+{"text": "He suggested that when electrically charged particle moves under accelaration, alternating electrical and magnetic fields are produced and transmitted.", "fibs": ["particle"]}
+{"text": "These fields are transmitted in the forms of waves called electromagnetic waves or electromagnetic radiation.", "fibs": ["radiation"]}
+{"text": "Light is the form of radiation known from early days and speculation about its nature dates back to remote ancient times.", "fibs": ["form"]}
+{"text": "In earlier days (Newton) light was supposed to be made of particles (corpuscules).", "fibs": ["light"]}
+{"text": "It was only in the 19th century when wave nature of light was established.", "fibs": ["19th"]}
+{"text": "Fig.2.6 		The electric and magnetic field components of an electromagnetic wave.", "fibs": ["field"]}
+{"text": "These components have the same wavelength, frequency, speed and amplitude, but  they vibrate in two mutually perpendicular planes.", "fibs": ["wavelength"]}
+{"text": "Maxwell was again the first to reveal that light waves are associated with oscillating electric and magnetic character (Fig.", "fibs": ["light"]}
+{"text": "Although electromagnetic wave motion is complex in nature, we will consider here only a few simple properties.", "fibs": ["wave"]}
+{"text": "(i) 	The oscillating electric and magnetic fields produced by oscillating charged particles are perpendicular to each other and both are perpendicular to the direction of propagation of the wave.", "fibs": ["direction"]}
+{"text": "Simplified picture of electromagnetic wave is shown in Fig.", "fibs": ["picture"]}
+{"text": "(ii) 	Unlike sound waves or waves produced  in water, electromagnetic waves do not require medium and can move in vacuum.", "fibs": ["ii"]}
+{"text": "(iii) 	It is now well established that there are many types of electromagnetic radiations, which differ from one another in wavelength (or frequency).", "fibs": ["iii"]}
+{"text": "These constitute what is called electromagnetic spectrum (Fig.", "fibs": ["spectrum"]}
+{"text": "Different regions of the spectrum are identified by different names.", "fibs": ["spectrum"]}
+{"text": "Some examples are: radio frequency region around 106 Hz, used for broadcasting; microwave region around 1010 Hz used for radar; infrared region around 1013 Hz used for heating; ultraviolet region around 1016Hz a component of sun’s radiation.", "fibs": ["radio"]}
+{"text": "The small portion around 1015 Hz, is what is ordinarily called visible light.", "fibs": ["portion"]}
+{"text": "It is only this part which our eyes can see (or detect).", "fibs": ["part"]}
+{"text": "Special instruments are required to detect non-visible radiation.", "fibs": ["radiation"]}
+{"text": "(iv) 	Different kinds of units are used to represent electromagnetic radiation.", "fibs": ["iv"]}
+{"text": "These radiations are characterised by the properties, namely, frequency (ν) and wavelength (λ).", "fibs": ["frequency"]}
+{"text": "The SI unit for frequency (ν) is hertz (Hz, s–1), after Heinrich Hertz.", "fibs": ["SI"]}
+{"text": "It is defined as the number of waves that pass a given point in one second.", "fibs": ["number"]}
+{"text": "Wavelength should have the units of length and as you know that the SI units of length is meter (m).", "fibs": ["Wavelength"]}
+{"text": "Since electromagnetic radiation consists of different kinds of waves of much smaller wavelengths, smaller units are used.", "fibs": ["radiation"]}
+{"text": "In vaccum all types of electromagnetic radiations, regardless of wavelength, travel at the same speed, i.e., 3.0 × 108 m s–1 (2.997925 × 108 m s–1, to be precise).", "fibs": ["vaccum"]}
+{"text": "This is called speed of light and is given the symbol ‘c‘.", "fibs": ["speed"]}
+{"text": "The frequency (ν ), wavelength (λ) and velocity of light (c) are related by the equation (2.5).", "fibs": ["frequency"]}
+{"text": "c = ν λ  (2.5)
+
+
+
+
+
+
+
+Fig.", "fibs": ["ν"]}
+{"text": "2.7	(a) The spectrum of electromagnetic radiation.", "fibs": ["spectrum"]}
+{"text": "(b) Visible spectrum.", "fibs": ["b"]}
+{"text": "The visible region is only a small part of the entire spectrum.", "fibs": ["region"]}
+{"text": "The other commonly used quantity specially in spectroscopy, is the wavenumber ().", "fibs": ["quantity"]}
+{"text": "It is defined as the number of wavelengths per unit length.", "fibs": ["number"]}
+{"text": "Its units are reciprocal of wavelength unit, i.e., m–1.", "fibs": ["wavelength"]}
+{"text": "However commonly used unit is cm–1 (not SI unit).", "fibs": ["unit"]}
+{"text": "Problem 2.3
+The Vividh Bharati station of All India Radio, Delhi, broadcasts on a frequency of 1,368 kHz (kilo hertz).", "fibs": ["station"]}
+{"text": "Calculate the wavelength of the electromagnetic radiation emitted by transmitter.", "fibs": ["wavelength"]}
+{"text": "Which part of the electromagnetic spectrum does it belong to?", "fibs": ["part"]}
+{"text": "Solution
+The wavelength, λ, is equal to c/ν, where c is the speed of electromagnetic radiation in vacuum and ν is the frequency.", "fibs": ["wavelength"]}
+{"text": "Substituting the given values, we have
+
+
+This is a characteristic radiowave wavelength.", "fibs": ["radiowave"]}
+{"text": "Problem 2.4
+The wavelength range of the visible spectrum extends from violet (400 nm) to red (750 nm).", "fibs": ["wavelength"]}
+{"text": "(1nm = 10–9 m)
+Solution
+Using equation 2.5, frequency of violet light
+
+= 7.50 × 1014 Hz
+Frequency of red light
+
+The range of visible spectrum is from 4.0 × 1014 to 7.5 × 1014 Hz in terms of frequency units.", "fibs": ["1nm"]}
+{"text": "Problem 2.5
+Calculate (a) wavenumber and (b) frequency of yellow radiation having wavelength 5800 Å.", "fibs": ["wavenumber"]}
+{"text": "Solution
+
+
+
+2.3.2	Particle Nature of Electromagnetic Radiation: Planck’s Quantum Theory
+Some of the experimental phenomenon such as diffraction* and interference** can be explained by the wave nature of the electromagnetic radiation.", "fibs": ["Radiation"]}
+{"text": "However, following are some of the observations which could not be explained with the help of even the electromagentic theory of 19th century physics (known as classical physics): 
+(i)	the nature of emission of radiation from hot bodies (black -body radiation)
+(ii)	ejection of electrons from metal surface when radiation strikes it (photoelectric effect)
+(iii)	variation of heat capacity of solids as a function of temperature
+(iv)	Line spectra of atoms with special reference to hydrogen.", "fibs": ["theory"]}
+{"text": "* 	Diffraction is the bending of wave around an obstacle.", "fibs": ["wave"]}
+{"text": "** 	Interference is the combination of two waves of the same or different frequencies to give a wave whose distribution at each point in space is the algebraic or vector sum of disturbances at that  point resulting from each interfering wave.", "fibs": ["combination"]}
+{"text": "These phenomena indicate that the system can take energy only in discrete amounts.", "fibs": ["system"]}
+{"text": "It is noteworthy that the first concrete explanation for the phenomenon of the black body radiation mentioned above was given by Max Planck in 1900.", "fibs": ["explanation"]}
+{"text": "Let us first try to understand this phenomenon, which is  given below:
+Hot objects emit electromagnetic radiations over a wide range of wavelengths.", "fibs": ["phenomenon"]}
+{"text": "At high temperatures, an appreciable proportion of radiation is in the visible region of the spectrum.", "fibs": ["proportion"]}
+{"text": "As the temperature is raised, a higher proportion of short wavelength (blue light) is generated.", "fibs": ["temperature"]}
+{"text": "For example, when an iron rod is heated in a furnace, it first turns to dull red and then progressively becomes more and more red as the temperature increases.", "fibs": ["example"]}
+{"text": "As this is heated further,  the radiation emitted becomes white and then becomes blue as the temperature becomes very high.", "fibs": ["radiation"]}
+{"text": "This means that red radiation is most intense at a particular temperature and the blue radiation is more intense at another temperature.", "fibs": ["radiation"]}
+{"text": "This means intensities of radiations of different wavelengths emitted by hot body depend upon its temperature.", "fibs": ["body"]}
+{"text": "By late 1850’s it was known that objects made of different material and kept at different temperatures emit different amount of radiation.", "fibs": ["’"]}
+{"text": "Also, when the surface of an object is irradiated with light (electromagnetic radiation), a part of radiant energy is generally reflected as such, a part is absorbed and a part of it is transmitted.", "fibs": ["surface"]}
+{"text": "The reason for incomplete absorption is that ordinary objects are as a rule imperfect absorbers of radiation.", "fibs": ["reason"]}
+{"text": "An ideal body, which emits and absorbs radiations of all frequencies uniformly, is called a black body and the radiation emitted by such a body is called black body radiation.", "fibs": ["body"]}
+{"text": "In practice, no such body exists.", "fibs": ["practice"]}
+{"text": "Carbon black approximates fairly closely to black body.", "fibs": ["body"]}
+{"text": "A good physical  approximation to a black body is a cavity with a tiny hole, which has no other opening.", "fibs": ["approximation"]}
+{"text": "Any ray entering the hole will be reflected by the cavity walls and will be eventually absorbed by the walls.", "fibs": ["ray"]}
+{"text": "A black body is also a perfect radiator of radiant energy.", "fibs": ["body"]}
+{"text": "Furthermore, a black body is in thermal equilibrium with its surroundings.", "fibs": ["body"]}
+{"text": "It radiates same amount of energy per unit area as it absorbs from its surrounding in any given time.", "fibs": ["amount"]}
+{"text": "The amount of light emitted (intensity of radiation) from a black body and its spectral distribution depends only on its temperature.", "fibs": ["amount"]}
+{"text": "At a given temperature, intensity of radiation emitted increases with the increase of wavelength, reaches a maximum value at a given wavelength and then starts decreasing with further increase of wavelength, as shown in Fig.", "fibs": ["temperature"]}
+{"text": "Also, as the temperature increases, maxima of the curve shifts to short wavelength.", "fibs": ["temperature"]}
+{"text": "Several attempts were made to predict the intensity of radiation as a function of wavelength.", "fibs": ["intensity"]}
+{"text": "Fig.", "fibs": ["Fig"]}
+{"text": "2.8 Wavelength-intensity relationship
+
+
+
+
+Fig.", "fibs": ["relationship"]}
+{"text": "2.8(a) Black body
+
+
+But the results of the above experiment could not be explained satisfactorily on the basis of the wave theory of light.", "fibs": ["2.8(a"]}
+{"text": "Max Planck arrived at a satisfactory relationship by making an assumption that absorption and emmission of radiation arises from oscillator i.e., atoms in the wall of black body.", "fibs": ["relationship"]}
+{"text": "Their frequency of oscillation is changed by interaction with oscilators of electromagnetic radiation.", "fibs": ["frequency"]}
+{"text": "Planck assumed that radiation could be sub-divided into discrete chunks of energy.", "fibs": ["radiation"]}
+{"text": "He suggested that atoms and molecules could emit or absorb energy only in discrete quantities and not in a continuous manner.", "fibs": ["energy"]}
+{"text": "He gave the name quantum to the smallest quantity of energy that can be emitted or absorbed in the form of electromagnetic radiation.", "fibs": ["name"]}
+{"text": "The energy (E ) of a quantum of radiation is proportional to its frequency (ν ) and is expressed by equation (2.6).", "fibs": ["energy"]}
+{"text": "E = hυ	(2.6)
+The proportionality constant, ‘h’ is known as Planck’s constant and has the value 6.626×10–34 J s. 
+With this theory, Planck was able to explain the distribution of intensity in the  radiation from black body as a function of frequency or wavelength at different temperatures.", "fibs": ["E"]}
+{"text": "Quantisation has been compared to standing on a staircase.", "fibs": ["staircase"]}
+{"text": "A person can stand on any step of a staircase, but it is not possible for him/her to stand in between the two steps.", "fibs": ["person"]}
+{"text": "The energy can take any one of the values from the following set, but cannot take on any values between them.", "fibs": ["energy"]}
+{"text": "E = 0, hυ, 2hυ, 3hυ....nhυ.....
+
+
+
+
+
+
+
+
+
+Fig.2.9 Equipment for studying the photoelectric effect.", "fibs": ["E"]}
+{"text": "Light of a particular frequency strikes a clean metal surface inside a vacuum chamber.", "fibs": ["frequency"]}
+{"text": "Electrons are ejected from the metal and are counted by a detector that measures their kinetic energy.", "fibs": ["metal"]}
+{"text": "Max Planck
+(1858 – 1947)
+Max Planck, a German physicist, received his Ph.D in theoretical physics from the University of Munich in 1879.", "fibs": ["physicist"]}
+{"text": "Planck was awarded the Nobel Prize in Physics in 1918 for his quantum theory.", "fibs": ["quantum"]}
+{"text": "Planck also made significant contributions in thermodynamics and other areas of physics.", "fibs": ["physics"]}
+{"text": "Photoelectric Effect
+In 1887, H. Hertz performed a very interesting experiment in which electrons (or electric current) were ejected when certain metals (for example potassium, rubidium, caesium etc.)", "fibs": ["Effect"]}
+{"text": "were exposed to a beam of light as shown in Fig.2.9.", "fibs": ["beam"]}
+{"text": "The phenomenon is called Photoelectric effect.", "fibs": ["phenomenon"]}
+{"text": "The results observed in this experiment were: 
+(i) 	The electrons are ejected from the metal surface as soon as the beam of light strikes the surface, i.e., there is no time lag between the striking of light beam and the ejection of electrons from the metal surface.", "fibs": ["experiment"]}
+{"text": "(ii)	The number of electrons ejected is proportional to the intensity or brightness of light.", "fibs": ["ii"]}
+{"text": "(iii)	For each metal, there is a characteristic minimum frequency,ν0 (also known as threshold frequency) below which photoelectric effect is not observed.", "fibs": ["iii"]}
+{"text": "At a frequency ν >ν 0, the ejected electrons come out with certain kinetic energy.", "fibs": ["frequency"]}
+{"text": "The kinetic energies of these electrons increase with the increase of frequency of the light used.", "fibs": ["increase"]}
+{"text": "All the above results could not be explained on the basis of laws of classical physics.", "fibs": ["basis"]}
+{"text": "According to latter, the energy content of the beam of light depends upon the brightness of the light.", "fibs": ["latter"]}
+{"text": "In other words, number of electrons ejected and kinetic energy associated with them should depend on the brightness of light.", "fibs": ["number"]}
+{"text": "It has been observed that though the number of electrons ejected does depend upon the brightness of light, the kinetic energy of the ejected electrons does not.", "fibs": ["number"]}
+{"text": "For example, red light [ν = (4.3 to 4.6) × 1014 Hz] of any brightness (intensity) may shine on a piece of potassium metal for hours but no photoelectrons are ejected.", "fibs": ["example"]}
+{"text": "But, as soon as even a very weak yellow light (ν = 5.1–5.2 × 1014 Hz) shines on the potassium metal, the photoelectric effect is observed.", "fibs": ["light"]}
+{"text": "The threshold frequency (ν0) for potassium metal is 5.0×1014 Hz.", "fibs": ["threshold"]}
+{"text": "Table 2.2 Values of Work Function (W0) for a Few Metals
+
+
+Metal
+ Li
+ Na
+ K
+ Mg
+ Cu
+ Ag
+
+
+ W0 /eV
+ 2.42
+ 2.3
+ 2.25
+ 3.7
+ 4.8
+ 4.3
+
+
+
+
+Einstein (1905) was able to explain the photoelectric effect using Planck’s quantum theory of electromagnetic radiation as a starting point.", "fibs": ["Table"]}
+{"text": "Shining a beam of light on to a metal surface can, therefore, be viewed as shooting a beam of particles, the photons.", "fibs": ["beam"]}
+{"text": "When a photon of sufficient energy strikes an electron in the atom of the metal, it transfers its energy instantaneously to the electron during the collision and the electron is ejected without any time lag or delay.", "fibs": ["photon"]}
+{"text": "Greater the energy possessed by the photon, greater will be transfer of energy to the electron and greater the kinetic energy of the ejected electron.", "fibs": ["energy"]}
+{"text": "In other words, kinetic energy of the ejected electron is proportional to the frequency of the electromagnetic radiation.", "fibs": ["energy"]}
+{"text": "Since the striking photon has energy equal to hν  and the minimum energy required to eject the electron is hν0 (also called work function, W0; Table 2.2), then the difference in energy (hν – hν0 ) is transferred as the kinetic energy of the photoelectron.", "fibs": ["photon"]}
+{"text": "Following the conservation of energy principle, the kinetic energy of the ejected electron is given by the equation 2.7. 
+
+where me is the mass of the electron and v is the velocity associated with the ejected electron.", "fibs": ["conservation"]}
+{"text": "Lastly, a more intense beam of light consists of larger number of photons, consequently the number of electrons ejected is also larger as compared to that in an experiment in which a beam of weaker intensity of light is employed.", "fibs": ["beam"]}
+{"text": "Albert Einstein
+(1879-1955)
+
+Albert Einstein, a German born American physicist, is regarded by many as one of the two great physicists the world has known (the other is Isaac Newton).", "fibs": ["physicist"]}
+{"text": "His three research papers (on special relativity, Brownian motion and the photoelectric effect) which he published in 1905, while he was employed as a technical assistant in a Swiss patent office in Berne have profoundly influenced the development of physics.", "fibs": ["research"]}
+{"text": "He received the Nobel Prize in Physics in 1921 for his explanation of the photoelectric effect.", "fibs": ["explanation"]}
+{"text": "Dual Behaviour of Electromagnetic Radiation
+The particle nature of light posed a dilemma for scientists.", "fibs": ["Behaviour"]}
+{"text": "On the one hand, it could explain the black body radiation and  photoelectric effect satisfactorily but on the other hand, it was not consistent with the known wave behaviour of light which could account for the phenomena of interference and diffraction.", "fibs": ["hand"]}
+{"text": "The only way to resolve the dilemma was to accept the idea that light possesses both particle and wave-like properties, i.e., light has dual behaviour.", "fibs": ["way"]}
+{"text": "Depending on the experiment, we find that light behaves either as a wave or as a stream of particles.", "fibs": ["experiment"]}
+{"text": "Whenever radiation interacts with matter, it displays particle like properties in contrast to the wavelike properties (interference and diffraction), which it exhibits when it propagates.", "fibs": ["radiation"]}
+{"text": "This concept was totally alien to the way the scientists thought about matter and radiation and it took them a long time to become convinced of its validity.", "fibs": ["concept"]}
+{"text": "It turns out, as you shall see later, that some microscopic particles like electrons also exhibit this wave-particle duality.", "fibs": ["exhibit"]}
+{"text": "Problem 2.6
+Calculate energy of one mole of photons of radiation whose frequency is 5 ×1014 Hz.", "fibs": ["energy"]}
+{"text": "Solution
+Energy (E) of one photon is given by the expression 
+E = hν
+h = 6.626 ×10–34 J s
+ν = 5×1014 s–1 (given)
+E = (6.626 ×10–34 J s) × (5 ×1014 s–1)
+= 3.313 ×10–19 J
+Energy of one mole of photons
+= (3.313 ×10–19 J) × (6.022 × 1023 mol–1)
+= 199.51 kJ mol–1
+Problem 2.7
+A 100 watt bulb emits monochromatic light of wavelength 400 nm.", "fibs": ["E"]}
+{"text": "Calculate the number of photons emitted per second by the bulb.", "fibs": ["number"]}
+{"text": "Solution
+Power of the bulb = 100 watt 
+                            = 100 J s–1
+Energy of one photon E = hν = hc/λ
+
+Problem 2.8
+When electromagnetic radiation of wavelength 300 nm falls on the surface of sodium, electrons are emitted with a kinetic energy of 1.68 ×105 J mol–1.", "fibs": ["bulb"]}
+{"text": "What is the minimum energy needed to remove an electron from sodium?", "fibs": ["energy"]}
+{"text": "What is the maximum wavelength that will cause a photoelectron to be emitted?", "fibs": ["wavelength"]}
+{"text": "Solution
+The energy (E) of a 300 nm photon is given by
+
+	  = 6.626 × 10-19 J 
+The energy of one mole of photons 
+= 6.626 ×10–19 J × 6.022 ×1023 mol–1
+= 3.99 × 105 J mol–1
+The minimum energy needed to remove one mole of electrons from sodium 
+= (3.99 –1.68) 105 J mol–1 = 2.31 × 105 J mol–1
+The minimum energy for one electron
+
+ = 517 nm 
+(This corresponds to green light)
+Problem 2.9
+The threshold frequency ν0 for a metal is 7.0 ×1014 s–1.", "fibs": ["energy"]}
+{"text": "Calculate the kinetic energy of an electron emitted when radiation of frequency ν =1.0 ×1015 s–1 hits the metal.", "fibs": ["energy"]}
+{"text": "Solution 
+According to Einstein’s equation
+Kinetic energy = ½ mev2=h(ν – ν0 )
+= (6.626 ×10–34 J s) (1.0 × 1015 s–1 – 7.0          											      ×1014 s–1)
+= (6.626 ×10–34 J s) (10.0 ×1014 s–1 – 7.0 											      ×1014 s–1)
+= (6.626 ×10–34 J s) × (3.0 ×1014 s–1)
+= 1.988 ×10–19 J
+
+
+2.3.3	Evidence for the quantized* Electronic Energy Levels: Atomic spectra
+The speed of light depends upon the nature of the medium through which it passes.", "fibs": ["’"]}
+{"text": "As a result, the beam of light is deviated or refracted from its original path as it passes from one medium to another.", "fibs": ["result"]}
+{"text": "It is observed that when a ray of white light is passed through a prism, the wave with shorter wavelength bends more than the one with a longer wavelength.", "fibs": ["ray"]}
+{"text": "Since ordinary white light consists of waves with all the wavelengths in the visible range, a ray of white light is spread out into a series of coloured bands called spectrum.", "fibs": ["light"]}
+{"text": "The light of red colour which has longest wavelength is deviated the least while the violet light, which has shortest wavelength is deviated the most.", "fibs": ["light"]}
+{"text": "The spectrum of white light, that we can see, ranges from violet at 7.50 × 1014 Hz to red at 4×1014 Hz.", "fibs": ["spectrum"]}
+{"text": "Such a spectrum is called continuous spectrum.", "fibs": ["spectrum"]}
+{"text": "Continuous because violet merges into blue, blue into green and so on.", "fibs": ["violet"]}
+{"text": "A similar spectrum is produced when a rainbow forms in the sky.", "fibs": ["spectrum"]}
+{"text": "Remember that visible light is just a small portion of the electromagnetic radiation (Fig.2.7).", "fibs": ["light"]}
+{"text": "When electromagnetic radiation interacts with matter, atoms and molecules may absorb energy and reach to a higher energy state.", "fibs": ["radiation"]}
+{"text": "With higher energy, these are in an unstable state.", "fibs": ["energy"]}
+{"text": "For returning to their normal (more stable, lower energy states) energy state, the atoms and molecules emit radiations in various regions of the electromagnetic spectrum.", "fibs": ["energy"]}
+{"text": "Emission and Absorption Spectra
+The spectrum of radiation emitted by a substance that has absorbed energy is called an emission spectrum.", "fibs": ["Emission"]}
+{"text": "Atoms, molecules or ions that have absorbed radiation are said to be “excited”.", "fibs": ["radiation"]}
+{"text": "To produce an emission spectrum, energy is supplied to a sample by heating it or irradiating it and the wavelength (or frequency) of the radiation emitted, as the sample gives up the absorbed energy, is recorded.", "fibs": ["emission"]}
+{"text": "An absorption spectrum is like the photographic negative of an emission spectrum.", "fibs": ["absorption"]}
+{"text": "A continuum of radiation is passed through a sample which absorbs radiation of certain wavelengths.", "fibs": ["continuum"]}
+{"text": "The missing wavelength which corresponds to the radiation absorbed by the matter, leave dark spaces in the bright continuous spectrum.", "fibs": ["wavelength"]}
+{"text": "The study of emission or absorption spectra is referred to as spectroscopy.", "fibs": ["study"]}
+{"text": "The spectrum of the visible light, as discussed above, was continuous as all wavelengths (red to violet) of the visible light are represented in the spectra.", "fibs": ["spectrum"]}
+{"text": "The emission spectra of atoms in the gas phase, on the other hand, do not show a continuous spread of wavelength from red to violet, rather they emit light only at specific wavelengths with dark spaces between them.", "fibs": ["emission"]}
+{"text": "Such spectra are called line spectra or atomic spectra because the emitted radiation is identified by the appearance of bright lines in the spectra (Fig.", "fibs": ["line"]}
+{"text": "2.10 page 45).", "fibs": ["page"]}
+{"text": "Line emission spectra are of great interest in the study of electronic structure.", "fibs": ["emission"]}
+{"text": "Each element has a unique line emission spectrum.", "fibs": ["element"]}
+{"text": "The characteristic lines in atomic spectra can be used in chemical analysis to identify unknown atoms in the same way as fingerprints are used to identify people.", "fibs": ["chemical"]}
+{"text": "The exact matching of lines of the emission spectrum of the atoms of a known element with the lines from an unknown sample quickly establishes the identity of the latter, German chemist, Robert Bunsen (1811-1899) was one of the first investigators to use line spectra to identify elements.", "fibs": ["emission"]}
+{"text": "Elements like rubidium (Rb), caesium (Cs) thallium (Tl), indium (In), gallium (Ga) and scandium (Sc) were discovered when their minerals were analysed by spectroscopic methods.", "fibs": ["rubidium"]}
+{"text": "The element helium (He) was discovered in the sun by spectroscopic method.", "fibs": ["element"]}
+{"text": "Line Spectrum of Hydrogen 
+When an electric discharge is passed through gaseous hydrogen, the H2 molecules dissociate and the energetically excited hydrogen atoms produced emit electromagnetic radiation of discrete frequencies.", "fibs": ["Hydrogen"]}
+{"text": "The hydrogen spectrum consists of several series of lines named after their discoverers.", "fibs": ["hydrogen"]}
+{"text": "Balmer showed in 1885 on the basis of experimental observations that if spectral lines are expressed in terms of wavenumber (), then the visible lines of the hydrogen spectrum obey the following formula:
+
+
+
+
+* The restriction of any property to discrete values is called quantization.", "fibs": ["basis"]}
+{"text": "Fig.", "fibs": ["Fig"]}
+{"text": "2.10 (a) Atomic emission.", "fibs": ["emission"]}
+{"text": "The light emitted by a sample of excited hydrogen atoms (or any other element) can be passed through a prism and separated into certain discrete wavelengths.", "fibs": ["light"]}
+{"text": "Thus an emission spectrum, which is a photographic recording of the separated wavelengths is called as line spectrum.", "fibs": ["emission"]}
+{"text": "Any sample of reasonable size contains an enormous number of atoms.", "fibs": ["sample"]}
+{"text": "Although a single atom can be in only one excited state at a time, the collection of atoms contains all possible excited states.", "fibs": ["atom"]}
+{"text": "The light emitted as these atoms fall to lower energy states is responsible for the spectrum.", "fibs": ["light"]}
+{"text": "(b) Atomic absorption.", "fibs": ["b"]}
+{"text": "When white light is passed through unexcited atomic hydrogen and then through a slit and prism, the transmitted light is lacking in intensity at the same wavelengths as are emitted in (a) The recorded absorption spectrum is also a line spectrum and the photographic negative of the emission spectrum.", "fibs": ["light"]}
+{"text": "where n is an integer equal to or greater than 3 (i.e., n = 3,4,5,....)
+The series of lines described by this formula are called the Balmer series.", "fibs": ["integer"]}
+{"text": "The Balmer series of lines are the only lines in the hydrogen spectrum which appear in the visible regionof the electromagnetic spectrum.", "fibs": ["series"]}
+{"text": "The Swedish spectroscopist, Johannes Rydberg, noted that all series of lines in the hydrogen spectrum could be described by the followingexpression :
+
+where n1=1,2........
+n2 = n1 + 1, n1 + 2......", "fibs": ["spectroscopist"]}
+{"text": "The value 109,677 cm–1 is called the Rydberg constant for hydrogen.", "fibs": ["value"]}
+{"text": "The first five series of lines that correspond to n1 = 1, 2, 3, 4, 5 are known as Lyman, Balmer, Paschen, Bracket and Pfund series, respectively, Table 2.3 shows these series of transitions in the hydrogen spectrum.", "fibs": ["series"]}
+{"text": "Fig 2.11 (page, 46) shows the Lyman, Balmer and Paschen series of transitions for hydrogen atom.", "fibs": ["Fig"]}
+{"text": "Table 2.3 The Spectral Lines for Atomic Hydrogen
+
+
+
+
+
+
+
+
+
+
+Of all the elements, hydrogen atom has the simplest line spectrum.", "fibs": ["Table"]}
+{"text": "Line spectrum becomes more and more complex for heavier atom.", "fibs": ["spectrum"]}
+{"text": "There are, however, certain features which are common to all line spectra, i.e., (i) line spectrum of element is unique and (ii) there is regularity in the line spectrum of each element.", "fibs": ["line"]}
+{"text": "Is it something to do with the electronic structure of atoms?", "fibs": ["something"]}
+{"text": "These are the questions need to be answered.", "fibs": ["need"]}
+{"text": "We shall find later that the answers to these questions provide the key in understanding electronic structure of these elements.", "fibs": ["understanding"]}
+{"text": "Fig.", "fibs": ["Fig"]}
+{"text": "2.11	Transitions of the electron in the hydrogen atom (The diagram shows the Lyman, Balmer and Paschen series of transitions)
+
+
+
+2.4 Bohr’s Model for Hydrogen Atom
+Neils Bohr (1913) was the first to explain quantitatively the general features of the structure of hydrogen atom and its spectrum.", "fibs": ["electron"]}
+{"text": "He used Planck’s concept of quantisation of energy.", "fibs": ["’"]}
+{"text": "Though the theory is not the modern quantum mechanics, it can still be used to rationalize many points in the atomic structure and spectra.", "fibs": ["theory"]}
+{"text": "Bohr’s model for hydrogen atom is based on the following postulates:
+i)	The electron in the hydrogen atom can move around the nucleus in a circular path of fixed radius and energy.", "fibs": ["’"]}
+{"text": "These paths are called orbits, stationary states or allowed energy states.", "fibs": ["energy"]}
+{"text": "These orbits are arranged concentrically around the nucleus.", "fibs": ["nucleus"]}
+{"text": "ii)	The energy of an electron in the orbit does not change with time.", "fibs": ["ii"]}
+{"text": "However, the electron will move from a lower stationary state to a higher stationary state when required amount of energy is absorbed by the electron or energy is emitted when electron moves from higher stationary state to lower stationary state (equation 2.16).", "fibs": ["electron"]}
+{"text": "The energy change does not take place in a continuous manner.", "fibs": ["energy"]}
+{"text": "Angular Momentum
+Just as linear momentum is the product of mass (m) and linear velocity (v), angular momentum is the product of moment of inertia (I) and angular velocity (ω).", "fibs": ["Momentum"]}
+{"text": "For an electron of mass me, moving in a circular path of radius r around the nucleus, 
+		angular momentum = I × ω
+Since I = mer2, and  ω = v/r where v is the linear velocity, 
+∴angular momentum = mer2 × v/r = mevr
+
+iii)	The frequency of radiation absorbed or emitted when transition occurs between two stationary states that differ in energy by ∆E, is given by:
+
+	Where E1 and E2 are the energies of the lower and higher allowed energy states respectively.", "fibs": ["electron"]}
+{"text": "This expression is commonly known as Bohr’s frequency rule.", "fibs": ["expression"]}
+{"text": "iv)	The angular momentum of an electron is quantised.", "fibs": ["iv"]}
+{"text": "In a given stationary state it can be expressed as in equation (2.11)
+
+Where me is the mass of electron, v is the velocity and r is the radius of the orbit in which electron is moving.", "fibs": ["state"]}
+{"text": "Thus an electron can move only in those orbits for which its angular momentum is integral multiple of h/2π.", "fibs": ["electron"]}
+{"text": "That means angular momentum is quantised.", "fibs": ["momentum"]}
+{"text": "Radiation is emitted or obsorbed only when transition of electron takes place from one quantised value of angular momentum to another.", "fibs": ["Radiation"]}
+{"text": "Therefore, Maxwell’s electromagnetic theory does not apply here that is why only certain fixed orbits are allowed.", "fibs": ["’"]}
+{"text": "The details regarding the derivation of energies of the stationary states used by Bohr, are quite complicated and will be discussed in higher classes.", "fibs": ["derivation"]}
+{"text": "However, according to Bohr’s theory for hydrogen atom:
+a)	The stationary states for electron are numbered n = 1,2,3..........", "fibs": ["’"]}
+{"text": "These integral numbers (Section 2.6.2) are known as Principal quantum numbers.", "fibs": ["integral"]}
+{"text": "b)	The radii of the stationary states are expressed as:  rn  = n2 a0 			        (2.12)
+where a0 = 52.9 pm.", "fibs": ["b"]}
+{"text": "Thus the radius of the first stationary state, called the Bohr orbit, is 52.9 pm.", "fibs": ["radius"]}
+{"text": "Normally the electron in the hydrogen atom is found in this orbit (that is n=1).", "fibs": ["electron"]}
+{"text": "As n increases the value of r will increase.", "fibs": ["value"]}
+{"text": "In other words the electron will be present away from the nucleus.", "fibs": ["electron"]}
+{"text": "c)	The most important property associated with the electron, is the energy of its stationary state.", "fibs": ["property"]}
+{"text": "It is given by the expression.", "fibs": ["expression"]}
+{"text": "where RH is called Rydberg constant and its value is 2.18×10–18 J.", "fibs": ["RH"]}
+{"text": "The energy of the lowest state, also called as the ground state, is E1 = –2.18×10–18 () = –2.18×10–18 J.", "fibs": ["energy"]}
+{"text": "The energy of the stationary state for n = 2, will
+
+
+
+
+be : E2 = –2.18×10–18J ()= –0.545×10–18 J.", "fibs": ["energy"]}
+{"text": "Fig.", "fibs": ["Fig"]}
+{"text": "2.11 depicts the energies of different stationary states or energy levels of hydrogen atom.", "fibs": ["energy"]}
+{"text": "This representation is called an energy level diagram.", "fibs": ["representation"]}
+{"text": "Niels Bohr
+(1885–1962)
+Niels Bohr, a Danish physicist received his Ph.D. from the University of Copenhagen in 1911.", "fibs": ["1885–1962"]}
+{"text": "He then spent a year with J.J. Thomson and Ernest Rutherford in England.", "fibs": ["year"]}
+{"text": "In 1913, he returned to Copenhagen where he remained for the rest of his life.", "fibs": ["rest"]}
+{"text": "After first World War, Bohr worked energetically for peaceful uses of atomic energy.", "fibs": ["energy"]}
+{"text": "He received the first Atoms for Peace award in 1957.", "fibs": ["award"]}
+{"text": "When the electron is free from the influence of nucleus, the energy is taken as zero.", "fibs": ["electron"]}
+{"text": "The electron in this situation is associated with the stationary state of Principal Quantum number = n = ∞ and is called as ionized hydrogen atom.", "fibs": ["electron"]}
+{"text": "When the electron is attracted by the nucleus and is present in orbit n, the energy is emitted and its energy is lowered.", "fibs": ["electron"]}
+{"text": "That is the reason for the presence of negative sign in equation (2.13) and depicts its stability relative to the reference state of zero energy and n = ∞.", "fibs": ["reason"]}
+{"text": "What does the negative electronic energy (En) for hydrogen atom mean?", "fibs": ["energy"]}
+{"text": "The energy of the electron in a hydrogen atom has a negative sign for all possible orbits (eq.", "fibs": ["energy"]}
+{"text": "What does this negative sign convey?", "fibs": ["sign"]}
+{"text": "This negative sign means that the energy of the electron in the atom is lower than the energy of a free electron at rest.", "fibs": ["sign"]}
+{"text": "A free electron at rest is an electron that is infinitely far away from the nucleus and is assigned the energy value of zero.", "fibs": ["electron"]}
+{"text": "Mathematically, this corresponds to setting n equal to infinity in the equation (2.13) so that E∞=0.", "fibs": ["infinity"]}
+{"text": "As the electron gets closer to the nucleus (as n decreases), En becomes larger in absolute value and more and more negative.", "fibs": ["electron"]}
+{"text": "The most negative energy value is given by n=1 which corresponds to the most stable orbit.", "fibs": ["energy"]}
+{"text": "We call this the ground state.", "fibs": ["ground"]}
+{"text": "d)	Bohr’s theory can also be applied to the ions containing only one electron, similar to that present in hydrogen atom.", "fibs": ["’"]}
+{"text": "For example, He+ Li2+, Be3+ and so on.", "fibs": ["example"]}
+{"text": "The energies of the stationary states associated with these kinds of ions (also known as hydrogen like species) are given by the expression.", "fibs": ["hydrogen"]}
+{"text": "where Z is the atomic number and has values 2,3 for the helium and lithium atoms respectively.", "fibs": ["number"]}
+{"text": "From the above equations, it is evident that the value of energy becomes more negative and that of radius becomes smaller with increase of Z .", "fibs": ["value"]}
+{"text": "This means that electron will be tightly bound to the nucleus.", "fibs": ["electron"]}
+{"text": "Although the precise equation is not given here, qualitatively the magnitude of velocity of electron increases with increase of positive charge on the nucleus and decreases with increase of principal quantum number.", "fibs": ["equation"]}
+{"text": "2.4.1	Explanation of Line Spectrum of Hydrogen
+Line spectrum observed in case of hydrogen atom, as mentioned in section 2.3.3, can be explained quantitatively using Bohr’s model.", "fibs": ["Hydrogen"]}
+{"text": "According to assumption 2, radiation (energy) is absorbed if the electron moves from the orbit of smaller Principal quantum number to the orbit of higher Principal quantum number, whereas the radiation (energy) is emitted if the electron moves from higher orbit to lower orbit.", "fibs": ["assumption"]}
+{"text": "The energy gap between the two orbits is given by equation (2.16)
+∆E = Ef – Ei	                   		(2.16)
+Combining equations (2.13) and (2.16)
+
+The frequency (ν ) associated with the absorption and emission of the photon can be evaluated by using equation 		     (2.18)
+
+
+In case of absorption spectrum, nf > ni and the term in the parenthesis is positive and energy is absorbed.", "fibs": ["energy"]}
+{"text": "On the other hand in case of emission spectrum ni > nf , ∆ E is negative and energy is released.", "fibs": ["hand"]}
+{"text": "The expression (2.17) is similar to that used by Rydberg (2.9) derived empirically using the experimental data available at that time.", "fibs": ["expression"]}
+{"text": "Further, each spectral line, whether in absorption or emission spectrum, can be associated to the particular transition in hydrogen atom.", "fibs": ["line"]}
+{"text": "In case of large number of hydrogen atoms, different possible transitions can be observed and thus leading to large number of spectral lines.", "fibs": ["case"]}
+{"text": "The brightness or intensity of spectral lines depends  upon the number of photons of same wavelength or frequency absorbed or emitted.", "fibs": ["brightness"]}
+{"text": "Problem 2.10 
+What are the frequency and wavelength of a photon emitted during a transition from n = 5 state to the n = 2 state in the hydrogen atom?", "fibs": ["frequency"]}
+{"text": "Solution
+Since ni = 5 and nf = 2, this transition gives rise to a spectral line in the visible region of the Balmer series.", "fibs": ["ni"]}
+{"text": "From equation (2.17)
+
+It is an emission energy
+The frequency of the photon (taking energy in terms of magnitude)  is given by
+
+Problem 2.11 
+Calculate the energy associated with the first orbit of He+.", "fibs": ["equation"]}
+{"text": "What is the radius of this orbit?", "fibs": ["radius"]}
+{"text": "Solution
+
+
+
+2.4.2	Limitations of Bohr’s Model
+Bohr’s model of the hydrogen atom was no doubt an improvement over Rutherford’s nuclear model, as it could account for the stability and line spectra of hydrogen atom and hydrogen like ions (for example, He+, Li2+, Be3+, and so on).", "fibs": ["’"]}
+{"text": "However, Bohr’s model was too simple to account for the following points.", "fibs": ["’"]}
+{"text": "i)	It fails to account for the finer details (doublet, that is two closely spaced lines) of the hydrogen atom spectrum observed by using sophisticated spectroscopic techniques.", "fibs": ["account"]}
+{"text": "This model is also unable to explain the spectrum of atoms other than hydrogen, for example, helium atom which possesses only two electrons.", "fibs": ["model"]}
+{"text": "Further, Bohr’s theory was also unable to explain the splitting of spectral lines in the presence of magnetic field (Zeeman effect) or an electric field (Stark effect).", "fibs": ["’"]}
+{"text": "ii)	It could not explain the ability of atoms to form molecules by chemical bonds.", "fibs": ["ii"]}
+{"text": "In other words, taking into account the points mentioned above, one needs a better theory which can explain the salient features of the structure of complex atoms.", "fibs": ["account"]}
+{"text": "2.5	Towards Quantum Mechanical Model of the Atom
+In view of the shortcoming of the Bohr’s model, attempts were made to develop a more suitable and general model for atoms.", "fibs": ["Model"]}
+{"text": "Two important developments which contributed significantly in the formulation of such a model were :
+1.", "fibs": ["formulation"]}
+{"text": "Dual behaviour of matter,
+2.", "fibs": ["behaviour"]}
+{"text": "Heisenberg uncertainty principle.", "fibs": ["uncertainty"]}
+{"text": "2.5.1 Dual Behaviour of Matter
+The French physicist, de Broglie, in 1924 proposed that matter, like radiation, should also exhibit dual behaviour i.e., both particle and wavelike properties.", "fibs": ["Behaviour"]}
+{"text": "This means that just as the photon has momentum as well as wavelength, electrons should also have momentum as well as wavelength, de Broglie, from this analogy, gave the following relation between wavelength (λ) and momentum (p) of a material particle.", "fibs": ["photon"]}
+{"text": "Louis de Broglie (1892 – 1987) 
+Louis de Broglie, a French physicist, studied history as an undergraduate in the early 1910’s.", "fibs": ["physicist"]}
+{"text": "His interest turned to science as a result of his assignment to radio communications in World War I.", "fibs": ["interest"]}
+{"text": "He was professor of theoretical physics at the University of Paris from 1932 untill his retirement in 1962.", "fibs": ["professor"]}
+{"text": "He was awarded the Nobel Prize in Physics in 1929.
+
+
+
+
+where m is the mass of the particle, v its velocity and p its momentum.", "fibs": ["mass"]}
+{"text": "de Broglie’s prediction was confirmed experimentally when it was found that an electron beam undergoes diffraction, a phenomenon characteristic of waves.", "fibs": ["’"]}
+{"text": "This fact has been put to use in making an electron microscope, which is based on the wavelike behaviour of electrons just as an ordinary microscope utilises the wave nature of light.", "fibs": ["fact"]}
+{"text": "An electron microscope is a powerful tool in modern scientific research because it achieves a magnification of about 15 million times.", "fibs": ["electron"]}
+{"text": "It needs to be noted that according to de Broglie, every object in motion has a wave character.", "fibs": ["object"]}
+{"text": "The wavelengths associated with ordinary objects are so short (because of their large masses) that their wave properties cannot be detected.", "fibs": ["wave"]}
+{"text": "The wavelengths associated with electrons and other subatomic particles (with very small mass) can however be detected experimentally.", "fibs": ["mass"]}
+{"text": "Problem 2.12
+What will be the wavelength of a ball of mass 0.1 kg moving with a velocity of 10 m s–1 ?", "fibs": ["wavelength"]}
+{"text": "Solution
+According to de Brogile equation (2.22)
+
+= 6.626 × 10–34 m (J = kg m2 s–2) 
+Problem 2.13
+The mass of an electron is 9.1×10–31 kg.", "fibs": ["equation"]}
+{"text": "is 3.0×10–25 J, calculate its wavelength.", "fibs": ["3.0×10–25"]}
+{"text": "Solution
+
+Problem 2.14
+Calculate the mass of a photon with wavelength 3.6 Å.", "fibs": ["mass"]}
+{"text": "Solution
+λ = 3.6 Å = 3.6  × 10–10 m
+Velocity of photon = velocity of light
+
+= 6.135 × 10–29 kg
+
+
+2.5.2	Heisenberg’s Uncertainty Principle 
+Werner Heisenberg a German physicist in 1927, stated uncertainty principle which is the consequence of dual behaviour of matter and radiation.", "fibs": ["λ"]}
+{"text": "It states that it is impossible to determine simultaneously, the exact position and exact momentum (or velocity) of an electron.", "fibs": ["position"]}
+{"text": "Mathematically, it can be given as in equation (2.23).", "fibs": ["equation"]}
+{"text": "where ∆x is the uncertainty in position and ∆px (or ∆vx) is the uncertainty in momentum (or velocity) of the particle.", "fibs": ["∆x"]}
+{"text": "If the position of the electron is known with high degree of accuracy (∆x is small), then the velocity of the electron will be uncertain [∆(vx) is large].", "fibs": ["position"]}
+{"text": "On the other hand, if the velocity of the electron is known precisely (∆(vx ) is small), then the position of the electron will be uncertain (∆x will be large).", "fibs": ["hand"]}
+{"text": "Thus, if we carry out some physical measurements on the electron’s position or velocity, the outcome will always depict a fuzzy or blur picture.", "fibs": ["electron"]}
+{"text": "The uncertainty principle can be best understood with the help of an example.", "fibs": ["uncertainty"]}
+{"text": "Suppose you are asked to measure the thickness of a sheet of paper with an unmarked metrestick.", "fibs": ["measure"]}
+{"text": "Obviously, the results obtained would be extremely inaccurate and meaningless, In order to obtain any accuracy, you should use an instrument graduated in units smaller than the thickness of a sheet of the paper.", "fibs": ["order"]}
+{"text": "Analogously, in order to determine the position of an electron, we must use a meterstick calibrated in units of smaller than the dimensions of electron (keep in mind that an electron is considered as a point charge and is therefore, dimensionless).", "fibs": ["order"]}
+{"text": "To observe an electron, we can illuminate it with “light” or electromagnetic radiation.", "fibs": ["electron"]}
+{"text": "The “light” used must have a wavelength smaller than the dimensions of an electron.", "fibs": ["light"]}
+{"text": "The high momentum photons of such light  would change the energy of electrons by collisions.", "fibs": ["momentum"]}
+{"text": "In this process we, no doubt, would be able to calculate the position of the electron, but we would know very little about the velocity of the electron after the collision.", "fibs": ["process"]}
+{"text": "Significance of Uncertainty Principle
+One of the important implications of the Heisenberg Uncertainty Principle is that it rules out existence of definite paths or trajectories of electrons and other similar particles.", "fibs": ["Significance"]}
+{"text": "The trajectory of an object is determined by its location and velocity at various moments.", "fibs": ["trajectory"]}
+{"text": "If we know where a body is at a particular instant and if we also know its velocity and the forces acting on it at that instant, we can tell where the body would be sometime later.", "fibs": ["body"]}
+{"text": "We, therefore, conclude that the position of an object and its velocity fix its trajectory.", "fibs": ["position"]}
+{"text": "Since for a sub-atomic object such as an electron, it is not possible simultaneously to determine the position and velocity at any given instant to an arbitrary degree of precision, it is not possible to talk of the trajectory of an electron.", "fibs": ["object"]}
+{"text": "The effect of Heisenberg Uncertainty Principle is significant only for motion of microscopic objects and is negligible for that of macroscopic objects.", "fibs": ["effect"]}
+{"text": "Werner Heisenberg (1901 – 1976) Werner Heisenberg (1901 – 1976) received his Ph.D. in physics from the University of Munich in 1923.", "fibs": ["physics"]}
+{"text": "He then spent a year working with Max Born at Gottingen and three years with Niels Bohr in Copenhagen.", "fibs": ["year"]}
+{"text": "He was professor of physics at the University of Leipzig from 1927 to 1941.", "fibs": ["professor"]}
+{"text": "During World War II, Heisenberg was in charge of German research on the atomic bomb.", "fibs": ["charge"]}
+{"text": "After the war he was named director of Max Planck Institute for physics in Gottingen.", "fibs": ["war"]}
+{"text": "He was also accomplished mountain climber.", "fibs": ["mountain"]}
+{"text": "If uncertainty principle is applied to an object of mass, say about a milligram (10–6 kg), then
+
+The value of ∆v∆x obtained is extremely small and is insignificant.", "fibs": ["uncertainty"]}
+{"text": "Therefore, one may say that in dealing with milligram-sized or heavier objects, the associated uncertainties are hardly of any real consequence.", "fibs": ["consequence"]}
+{"text": "In the case of a microscopic object like an electron on the other hand.", "fibs": ["case"]}
+{"text": "∆v.∆x obtained is much larger and such uncertainties are of real consequence.", "fibs": ["∆v.∆x"]}
+{"text": "For example, for an electron whose mass is 9.11×10–31 kg., according to Heisenberg uncertainty principle
+
+       It, therefore, means that if one tries to find the exact location of the electron, say to an uncertainty of only 10–8 m, then the uncertainty ∆v in velocity would be
+which is so large that the classical picture of electrons moving in Bohr’s orbits (fixed) cannot hold good.", "fibs": ["example"]}
+{"text": "It, therefore, means that the precise statements of the position and momentum of electrons have to be replaced by the statements of probability, that the electron has at a given position and momentum.", "fibs": ["position"]}
+{"text": "This is what happens in the quantum mechanical model of atom.", "fibs": ["quantum"]}
+{"text": "Problem 2.15
+A microscope using suitable photons is employed to locate an electron in an atom within a distance of 0.1 Å.", "fibs": ["microscope"]}
+{"text": "What is the uncertainty involved in the measurement of its velocity?", "fibs": ["uncertainty"]}
+{"text": "Solution
+
+
+= 0.579×107 m s–1 (1J = 1 kg m2 s–2)
+= 5.79×106 m s–1
+Problem 2.16 
+A golf ball has a mass of 40g, and a speed of 45 m/s.", "fibs": ["0.579×107"]}
+{"text": "If the speed can be measured within accuracy of 2%, calculate the uncertainty in the position.", "fibs": ["speed"]}
+{"text": "Solution
+The uncertainty in the speed is 2%, i.e., 
+
+= 1.46×10–33 m
+This is nearly ~ 1018 times smaller than the diameter of a typical atomic nucleus.", "fibs": ["uncertainty"]}
+{"text": "As mentioned earlier for large particles, the uncertainty principle sets no meaningful limit to the precision of measurements.", "fibs": ["uncertainty"]}
+{"text": "Reasons for the Failure of the Bohr Model
+One can now understand the reasons for the failure of the Bohr model.", "fibs": ["Failure"]}
+{"text": "In  Bohr model, an electron is regarded as a charged particle moving  in well defined circular orbits about the nucleus.", "fibs": ["model"]}
+{"text": "The wave character of the electron is not considered in  Bohr model.", "fibs": ["wave"]}
+{"text": "Further, an orbit is a clearly defined path and this path can completely be defined only if both the position and the velocity of the electron are known exactly at the same time.", "fibs": ["orbit"]}
+{"text": "This is not possible  according to the Heisenberg uncertainty principle.", "fibs": ["uncertainty"]}
+{"text": "Bohr model of the hydrogen atom, therefore, not only ignores dual behaviour of matter but also contradicts Heisenberg uncertainty principle.", "fibs": ["model"]}
+{"text": "In view of these inherent weaknesses in the Bohr model, there was no point in extending Bohr model to other atoms.", "fibs": ["view"]}
+{"text": "In fact an insight into the structure of the atom was needed which could account for wave-particle duality of matter and be consistent with Heisenberg uncertainty principle.", "fibs": ["fact"]}
+{"text": "This came with the advent of quantum mechanics.", "fibs": ["advent"]}
+{"text": "Erwin Schrödinger
+
+(1887-1961)
+Erwin Schrödinger, an Austrian physicist received his Ph.D. in theoretical physics from the University of Vienna in 1910.", "fibs": ["physicist"]}
+{"text": "In 1927 Schrödinger succeeded Max Planck at the  University of Berlin at Planck’s request.", "fibs": ["’"]}
+{"text": "In 1933, Schrödinger left Berlin because of his opposition to Hitler and Nazi policies and returned to Austria in 1936.", "fibs": ["opposition"]}
+{"text": "After the invasion of Austria by Germany, Schrödinger was forcibly removed from his professorship.", "fibs": ["invasion"]}
+{"text": "2.6 Quantum Mechanical Model of Atom
+Classical mechanics, based on Newton’s laws of motion, successfully describes the motion of all macroscopic objects such as a falling stone, orbiting planets etc., which have essentially a particle-like behaviour as shown in the previous section.", "fibs": ["Model"]}
+{"text": "This is mainly because of the fact that classical mechanics ignores the concept of dual behaviour of matter especially for sub-atomic particles and the uncertainty principle.", "fibs": ["fact"]}
+{"text": "The branch of science that takes into account  this dual behaviour of matter is called quantum mechanics.", "fibs": ["branch"]}
+{"text": "Quantum mechanics is a theoretical science that deals with the study of the motions of the microscopic objects that have both observable wave like and particle like properties.", "fibs": ["science"]}
+{"text": "It specifies the laws of motion that these objects obey.", "fibs": ["motion"]}
+{"text": "When quantum mechanics is applied to macroscopic objects (for which wave like properties are insignificant) the results are the same as those from the classical mechanics.", "fibs": ["quantum"]}
+{"text": "Here, however, we shall be discussing the quantum mechanics which is based on the ideas of wave motion.", "fibs": ["quantum"]}
+{"text": "The fundamental equation of quantum mechanics was developed by Schrödinger  and it won him the Nobel Prize in Physics in 1933.", "fibs": ["equation"]}
+{"text": "This equation which incorporates wave-particle duality of matter as proposed by de Broglie is quite complex and knowledge of higher mathematics  is needed to solve it.", "fibs": ["equation"]}
+{"text": "For a system (such as an atom or a molecule whose energy does not change with time) the Schrödinger equation is written as   where  is a mathematical operator called Hamiltonian.", "fibs": ["system"]}
+{"text": "Schrödinger gave a recipe of constructing this operator from the expression for the total energy of the system.", "fibs": ["recipe"]}
+{"text": "The total energy of the system takes into account the kinetic energies of all the sub-atomic particles (electrons, nuclei), attractive potential between the electrons and nuclei and repulsive potential among the electrons and nuclei individually.", "fibs": ["energy"]}
+{"text": "Solution of this equation gives E and ψ.
+Hydrogen Atom and the Schrödinger Equation
+When Schrödinger equation is solved for hydrogen atom, the solution gives the possible energy levels the electron can occupy and the corresponding wave function(s) (ψ) of the electron associated with each energy level.", "fibs": ["equation"]}
+{"text": "These quantized energy states and corresponding wave functions which are characterized by a set of three quantum numbers (principal quantum number n, azimuthal quantum number l and magnetic quantum number ml ) arise as a natural consequence in the solution of the Schrödinger equation.", "fibs": ["energy"]}
+{"text": "When an electron is in any energy state, the wave function corresponding to that energy state contains all information about the electron.", "fibs": ["electron"]}
+{"text": "The wave function is a mathematical function whose value depends upon the coordinates of the electron in the atom and does not carry any physical meaning.", "fibs": ["wave"]}
+{"text": "Such wave functions of hydrogen or hydrogen like species with one electron are called atomic orbitals.", "fibs": ["wave"]}
+{"text": "Such wave functions pertaining  to  one-electron species are called one-electron systems.", "fibs": ["wave"]}
+{"text": "The probability of finding an electron at a point within an atom is proportional to the |ψ|2 at that point.", "fibs": ["probability"]}
+{"text": "The quantum mechanical results of the hydrogen atom successfully predict all aspects of the hydrogen atom spectrum including some phenomena that could not be explained by the Bohr model.", "fibs": ["quantum"]}
+{"text": "Application of  Schrödinger equation to multi-electron atoms presents a difficulty: the Schrödinger equation cannot be solved exactly for a multi-electron atom.", "fibs": ["equation"]}
+{"text": "This difficulty can be overcome by using approximate methods.", "fibs": ["difficulty"]}
+{"text": "Such calculations with the aid of modern computers show that orbitals in atoms other than hydrogen do not differ in any radical way from the hydrogen orbitals discussed above.", "fibs": ["aid"]}
+{"text": "The principal difference lies in the consequence of increased nuclear charge.", "fibs": ["difference"]}
+{"text": "Further, as you shall see later (in subsections 2.6.3 and 2.6.4), unlike orbitals of hydrogen or hydrogen like species, whose energies depend only on the quantum number n, the energies of the orbitals in multi-electron atoms depend on quantum numbers n and l.
+
+
+Important Features of the Quantum Mechanical Model of Atom
+Quantum mechanical model of atom is the picture of the structure of the atom, which emerges from the application of the Schrödinger equation to atoms.", "fibs": ["hydrogen"]}
+{"text": "The following are the important features of the quantum-mechanical model of atom:
+1.", "fibs": ["model"]}
+{"text": "The energy of electrons in atoms is quantized (i.e., can only have certain specific values), for example when electrons are bound to the nucleus in atoms.", "fibs": ["energy"]}
+{"text": "The existence of quantized electronic energy levels is a direct result of the wave like properties of electrons and are allowed solutions of Schrödinger wave equation.", "fibs": ["existence"]}
+{"text": "Both the exact position and exact velocity of an electron in an atom cannot be determined simultaneously (Heisenberg uncertainty principle).", "fibs": ["position"]}
+{"text": "The path of an electron in an atom  therefore, can never be determined or known accurately.", "fibs": ["path"]}
+{"text": "That is why, as you shall see later on, one talks of only probability of finding the electron at different points in an atom.", "fibs": ["probability"]}
+{"text": "An atomic orbital is the wave function ψ for an electron in an atom.", "fibs": ["wave"]}
+{"text": "Whenever an electron is described by a wave function, we say that the electron occupies that orbital.", "fibs": ["electron"]}
+{"text": "Since many such wave functions are possible for an electron, there are many atomic orbitals in an atom.", "fibs": ["wave"]}
+{"text": "These “one electron orbital wave functions” or orbitals form the basis of the electronic structure of atoms.", "fibs": ["electron"]}
+{"text": "In each orbital, the electron has a definite energy.", "fibs": ["electron"]}
+{"text": "In a multi-electron atom, the electrons are filled in various orbitals in the order of increasing energy.", "fibs": ["atom"]}
+{"text": "For each electron of a multi-electron atom, there shall, therefore, be an orbital wave function characteristic of the orbital it occupies.", "fibs": ["electron"]}
+{"text": "All the information about the electron in an atom is stored in its orbital wave function ψ and quantum mechanics makes it possible to extract this information out of ψ.", "fibs": ["information"]}
+{"text": "The probability of finding an electron at a point within an atom is proportional to the square of the orbital wave function i.e., |ψ|2 at that point.", "fibs": ["probability"]}
+{"text": "|ψ|2 is known as probability density and is always positive.", "fibs": ["|"]}
+{"text": "From the value of |ψ|2 at different points within an atom, it is possible to predict the region around the nucleus where electron will most probably be found.", "fibs": ["value"]}
+{"text": "2.6.1  Orbitals and Quantum Numbers
+A large number of orbitals are possible in an atom.", "fibs": ["number"]}
+{"text": "Qualitatively these orbitals can be distinguished by their size, shape and orientation.", "fibs": ["size"]}
+{"text": "An orbital of smaller size means there is more chance of finding the electron near the nucleus.", "fibs": ["size"]}
+{"text": "Similarly shape and orientation mean that there is more probability of finding the electron along certain directions than along others.", "fibs": ["shape"]}
+{"text": "Atomic orbitals are precisely distinguished by what are known as quantum numbers.", "fibs": ["quantum"]}
+{"text": "Each orbital is designated by three quantum numbers labelled as n, l and ml.", "fibs": ["quantum"]}
+{"text": "The principal quantum number ‘n’ is a positive integer with value of n = 1,2,3.......", "fibs": ["quantum"]}
+{"text": "The principal quantum number determines the size and to large extent the energy of the orbital.", "fibs": ["quantum"]}
+{"text": "For hydrogen atom and hydrogen like species (He+, Li2+, ....", "fibs": ["hydrogen"]}
+{"text": "energy and size of the orbital depends only on ‘n’.", "fibs": ["energy"]}
+{"text": "The principal quantum number also identifies the shell.", "fibs": ["quantum"]}
+{"text": "With the increase in the value of ‘n’, the number of allowed orbital increases and are given by ‘n2’ All the orbitals of a given value of ‘n’ constitute a single shell of atom and are represented by the following letters
+      n = 	 1   2   3   4   ............", "fibs": ["increase"]}
+{"text": "Shell	=   K  L	  M  N	............", "fibs": ["N"]}
+{"text": "Size of an orbital increases with increase of principal quantum number ‘n’.", "fibs": ["Size"]}
+{"text": "In other words the electron will be located away from the nucleus.", "fibs": ["electron"]}
+{"text": "Since energy is required in shifting away the negatively charged electron from the positively charged nucleus, the energy of the orbital will increase with increase of n. 
+Azimuthal quantum number.", "fibs": ["energy"]}
+{"text": "‘l’ is also known as orbital angular momentum or subsidiary quantum number.", "fibs": ["‘"]}
+{"text": "It defines the three-dimensional shape of the orbital.", "fibs": ["shape"]}
+{"text": "For a given value of n, l  can have n values ranging from 0 to n – 1, that is, for a given value of n, the possible value of l are : l = 0, 1, 2, .......... (n–1)
+For example, when n = 1, value of l is only 0.", "fibs": ["value"]}
+{"text": "For n = 2, the possible value of l can be 0 and 1.", "fibs": ["value"]}
+{"text": "For n = 3, the possible l values are 0, 1 and 2.", "fibs": ["l"]}
+{"text": "Each shell consists of one or more sub-shells or sub-levels.", "fibs": ["shell"]}
+{"text": "The number of sub-shells in a principal shell is equal to the value of n. For example in the first shell (n = 1), there is only one sub-shell which corresponds to l = 0.", "fibs": ["number"]}
+{"text": "There are two sub-shells (l = 0, 1) in the second shell (n = 2), three (l = 0, 1, 2) in third shell (n = 3) and so on.", "fibs": ["l"]}
+{"text": "Each sub-shell is assigned an azimuthal quantum number (l).", "fibs": ["quantum"]}
+{"text": "Sub-shells corresponding to different values of l are represented by the following symbols.", "fibs": ["l"]}
+{"text": "Value for l :	0	1	2	3	4	5	............
+notation for 	s p d f g h	............
+sub-shell 
+Table 2.4 shows the permissible values of ‘l ’ for a given principal quantum number and the corresponding sub-shell notation.", "fibs": ["l"]}
+{"text": "Magnetic orbital quantum number.", "fibs": ["quantum"]}
+{"text": "‘ml’ gives information about the spatial orientation of the orbital with respect to standard set of co-ordinate axis.", "fibs": ["‘"]}
+{"text": "For any sub-shell (defined by ‘l’ value) 2l+1 values of ml are possible and these values are given by :
+ml  = – l, – (l–1), – (l–2)... 0,1... (l–2), (l–1), l 
+Thus for l = 0, the only permitted value of ml = 0, [2(0)+1 = 1, one s orbital].", "fibs": ["‘"]}
+{"text": "For l = 1, ml can be –1, 0 and +1 [2(1)+1 = 3, three p orbitals].", "fibs": ["l"]}
+{"text": "For l = 2, ml = –2, –1, 0, +1 and +2, [2(2)+1 = 5, five d orbitals].", "fibs": ["l"]}
+{"text": "It should be noted that the values of ml are derived from l and that the value of l are derived from n.
+
+
+
+Table 2.4  Subshell Notations
+
+
+
+
+
+
+Each orbital in an atom, therefore, is defined by a set of values for n, l and ml.", "fibs": ["ml"]}
+{"text": "An orbital described by the quantum numbers n = 2, l = 1, ml = 0 is an orbital in the p sub-shell of the second shell.", "fibs": ["quantum"]}
+{"text": "The following chart gives the relation between the subshell and the number of orbitals associated with it.", "fibs": ["chart"]}
+{"text": "Electron spin ‘s’ : The three quantum numbers labelling an atomic orbital can be used equally well to define its energy, shape and orientation.", "fibs": ["‘"]}
+{"text": "But all these quantum numbers are not enough to explain the line spectra observed in the case of multi-electron atoms, that is, some of the lines actually occur in doublets (two lines closely spaced), triplets (three lines, closely spaced) etc.", "fibs": ["quantum"]}
+{"text": "This suggests the presence of a few more energy levels than predicted by the three quantum numbers.", "fibs": ["presence"]}
+{"text": "In 1925, George Uhlenbeck and Samuel Goudsmit proposed the presence of the fourth quantum number known as the electron spin quantum number (ms).", "fibs": ["presence"]}
+{"text": "An electron spins around its own axis, much in a similar way as earth spins around its own axis while revolving around the sun.", "fibs": ["electron"]}
+{"text": "In other words, an electron has, besides charge and mass, intrinsic spin angular quantum number.", "fibs": ["electron"]}
+{"text": "Spin angular momentum of the electron — a vector quantity, can have two orientations relative to the chosen axis.", "fibs": ["momentum"]}
+{"text": "These two orientations are distinguished by the spin quantum numbers ms which can take the values of +½ or –½.", "fibs": ["quantum"]}
+{"text": "These are called the two spin states of the electron and are normally represented by two arrows, ↑ (spin up) and ↓ (spin down).", "fibs": ["electron"]}
+{"text": "Two electrons that have different ms values (one +½ and the other –½) are said to have opposite spins.", "fibs": ["½"]}
+{"text": "To sum up, the four quantum numbers provide the following information :
+i)	n defines the shell,  determines the size of the orbital and also to a large extent the energy of the orbital.", "fibs": ["sum"]}
+{"text": "ii)	There are n subshells in the nth shell.", "fibs": ["ii"]}
+{"text": "l identifies the subshell and determines the shape of the orbital (see section 2.6.2).", "fibs": ["l"]}
+{"text": "There are (2l+1) orbitals of each type in a subshell, that is, one s orbital (l = 0), three p orbitals (l = 1) and five d orbitals (l = 2) per subshell.", "fibs": ["2l+1"]}
+{"text": "To some extent l also determines the energy of the orbital in a multi-electron atom.", "fibs": ["extent"]}
+{"text": "iii)	ml designates the orientation of the orbital.", "fibs": ["iii"]}
+{"text": "For a given value of l, ml has (2l+1) values, the same as the number of orbitals per subshell.", "fibs": ["value"]}
+{"text": "It means that the number of orbitals is equal to the number of ways in which they are oriented.", "fibs": ["number"]}
+{"text": "iv)	ms refers to orientation of the spin of the electron.", "fibs": ["iv"]}
+{"text": "Orbit, orbital and its importance
+Orbit and orbital are not synonymous.", "fibs": ["Orbit"]}
+{"text": "An orbit, as proposed by Bohr, is a circular path around the nucleus in which an electron moves.", "fibs": ["orbit"]}
+{"text": "A precise description of this path of the electron is impossible according to Heisenberg uncertainty principle.", "fibs": ["description"]}
+{"text": "Bohr orbits, therefore, have no real meaning and their existence can never be demonstrated experimentally.", "fibs": ["meaning"]}
+{"text": "An atomic orbital, on the other hand, is a quantum mechanical concept and refers to the one electron wave function ψ in an atom.", "fibs": ["hand"]}
+{"text": "It is characterized by three quantum numbers (n, l and ml) and its value depends upon the coordinates of the electron.", "fibs": ["quantum"]}
+{"text": "ψ has, by itself, no physical meaning.", "fibs": ["ψ"]}
+{"text": "It is the square of the wave function i.e., |ψ|2 which has a physical meaning.", "fibs": ["square"]}
+{"text": "|ψ|2 at any point in an atom gives the value of probability density at that point.", "fibs": ["|"]}
+{"text": "Probability density (|ψ|2) is the probability per unit volume and the product of |ψ|2 and a small volume (called a volume element) yields the probability of finding the electron in that volume (the reason for specifying a small volume element is that |ψ|2 varies from one region to another in space but its value can be assumed to be constant within a small volume element).", "fibs": ["Probability"]}
+{"text": "The total probability of finding the electron in a given volume can then be calculated by the sum of all the products of |ψ|2 and the corresponding volume elements.", "fibs": ["probability"]}
+{"text": "It is thus possible to get the probable distribution of an electron in an orbital.", "fibs": ["distribution"]}
+{"text": "Problem 2.17
+
+What is the total number of orbitals associated with the principal quantum number n = 3 ?", "fibs": ["number"]}
+{"text": "Solution
+For n = 3, the possible values of l are 0, 1 and 2.", "fibs": ["l"]}
+{"text": "Thus there is one 3s orbital (n = 3, l = 0 and ml = 0); there are three 3p orbitals (n = 3, l = 1 and ml = –1, 0, +1); there are five 3d orbitals (n = 3, l = 2 and ml = –2, –1, 0, +1+, +2).", "fibs": ["l"]}
+{"text": "Therefore, the total number of orbitals is 1+3+5 = 9
+The same value can also be obtained by using the relation; number of orbitals = n2, i.e.", "fibs": ["number"]}
+{"text": "Problem 2.18 
+Using s, p, d, f notations, describe the orbital with the following quantum numbers 
+(a) n = 2, l = 1, (b) n = 4, l = 0, (c) n = 5, l = 3, (d) n = 3, l = 2
+Solution
+
+
+
+2.6.2	Shapes of Atomic Orbitals
+The orbital wave function or ψ for an electron in an atom has no physical meaning.", "fibs": ["p"]}
+{"text": "It is simply a mathematical function of the coordinates of the electron.", "fibs": ["function"]}
+{"text": "However, for different orbitals the plots of corresponding wave functions as a function of r (the distance from the nucleus) are different.", "fibs": ["wave"]}
+{"text": "Fig.", "fibs": ["Fig"]}
+{"text": "2.12(a), gives such plots for 1s (n = 1, l = 0) and 2s (n = 2, l = 0) orbitals.", "fibs": ["2.12(a"]}
+{"text": "Fig.", "fibs": ["Fig"]}
+{"text": "2.12 The plots of (a) the orbital wave function ψ(r ); (b) the variation of probability density ψ2(r) as a function of distance r of the electron from the nucleus for 1s and 2s orbitals.", "fibs": ["wave"]}
+{"text": "According to the German physicist, Max Born, the square of the wave function (i.e.,ψ 2) at a point gives the probability density of the electron at that point.", "fibs": ["physicist"]}
+{"text": "The variation of ψ 2 as a function of r for 1s and 2s orbitals is given in Fig.", "fibs": ["variation"]}
+{"text": "2.12(b).", "fibs": ["2.12(b"]}
+{"text": "Here again, you may note that the curves for 1s and 2s orbitals are different.", "fibs": ["note"]}
+{"text": "It may be noted that for 1s orbital the probability density is maximum at the nucleus and it decreases sharply as we move away from it.", "fibs": ["probability"]}
+{"text": "On the other hand, for 2s orbital the probability density first decreases sharply to zero and again starts increasing.", "fibs": ["hand"]}
+{"text": "After reaching a small maxima it decreases again and approaches zero as the value of r increases further.", "fibs": ["maxima"]}
+{"text": "The region where this probability density function reduces to zero is called nodal surfaces or simply nodes.", "fibs": ["region"]}
+{"text": "In general, it has been found that ns-orbital has (n – 1) nodes, that is, number of nodes increases with increase of principal quantum number n. In other words, number of nodes for 2s orbital is one, two for 3s and so on.", "fibs": ["number"]}
+{"text": "These probability density variation can be visualised in terms of charge cloud diagrams [Fig.", "fibs": ["probability"]}
+{"text": "2.13(a)].", "fibs": ["2.13(a"]}
+{"text": "In these diagrams, the density of the dots in a region represents electron probability density in that region.", "fibs": ["density"]}
+{"text": "Boundary surface diagrams of constant probability density for different orbitals give a fairly good representation of the shapes of the orbitals.", "fibs": ["Boundary"]}
+{"text": "In this representation, a boundary surface or contour surface is drawn in space for an orbital on which the value of probability density |ψ|2 is constant.", "fibs": ["representation"]}
+{"text": "In principle many such boundary surfaces may be possible.", "fibs": ["principle"]}
+{"text": "However, for a given orbital, only that boundary surface diagram of constant probability density* is taken to be good representation of the shape of the orbital which encloses a region or volume in which the probability of finding the electron is very high, say, 90%.", "fibs": ["boundary"]}
+{"text": "The boundary surface diagram for 1s and 2s orbitals are given in Fig.", "fibs": ["boundary"]}
+{"text": "2.13(b).", "fibs": ["2.13(b"]}
+{"text": "One may ask a question : Why do we not draw a boundary surface diagram, which bounds a region in which the probability of finding the electron is, 100 %?", "fibs": ["question"]}
+{"text": "The answer to this question is that the probability density |ψ|2 has always some value, howsoever small it may be, at any finite distance from the nucleus.", "fibs": ["answer"]}
+{"text": "It is therefore, not possible to draw a boundary surface diagram of a rigid size in which the probability of finding the electron is 100%.", "fibs": ["boundary"]}
+{"text": "Boundary surface diagram for a s orbital is actually a sphere centred on the nucleus.", "fibs": ["Boundary"]}
+{"text": "In two dimensions, this sphere looks like a circle.", "fibs": ["sphere"]}
+{"text": "It encloses a region in which probability of finding the electron is about 90%.", "fibs": ["region"]}
+{"text": "Fig.", "fibs": ["Fig"]}
+{"text": "2.13	(a) Probability density plots of 1s and 2s atomic orbitals.", "fibs": ["density"]}
+{"text": "The density of the dots represents the probability density of finding the electron in that region.", "fibs": ["density"]}
+{"text": "(b) Boundary surface diagram for 1s and 2s orbitals.", "fibs": ["b"]}
+{"text": "Thus, we see that 1s and 2s orbitals are spherical in shape.", "fibs": ["shape"]}
+{"text": "In reality all the s-orbitals are spherically symmetric, that is, the probability of finding the electron at a given distance is equal in all the directions.", "fibs": ["reality"]}
+{"text": "It is also observed that the size of the s orbital increases with increase in n, that is, 4s > 3s > 2s > 1s and the electron is located further away from the nucleus as the principal quantum number increases.", "fibs": ["size"]}
+{"text": "Boundary surface diagrams for three 2p orbitals (l = 1) are shown in Fig.", "fibs": ["Boundary"]}
+{"text": "In these diagrams, the nucleus is at the origin.", "fibs": ["nucleus"]}
+{"text": "Here, unlike s-orbitals, the boundary surface diagrams are not spherical.", "fibs": ["boundary"]}
+{"text": "Instead each p orbital consists of two sections called lobes that are on either side of the plane that passes through the nucleus.", "fibs": ["p"]}
+{"text": "The probability density function is zero on the plane where the two lobes touch each other.", "fibs": ["probability"]}
+{"text": "The size, shape and energy of the three orbitals are identical.", "fibs": ["size"]}
+{"text": "They differ however, in the way the lobes are oriented.", "fibs": ["way"]}
+{"text": "Since the lobes may be considered to lie along the x, y or z axis, they are given the designations 2px, 2py, and 2pz.", "fibs": ["x"]}
+{"text": "It should be understood, however, that there is no simple relation between the values of ml (–1, 0 and +1) and the x, y and z directions.", "fibs": ["relation"]}
+{"text": "For our purpose, it is sufficient to remember that, because there are three possible values of ml, there are, therefore, three p orbitals whose axes are mutually perpendicular.", "fibs": ["purpose"]}
+{"text": "Like s orbitals, p orbitals increase in size and energy with increase in the principal quantum number and hence the order of the energy and size of various p orbitals is 4p > 3p > 2p.", "fibs": ["p"]}
+{"text": "Further, like s orbitals, the probability density functions for p-orbital also pass through value zero, besides at zero and infinite distance, as the distance from the nucleus increases.", "fibs": ["probability"]}
+{"text": "The  number of nodes are given by the n –2, that is number of radial node is 1 for 3p orbital, two for 4p orbital and so on.", "fibs": ["number"]}
+{"text": "Fig.", "fibs": ["Fig"]}
+{"text": "2.14	Boundary surface diagrams of the three 2p orbitals.", "fibs": ["Boundary"]}
+{"text": "* If probability density |ψ|2 is constant on a given surface, |ψ| is also constant over the surface.", "fibs": ["probability"]}
+{"text": "The boundary surface for |ψ|2 and |ψ| are identical.", "fibs": ["boundary"]}
+{"text": "Fig.", "fibs": ["Fig"]}
+{"text": "2.15	Boundary surface diagrams of the five 3d orbitals.", "fibs": ["Boundary"]}
+{"text": "For l = 2, the orbital is known as d-orbital and the minimum value of principal quantum number (n) has to be 3. as the value of l cannot be greater than n–1.", "fibs": ["l"]}
+{"text": "There are five ml values (–2, –1, 0, +1 and +2) for l = 2 and thus there are five d orbitals.", "fibs": ["ml"]}
+{"text": "The boundary surface diagram of d orbitals are shown in Fig.", "fibs": ["boundary"]}
+{"text": "The five d-orbitals are designated as dxy, dyz, dxz, dx2–y2 and dz2.", "fibs": ["dxy"]}
+{"text": "The shapes of the first four d-orbitals are similar to each other, where as that of the fifth one, dz2, is different from others, but all five 3d orbitals are equivalent in energy.", "fibs": ["dz2"]}
+{"text": "The d orbitals for which n is greater than 3 (4d, 5d...) also have shapes similar to 3d orbital, but differ in energy and size.", "fibs": ["4d"]}
+{"text": "Besides the radial nodes (i.e., probability density function is zero), the probability density functions for the np and nd orbitals are zero at the plane (s), passing through the nucleus (origin).", "fibs": ["probability"]}
+{"text": "For example, in case of pz orbital, xy-plane is a nodal plane, in case of dxy orbital, there are two nodal planes passing through the origin and bisecting the xy plane containing z-axis.", "fibs": ["example"]}
+{"text": "These are called angular nodes and number of angular nodes are given by ‘l’, i.e., one angular node for p orbitals, two angular nodes for ‘d’ orbitals and so on.", "fibs": ["number"]}
+{"text": "The total number of nodes are given by (n–1), i.e., sum of l angular nodes and (n – l – 1) radial nodes.", "fibs": ["number"]}
+{"text": "2.6.3 Energies of Orbitals
+The energy of an electron in a hydrogen atom is determined solely by the principal quantum number.", "fibs": ["energy"]}
+{"text": "Thus the energy of the orbitals in hydrogen atom  increases as follows :
+1s < 2s = 2p < 3s = 3p = 3d <4s = 4p = 4d= 4f <                                                    	  	     (2.23)and is depicted in Fig.", "fibs": ["energy"]}
+{"text": "Although the shapes of 2s and 2p orbitals are different, an electron has the same energy when it is in the 2s orbital as when it is present in 2p orbital.", "fibs": ["2p"]}
+{"text": "The orbitals having the same energy are called degenerate.", "fibs": ["energy"]}
+{"text": "The 1s orbital in a hydrogen atom, as said earlier, corresponds to the most stable condition and is called the ground state and an electron residing in this orbital is most strongly held by the nucleus.", "fibs": ["hydrogen"]}
+{"text": "An electron in the 2s, 2p or higher orbitals in a hydrogen atom is in excited state.", "fibs": ["electron"]}
+{"text": "Fig.", "fibs": ["Fig"]}
+{"text": "2.16 Energy level diagrams for the few electronic shells of (a) hydrogen atom and (b) multi-electronic atoms.", "fibs": ["level"]}
+{"text": "Note that orbitals for the same value of principal quantum number, have the same energies even for different azimuthal quantum number for hydrogen atom.", "fibs": ["value"]}
+{"text": "In case of multi-electron atoms, orbitals with same principal quantum number possess different energies for different azimuthal quantum numbers.", "fibs": ["case"]}
+{"text": "The energy of an electron in a multi-electron atom, unlike that of the hydrogen atom, depends not only on its principal quantum number (shell), but also on its azimuthal quantum number (subshell).", "fibs": ["energy"]}
+{"text": "That is, for a given principal quantum number, s, p, d, f ... all have different energies.", "fibs": ["quantum"]}
+{"text": "Within a given principal quantum number, the energy of orbitals increases in the order s<p<d<f.", "fibs": ["quantum"]}
+{"text": "For higher energy levels, these differences are sufficiently pronounced and straggering of orbital energy may result, e.g., 4s<3d and 6s<5d 4f<6p.", "fibs": ["energy"]}
+{"text": "The main reason for having different energies of the subshells is the mutual repulsion among the electrons in multi-electron atoms.", "fibs": ["reason"]}
+{"text": "The only electrical interaction present in hydrogen atom is the attraction between the negatively charged electron and the positively charged nucleus.", "fibs": ["interaction"]}
+{"text": "In multi-electron atoms, besides the presence of attraction between the electron and nucleus, there are repulsion terms between every electron and other electrons present in the atom.", "fibs": ["presence"]}
+{"text": "Thus the stability of an electron in a  multi-electron atom is because total attractive interactions are more than the repulsive interactions.", "fibs": ["stability"]}
+{"text": "In general, the repulsive interaction of the electrons in the outer shell with the electrons in the inner shell are more important.", "fibs": ["interaction"]}
+{"text": "On the other hand, the attractive interactions of an electron increases with increase of positive charge (Ze) on the nucleus.", "fibs": ["hand"]}
+{"text": "Due to the presence of electrons in the inner shells, the electron in the outer shell will not experience the full positive charge of the nucleus (Ze).", "fibs": ["presence"]}
+{"text": "The effect will be lowered due to the partial screening of positive charge on the nucleus by the inner shell electrons.", "fibs": ["effect"]}
+{"text": "This is known as the shielding of the outer shell electrons from the nucleus  by the inner shell electrons, and the net positive charge experienced by the outer electrons is known as effective nuclear charge (Zeff e).", "fibs": ["shielding"]}
+{"text": "Despite the shielding of the outer electrons from the nucleus by the inner shell electrons, the attractive force experienced by the outer shell electrons increases with increase of nuclear charge.", "fibs": ["shielding"]}
+{"text": "In other words, the energy of interaction between, the nucleus and electron (that is orbital energy) decreases (that is more negative) with the increase of atomic number (Z).", "fibs": ["energy"]}
+{"text": "Both the attractive and repulsive interactions depend upon the shell and shape of the orbital in which the electron is present.", "fibs": ["shell"]}
+{"text": "For example electrons present in spherical shaped, s orbital shields the outer electrons from the nucleus more effectively as compared to electrons present in p orbital.", "fibs": ["example"]}
+{"text": "Similarly electrons present in p orbitals shield the outer electrons from the nucleus more than the electrons present in d orbitals, even though all  these orbitals are present in the same shell.", "fibs": ["p"]}
+{"text": "Further within a shell, due to spherical shape of s orbital, the s orbital electron spends more time close to the nucleus in comparison to p orbital electron which spends more time in the vicinity of nucleus in comparison to d orbital electron.", "fibs": ["shell"]}
+{"text": "In other words, for a given shell (principal quantum number), the Zeff experienced by the electron decreases with increase of azimuthal quantum number (l), that is, the s orbital electron will be more tightly bound to the nucleus than p orbital electron which in turn will be better tightly bound than the d orbital electron.", "fibs": ["shell"]}
+{"text": "The energy of electrons in s orbital will be lower (more negative) than that of p orbital electron which will have less energy than that of d orbital electron and so on.", "fibs": ["energy"]}
+{"text": "Since the extent of shielding from the nucleus is different for electrons in different orbitals, it leads to the splitting of energy levels within the same shell (or same principal quantum number), that is, energy of electron in an orbital, as mentioned earlier, depends upon the values of n and l. Mathematically, the dependence of energies of the orbitals on n and l are quite complicated but one simple rule is that, the lower the value of (n + l) for an orbital, the lower is its energy.", "fibs": ["extent"]}
+{"text": "If two orbitals have the same value of (n + l), the orbital with lower value of n will have the lower energy.", "fibs": ["value"]}
+{"text": "The Table 2.5 illustrates the (n + l ) rule and Fig.", "fibs": ["Table"]}
+{"text": "2.16 depicts the energy levels of multi-electrons atoms.", "fibs": ["energy"]}
+{"text": "It may be noted that different subshells of a particular shell have different energies in case of multi–electrons atoms.", "fibs": ["shell"]}
+{"text": "However, in hydrogen atom, these have the same energy.", "fibs": ["hydrogen"]}
+{"text": "Lastly it may be mentioned here that energies of the orbitals in the same subshell decrease with increase in the atomic number (Zeff).", "fibs": ["subshell"]}
+{"text": "For example, energy of 2s orbital of hydrogen atom is greater than that of 2s orbital of lithium and that of lithium is greater than that of sodium and so on, that is, E2s(H) > E2s(Li) > E2s(Na) > E2s(K).", "fibs": ["example"]}
+{"text": "Table 2.5  	Arrangement of Orbitals with Increasing Energy on the Basis of (n+l) Rule
+
+
+
+
+
+2.6.4 Filling of Orbitals in Atom
+The filling of electrons into the orbitals of different atoms takes place according to the aufbau principle which is based on the Pauli’s exclusion principle, the Hund’s rule of maximum multiplicity and the relative energies of the orbitals.", "fibs": ["Table"]}
+{"text": "Aufbau Principle
+The word ‘aufbau’ in German means ‘building up’.", "fibs": ["Principle"]}
+{"text": "The building up of orbitals means the filling up of orbitals with electrons.", "fibs": ["building"]}
+{"text": "The principle states : In the ground state of the atoms, the orbitals are filled in order of their increasing energies.", "fibs": ["principle"]}
+{"text": "In other words, electrons first occupy the lowest energy orbital available to them and enter into higher energy orbitals only after the lower energy orbitals are filled.", "fibs": ["energy"]}
+{"text": "As you have learnt above, energy of a given orbital depends upon effective nuclear charge and different type of orbitals are affected to different extent.", "fibs": ["learnt"]}
+{"text": "However, following order of  energies of the orbitals is extremely useful:
+1s, 2s, 2p, 3s, 3p, 4s, 3d, 4p, 5s, 4d, 5p, 4f, 5d, 6p, 7s...", "fibs": ["order"]}
+{"text": "The order may be remembered by using the method given in Fig.", "fibs": ["order"]}
+{"text": "Starting from the top, the direction of the arrows gives the order of filling of orbitals, that is starting from right top to bottom left.", "fibs": ["direction"]}
+{"text": "With respect to placement of outermost valence electrons, it is remarkably accurate for all atoms.", "fibs": ["respect"]}
+{"text": "for example, valence electron in potassium must choose between 3d and 4s orbitals and as predicted by this sequence, it is found in 4s orbital.", "fibs": ["example"]}
+{"text": "The above order should be assumed to be a rough guide to the filling of energy levels.", "fibs": ["order"]}
+{"text": "In many cases, the orbitals are similar in energy and small changes in atomic structure may bring about a change in the order of filling.", "fibs": ["energy"]}
+{"text": "Even then, the above series is a useful guide to the building of the electronic structure of an atom provided that it is remembered that exceptions may occur.", "fibs": ["series"]}
+{"text": "Fig.2.17 Order of filling of orbitals
+
+
+
+Pauli Exclusion Principle
+The number of electrons to be filled in various orbitals is restricted by the exclusion principle, given by the Austrian scientist Wolfgang Pauli (1926).", "fibs": ["Exclusion"]}
+{"text": "According to this principle : No two electrons in an atom can have the same set of four quantum numbers.", "fibs": ["principle"]}
+{"text": "Pauli exclusion principle can also be stated as : “Only two electrons may exist in the same orbital and these electrons must have opposite spin.” This means that the two electrons can have the same value of three quantum numbers n, l and ml, but must have the opposite spin quantum number.", "fibs": ["exclusion"]}
+{"text": "The restriction imposed by Pauli’s exclusion principle on the number of electrons in an orbital helps in calculating the capacity of electrons to be present in any subshell.", "fibs": ["restriction"]}
+{"text": "For example, subshell 1s comprises one orbital and thus the maximum number of electrons present in 1s subshell can be two, in p and d subshells, the maximum number of electrons can be 6 and 10 and so on.", "fibs": ["example"]}
+{"text": "This can be summed up as : the maximum number of electrons in the shell with principal quantum number n is equal to 2n2.", "fibs": ["number"]}
+{"text": "Hund’s Rule of Maximum Multiplicity
+This rule deals with the filling of electrons into the orbitals belonging to the same subshell (that is, orbitals of equal energy, called degenerate orbitals).", "fibs": ["’"]}
+{"text": "It states : pairing of electrons in the orbitals belonging to the same subshell (p, d or f) does not take place until each orbital belonging to that subshell has got one electron each i.e., it is singly occupied.", "fibs": ["pairing"]}
+{"text": "Since there are three p, five d and seven f orbitals, therefore, the pairing of electrons will start in the p, d and f orbitals with the entry of 4th, 6th and 8th electron, respectively.", "fibs": ["p"]}
+{"text": "It has been observed that half filled and fully filled degenerate set of orbitals acquire extra stability due to their symmetry (see Section, 2.6.7).", "fibs": ["half"]}
+{"text": "2.6.5	Electronic Configuration of Atoms
+The distribution of electrons into orbitals of an atom is called its electronic configuration.", "fibs": ["distribution"]}
+{"text": "If one keeps in mind the basic rules which govern the filling of different atomic orbitals, the electronic configurations of different atoms can be written very easily.", "fibs": ["mind"]}
+{"text": "The electronic configuration of different atoms can be represented in two ways.", "fibs": ["configuration"]}
+{"text": "For example :
+(i)	sa pbdc ...... notation
+(ii)	Orbital diagram
+ 
+
+In the first notation, the subshell is represented by the respective letter symbol and the number of electrons present in the subshell is depicted, as the super script, like a, b, c, ... etc.", "fibs": ["example"]}
+{"text": "The similar subshell represented for different shells is differentiated by writing the principal quantum number before the respective subshell.", "fibs": ["subshell"]}
+{"text": "In the second notation  each orbital of the subshell is represented by a box and the electron is represented by an arrow (↑) a positive spin or an arrow (↓)  a negative spin.", "fibs": ["notation"]}
+{"text": "The advantage of second notation over the first is that it represents all the four quantum numbers.", "fibs": ["advantage"]}
+{"text": "The hydrogen atom has only one electron which goes in the orbital with the lowest energy, namely 1s.", "fibs": ["hydrogen"]}
+{"text": "The electronic configuration of the hydrogen atom is 1s1 meaning that it has one electron in the 1s orbital.", "fibs": ["configuration"]}
+{"text": "The second electron in helium (He) can also occupy the 1s orbital.", "fibs": ["electron"]}
+{"text": "Its configuration is, therefore, 1s2.", "fibs": ["configuration"]}
+{"text": "As mentioned above, the two electrons differ from each other with opposite spin, as can be seen from the orbital diagram.", "fibs": ["diagram"]}
+{"text": "The third electron of lithium (Li) is not allowed in the 1s orbital because of Pauli exclusion principle.", "fibs": ["electron"]}
+{"text": "It, therefore, takes the next available choice, namely the 2s orbital.", "fibs": ["choice"]}
+{"text": "The electronic configuration of Li is 1s22s1.", "fibs": ["configuration"]}
+{"text": "The 2s orbital can accommodate one more electron.", "fibs": ["electron"]}
+{"text": "The configuration of beryllium (Be) atom is, therefore, 1s2 2s2 (see Table 2.6, page 66 for the electronic configurations of elements).", "fibs": ["configuration"]}
+{"text": "In the next six elements—boron (B, 1s22s22p1), carbon (C, 1s22s22p2), nitrogen (N, 1s22s22p3), oxygen (O, 1s22s22p4), fluorine (F, 1s22s22p5) and neon (Ne, 1s22s22p6), the 2p orbitals get progressively filled.", "fibs": ["elements—boron"]}
+{"text": "This process is completed with the neon atom.", "fibs": ["process"]}
+{"text": "The orbital picture of these elements can be represented as follows :
+
+The electronic configuration of the elements sodium (Na,1s22s22p63s1) to argon  (Ar,1s22s22p63s23p6), follow exactly the same pattern as the elements from lithium to neon with the difference that the 3s and 3p orbitals are getting filled now.", "fibs": ["picture"]}
+{"text": "This process can be simplified if we represent the total number of  electrons in the first two shells by the name of element neon (Ne).", "fibs": ["process"]}
+{"text": "The electronic configuration of the elements from sodium to argon can be written as (Na, [Ne]3s1) to (Ar, [Ne] 3s23p6).", "fibs": ["configuration"]}
+{"text": "The electrons in the completely filled shells are known as core electrons and the electrons that are added to the electronic shell with the highest principal quantum number are called valence electrons.", "fibs": ["core"]}
+{"text": "For example, the electrons in Ne are the core electrons and the electrons from Na to Ar are the valence electrons.", "fibs": ["example"]}
+{"text": "In potassium (K) and calcium (Ca), the 4s orbital, being lower in energy than the 3d orbitals, is occupied by one and two electrons respectively.", "fibs": ["potassium"]}
+{"text": "A new pattern is followed beginning with scandium (Sc).", "fibs": ["pattern"]}
+{"text": "The 3d orbital, being lower in energy than the 4p orbital, is filled first.", "fibs": ["3d"]}
+{"text": "Consequently, in the next ten elements, scandium (Sc), titanium (Ti), vanadium (V), chromium (Cr), manganese (Mn), iron (Fe), cobalt (Co), nickel (Ni), copper (Cu) and zinc (Zn), the five 3d orbitals are progressively occupied.", "fibs": ["scandium"]}
+{"text": "We may be puzzled by the fact that chromium and copper have five and ten electrons in 3d orbitals rather than four and nine as their position would have indicated with two-electrons in the 4s orbital.", "fibs": ["fact"]}
+{"text": "The reason is that fully filled orbitals and half-filled orbitals have extra stability (that is, lower energy).", "fibs": ["reason"]}
+{"text": "Thus p3, p6, d5, d10,f 7, f14 etc.", "fibs": ["p3"]}
+{"text": "Chromium and copper therefore adopt the d5 and d10 configuration (Section 2.6.7)[caution: exceptions do exist] 
+With the saturation of the 3d orbitals, the filling of the 4p orbital starts at gallium (Ga) and is complete at krypton (Kr).", "fibs": ["Chromium"]}
+{"text": "In the next eighteen elements from rubidium (Rb) to xenon (Xe), the pattern of filling the 5s, 4d and 5p orbitals are similar to that of 4s, 3d and 4p orbitals as discussed above.", "fibs": ["rubidium"]}
+{"text": "In caesium (Cs) and the barium (Ba), this orbital contains one and two electrons, respectively.", "fibs": ["caesium"]}
+{"text": "Then from lanthanum (La) to mercury (Hg), the filling up of electrons takes place in 4f and 5d orbitals.", "fibs": ["lanthanum"]}
+{"text": "After this, filling of 6p, then 7s and finally 5f and 6d orbitals takes place.", "fibs": ["6p"]}
+{"text": "The elements after uranium (U) are all short-lived and all of them are produced artificially.", "fibs": ["uranium"]}
+{"text": "The electronic configurations of the known elements (as determined by spectroscopic methods) are tabulated in Table 2.6 (page 66).", "fibs": ["spectroscopic"]}
+{"text": "One may ask what is the utility of knowing the electron configuration?", "fibs": ["utility"]}
+{"text": "The modern approach to the chemistry, infact, depends almost entirely on electronic distribution to understand and explain chemical behaviour.", "fibs": ["approach"]}
+{"text": "For example, questions like why two or more atoms combine to form molecules, why some elements are metals while others are non-metals, why elements like helium and argon are not reactive but elements like the halogens are reactive, find simple explanation from the electronic configuration.", "fibs": ["example"]}
+{"text": "These questions have no answer in the Daltonian model of atom.", "fibs": ["answer"]}
+{"text": "A detailed understanding of the electronic structure of atom is, therefore, very essential for getting an insight into the various aspects of modern chemical knowledge.", "fibs": ["understanding"]}
+{"text": "2.6.6	Stability of Completely Filled and Half Filled Subshells
+The ground state electronic configuration of the atom of an element always corresponds to the state of the lowest total electronic energy.", "fibs": ["Half"]}
+{"text": "The electronic configurations of most of the atoms follow the basic rules given in Section 2.6.5.", "fibs": ["Section"]}
+{"text": "However, in certain elements such as Cu, or Cr, where the two subshells (4s and 3d) differ slightly in their energies, an electron shifts from a subshell of lower energy (4s) to a subshell of higher energy (3d), provided such a shift results in all orbitals of the subshell of higher energy getting either completely filled or half filled.", "fibs": ["3d"]}
+{"text": "The valence electronic configurations of Cr and Cu, therefore, are 3d5 4s1 and 3d10 4s1 respectively and not 3d4 4s2 and 3d9 4s2.", "fibs": ["valence"]}
+{"text": "It has been found that there is extra stability associated with these electronic configurations.", "fibs": ["stability"]}
+{"text": "Causes of Stability of Completely Filled and Half-filled Subshells
+
+
+The completely filled and completely half-filled subshells are stable due to the following reasons:
+1.Symmetrical distribution of electrons: It is well known that symmetry leads to stability.", "fibs": ["distribution"]}
+{"text": "The completely filled or half filled subshells have symmetrical distribution of electrons in them and are therefore more stable.", "fibs": ["half"]}
+{"text": "Electrons in the same subshell (here 3d) have equal energy but different spatial distribution.", "fibs": ["subshell"]}
+{"text": "Consequently, their shielding of one-another is relatively small and the electrons are more strongly attracted by the nucleus.", "fibs": ["shielding"]}
+{"text": "Exchange Energy : The stabilizing effect arises whenever two or more electrons with the same spin are present in the degenerate orbitals of a subshell.", "fibs": ["effect"]}
+{"text": "These electrons tend to exchange their positions and the energy released due to this exchange is called exchange energy.", "fibs": ["exchange"]}
+{"text": "The number of exchanges that can take place is maximum when the subshell is either half filled or completely filled (Fig.", "fibs": ["number"]}
+{"text": "2.18).", "fibs": ["2.18)"]}
+{"text": "As a result the exchange energy is maximum and so is the stability.", "fibs": ["result"]}
+{"text": "You may note that the exchange energy is at the basis of Hund’s rule that electrons which enter orbitals of equal energy have parallel spins as far as possible.", "fibs": ["note"]}
+{"text": "In other words, the extra stability of half-filled and completely filled subshell is  due to: (i) relatively small shielding, (ii) smaller coulombic repulsion energy, and (iii) larger exchange energy.", "fibs": ["stability"]}
+{"text": "Details about the exchange energy will be dealt with in higher classes.", "fibs": ["exchange"]}
+{"text": "Fig.", "fibs": ["Fig"]}
+{"text": "2.18	Possible exchange for a d5 configuration
+
+
+
+
+
+
+
+
+
+
+Table 2.6  Electronic Configurations of the Elements
+
+
+
+
+
+
+
+
+* Elements with exceptional electronic configurations
+
+
+
+
+
+
+** Elements with atomic number 112 and above have been reported but not yet fully authenticated and named.", "fibs": ["exchange"]}
+{"text": "Summary
+Atoms are the building blocks of elements.", "fibs": ["building"]}
+{"text": "They are the smallest parts of an element that chemically react.", "fibs": ["element"]}
+{"text": "The first atomic theory, proposed by John Dalton in 1808, regarded atom as the ultimate indivisible particle of matter.", "fibs": ["theory"]}
+{"text": "Towards the end of the nineteenth century, it was proved experimentally that atoms are divisible and consist of three fundamental particles: electrons, protons and neutrons.", "fibs": ["end"]}
+{"text": "The discovery of sub-atomic particles led to the proposal of various atomic models to explain the structure of atom.", "fibs": ["discovery"]}
+{"text": "Thomson in 1898 proposed that an atom consists of uniform sphere of positive electricity with electrons embedded into it.", "fibs": ["atom"]}
+{"text": "This model in which mass of the atom is considered to be evenly spread over the atom was proved wrong by Rutherford’s famous alpha-particle scattering experiment in 1909.", "fibs": ["model"]}
+{"text": "Rutherford concluded that atom is made of a tiny positively charged nucleus, at its centre with electrons revolving around it in circular orbits.", "fibs": ["atom"]}
+{"text": "Rutherford model, which resembles the solar system, was no doubt an improvement over Thomson model but it could not account for the stability of the atom i.e., why the electron does not fall into the nucleus.", "fibs": ["model"]}
+{"text": "Further, it was also silent about the electronic structure of atoms i.e., about the distribution and relative energies of electrons around the nucleus.", "fibs": ["structure"]}
+{"text": "The difficulties of the Rutherford model were overcome by Niels Bohr in 1913 in his model of the hydrogen atom.", "fibs": ["model"]}
+{"text": "Bohr postulated that electron moves around the nucleus in circular orbits.", "fibs": ["electron"]}
+{"text": "Only certain orbits can exist and each orbit corresponds to a specific energy.", "fibs": ["orbit"]}
+{"text": "Bohr calculated the energy of electron in various orbits and for each orbit predicted the distance between the electron and nucleus.", "fibs": ["energy"]}
+{"text": "Bohr model, though offering a satisfactory model for explaining the spectra of the hydrogen atom, could not explain the spectra of multi-electron atoms.", "fibs": ["model"]}
+{"text": "The reason for this was soon discovered.", "fibs": ["reason"]}
+{"text": "In Bohr model, an electron is regarded as a charged particle moving  in a well defined circular orbit about the nucleus.", "fibs": ["model"]}
+{"text": "The wave character of the electron is ignored in Bohr’s theory.", "fibs": ["wave"]}
+{"text": "An orbit is a clearly defined path and this path can completely be defined only if both the exact position and the exact velocity of the electron at the same time are known.", "fibs": ["orbit"]}
+{"text": "This is not possible according to the Heisenberg uncertainty principle.", "fibs": ["uncertainty"]}
+{"text": "Bohr model of the hydrogen atom, therefore, not only ignores the dual behaviour of electron but also contradicts Heisenberg uncertainty principle.", "fibs": ["model"]}
+{"text": "Erwin Schrödinger, in 1926, proposed an equation called Schrödinger equation to describe the electron distributions in space and the allowed energy levels in atoms.", "fibs": ["equation"]}
+{"text": "This equation incorporates de Broglie’s concept of wave-particle duality and is consistent with Heisenberg uncertainty principle.", "fibs": ["equation"]}
+{"text": "When Schrödinger equation is solved for the electron in a hydrogen atom, the solution gives the possible energy states the electron can occupy [and the corresponding wave function(s) (ψ) (which in fact are the mathematical functions) of the electron associated with each energy state].", "fibs": ["equation"]}
+{"text": "These quantized energy states and corresponding wave functions which are characterized by a set of three quantum numbers (principal quantum number n, azimuthal quantum number l and magnetic quantum number ml) arise as a natural consequence in the solution of the Schrödinger equation.", "fibs": ["energy"]}
+{"text": "The restrictions on the values of these three quantum numbers also come naturally from this solution.", "fibs": ["quantum"]}
+{"text": "The quantum mechanical model of the hydrogen atom successfully predicts all aspects of the hydrogen atom spectrum including some phenomena that could not be explained by the Bohr model.", "fibs": ["quantum"]}
+{"text": "According to the quantum mechanical model of the atom, the electron distribution of an atom containing a number of electrons is divided into shells.", "fibs": ["quantum"]}
+{"text": "While for hydrogen and hydrogen like systems (such as He+, Li2+ etc.)", "fibs": ["hydrogen"]}
+{"text": "all the orbitals within a given shell have same energy, the energy of the orbitals in a multi-electron atom depends upon the values of n and l: The lower the value of (n + l ) for an orbital, the lower is its energy.", "fibs": ["shell"]}
+{"text": "If two orbitals have the same (n + l ) value, the orbital with lower value of n has the lower energy.", "fibs": ["l"]}
+{"text": "In an atom many such orbitals are possible and electrons are filled in those orbitals in order of increasing energy in accordance with Pauli exclusion principle (no two electrons in an atom can have the same set of four quantum numbers) and Hund’s rule of maximum multiplicity (pairing of electrons in the orbitals belonging to the same subshell does not take place until each orbital belonging to that subshell has got one electron each, i.e., is singly occupied).", "fibs": ["atom"]}
+{"text": "This forms the basis of the electronic structure of atoms.", "fibs": ["basis"]}
+{"text": "EXERCISES
+2.1	(i)	Calculate the number of electrons which will together weigh one gram.", "fibs": ["number"]}
+{"text": "(ii)	Calculate the mass and charge  of one mole of electrons.", "fibs": ["ii"]}
+{"text": "2.2	(i)	Calculate the total number of electrons present in one mole of methane.", "fibs": ["number"]}
+{"text": "(ii)	Find (a) the total number and (b) the total  mass of neutrons in 7 mg of 14C.", "fibs": ["ii"]}
+{"text": "(Assume that mass of a neutron = 1.675 × 10–27 kg).", "fibs": ["mass"]}
+{"text": "(iii) 	Find (a) the total number and (b) the total mass of protons in 34 mg of NH3 at STP.", "fibs": ["iii"]}
+{"text": "Will the answer change if  the temperature and pressure are changed ?", "fibs": ["answer"]}
+{"text": "2.4	Write the complete symbol for the atom with the given atomic number (Z) and atomic mass (A)
+	(i)	Z = 17 ,  A = 35.", "fibs": ["symbol"]}
+{"text": "(ii) 	Z = 92 ,  A = 233.", "fibs": ["ii"]}
+{"text": "(iii)	Z =  4 ,   A =  9.", "fibs": ["iii"]}
+{"text": "2.5	Yellow light emitted from a sodium lamp has a wavelength (λ) of 580 nm.", "fibs": ["light"]}
+{"text": "Calculate the frequency (ν) and wavenumber () of the yellow light.", "fibs": ["frequency"]}
+{"text": "2.6	Find energy of each of the photons which 
+	(i)	correspond to light of frequency 3×1015 Hz.", "fibs": ["energy"]}
+{"text": "(ii)	have wavelength of 0.50 Å.", "fibs": ["ii"]}
+{"text": "2.7	Calculate the wavelength, frequency and wavenumber of a light wave whose period is 2.0 × 10–10 s.
+2.8	What is the number of photons of light with a wavelength of 4000 pm that provide 1J of energy?", "fibs": ["wavelength"]}
+{"text": "2.9	A photon of wavelength 4 × 10–7 m strikes on metal surface, the work function of the metal being 2.13 eV.", "fibs": ["photon"]}
+{"text": "Calculate (i) the energy of the photon (eV), (ii) the kinetic energy of the emission, and (iii) the velocity of the photoelectron (1 eV= 1.6020 × 10–19 J).", "fibs": ["energy"]}
+{"text": "2.10	Electromagnetic radiation of wavelength 242 nm is just sufficient to ionise the sodium atom.", "fibs": ["radiation"]}
+{"text": "Calculate the ionisation energy of sodium in kJ mol–1.", "fibs": ["ionisation"]}
+{"text": "2.11	A 25 watt bulb emits monochromatic yellow light of  wavelength of  0.57µm.", "fibs": ["watt"]}
+{"text": "Calculate the rate of emission of quanta per second.", "fibs": ["rate"]}
+{"text": "2.12	Electrons are emitted with zero velocity from a metal surface when it is exposed to radiation of wavelength 6800 Å.", "fibs": ["velocity"]}
+{"text": "Calculate threshold frequency (ν0 ) and work function (W0 ) of the metal.", "fibs": ["threshold"]}
+{"text": "2.13	What is the wavelength of light emitted when the electron in a hydrogen atom undergoes transition from an energy level with n = 4 to an energy level with n = 2?", "fibs": ["wavelength"]}
+{"text": "2.14	How much energy is required to ionise a H atom if  the electron occupies n = 5 orbit?", "fibs": ["energy"]}
+{"text": "Compare your answer with the ionization enthalpy of H atom ( energy required to remove  the electron from n =1 orbit).", "fibs": ["answer"]}
+{"text": "2.15	What is the maximum number of emission lines when the excited electron of a H atom in n = 6 drops to the ground state?", "fibs": ["number"]}
+{"text": "2.16	(i)	The energy associated with the first orbit in the hydrogen atom is –2.18 × 10–18 J atom–1.", "fibs": ["energy"]}
+{"text": "What is the energy associated with the fifth orbit?", "fibs": ["energy"]}
+{"text": "(ii)	Calculate the radius of Bohr’s fifth orbit for hydrogen atom.", "fibs": ["ii"]}
+{"text": "2.17	Calculate the wavenumber for the longest wavelength transition in the Balmer series of atomic hydrogen.", "fibs": ["wavenumber"]}
+{"text": "2.18	What is the energy in joules, required to shift the electron of the hydrogen atom from the first Bohr orbit to the fifth Bohr orbit and what is the wavelength of the light emitted when the electron returns to the ground state?", "fibs": ["energy"]}
+{"text": "The ground state  electron energy is –2.18 × 10–11 ergs.", "fibs": ["ground"]}
+{"text": "2.19	The electron energy in hydrogen atom is given by En = (–2.18 × 10–18 )/n2 J.", "fibs": ["electron"]}
+{"text": "Calculate the  energy required to remove an electron completely from the n = 2 orbit.", "fibs": ["energy"]}
+{"text": "What is the longest wavelength of light in cm that can be used to cause this transition?", "fibs": ["wavelength"]}
+{"text": "2.20	Calculate the wavelength of an electron moving with a velocity of 2.05 × 107 m s–1.", "fibs": ["wavelength"]}
+{"text": "2.21	The mass of an electron is 9.1 × 10–31 kg.", "fibs": ["mass"]}
+{"text": "is 3.0 × 10–25 J, calculate its wavelength.", "fibs": ["×"]}
+{"text": "2.22	Which of the following are isoelectronic species  i.e., those having the same number of electrons?", "fibs": ["isoelectronic"]}
+{"text": "2.23	(i)	Write the electronic configurations of the following ions: (a) H– (b) Na+ (c) O2– (d) F–
+	(ii)	What are the atomic numbers of elements whose outermost electrons are represented by (a) 3s1 (b) 2p3 and (c) 3p5 ?", "fibs": ["b"]}
+{"text": "(iii)	Which atoms are indicated by the following configurations ?", "fibs": ["iii"]}
+{"text": "(a) [He] 2s1  (b) [Ne] 3s2 3p3  (c) [Ar] 4s2 3d1.", "fibs": ["2s1"]}
+{"text": "2.24	What is the lowest value of n that allows g orbitals to exist?", "fibs": ["value"]}
+{"text": "2.25	An electron is in one of the 3d orbitals.", "fibs": ["electron"]}
+{"text": "Give the possible values of n, l  and ml for this electron.", "fibs": ["l"]}
+{"text": "2.26	An atom of an element contains 29 electrons and 35 neutrons.", "fibs": ["atom"]}
+{"text": "Deduce (i) the number of protons and (ii) the electronic configuration of the element.", "fibs": ["number"]}
+{"text": "2.27	Give the number of electrons in the species  
+2.28	(i)	An atomic orbital has n = 3.", "fibs": ["number"]}
+{"text": "What are the possible values of l and ml ?", "fibs": ["l"]}
+{"text": "(ii)	List the quantum numbers (ml  and l ) of electrons for 3d orbital.", "fibs": ["ii"]}
+{"text": "(iii) 	Which of the following orbitals are possible?", "fibs": ["iii"]}
+{"text": "1p, 2s, 2p and 3f
+2.29	Using s, p, d notations, describe the orbital with the following quantum numbers.", "fibs": ["1p"]}
+{"text": "(a) n=1, l=0; (b) n = 3; l=1 (c) n = 4; l =2; (d) n=4; l=3.", "fibs": ["n=1"]}
+{"text": "2.30	Explain, giving reasons, which of the following sets of quantum numbers are not possible.", "fibs": ["quantum"]}
+{"text": "(a) 		n = 0, 		l = 0,		ml  =   0,	ms = + ½ 
+		(b) 		n = 1, 		l = 0,		ml  =   0, 	ms = – ½
+		(c) 		n = 1, 		l = 1,	      ml  =   0,	ms = + ½
+		(d) 	n = 2, 		l = 1,	      ml  =   0, 	ms = – ½
+		(e)		n = 3, 		l = 3,		ml  = –3,	ms = + ½
+		(f)		n = 3, 		l = 1,		ml  =   0,	ms = + ½
+2.31	How many electrons in an atom may have the following quantum numbers?", "fibs": ["l"]}
+{"text": "(a)  n = 4, ms = – ½			(b)  n = 3, l = 0
+2.32	Show that the circumference of the Bohr orbit for the hydrogen atom is an integral multiple of the de Broglie wavelength associated with the electron revolving around the orbit.", "fibs": ["½"]}
+{"text": "2.33	What transition in the hydrogen spectrum would have the same wavelength as the Balmer transition n = 4 to n = 2 of  He+ spectrum ?", "fibs": ["transition"]}
+{"text": "2.34	Calculate the energy required for the process
+	He+ (g)  He2+ (g) + e–
+	The ionization energy for the H atom  in the ground state is  2.18 × 10–18 J atom–1
+2.35	If the diameter of a carbon atom is 0.15 nm, calculate the number of carbon atoms which can be placed side by side in a straight line across length of scale of  length 20 cm long.", "fibs": ["energy"]}
+{"text": "2.36	2 ×108 atoms of carbon are arranged side by side.", "fibs": ["×108"]}
+{"text": "Calculate the radius of carbon atom if the length of this arrangement is 2.4 cm.", "fibs": ["radius"]}
+{"text": "2.37	The diameter of zinc atom is 2.6 Å.Calculate (a) radius of zinc atom in pm and (b) number of atoms present in a length of 1.6 cm if the zinc atoms are arranged side by side lengthwise.", "fibs": ["diameter"]}
+{"text": "2.38	A certain particle carries 2.5 × 10–16C of static electric charge.", "fibs": ["particle"]}
+{"text": "Calculate the number of electrons present in it.", "fibs": ["number"]}
+{"text": "2.39	In Milikan’s experiment, static electric charge on the oil drops has been obtained by shining X-rays.", "fibs": ["’"]}
+{"text": "If the static electric charge on the oil drop is –1.282 × 10–18C, calculate the number of electrons present on it.", "fibs": ["charge"]}
+{"text": "2.40	In Rutherford’s experiment, generally the thin foil of heavy atoms, like gold, platinum etc.", "fibs": ["’"]}
+{"text": "If the thin foil of light atoms like aluminium etc.", "fibs": ["foil"]}
+{"text": "is used, what difference would be observed from the above results ?", "fibs": ["difference"]}
+{"text": "Answer briefly.", "fibs": ["Answer"]}
+{"text": "2.42	An element with mass number 81 contains 31.7% more neutrons as compared to protons.", "fibs": ["element"]}
+{"text": "Assign the atomic symbol.", "fibs": ["symbol"]}
+{"text": "2.43	An ion with mass number 37 possesses one unit of negative charge.", "fibs": ["ion"]}
+{"text": "If the ion conatins 11.1% more neutrons than the electrons, find the symbol of the ion.", "fibs": ["ion"]}
+{"text": "2.44	An ion with mass number 56 contains 3 units of positive charge and 30.4% more neutrons than electrons.", "fibs": ["ion"]}
+{"text": "Assign the symbol to this ion.", "fibs": ["symbol"]}
+{"text": "2.45	Arrange the following type of radiations in increasing order of frequency: (a) radiation from microwave oven (b) amber light from traffic signal (c) radiation from FM radio (d) cosmic rays from outer space and (e) X-rays.", "fibs": ["type"]}
+{"text": "2.46	Nitrogen laser produces a radiation at a wavelength of 337.1 nm.", "fibs": ["Nitrogen"]}
+{"text": "If the number of photons emitted is 5.6 × 1024, calculate the power of this laser.", "fibs": ["number"]}
+{"text": "2.47	Neon gas is generally used in the sign boards.", "fibs": ["gas"]}
+{"text": "If it emits strongly at 616 nm, calculate (a) the frequency of emission, (b) distance traveled by this radiation in 30 s  (c) energy of quantum and (d) number of quanta present if it produces 2 J of energy.", "fibs": ["nm"]}
+{"text": "If the photon detector receives a total of 3.15 × 10–18 J from the radiations of 600 nm, calculate the number of photons received by the detector.", "fibs": ["photon"]}
+{"text": "2.49	Lifetimes of the molecules in the excited states are often measured by using pulsed radiation source of duration nearly in the nano second range.", "fibs": ["radiation"]}
+{"text": "If the radiation source has the duration of 2 ns and the number of photons emitted during the pulse source is 2.5 × 1015, calculate the energy of the source.", "fibs": ["radiation"]}
+{"text": "2.50	The longest wavelength doublet absorption transition is observed at 589 and 589.6 nm.", "fibs": ["wavelength"]}
+{"text": "Calcualte the frequency of each transition and energy difference between two excited states.", "fibs": ["frequency"]}
+{"text": "2.51	The work function for caesium atom is 1.9 eV.", "fibs": ["work"]}
+{"text": "Calculate (a) the threshold wavelength and (b) the threshold frequency of the radiation.", "fibs": ["threshold"]}
+{"text": "If the caesium element is irradiated with a wavelength 500 nm, calculate the kinetic energy and the velocity of the ejected photoelectron.", "fibs": ["caesium"]}
+{"text": "2.52	Following results are observed when sodium metal is irradiated with different wavelengths.", "fibs": ["sodium"]}
+{"text": "Calculate (a) threshold wavelength and, (b) Planck’s constant.", "fibs": ["threshold"]}
+{"text": "λ (nm)
+ 500
+ 450
+ 400
+
+
+v × 10–5 (cm s–1)
+ 2.55
+ 4.35
+ 5.35
+
+
+
+2.53	The ejection of the photoelectron from the silver metal in the photoelectric effect experiment can be stopped by applying the voltage of 0.35 V when the radiation 256.7 nm is used.", "fibs": ["λ"]}
+{"text": "Calculate the work function for silver metal.", "fibs": ["work"]}
+{"text": "2.54	If the photon of the wavelength 150 pm strikes an atom and one of tis inner bound electrons is ejected out with a velocity of 1.5 × 107 m s–1, calculate the energy with which it is bound to the nucleus.", "fibs": ["photon"]}
+{"text": "2.55	Emission transitions in the Paschen series end at orbit n = 3 and start from orbit n and can be represeted as v = 3.29 × 1015 (Hz) [ 1/32 – 1/n2]
+	Calculate the value of n if the transition is observed at 1285 nm.", "fibs": ["Emission"]}
+{"text": "Find the region of the spectrum.", "fibs": ["region"]}
+{"text": "2.56	Calculate the wavelength for the emission transition if it starts from the orbit having radius 1.3225 nm and ends at 211.6 pm.", "fibs": ["wavelength"]}
+{"text": "Name the series to which this transition belongs and the region of the spectrum.", "fibs": ["Name"]}
+{"text": "2.57	Dual behaviour of matter proposed by de Broglie led to the discovery of electron microscope often used for the highly magnified images of biological molecules and other type of material.", "fibs": ["behaviour"]}
+{"text": "If the velocity of the electron in this microscope is 1.6 × 106 ms–1, calculate de Broglie wavelength associated with this electron.", "fibs": ["velocity"]}
+{"text": "2.58	Similar to electron diffraction, neutron diffraction microscope is also used for the determination of the structure of molecules.", "fibs": ["electron"]}
+{"text": "If the wavelength used here is 800 pm, calculate the characteristic velocity associated with the neutron.", "fibs": ["wavelength"]}
+{"text": "2.59	If the velocity of the electron in Bohr’s first orbit is 2.19 × 106 ms–1, calculate the de Broglie wavelength associated with it.", "fibs": ["velocity"]}
+{"text": "2.60	The velocity associated with a proton moving in a potential difference of 1000 V is 4.37 × 105 ms–1.", "fibs": ["velocity"]}
+{"text": "If the hockey ball of mass 0.1 kg is moving with this velocity, calcualte the wavelength associated with this velocity.", "fibs": ["hockey"]}
+{"text": "2.61	If the position of the electron is measured within an accuracy of + 0.002 nm, calculate the uncertainty in the momentum of the electron.", "fibs": ["position"]}
+{"text": "Suppose the momentum of the electron is h/4πm × 0.05 nm, is there any problem in defining this value.", "fibs": ["momentum"]}
+{"text": "2.62	The quantum numbers of six electrons are given below.", "fibs": ["quantum"]}
+{"text": "Arrange them in order of increasing energies.", "fibs": ["order"]}
+{"text": "If any of these combination(s) has/have the same energy lists:
+	1.	n = 4, l = 2, ml = –2 , ms = –1/2
+	2.	n = 3, l = 2, ml = 1 , ms = +1/2
+
+
+
+	3.	n = 4, l = 1, ml = 0 , ms = +1/2
+	4.	n = 3, l = 2, ml = –2 , ms = –1/2
+	5.	n = 3, l = 1, ml = –1 , ms = +1/2
+	6.	n = 4, l = 1, ml = 0 , ms = +1/2
+2.63	The bromine atom possesses 35 electrons.", "fibs": ["has/have"]}
+{"text": "It contains 6 electrons in 2p orbital, 6 electrons in 3p orbital and 5 electron in 4p orbital.", "fibs": ["2p"]}
+{"text": "Which of these electron experiences the lowest effective nuclear charge ?", "fibs": ["electron"]}
+{"text": "2.64	Among the following pairs of orbitals which orbital will experience the larger effective nuclear charge?", "fibs": ["experience"]}
+{"text": "(i) 2s and 3s, (ii) 4d and 4f, (iii) 3d and 3p.", "fibs": ["ii"]}
+{"text": "2.65	The unpaired electrons in Al and Si are present in 3p orbital.", "fibs": ["3p"]}
+{"text": "Which electrons will experience more effective nuclear charge from the nucleus ?", "fibs": ["experience"]}
+{"text": "2.66	Indicate the number of unpaired electrons in : (a) P, (b) Si, (c) Cr, (d) Fe and (e) Kr.", "fibs": ["number"]}
+{"text": "(b) How many electrons will be present in the subshells having ms value of –1/2 for n = 4 ?", "fibs": ["b"]}
+{"text": "Table of Contents
+
+
+Unit 2
+
+
+structure of atom
+
+
+Objectives
+
+
+2.1.1 Discovery of Electron
+
+
+2.1.2 Charge to Mass Ratio of Electron
+
+
+2.1.3 Charge on the Electron
+
+
+2.1.4 Discovery of Protons and Neutrons
+
+
+
+
+2.2 Atomic Models
+
+
+2.2.1 Thomson Model of Atom
+
+
+2.2.2 Rutherford’s Nuclear Model of Atom
+
+
+2.2.3 Atomic Number and Mass Number
+
+
+2.2.4 Isobars and Isotopes
+
+
+2.2.5 Drawbacks of Rutherford Model
+
+
+
+
+2.3 Developments Leading to the Bohr’s Model of Atom
+
+
+2.3.1 Wave Nature of Electromagnetic Radiation
+
+
+2.3.2 Particle Nature of Electromagnetic Radiation: Planck’s Quantum Theory
+
+
+2.3.3 Evidence for the quantized* Electronic Energy Levels: Atomic spectra
+
+
+
+
+2.4 Bohr’s Model for Hydrogen Atom
+
+
+2.4.2 Limitations of Bohr’s Model
+
+
+
+
+2.5 Towards Quantum Mechanical Model of the Atom
+
+
+2.5.1 Dual Behaviour of Matter
+
+
+2.5.2 Heisenberg’s Uncertainty Principle
+
+
+
+
+2.6 Quantum Mechanical Model of Atom
+
+
+2.6.1 Orbitals and Quantum Numbers
+
+
+2.6.2 Shapes of Atomic Orbitals
+
+
+2.6.3 Energies of Orbitals
+
+
+2.6.4 Filling of Orbitals in Atom
+
+
+2.6.5 Electronic Configuration of Atoms
+
+
+2.6.6 Stability of Completely Filled and Half Filled Subshells
+
+
+
+
+Summary
+
+
+EXERCISES
+
+
+
+
+
+
+Landmarks
+
+
+Cover
+
+
+
+
+
+Unit 2
+structure of atom", "fibs": ["Table"]}
+

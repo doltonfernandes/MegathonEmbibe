@@ -1,0 +1,829 @@
+Analyzing input.txt
+{"text": " 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Unit 3
+
+
+
+
+
+
+
+
+
+Classification of Elements and Periodicity in Properties
+
+
+
+
+
+
+
+
+After studying this Unit, you will be able to 
+• appreciate how the concept of grouping elements in accordance to their properties led to the development of Periodic Table.", "fibs": ["Unit"]}
+{"text": "• understand  the Periodic Law; 
+•	understand the  significance of atomic number and electronic configuration as the basis for periodic classification;
+• name the elements with Z >100 according to IUPAC nomenclature; 
+• classify elements into s, p, d, f blocks and learn their main characteristics;
+• recognise the periodic trends in physical and chemical properties of elements;
+• compare the reactivity of elements and correlate it with their occurrence in nature;
+• explain the relationship  between ionization enthalpy and metallic character;
+• use  scientific  vocabulary appropriately to communicate ideas related to certain important properties  of atoms e.g., atomic/ ionic radii, ionization enthalpy, electron gain enthalpy, electronegativity, valence of elements.", "fibs": ["•"]}
+{"text": "The Periodic Table is arguably the most important concept in chemistry, both in principle and in practice.", "fibs": ["Table"]}
+{"text": "It is the everyday support for students, it suggests new avenues of research to professionals, and it provides a succinct organization of the whole of chemistry.", "fibs": ["support"]}
+{"text": "It is a remarkable demonstration of the fact that the chemical elements are not a random cluster of entities but instead display trends and lie together in families.", "fibs": ["demonstration"]}
+{"text": "An awareness of the Periodic Table is essential to anyone who wishes to disentangle the world and see how it is built up from the fundamental building blocks of the chemistry, the chemical elements.", "fibs": ["awareness"]}
+{"text": "Glenn T. Seaborg
+In this Unit, we will study the historical development of the Periodic Table as it stands today and the Modern Periodic Law.", "fibs": ["Unit"]}
+{"text": "We will also learn how the periodic classification follows as a logical consequence of the electronic configuration of atoms.", "fibs": ["classification"]}
+{"text": "Finally, we shall examine some of the periodic trends in the physical and chemical properties of the elements.", "fibs": ["chemical"]}
+{"text": "3.1	WHY DO WE NEED TO CLASSIFY ELEMENTS ?", "fibs": ["NEED"]}
+{"text": "We know by now that the elements are the basic units of all types of matter.", "fibs": ["matter"]}
+{"text": "By 1865, the number of identified elements had more than doubled to 63.", "fibs": ["number"]}
+{"text": "With such a large number of elements it is very difficult to study individually the chemistry of all these elements and their innumerable compounds individually.", "fibs": ["number"]}
+{"text": "To ease out this problem, scientists searched for a systematic way to organise their knowledge by classifying the elements.", "fibs": ["problem"]}
+{"text": "Not only that it would rationalize known chemical facts about elements, but even predict new ones for undertaking further study.", "fibs": ["chemical"]}
+{"text": "3.2	GENESIS OF PERIODIC CLASSIFICATION
+Classification of elements into groups and development of Periodic Law and Periodic Table are the consequences of systematising the knowledge gained by a number of scientists through their observations and experiments.", "fibs": ["GENESIS"]}
+{"text": "The German chemist, Johann Dobereiner in early 1800’s was the first to consider the idea of trends among properties of elements.", "fibs": ["chemist"]}
+{"text": "By 1829 he noted a similarity among the physical and chemical properties of several groups  of three elements (Triads).", "fibs": ["similarity"]}
+{"text": "In each case, he noticed that the middle  element  of each of the Triads had an atomic weight about half way between the atomic weights of the other two (Table 3.1).", "fibs": ["case"]}
+{"text": "Also the properties of the middle element were in between those of the other two members.", "fibs": ["middle"]}
+{"text": "Since Dobereiner’s relationship, referred to as the Law of Triads, seemed to work only for a few elements, it was  dismissed as coincidence.", "fibs": ["’"]}
+{"text": "The next reported attempt to classify elements was made by a French geologist, A.E.B.", "fibs": ["attempt"]}
+{"text": "He arranged the then known elements in order of increasing atomic weights and made a cylindrical table of elements to display the periodic recurrence of properties.", "fibs": ["order"]}
+{"text": "This also did not attract much attention.", "fibs": ["attention"]}
+{"text": "The English chemist, John Alexander Newlands in 1865 profounded the Law of Octaves.", "fibs": ["chemist"]}
+{"text": "He arranged the elements in increasing order of their atomic weights and noted that every eighth element had properties similar to the first element (Table 3.2).", "fibs": ["order"]}
+{"text": "The relationship was just like   every eighth note that resembles the first in octaves of music.", "fibs": ["relationship"]}
+{"text": "Newlands’s Law of Octaves seemed to be true only for elements up to calcium.", "fibs": ["’"]}
+{"text": "Although his idea was not widely accepted at that time, he, for his work, was later awarded Davy Medal in 1887 by the Royal Society, London.", "fibs": ["idea"]}
+{"text": "Table 3.1 Dobereiner’s Triads
+
+The Periodic Law, as we know it today owes its development to the Russian chemist, Dmitri Mendeleev (1834-1907) and the German chemist, Lothar Meyer (1830-1895).", "fibs": ["Table"]}
+{"text": "Working independently, both the chemists in 1869 proposed that on arranging elements in the increasing order of their atomic weights, similarities appear in physical and chemical properties at regular intervals.", "fibs": ["order"]}
+{"text": "Lothar Meyer plotted the physical properties such as atomic volume, melting point and boiling point against atomic weight and obtained a periodically repeated pattern.", "fibs": ["volume"]}
+{"text": "Unlike Newlands, Lothar Meyer observed a change in length of that repeating pattern.", "fibs": ["change"]}
+{"text": "By 1868, Lothar Meyer had developed a table of the elements that closely resembles the Modern Periodic Table.", "fibs": ["table"]}
+{"text": "However, his work was not published until after the work of Dmitri Mendeleev, the scientist who is generally credited with the development of the Modern Periodic Table.", "fibs": ["work"]}
+{"text": "Table 3.2  Newlands’ Octaves
+
+
+
+
+While Dobereiner initiated the study of periodic relationship, it was Mendeleev who was responsible for publishing the Periodic Law for the first time.", "fibs": ["Table"]}
+{"text": "It states as follows :
+The properties of the elements are a periodic function of their atomic weights.", "fibs": ["function"]}
+{"text": "Mendeleev arranged elements in horizontal rows and vertical columns of a table in order of their increasing atomic weights in such a way that the elements with similar properties occupied the same vertical column or group.", "fibs": ["table"]}
+{"text": "Mendeleev’s system of classifying elements was more elaborate than that of Lothar Meyer’s.", "fibs": ["’"]}
+{"text": "He fully recognized the significance of periodicity and used broader range of physical and chemical properties to classify the elements.", "fibs": ["significance"]}
+{"text": "He realized that some of the elements did not fit in with his scheme of classification if the order of atomic weight was strictly followed.", "fibs": ["scheme"]}
+{"text": "He ignored the order of atomic weights, thinking that the atomic measurements might be incorrect, and placed the elements with similar properties together.", "fibs": ["order"]}
+{"text": "For example, iodine with lower atomic weight than that of tellurium (Group VI) was placed in Group VII along with fluorine, chlorine, bromine because of similarities in properties (Fig.", "fibs": ["example"]}
+{"text": "At the same time, keeping his primary aim of arranging the elements of similar properties in the same group, he proposed that some of the elements were still undiscovered and, therefore, left several gaps in the table.", "fibs": ["time"]}
+{"text": "For example, both gallium and germanium were unknown at the time Mendeleev published his Periodic Table.", "fibs": ["example"]}
+{"text": "He left the gap under aluminium and a gap under silicon, and called these elements Eka-Aluminium and Eka-Silicon.", "fibs": ["gap"]}
+{"text": "Mendeleev predicted not only the existence of gallium and germanium, but also described some of their general physical properties.", "fibs": ["existence"]}
+{"text": "Some of the properties predicted by Mendeleev for these elements and those found experimentally are listed in Table 3.3.", "fibs": ["Table"]}
+{"text": "Table 3.3	Mendeleev’s Predictions for the Elements Eka-aluminium (Gallium) and  Eka-silicon (Germanium)   
+
+
+
+
+The boldness of Mendeleev’s quantitative predictions and their eventual success made him and his Periodic Table famous.", "fibs": ["Table"]}
+{"text": "Mendeleev’s Periodic Table published in 1905 is shown in Fig.", "fibs": ["’"]}
+{"text": "PERIODIC SYSTEM OF THE ELEMENTS IN GROUPS AND SERIES
+
+
+
+
+Fig.", "fibs": ["SYSTEM"]}
+{"text": "3.1  Mendeleev’s Periodic Table published earlier
+
+
+
+3.3	MODERN PERIODIC LAW AND THE PRESENT FORM OF THE PERIODIC TABLE
+We must bear in mind that when Mendeleev developed his Periodic Table, chemists knew nothing about the internal structure of atom.", "fibs": ["’"]}
+{"text": "However, the beginning of the 20th century witnessed profound developments in theories about sub-atomic particles.", "fibs": ["20th"]}
+{"text": "In 1913, the English physicist, Henry Moseley observed regularities in the characteristic X-ray spectra of the elements.", "fibs": ["physicist"]}
+{"text": "A plot of  (whereis frequency of X-rays emitted) against atomic number (Z ) gave a straight line and not the plot of  vs atomic mass.", "fibs": ["plot"]}
+{"text": "He thereby  showed that the atomic number is a more fundamental property of an element than its atomic mass.", "fibs": ["number"]}
+{"text": "Mendeleev’s Periodic Law was, therefore, accordingly modified.", "fibs": ["’"]}
+{"text": "This is known as the Modern Periodic Law and can be stated as :
+The physical and chemical properties of the elements are periodic functions of their atomic numbers.", "fibs": ["chemical"]}
+{"text": "The Periodic Law revealed important analogies among the 94 naturally occurring elements (neptunium and plutonium like actinium and protoactinium are also found in pitch blende – an ore of uranium).", "fibs": ["neptunium"]}
+{"text": "It stimulated renewed interest in Inorganic Chemistry and has carried into the present with the creation of artificially produced short-lived elements.", "fibs": ["interest"]}
+{"text": "You may recall that the atomic number is equal to the nuclear charge (i.e., number of protons) or the number of electrons in a neutral atom.", "fibs": ["number"]}
+{"text": "It is then easy to visualize the significance of quantum numbers and electronic configurations in periodicity of elements.", "fibs": ["significance"]}
+{"text": "In fact, it is now recognized that the Periodic Law is essentially the consequence of the periodic variation in electronic configurations, which indeed determine the physical and chemical properties of elements and their compounds.", "fibs": ["fact"]}
+{"text": "Numerous forms of Periodic Table have been devised from time to time.", "fibs": ["Table"]}
+{"text": "Some forms emphasise chemical reactions and valence, whereas others stress the electronic configuration of elements.", "fibs": ["chemical"]}
+{"text": "A modern version, the so-called “long form” of the Periodic Table of the elements (Fig.", "fibs": ["version"]}
+{"text": "The horizontal rows (which Mendeleev called series) are called periods and the vertical columns, groups.", "fibs": ["series"]}
+{"text": "According to the recommendation of International Union of Pure and Applied Chemistry (IUPAC), the groups are numbered from 1 to 18 replacing the older notation of groups IA …  VIIA, VIII, IB …  VIIB and 0.", "fibs": ["recommendation"]}
+{"text": "The period number corresponds to the highest principal quantum number (n) of the elements in the period.", "fibs": ["period"]}
+{"text": "The first period contains 2 elements.", "fibs": ["period"]}
+{"text": "The seventh period is incomplete and like the sixth period would have a theoretical maximum (on the basis of quantum numbers) of 32 elements.", "fibs": ["period"]}
+{"text": "In this form of the Periodic Table, 14 elements of both sixth and seventh periods (lanthanoids and actinoids, respectively) are placed in separate panels at the bottom*.", "fibs": ["form"]}
+{"text": "Fig.", "fibs": ["Fig"]}
+{"text": "3.2  Long form of the Periodic Table of the Elements with their atomic numbers and ground state outer electronic configurations.", "fibs": ["form"]}
+{"text": "The groups are numbered 1-18 in accordance with the 1984 IUPAC recommendations.", "fibs": ["accordance"]}
+{"text": "This notation replaces the old numbering scheme of  IA–VIIA, VIII, IB–VIIB and 0 for the elements.", "fibs": ["notation"]}
+{"text": "3.4	NOMENCLATURE OF ELEMENTS WITH ATOMIC NUMBERS > 100
+The naming of the new elements had been traditionally the privilege of the discoverer (or discoverers) and the suggested name was ratified by the IUPAC.", "fibs": ["NOMENCLATURE"]}
+{"text": "In recent years this has led to some controversy.", "fibs": ["controversy"]}
+{"text": "The new elements with very high atomic numbers are so unstable that only minute quantities, sometimes only a few atoms of them are obtained.", "fibs": ["minute"]}
+{"text": "Their synthesis and characterisation, therefore, require highly sophisticated costly equipment and laboratory.", "fibs": ["synthesis"]}
+{"text": "Such work is carried out with competitive spirit only in some laboratories in the world.", "fibs": ["work"]}
+{"text": "Scientists, before collecting the reliable data on the new element, at times get tempted to claim for its discovery.", "fibs": ["element"]}
+{"text": "For example, both American and Soviet scientists claimed credit for discovering element 104.", "fibs": ["example"]}
+{"text": "To avoid such problems, the IUPAC has made recommendation that until a new element’s discovery is proved, and its name is officially recognised, a systematic nomenclature be derived directly from the atomic number of the element using the numerical roots for 0 and numbers 1-9.", "fibs": ["IUPAC"]}
+{"text": "These are shown in Table 3.4.", "fibs": ["Table"]}
+{"text": "The roots are put together in order of digits which make up the atomic number and “ium” is added at the end.", "fibs": ["order"]}
+{"text": "The IUPAC names for elements with Z above 100 are shown in Table 3.5.", "fibs": ["IUPAC"]}
+{"text": "* Glenn T. Seaborg’s work in the middle of the 20th century starting with the discovery of plutonium in 1940, followed by those of all the transuranium elements from 94 to 102 led to reconfiguration of the periodic table placing the actinoids below the lanthanoids.", "fibs": ["’"]}
+{"text": "In 1951, Seaborg was awarded the Nobel Prize in chemistry for his work.", "fibs": ["chemistry"]}
+{"text": "Element 106 has been named Seaborgium (Sg) in his honour.", "fibs": ["Element"]}
+{"text": "Table 3.4	Notation for IUPAC Nomenclature of Elements
+
+Table 3.5  Nomenclature of Elements with Atomic Number Above 100
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thus, the new element first gets a temporary name, with symbol consisting of three letters.", "fibs": ["Table"]}
+{"text": "Later permanent name and symbol are given by a vote of IUPAC representatives from each country.", "fibs": ["name"]}
+{"text": "The permanent name might reflect the country (or state of the country) in which the element was discovered, or pay tribute to a notable scientist.", "fibs": ["name"]}
+{"text": "Official names of all elements have been announced by IUPAC.", "fibs": ["IUPAC"]}
+{"text": "Problem 3.1
+What would be the IUPAC name and symbol for the element with atomic number 120?", "fibs": ["IUPAC"]}
+{"text": "Solution 
+From Table 3.4, the roots for 1, 2 and 0 are un, bi and nil, respectively.", "fibs": ["Table"]}
+{"text": "Hence, the symbol and the name respectively are Ubn and unbinilium.", "fibs": ["symbol"]}
+{"text": "3.5	ELECTRONIC CONFIGURATIONS OF ELEMENTS AND THE PERIODIC TABLE
+In the preceding unit we have learnt that an electron in an atom is characterised by a set of four quantum numbers, and the principal quantum number (n ) defines the main energy level known as shell.", "fibs": ["ELECTRONIC"]}
+{"text": "We have also studied about the filling of electrons into different subshells, also referred to as orbitals (s, p, d, f) in an atom.", "fibs": ["p"]}
+{"text": "The distribution of electrons into orbitals of an atom is called its electronic configuration.", "fibs": ["distribution"]}
+{"text": "An element’s location in the Periodic Table reflects the quantum numbers of the last orbital filled.", "fibs": ["element"]}
+{"text": "In this section we will observe a direct connection between the electronic configurations of the elements and the long form of the Periodic Table.", "fibs": ["section"]}
+{"text": "(a)  Electronic Configurations in Periods
+The period indicates the value of n for the outermost or valence shell.", "fibs": ["period"]}
+{"text": "In other words, successive period in the Periodic Table is associated with the filling of the next higher principal energy level (n = 1, n = 2, etc.).", "fibs": ["period"]}
+{"text": "It can be readily seen that the number of elements in each period is twice the number of atomic orbitals available in the energy level that is being filled.", "fibs": ["number"]}
+{"text": "The first period (n = 1) starts with the filling of the lowest level (1s) and therefore has two elements — hydrogen (ls1) and helium (ls2) when the first shell (K) is completed.", "fibs": ["period"]}
+{"text": "The second period (n = 2) starts with lithium and the third electron enters the 2s orbital.", "fibs": ["period"]}
+{"text": "The next element, beryllium has four electrons and has the electronic configuration 1s22s2.", "fibs": ["element"]}
+{"text": "Starting from the next element boron, the 2p orbitals are filled with electrons when the L shell is completed at neon (2s22p6).", "fibs": ["element"]}
+{"text": "Thus there are 8 elements in the second period.", "fibs": ["period"]}
+{"text": "The third period (n = 3) begins at sodium, and the added electron enters a 3s orbital.", "fibs": ["period"]}
+{"text": "Successive filling of 3s and 3p orbitals gives rise to the third period of 8 elements from sodium to argon.", "fibs": ["3p"]}
+{"text": "The fourth period (n = 4) starts at potassium, and the added electrons fill up the 4s orbital.", "fibs": ["period"]}
+{"text": "Now you may note that before the 4p orbital is filled, filling up of 3d orbitals becomes energetically favourable and we come across the so called 3d transition series of elements.", "fibs": ["note"]}
+{"text": "This starts from scandium (Z = 21) which has the electronic configuration 3d14s2.", "fibs": ["scandium"]}
+{"text": "The 3d orbitals are filled at zinc (Z=30) with electronic configuration 3d104s2 .", "fibs": ["3d"]}
+{"text": "The fourth period ends at krypton with the filling up of the 4p orbitals.", "fibs": ["period"]}
+{"text": "Altogether we have 18 elements in this fourth period.", "fibs": ["period"]}
+{"text": "The fifth period (n = 5) beginning with rubidium is similar to the fourth period and contains the 4d transition series starting at yttrium  (Z = 39).", "fibs": ["period"]}
+{"text": "This period ends at xenon with the filling up of the 5p orbitals.", "fibs": ["period"]}
+{"text": "The sixth period (n = 6) contains 32 elements and successive electrons enter 6s, 4f, 5d and 6p orbitals, in the order — filling up of the 4f orbitals begins with cerium (Z = 58) and ends at lutetium (Z = 71) to give the 4f-inner transition series which is called the lanthanoid series.", "fibs": ["period"]}
+{"text": "The seventh period (n = 7) is similar to the sixth period with the successive filling up of the 7s, 5f, 6d and 7p orbitals and includes most of the man-made radioactive elements.", "fibs": ["period"]}
+{"text": "This period will end at the element with atomic number 118 which would belong to the noble gas family.", "fibs": ["period"]}
+{"text": "Filling up of the 5f orbitals after actinium (Z = 89) gives the 5f-inner transition series known as the actinoid series.", "fibs": ["5f"]}
+{"text": "The 4f- and 5f-inner transition series of elements are placed separately in the Periodic Table to maintain its structure and to preserve the principle of classification by keeping elements with similar properties in a single column.", "fibs": ["4f"]}
+{"text": "Problem 3.2
+How would you justify the presence of 18 elements in the 5th period of the Periodic Table?", "fibs": ["presence"]}
+{"text": "Solution
+When n = 5, l = 0, 1, 2, 3.", "fibs": ["l"]}
+{"text": "The order in which the energy of the available orbitals 4d, 5s and 5p increases is 5s < 4d < 5p.", "fibs": ["order"]}
+{"text": "The total number of orbitals available are  9.", "fibs": ["number"]}
+{"text": "The maximum number of electrons that can be accommodated is 18; and therefore 18 elements are there in the 5th period.", "fibs": ["number"]}
+{"text": "(b) Groupwise Electronic Configurations
+Elements in the same vertical column or group have similar valence shell electronic configurations, the same number of electrons in the outer orbitals, and similar properties.", "fibs": ["b"]}
+{"text": "For example, the Group 1 elements (alkali metals) all have ns1 valence shell electronic configuration as shown below.", "fibs": ["example"]}
+{"text": "Thus it can be seen that the properties of an element have periodic dependence upon its atomic number and not on relative atomic mass.", "fibs": ["element"]}
+{"text": "3.6	ELECTRONIC CONFIGURATIONS AND TYPES OF ELEMENTS:  s-, p-, d-, f- BLOCKS
+The aufbau (build up) principle and the electronic configuration of atoms provide a theoretical foundation for the periodic classification.", "fibs": ["ELECTRONIC"]}
+{"text": "The elements in a vertical column of the Periodic Table constitute a group or family and exhibit similar chemical behaviour.", "fibs": ["column"]}
+{"text": "This similarity arises because these elements have the same number and same distribution of electrons in their outermost orbitals.", "fibs": ["similarity"]}
+{"text": "We can classify the elements into four blocks viz., s-block, p-block, d-block and f-block depending on the type of atomic orbitals that are being filled with electrons.", "fibs": ["viz"]}
+{"text": "This is illustrated in Fig.", "fibs": ["Fig"]}
+{"text": "We notice two exceptions to this categorisation.", "fibs": ["notice"]}
+{"text": "Strictly, helium belongs to the s-block but its positioning in the p-block along with other group 18 elements is justified because it has a completely filled valence shell (1s2) and as a result, exhibits properties characteristic of other noble gases.", "fibs": ["helium"]}
+{"text": "The other exception is hydrogen.", "fibs": ["exception"]}
+{"text": "It has only one s-electron and hence can be placed in group 1 (alkali metals).", "fibs": ["group"]}
+{"text": "It can also gain an electron to achieve a noble gas arrangement and hence it can behave similar to a group 17 (halogen family) elements.", "fibs": ["gain"]}
+{"text": "Because it is a special case, we shall place hydrogen separately at the top of the Periodic Table as shown in Fig.", "fibs": ["case"]}
+{"text": "3.2 and Fig.", "fibs": ["Fig"]}
+{"text": "We will briefly discuss the salient features of the four types of elements marked in the Periodic Table.", "fibs": ["briefly"]}
+{"text": "During the description of their features certain terminology has been used which has been classified in section 3.7.", "fibs": ["description"]}
+{"text": "3.6.1	The s-Block Elements
+
+
+
+
+
+
+
+
+Fig.", "fibs": ["Fig"]}
+{"text": "3.3  The types of elements in the Periodic Table based on the orbitals that are being filled.", "fibs": ["Table"]}
+{"text": "Also shown is the broad division of elements into METALS ( ) , NON-METALS ( )  and METALLOIDS ( ).", "fibs": ["division"]}
+{"text": "The elements of Group 1 (alkali metals) and Group 2 (alkaline earth metals) which have ns1 and ns2 outermost electronic configuration belong to the s-Block Elements.", "fibs": ["earth"]}
+{"text": "They are all reactive metals with low ionization enthalpies.", "fibs": ["ionization"]}
+{"text": "They lose the outermost electron(s) readily to form 1+ ion (in the case of alkali metals) or 2+ ion (in the case of alkaline earth metals).", "fibs": ["outermost"]}
+{"text": "The metallic character and the reactivity increase as we go down the group.", "fibs": ["character"]}
+{"text": "Because of high reactivity they are never found pure in nature.", "fibs": ["reactivity"]}
+{"text": "The compounds of the s-block elements, with the exception of those of lithium and beryllium are predominantly ionic.", "fibs": ["exception"]}
+{"text": "The outermost electronic configuration varies from ns2np1 to ns2np6 in each period.", "fibs": ["outermost"]}
+{"text": "At the end of each period is a noble gas element with a closed valence shell ns2np6 configuration.", "fibs": ["end"]}
+{"text": "All the orbitals in the valence shell of the noble gases are completely filled by electrons and it is very difficult to alter this stable arrangement by the addition or removal of electrons.", "fibs": ["valence"]}
+{"text": "The noble gases thus exhibit very low chemical reactivity.", "fibs": ["exhibit"]}
+{"text": "Preceding the noble gas family are two chemically important groups of non-metals.", "fibs": ["gas"]}
+{"text": "These two groups of elements have highly negative electron gain enthalpies and readily add one or two electrons respectively to attain the stable noble gas configuration.", "fibs": ["electron"]}
+{"text": "The non-metallic character increases as we move from left to right across a period and metallic character increases as we go down the group.", "fibs": ["character"]}
+{"text": "3.6.3	The d-Block Elements (Transition Elements)
+These are the elements of Group 3 to 12 in the centre of the Periodic Table.", "fibs": ["Transition"]}
+{"text": "These elements have the general outer electronic configuration (n-1) d1-10ns0-2 .", "fibs": ["configuration"]}
+{"text": "They mostly form coloured ions, exhibit variable valence (oxidation states), paramagnetism and oftenly used as catalysts.", "fibs": ["form"]}
+{"text": "However, Zn, Cd and Hg which have the electronic configuration, (n-1) d10ns2 do not show most of the properties of transition elements.", "fibs": ["configuration"]}
+{"text": "In a way, transition metals form a bridge between the chemically active metals of s-block elements and the less active elements of Groups 13 and 14 and thus take their familiar name “Transition Elements”.", "fibs": ["way"]}
+{"text": "3.6.4	The f-Block Elements (Inner-Transition Elements)
+The two rows of elements at the bottom of the Periodic Table, called the Lanthanoids, Ce(Z = 58) – Lu(Z = 71) and Actinoids, Th (Z = 90) – Lr (Z = 103) are characterised by the outer electronic configuration (n-2)f1-14 (n-1)d0–1ns2.", "fibs": ["bottom"]}
+{"text": "The last electron added to each element is filled in f- orbital.", "fibs": ["electron"]}
+{"text": "These two series of elements are hence called the Inner-Transition Elements (f-Block Elements).", "fibs": ["series"]}
+{"text": "Within each series, the properties of the elements are quite similar.", "fibs": ["series"]}
+{"text": "The chemistry of the early actinoids is more complicated than the corresponding lanthanoids, due to the large number of oxidation states possible for these actinoid elements.", "fibs": ["chemistry"]}
+{"text": "Many of the actinoid elements have been made only in nanogram quantities or even less by nuclear reactions and their chemistry is not fully studied.", "fibs": ["actinoid"]}
+{"text": "The elements after uranium are called Transuranium Elements.", "fibs": ["uranium"]}
+{"text": "In which family / group would you place these elements and also give the electronic configuration in each case.", "fibs": ["family"]}
+{"text": "Solution
+We see from Fig.", "fibs": ["Fig"]}
+{"text": "3.2, that element with Z = 117, would belong to the halogen family (Group 17) and the electronic configuration would be [Rn] 5f146d107s27p5.", "fibs": ["element"]}
+{"text": "The element with Z = 120, will be placed in Group 2 (alkaline earth metals), and will have the electronic configuration [Uuo]8s2.", "fibs": ["element"]}
+{"text": "3.6.5	Metals, Non-metals and Metalloids
+In addition to displaying the classification of elements into s-, p-, d-, and f-blocks, Fig.", "fibs": ["addition"]}
+{"text": "3.3 shows another broad classification of elements based on their properties.", "fibs": ["classification"]}
+{"text": "Metals comprise more than 78% of all known elements and appear on the left side of the Periodic Table.", "fibs": ["side"]}
+{"text": "Metals are usually solids at room temperature [mercury is an exception; gallium and caesium also have very low melting points (303K and 302K, respectively)].", "fibs": ["room"]}
+{"text": "They are good conductors of heat and electricity.", "fibs": ["heat"]}
+{"text": "They are malleable (can be flattened into thin sheets by hammering) and ductile (can be drawn into wires).", "fibs": ["ductile"]}
+{"text": "In contrast, non-metals are located at the top right hand side of the Periodic Table.", "fibs": ["contrast"]}
+{"text": "In fact, in a horizontal row, the property of elements change from metallic on the left to non-metallic on the right.", "fibs": ["fact"]}
+{"text": "Non-metals are usually solids or gases at room temperature with low melting and boiling points (boron and carbon are exceptions).", "fibs": ["room"]}
+{"text": "They are poor conductors of heat and electricity.", "fibs": ["heat"]}
+{"text": "Most non-metallic solids are brittle and are neither malleable nor ductile.", "fibs": ["ductile"]}
+{"text": "The elements become more metallic as we go down a group; the non-metallic character increases as one goes from left to right across the Periodic Table.", "fibs": ["group"]}
+{"text": "The change from metallic to non-metallic character is not abrupt as shown by the thick zig-zag line in Fig.", "fibs": ["change"]}
+{"text": "The elements (e.g., silicon, germanium, arsenic, antimony and tellurium) bordering this line and running diagonally across the Periodic Table show properties that are characteristic of both metals and non-metals.", "fibs": ["silicon"]}
+{"text": "Problem 3.4
+Considering the atomic number and position in the periodic table, arrange the following elements in the increasing order of metallic character : Si, Be, Mg, Na, P.
+Solution
+Metallic character increases down a group and decreases along a period as we move from left to right.", "fibs": ["number"]}
+{"text": "Hence the order of increasing metallic character is: P < Si < Be < Mg < Na.", "fibs": ["order"]}
+{"text": "3.7	PERIODIC TRENDS IN PROPERTIES OF ELEMENTS
+There are many observable patterns in the physical and chemical properties of elements as we descend in a group or move across a period in the Periodic Table.", "fibs": ["PERIODIC"]}
+{"text": "For example, within a period, chemical reactivity tends to be high in Group 1 metals, lower in elements towards the middle of the table, and increases to a maximum in the Group 17 non-metals.", "fibs": ["example"]}
+{"text": "Likewise within a group of representative metals (say alkali metals) reactivity increases on moving down the group, whereas within a group of non-metals (say halogens), reactivity decreases down the group.", "fibs": ["group"]}
+{"text": "And how can we explain periodicity?", "fibs": ["periodicity"]}
+{"text": "To answer these questions, we must look into the theories of atomic structure and properties of the atom.", "fibs": ["answer"]}
+{"text": "In this section we shall discuss the periodic trends in certain physical and chemical properties and try to explain them in terms of number of electrons and energy levels.", "fibs": ["section"]}
+{"text": "3.7.1	Trends in Physical Properties
+There are numerous physical properties of elements such as melting and boiling points, heats of fusion and vaporization, energy of atomization, etc.", "fibs": ["fusion"]}
+{"text": "which show periodic variations.", "fibs": ["show"]}
+{"text": "However, we shall discuss the periodic trends with respect to atomic and ionic radii, ionization enthalpy, electron gain enthalpy and electronegativity.", "fibs": ["respect"]}
+{"text": "(a)	Atomic Radius
+You can very well imagine that finding the size of an atom is a lot more complicated than measuring the radius of a ball.", "fibs": ["size"]}
+{"text": "Firstly, because the size of an atom (~ 1.2 Å i.e., 1.2 × 10–10 m in radius) is very small.", "fibs": ["size"]}
+{"text": "Secondly, since the electron cloud surrounding the atom does not have a sharp boundary, the determination of the atomic size cannot be precise.", "fibs": ["electron"]}
+{"text": "In other words, there is no practical way by which the size of an individual atom can be measured.", "fibs": ["way"]}
+{"text": "However, an estimate of the atomic size can be made by knowing the distance between the atoms in the combined state.", "fibs": ["estimate"]}
+{"text": "One practical approach to estimate the size of an atom of a non-metallic element is to measure the distance between two atoms when they are bound together by a single bond in a covalent molecule and from this value, the “Covalent Radius” of the element can be calculated.", "fibs": ["approach"]}
+{"text": "For example, the bond distance in the chlorine molecule (Cl2) is 198 pm and half this distance (99 pm), is taken as the atomic radius of chlorine.", "fibs": ["example"]}
+{"text": "For metals, we define the term “Metallic Radius” which is taken as half the internuclear distance separating the metal cores in the metallic crystal.", "fibs": ["term"]}
+{"text": "For example, the distance between two adjacent copper atoms in solid copper is 256 pm; hence the metallic radius of copper is assigned a value of 128 pm.", "fibs": ["example"]}
+{"text": "For simplicity, in this book, we use the term Atomic Radius to refer to both covalent or metallic radius depending on whether the element is a non-metal or a metal.", "fibs": ["simplicity"]}
+{"text": "Atomic radii can be measured by X-ray or other spectroscopic methods.", "fibs": ["X-ray"]}
+{"text": "The atomic radii of a few elements are listed in Table 3.6 .", "fibs": ["Table"]}
+{"text": "We can explain these trends in terms of nuclear charge and energy level.", "fibs": ["charge"]}
+{"text": "The atomic size generally decreases across a period as illustrated in Fig.", "fibs": ["size"]}
+{"text": "3.4(a) for the elements of the second period.", "fibs": ["3.4(a"]}
+{"text": "It is because within the period the outer electrons are in the same valence shell and the effective nuclear charge increases as the atomic number increases resulting in the increased attraction of electrons to the nucleus.", "fibs": ["period"]}
+{"text": "Within a family or vertical column of the periodic table, the atomic radius increases regularly with atomic number as illustrated in Fig.", "fibs": ["family"]}
+{"text": "3.4(b).", "fibs": ["3.4(b"]}
+{"text": "For alkali metals and halogens, as we descend the groups, the principal quantum number (n) increases and the valence electrons are farther from the nucleus.", "fibs": ["quantum"]}
+{"text": "This happens because the inner energy levels are filled with electrons, which serve to shield the outer electrons from the pull of the nucleus.", "fibs": ["energy"]}
+{"text": "Consequently the size of the atom increases as reflected in the atomic radii.", "fibs": ["size"]}
+{"text": "Being monoatomic, their (non-bonded radii) values are very large.", "fibs": ["monoatomic"]}
+{"text": "In fact radii of noble gases  should be compared not with the covalent radii but with the van der Waals radii of other elements.", "fibs": ["fact"]}
+{"text": "Table 3.6(a) Atomic Radii/pm Across the Periods
+
+
+
+
+
+Table 3.6(b)  Atomic Radii/pm Down a Family
+
+
+
+
+
+
+
+
+Fig.", "fibs": ["Table"]}
+{"text": "3.4 (a)	Variation of atomic radius with atomic number across the second period
+
+
+
+
+
+Fig.", "fibs": ["radius"]}
+{"text": "3.4 (b)	Variation of atomic radius with atomic number for alkali metals and halogens
+
+
+
+(b) Ionic Radius
+
+The removal of an electron from an atom results in the formation of a cation, whereas gain of an electron leads to an anion.", "fibs": ["b"]}
+{"text": "In general, the ionic radii of elements exhibit the same trend as the atomic radii.", "fibs": ["exhibit"]}
+{"text": "A cation is smaller than its parent atom because it has fewer electrons while its nuclear charge remains the same.", "fibs": ["cation"]}
+{"text": "The size of an anion will be larger than that of the parent atom because the addition of one or more electrons would result in increased repulsion among the electrons and a decrease in effective nuclear charge.", "fibs": ["size"]}
+{"text": "For example, the ionic radius of fluoride ion (F– ) is 136 pm whereas the atomic radius of fluorine is only 64 pm.", "fibs": ["example"]}
+{"text": "On the other hand, the atomic radius of sodium is 186 pm compared to the ionic radius of 95 pm for Na+.", "fibs": ["hand"]}
+{"text": "When we find some atoms and ions which contain the same number of electrons, we call them isoelectronic species*.", "fibs": ["number"]}
+{"text": "For example, O2–, F–, Na+ and Mg2+ have the same number of electrons (10).", "fibs": ["example"]}
+{"text": "The cation with the greater positive charge will have a smaller radius because of the greater attraction of the electrons to the nucleus.", "fibs": ["cation"]}
+{"text": "Anion with the greater negative charge will have the larger radius.", "fibs": ["Anion"]}
+{"text": "In this case, the net repulsion of the electrons will outweigh the nuclear charge and the ion will expand in size.", "fibs": ["case"]}
+{"text": "Problem 3.5
+Which of the following species will have the largest and the smallest size?", "fibs": ["species"]}
+{"text": "Mg, Mg2+, Al, Al3+.", "fibs": ["Mg"]}
+{"text": "Solution
+Atomic radii decrease across a period.", "fibs": ["decrease"]}
+{"text": "Cations are smaller than their parent atoms.", "fibs": ["parent"]}
+{"text": "Among isoelectronic species, the one with the larger positive nuclear charge will have a smaller radius.", "fibs": ["isoelectronic"]}
+{"text": "Hence the largest species is Mg; the smallest one is Al3+.", "fibs": ["species"]}
+{"text": "(c)	Ionization Enthalpy
+A quantitative measure of the tendency of an element to lose electron is given by its Ionization Enthalpy.", "fibs": ["measure"]}
+{"text": "It represents the energy required to remove an electron from an isolated gaseous atom (X) in its ground state.", "fibs": ["energy"]}
+{"text": "In other words, the first ionization enthalpy for an element X is the enthalpy change (∆i H) for the reaction depicted in equation 3.1.", "fibs": ["ionization"]}
+{"text": "X(g) → X+(g) + e–  (3.1)
+The ionization enthalpy is expressed in units of kJ mol–1.", "fibs": ["X(g"]}
+{"text": "We can define the second ionization enthalpy as the energy required to remove the second most loosely bound electron; it is the energy required to carry out the reaction shown in equation 3.2.", "fibs": ["ionization"]}
+{"text": "X+(g) → X2+(g) + e–	(3.2)
+Energy is always required to remove electrons from an atom and hence ionization enthalpies are always positive.", "fibs": ["X+(g"]}
+{"text": "The second ionization enthalpy will be higher than the first ionization enthalpy because it is more difficult to remove an electron from a positively charged ion than from a neutral atom.", "fibs": ["ionization"]}
+{"text": "In the same way the third ionization enthalpy will be higher than the second and so on.", "fibs": ["way"]}
+{"text": "The term “ionization enthalpy”, if not qualified, is taken as the first ionization enthalpy.", "fibs": ["term"]}
+{"text": "* Two or more species with same number of atoms, same number of valence electrons and same structure, regardless of the nature of elements involved.", "fibs": ["species"]}
+{"text": "The first ionization enthalpies of elements having atomic numbers up to 60 are plotted in Fig.", "fibs": ["ionization"]}
+{"text": "The periodicity of the graph is quite striking.", "fibs": ["periodicity"]}
+{"text": "You will find maxima at the noble gases which have closed electron shells and very stable electron configurations.", "fibs": ["maxima"]}
+{"text": "On the other hand, minima occur at the alkali metals and their low ionization enthalpies can be correlated with their high reactivity.", "fibs": ["hand"]}
+{"text": "In addition, you will notice two trends  the first ionization enthalpy generally increases as we go across a period and decreases as we descend in a group.", "fibs": ["addition"]}
+{"text": "3.6(a) and 3.6(b) respectively for the elements of the second period and the first group of the periodic table.", "fibs": ["3.6(a"]}
+{"text": "You will appreciate that the ionization enthalpy and atomic radius are closely related properties.", "fibs": ["ionization"]}
+{"text": "To understand these trends, we have to consider two factors : (i) the attraction of electrons towards the nucleus, and (ii) the repulsion of electrons from each other.", "fibs": ["attraction"]}
+{"text": "The effective nuclear charge experienced by a valence electron in an atom will be less than the actual charge on the nucleus because of “shielding” or “screening” of the valence electron from the nucleus by the intervening core electrons.", "fibs": ["charge"]}
+{"text": "For example, the 2s electron in lithium is shielded from the nucleus by the inner core of 1s electrons.", "fibs": ["example"]}
+{"text": "As a result, the valence electron experiences a net positive charge which is  less than the actual charge of +3.", "fibs": ["result"]}
+{"text": "In general, shielding is effective when the orbitals in the inner shells are completely filled.", "fibs": ["shielding"]}
+{"text": "This situation occurs in the case of alkali metals which have single outermost ns-electron preceded by a noble gas electronic configuration.", "fibs": ["situation"]}
+{"text": "Fig.", "fibs": ["Fig"]}
+{"text": "3.5 Variation of first ionization enthalpies (∆iH) with atomic number for elements with Z = 1 to 60
+
+
+
+
+
+3.6 (a)
+
+
+
+
+
+3.6 (b)
+
+
+
+
+Fig.", "fibs": ["ionization"]}
+{"text": "3.6(a) First ionization enthalpies (∆iH) of elements of the second period as a function of atomic number (Z) and Fig.", "fibs": ["3.6(a"]}
+{"text": "3.6(b) ∆iH of alkali metals as a function of Z.", "fibs": ["3.6(b"]}
+{"text": "When we move from lithium to fluorine across the second period, successive electrons are added to orbitals in the same principal quantum level and the shielding of the nuclear charge by the inner core of electrons does not increase very much to compensate for the increased attraction of the electron to the nucleus.", "fibs": ["move"]}
+{"text": "Thus, across a period, increasing nuclear charge outweighs the shielding.", "fibs": ["period"]}
+{"text": "Consequently, the outermost electrons are held more and more tightly and the ionization enthalpy increases across a period.", "fibs": ["outermost"]}
+{"text": "As we go down a group, the outermost electron being increasingly farther from the nucleus, there is an increased shielding of the nuclear charge by the electrons in the inner levels.", "fibs": ["group"]}
+{"text": "In this case, increase in shielding outweighs the increasing nuclear charge and the removal of the outermost electron requires less energy down a group.", "fibs": ["case"]}
+{"text": "From Fig.", "fibs": ["Fig"]}
+{"text": "3.6(a), you will also notice that the first ionization enthalpy of boron (Z = 5) is slightly less than that of beryllium (Z = 4) even though the former has a greater nuclear charge.", "fibs": ["3.6(a"]}
+{"text": "When we consider the same principal quantum level, an s-electron is attracted to the nucleus more than a p-electron.", "fibs": ["quantum"]}
+{"text": "In beryllium, the electron removed during the ionization is an s-electron whereas the electron removed during ionization of boron is a p-electron.", "fibs": ["beryllium"]}
+{"text": "The penetration of a 2s-electron to the nucleus is more than that of a 2p-electron; hence the 2p electron of boron is more shielded from the nucleus by the inner core of electrons than the 2s electrons of beryllium.", "fibs": ["penetration"]}
+{"text": "Therefore, it is easier to remove the 2p-electron from boron compared to the removal of a 2s- electron from beryllium.", "fibs": ["boron"]}
+{"text": "Thus, boron has a smaller first ionization enthalpy than beryllium.", "fibs": ["boron"]}
+{"text": "Another “anomaly” is the smaller first ionization enthalpy of oxygen compared to nitrogen.", "fibs": ["anomaly"]}
+{"text": "This arises because in the nitrogen atom, three 2p-electrons reside in different atomic orbitals (Hund’s rule) whereas in the oxygen atom, two of the four 2p-electrons must occupy the same 2p-orbital resulting in an increased electron-electron repulsion.", "fibs": ["nitrogen"]}
+{"text": "Consequently, it is easier to remove the fourth 2p-electron from oxygen than it is, to remove one of the three 2p-electrons from nitrogen.", "fibs": ["oxygen"]}
+{"text": "Problem 3.6	
+The first ionization enthalpy (∆i H ) values of the third period elements, Na, Mg and Si are respectively 496, 737 and 786 kJ mol–1.", "fibs": ["ionization"]}
+{"text": "Predict whether the first ∆i H value for Al will be more close to 575 or 760 kJ mol–1 ?", "fibs": ["∆i"]}
+{"text": "Justify your answer.", "fibs": ["answer"]}
+{"text": "Solution 
+It will be more close to 575 kJ mol–1.", "fibs": ["kJ"]}
+{"text": "The value for Al should be lower than that of Mg because of effective shielding of 3p electrons from the nucleus by 3s-electrons.", "fibs": ["value"]}
+{"text": "(d) Electron Gain Enthalpy
+When an electron is added to a neutral gaseous atom (X) to convert it into a negative ion, the enthalpy change accompanying the process is defined as the Electron Gain Enthalpy (∆egH).", "fibs": ["Gain"]}
+{"text": "Electron gain enthalpy provides a measure of the ease with which an atom adds an electron to form anion as represented by equation 3.3.", "fibs": ["gain"]}
+{"text": "X(g) + e–  → X–(g)	 (3.3)
+Depending on the element, the process of adding an electron to the atom can be either endothermic or exothermic.", "fibs": ["X(g"]}
+{"text": "For many elements energy is released when an electron is added to the atom and the electron gain enthalpy is negative.", "fibs": ["energy"]}
+{"text": "For example, group 17 elements (the halogens) have very high negative electron gain enthalpies because they can attain stable noble gas electronic configurations by picking up an electron.", "fibs": ["example"]}
+{"text": "On the other hand, noble gases have large positive electron gain enthalpies because the electron has to enter the next higher principal quantum level leading to a very unstable electronic configuration.", "fibs": ["hand"]}
+{"text": "It may be noted that electron gain enthalpies have large negative values toward the upper right of the periodic table preceding the noble gases.", "fibs": ["electron"]}
+{"text": "Table 3.7  Electron Gain Enthalpies* / (kJ mol–1) of Some Main Group Elements
+
+
+
+
+The variation in electron gain enthalpies of elements is less systematic than for ionization enthalpies.", "fibs": ["Table"]}
+{"text": "As a general rule, electron gain enthalpy becomes more negative with increase in the atomic number across a period.", "fibs": ["rule"]}
+{"text": "The effective nuclear charge increases from left to right across a period and consequently it will be easier to add an electron to a smaller atom since the added electron on an average would be closer to the positively charged nucleus.", "fibs": ["charge"]}
+{"text": "We should also expect electron gain enthalpy to become less negative as we go down a group because the size of the atom increases and the added electron would be farther from the nucleus.", "fibs": ["electron"]}
+{"text": "This is generally the case (Table 3.7).", "fibs": ["case"]}
+{"text": "However, electron gain enthalpy of O or F is less negative than that of the succeeding element.", "fibs": ["electron"]}
+{"text": "This is because when an electron is added to O or F, the added electron goes to the smaller n = 2 quantum level and suffers significant repulsion from the other electrons present in this level.", "fibs": ["electron"]}
+{"text": "For the n = 3 quantum level (S or Cl), the added electron occupies a larger region of space and the electron-electron repulsion is much less.", "fibs": ["quantum"]}
+{"text": "Problem 3.7
+Which of the following will have the most negative electron gain enthalpy and which the least negative?", "fibs": ["electron"]}
+{"text": "P, S, Cl, F.
+Explain your answer.", "fibs": ["P"]}
+{"text": "Solution
+Electron gain enthalpy generally becomes more negative across a period as we move from left to right.", "fibs": ["gain"]}
+{"text": "Within a group, electron gain enthalpy becomes less negative down a group.", "fibs": ["group"]}
+{"text": "However, adding an electron to the 2p-orbital leads to greater repulsion than adding an electron to the larger 3p-orbital.", "fibs": ["electron"]}
+{"text": "Hence the element with most negative electron gain enthalpy is chlorine; the one with the least negative electron gain enthalpy is phosphorus.", "fibs": ["element"]}
+{"text": "(e) Electronegativity
+A qualitative measure of the ability of an atom in a chemical compound to attract shared electrons to itself is called electronegativity.", "fibs": ["measure"]}
+{"text": "Unlike ionization enthalpy and electron gain enthalpy, it is not a measureable quantity.", "fibs": ["ionization"]}
+{"text": "However, a number of numerical scales of electronegativity of elements viz., Pauling scale, Mulliken-Jaffe scale, Allred-Rochow scale have been developed.", "fibs": ["number"]}
+{"text": "The one which is the most widely used is the Pauling scale.", "fibs": ["scale"]}
+{"text": "Linus Pauling, an American scientist, in 1922 assigned arbitrarily a value of 4.0 to fluorine, the element considered to have the greatest ability to attract electrons.", "fibs": ["scientist"]}
+{"text": "Approximate values for the electronegativity of a few elements are given in Table 3.8(a)
+
+
+* In many books, the negative of the enthalpy change for the process depicted in equation 3.3 is defined as the ELECTRON AFFINITY (Ae ) of the atom under consideration.", "fibs": ["electronegativity"]}
+{"text": "If energy is released when an electron is added to an atom, the electron affinity is taken as positive, contrary to thermodynamic convention.", "fibs": ["energy"]}
+{"text": "If energy has to be supplied to add an electron to an atom, then the electron affinity of the atom is assigned a negative sign.", "fibs": ["energy"]}
+{"text": "However, electron affinity is defined as absolute zero and, therefore at any other temperature (T) heat capacities of the reactants and the products have to be taken into account in ∆egH = –Ae – 5/2 RT.", "fibs": ["electron"]}
+{"text": "The electronegativity of any given element is not constant; it varies depending on the element to which it is bound.", "fibs": ["electronegativity"]}
+{"text": "Though it is not a measurable quantity, it does provide a means of predicting the nature of force that holds a pair of atoms together – a relationship that you will explore later.", "fibs": ["quantity"]}
+{"text": "Electronegativity generally increases across a period from left to right (say from lithium to fluorine) and decrease down a group (say from fluorine to astatine) in the periodic table.", "fibs": ["period"]}
+{"text": "Can the electronegativity be related to atomic radii, which tend to decrease across each period from left to right, but increase down each group ?", "fibs": ["electronegativity"]}
+{"text": "The attraction between the outer (or valence) electrons and the nucleus increases as the atomic radius decreases in a period.", "fibs": ["attraction"]}
+{"text": "The electronegativity also increases.", "fibs": ["electronegativity"]}
+{"text": "On the same account electronegativity values decrease with the increase in atomic radii down a group.", "fibs": ["account"]}
+{"text": "The trend is similar to that of ionization enthalpy.", "fibs": ["trend"]}
+{"text": "Fig.", "fibs": ["Fig"]}
+{"text": "3.7  The periodic trends of elements in the periodic table
+
+
+
+Knowing the relationship between electronegativity and atomic radius, can you now visualise the relationship between electronegativity and non-metallic properties?", "fibs": ["table"]}
+{"text": "Non-metallic  elements have strong tendency to gain electrons.", "fibs": ["tendency"]}
+{"text": "Therefore, electronegativity is directly related to that non-metallic properties of elements.", "fibs": ["electronegativity"]}
+{"text": "It can be further extended to say that the electronegativity is inversely related to the metallic properties of elements.", "fibs": ["electronegativity"]}
+{"text": "Thus, the increase in electronegativities across a period is accompanied by an increase in non-metallic properties (or decrease in metallic properties) of elements.", "fibs": ["increase"]}
+{"text": "Similarly, the decrease in electronegativity down a group is accompanied by a decrease in non-metallic properties (or increase in metallic properties) of elements.", "fibs": ["decrease"]}
+{"text": "All these periodic trends are summarised in figure 3.7.", "fibs": ["figure"]}
+{"text": "Table 3.8(a) Electronegativity Values (on Pauling scale) Across the Periods
+
+
+Table 3.8(b) Electronegativity Values (on Pauling scale) Down a Family
+3.7.2	Periodic Trends in Chemical Properties
+Most of the trends in chemical properties of elements, such as diagonal relationships, inert pair effect, effects of lanthanoid contraction etc.", "fibs": ["Table"]}
+{"text": "will be dealt with along the discussion of each group in later units.", "fibs": ["discussion"]}
+{"text": "In this section we shall study the periodicity of the valence state shown by elements and the anomalous properties of the second period elements (from lithium to fluorine).", "fibs": ["section"]}
+{"text": "(a) 	Periodicity of Valence or  Oxidation States
+The valence is the most characteristic property of the elements and can be understood in terms of their electronic configurations.", "fibs": ["Oxidation"]}
+{"text": "The valence of representative elements is usually (though not necessarily) equal to the number of electrons in the outermost orbitals and / or equal to eight minus the number of outermost electrons as shown below.", "fibs": ["valence"]}
+{"text": "Nowadays the term oxidation state is frequently used for valence.", "fibs": ["term"]}
+{"text": "Consider the two oxygen containing compounds: OF2 and Na2O.", "fibs": ["oxygen"]}
+{"text": "The order of electronegativity of the three elements involved in these compounds is F > O > Na.", "fibs": ["order"]}
+{"text": "Each of the atoms of fluorine, with outer electronic configuration 2s22p5, shares one electron with oxygen in the OF2 molecule.", "fibs": ["fluorine"]}
+{"text": "Being highest electronegative element, fluorine is given oxidation state –1.", "fibs": ["element"]}
+{"text": "Since there are two fluorine atoms in this molecule, oxygen with outer electronic configuration 2s22p4 shares two electrons with fluorine atoms and thereby exhibits oxidation state +2.", "fibs": ["fluorine"]}
+{"text": "In Na2O, oxygen being more electronegative accepts two electrons, one from each of the two sodium atoms and, thus, shows oxidation state –2.", "fibs": ["oxygen"]}
+{"text": "On the other hand sodium with electronic configuration 3s1 loses one electron to oxygen and is given oxidation state +1.", "fibs": ["hand"]}
+{"text": "Thus, the oxidation state of an element in a particular compound can be defined as the charge acquired by its atom on the basis of electronegative consideration from other atoms in the molecule.", "fibs": ["oxidation"]}
+{"text": "Problem 3.8
+Using the Periodic Table, predict the formulas of compounds which might be formed by the following pairs of elements; (a) silicon and bromine (b) aluminium and sulphur.", "fibs": ["Table"]}
+{"text": "Solution
+(a)	Silicon is group 14 element with a valence of 4; bromine belongs to the halogen family with a valence of 1.", "fibs": ["group"]}
+{"text": "Hence the formula of the compound formed would be SiBr4.", "fibs": ["formula"]}
+{"text": "(b)	Aluminium belongs to group 13 with a valence of 3; sulphur belongs to group 16 elements with a valence of 2.", "fibs": ["b"]}
+{"text": "Hence, the formula of the compound formed would be Al2S3.", "fibs": ["formula"]}
+{"text": "Some periodic trends observed in the valence of elements (hydrides and oxides) are shown in Table 3.9.", "fibs": ["valence"]}
+{"text": "Other such periodic trends which occur in the chemical behaviour of the elements are discussed elsewhere in this book.", "fibs": ["chemical"]}
+{"text": "There are many elements which exhibit variable valence.", "fibs": ["exhibit"]}
+{"text": "This is particularly characteristic of transition elements and actinoids, which we shall study later.", "fibs": ["transition"]}
+{"text": "Table 3.9 Periodic Trends in Valence of Elements as shown by the Formulas  of Their Compounds
+
+
+
+
+(b)	Anomalous Properties of Second Period Elements
+The first element of each of the groups 1 (lithium) and 2 (beryllium) and groups 13-17 (boron to fluorine) differs in many respects from the other members of their respective group.", "fibs": ["Table"]}
+{"text": "For example, lithium unlike other alkali metals, and beryllium unlike other alkaline earth metals, form compounds with pronounced covalent character; the other members of these groups predominantly form ionic compounds.", "fibs": ["example"]}
+{"text": "In fact the behaviour of lithium and beryllium is more similar with the second element of the following group i.e., magnesium and aluminium, respectively.", "fibs": ["fact"]}
+{"text": "This sort of similarity is commonly referred to as diagonal relationship in the periodic properties.", "fibs": ["sort"]}
+{"text": "What are the reasons for the different chemical behaviour of the first member of a group of elements in the s- and p-blocks compared to that of the subsequent members in the same group?", "fibs": ["chemical"]}
+{"text": "The anomalous behaviour is attributed to their small size, large charge/radius ratio and high electronegativity of the elements.", "fibs": ["behaviour"]}
+{"text": "In addition, the first member of group has only four valence orbitals (2s and 2p) available for bonding, whereas the second member of the groups have nine valence orbitals (3s, 3p, 3d).", "fibs": ["addition"]}
+{"text": "As a consequence of this, the maximum covalency of the first member of each group is 4 (e.g., boron can only form [ BF4]-, whereas the other members of the groups can expand their valence shell to accommodate more than four pairs of electrons e.g., aluminium  [ AIF4]- forms).", "fibs": ["consequence"]}
+{"text": "Furthermore, the first member of p-block elements displays greater ability to form pπ – pπ  multiple bonds to itself (e.g., C = C, C ≡ C,  N = N, N ≡ Ν) and to other second period elements (e.g., C = O, C = N, C ≡ N, N = O) compared to subsequent members of the same group.", "fibs": ["member"]}
+{"text": "Problem 3.9
+Are the oxidation state and covalency of Al in [AlCl(H2O)5]2+ same ?", "fibs": ["oxidation"]}
+{"text": "The oxidation state of Al is +3 and the covalency is 6.", "fibs": ["oxidation"]}
+{"text": "3.7.3	Periodic Trends and Chemical Reactivity
+We have observed the periodic trends in certain fundamental properties such as atomic and ionic radii, ionization enthalpy, electron gain enthalpy and valence.", "fibs": ["ionization"]}
+{"text": "We know by now that the periodicity is related to electronic configuration.", "fibs": ["periodicity"]}
+{"text": "That is, all chemical and physical properties are a manifestation of the electronic configuration of elements.", "fibs": ["chemical"]}
+{"text": "We shall now try to explore relationships between these fundamental properties of elements with their chemical reactivity.", "fibs": ["chemical"]}
+{"text": "The atomic and ionic radii, as we know, generally decrease in a period from left to right.", "fibs": ["decrease"]}
+{"text": "As a consequence, the ionization enthalpies generally increase (with some exceptions as outlined in section 3.7.1(a)) and electron gain enthalpies become more negative across a period.", "fibs": ["consequence"]}
+{"text": "In other words, the ionization enthalpy of the extreme left element in a period is the least and the electron gain enthalpy of the element on the extreme right is the highest negative (note : noble gases having completely filled shells have rather positive electron gain enthalpy values).", "fibs": ["ionization"]}
+{"text": "This results into high chemical reactivity at the two extremes and the lowest in the centre.", "fibs": ["chemical"]}
+{"text": "Thus, the maximum chemical reactivity at the extreme left (among alkali metals) is exhibited by the loss of an electron leading to the formation of a cation and at the extreme right (among halogens) shown by the gain of an electron forming an anion.", "fibs": ["chemical"]}
+{"text": "This property can be related with the reducing and oxidizing behaviour of the elements which you will learn later.", "fibs": ["property"]}
+{"text": "However, here it can be directly related to the metallic and non-metallic character of elements.", "fibs": ["character"]}
+{"text": "Thus, the metallic character of an element, which is highest at the extremely left decreases and the non-metallic character increases while moving from left to right across the period.", "fibs": ["character"]}
+{"text": "The chemical reactivity of an element can be best shown by its reactions with oxygen and halogens.", "fibs": ["chemical"]}
+{"text": "Here, we shall consider the reaction of the elements with oxygen only.", "fibs": ["reaction"]}
+{"text": "Elements on two extremes of a period easily combine with oxygen to form oxides.", "fibs": ["period"]}
+{"text": "The normal oxide formed by the element on extreme left is the most basic (e.g., Na2O), whereas that formed by the element on extreme right is the most acidic (e.g., Cl2O7).", "fibs": ["oxide"]}
+{"text": "Oxides of elements in the centre are amphoteric (e.g., Al2O3, As2O3) or neutral (e.g., CO, NO, N2O).", "fibs": ["centre"]}
+{"text": "Amphoteric oxides behave as acidic with bases and as basic with acids, whereas neutral oxides have no acidic or basic properties.", "fibs": ["acidic"]}
+{"text": "Problem 3.10
+Show by a chemical reaction with water that Na2O is a basic oxide and Cl2O7 is an acidic oxide.", "fibs": ["chemical"]}
+{"text": "Solution
+Na2O with water forms a strong base whereas Cl2O7 forms strong acid.", "fibs": ["water"]}
+{"text": "Na2O + H2O → 2NaOH
+Cl2O7 + H2O → 2HClO4
+Their basic or acidic nature can be qualitatively tested with litmus paper.", "fibs": ["→"]}
+{"text": "Among transition metals (3d series), the change in atomic radii is much smaller as compared to those of representative elements across the period.", "fibs": ["transition"]}
+{"text": "The change in atomic radii is still smaller among inner-transition metals (4f series).", "fibs": ["change"]}
+{"text": "The ionization enthalpies are intermediate between those of s- and p-blocks.", "fibs": ["ionization"]}
+{"text": "As a consequence, they are less electropositive than group 1 and 2 metals.", "fibs": ["consequence"]}
+{"text": "In a group, the increase in atomic and ionic radii with increase in atomic number generally results in a gradual decrease in ionization enthalpies and a regular decrease (with exception in some third period elements as shown in section 3.7.1(d)) in electron gain enthalpies in the case of main group elements.", "fibs": ["group"]}
+{"text": "Thus, the metallic character increases down the group and non-metallic character decreases.", "fibs": ["character"]}
+{"text": "This trend can be related with their reducing and oxidizing property which you will learn later.", "fibs": ["trend"]}
+{"text": "In the case of transition elements, however, a reverse trend is observed.", "fibs": ["case"]}
+{"text": "This can be explained in terms of atomic size and ionization enthalpy.", "fibs": ["size"]}
+{"text": "SUMMARY
+In this Unit, you have studied the development of the Periodic Law and the Periodic Table.", "fibs": ["SUMMARY"]}
+{"text": "Mendeleev’s Periodic Table was based on atomic masses.", "fibs": ["’"]}
+{"text": "Modern Periodic Table arranges the elements in the order of their atomic numbers in seven horizontal rows (periods) and eighteen vertical columns (groups or families).", "fibs": ["Table"]}
+{"text": "Atomic numbers in a period are consecutive, whereas in a group they increase in a pattern.", "fibs": ["period"]}
+{"text": "Elements of the same group have similar valence shell electronic configuration and, therefore, exhibit similar chemical properties.", "fibs": ["group"]}
+{"text": "However, the elements of the same period have incrementally increasing number of electrons from left to right, and, therefore, have different valencies.", "fibs": ["period"]}
+{"text": "Four types of elements can be recognized in the periodic table on the basis of their electronic configurations.", "fibs": ["table"]}
+{"text": "Hydrogen with one electron in the 1s orbital occupies a unique position in the periodic table.", "fibs": ["Hydrogen"]}
+{"text": "Metals comprise more than seventy eight per cent of the known elements.", "fibs": ["cent"]}
+{"text": "Non-metals, which are located at the top of the periodic table, are less than twenty in number.", "fibs": ["table"]}
+{"text": "Elements which lie at the border line between metals and non-metals (e.g., Si, Ge, As) are called metalloids or semi-metals.", "fibs": ["border"]}
+{"text": "Metallic character increases with increasing atomic number in a group whereas decreases from left to right in a period.", "fibs": ["character"]}
+{"text": "The physical and chemical properties of elements vary periodically with their atomic numbers.", "fibs": ["chemical"]}
+{"text": "Periodic trends are observed in atomic sizes, ionization enthalpies, electron gain enthalpies, electronegativity and valence.", "fibs": ["ionization"]}
+{"text": "The atomic radii decrease while going from left to right in a period and increase with atomic number in a group.", "fibs": ["decrease"]}
+{"text": "Ionization enthalpies generally increase across a period and decrease down a group.", "fibs": ["increase"]}
+{"text": "Electronegativity also shows a similar trend.", "fibs": ["trend"]}
+{"text": "Electron gain enthalpies, in general, become more negative across a period and less negative down a group.", "fibs": ["gain"]}
+{"text": "There is some periodicity in valence, for example, among representative elements, the valence is either equal to the number of electrons in the outermost orbitals or eight minus this number.", "fibs": ["periodicity"]}
+{"text": "Chemical reactivity is highest at the two extremes of a period and is lowest in the centre.", "fibs": ["reactivity"]}
+{"text": "The reactivity on the left extreme of a period is because of the ease of electron loss (or low ionization enthalpy).", "fibs": ["reactivity"]}
+{"text": "Highly reactive elements do not occur in nature in free state; they usually occur in the combined form.", "fibs": ["nature"]}
+{"text": "Oxides formed of the elements on the left are basic and of the elements on the right are acidic in nature.", "fibs": ["right"]}
+{"text": "Oxides of elements in the centre are amphoteric or neutral.", "fibs": ["centre"]}
+{"text": "Exercises
+3.1	What is the basic theme of organisation in the periodic table?", "fibs": ["theme"]}
+{"text": "3.2	Which important property did Mendeleev use to classify the elements in his periodic table and did he stick to that?", "fibs": ["property"]}
+{"text": "3.3	What is the basic difference in approach between the Mendeleev’s Periodic Law and the Modern Periodic Law?", "fibs": ["difference"]}
+{"text": "3.4	On the basis of quantum numbers, justify that the sixth period of the periodic table should have 32 elements.", "fibs": ["basis"]}
+{"text": "3.5	In terms of period and group where would you locate the element with Z =114?", "fibs": ["period"]}
+{"text": "3.6	Write the atomic number of the element present in the third period and seventeenth group of the periodic table.", "fibs": ["number"]}
+{"text": "3.7	Which element do you think would have been named by
+	(i)	Lawrence Berkeley Laboratory
+	(ii)	Seaborg’s group?", "fibs": ["element"]}
+{"text": "3.8	Why do elements in the same group have similar physical and chemical properties?", "fibs": ["group"]}
+{"text": "3.9	What does atomic radius and ionic radius really mean to you?", "fibs": ["radius"]}
+{"text": "3.10	How do atomic radius vary in a period and in a group?", "fibs": ["radius"]}
+{"text": "How do you explain the variation?", "fibs": ["variation"]}
+{"text": "3.11	What do you understand by isoelectronic species?", "fibs": ["isoelectronic"]}
+{"text": "Name a species that will be  isoelectronic with each of the following atoms or ions.", "fibs": ["Name"]}
+{"text": "(i) F– (ii)	Ar	(iii) Mg2+	(iv)	 Rb+
+3.12	Consider the following species :
+	N3–, O2–, F–, Na+, Mg2+ and Al3+
+ (a)	What is common in them?", "fibs": ["ii"]}
+{"text": "(b)	Arrange them in the order of increasing ionic radii.", "fibs": ["b"]}
+{"text": "3.13	Explain why cation are smaller and anions larger in radii than their parent atoms?", "fibs": ["cation"]}
+{"text": "3.14	What is the significance of the terms — ‘isolated gaseous atom’ and ‘ground state’ while defining the ionization enthalpy and electron gain enthalpy?", "fibs": ["significance"]}
+{"text": "Hint : Requirements for comparison purposes.", "fibs": ["Hint"]}
+{"text": "3.15	Energy of an electron in the ground state of the hydrogen atom is –2.18×10–18J.", "fibs": ["electron"]}
+{"text": "Calculate the ionization enthalpy of atomic hydrogen in terms of J mol–1.", "fibs": ["ionization"]}
+{"text": "Hint: Apply the idea of mole concept to derive the answer.", "fibs": ["Hint"]}
+{"text": "3.16	Among the second period elements the actual ionization enthalpies are in the order Li < B < Be < C < O < N < F < Ne.", "fibs": ["period"]}
+{"text": "Explain why
+	(i)	Be has higher ∆i H than B
+	(ii)	O has lower ∆i H than N and F?", "fibs": ["∆i"]}
+{"text": "3.17	How would you explain the fact that the first ionization enthalpy of sodium is lower than that of magnesium but its second ionization enthalpy is higher than that of magnesium?", "fibs": ["fact"]}
+{"text": "3.18	What are the various factors due to which the ionization enthalpy of the main group elements tends to decrease down a group?", "fibs": ["ionization"]}
+{"text": "3.19	The first ionization enthalpy values (in kJ mol–1) of group 13 elements are :
+	B	Al	Ga	In	Tl
+	801	577	579	558	589
+	How would you explain this deviation from the general trend ?", "fibs": ["ionization"]}
+{"text": "3.20	Which of the following pairs of elements would have a more negative electron gain enthalpy?", "fibs": ["electron"]}
+{"text": "(i) O or F	(ii) F or Cl
+3.21	Would you expect the second electron gain enthalpy of O as positive, more negative or less negative than the first?", "fibs": ["F"]}
+{"text": "Justify your answer.", "fibs": ["answer"]}
+{"text": "3.22	What is the basic difference between the terms electron gain enthalpy and electronegativity?", "fibs": ["difference"]}
+{"text": "3.23	How would you react to the statement that the electronegativity of N on Pauling scale is 3.0 in all the nitrogen compounds?", "fibs": ["statement"]}
+{"text": "3.24	Describe the theory associated with the radius of an atom as it
+	(a)	gains an electron
+	(b)	loses an electron
+3.25	Would you expect the first ionization enthalpies for two isotopes of the same element to be the same or different?", "fibs": ["theory"]}
+{"text": "Justify your answer.", "fibs": ["answer"]}
+{"text": "3.27	Use the periodic table to answer the following questions.", "fibs": ["table"]}
+{"text": "(a)	Identify an element with five electrons in the outer subshell.", "fibs": ["element"]}
+{"text": "(b)	Identify an element that would tend to lose two electrons.", "fibs": ["b"]}
+{"text": "(c)	Identify an element that would tend to gain two electrons.", "fibs": ["element"]}
+{"text": "(d)	Identify the group having metal, non-metal, liquid as well as gas at the room temperature.", "fibs": ["group"]}
+{"text": "3.28	The increasing order of reactivity among group 1 elements is Li < Na < K < Rb <Cs whereas that among group 17 elements is F > CI > Br > I.", "fibs": ["order"]}
+{"text": "3.29	Write the general outer electronic configuration of s-, p-, d- and f- block elements.", "fibs": ["configuration"]}
+{"text": "3.30	Assign the position of the element having outer electronic configuration (i) ns2np4 for n=3 (ii) (n-1)d2ns2 for n=4, and (iii) (n-2) f 7 (n-1)d1ns2 for n=6, in the periodic table.", "fibs": ["position"]}
+{"text": "3.31	The first (∆iH1) and the second (∆iH2) ionization enthalpies (in kJ mol–1) and the (∆egH) electron gain enthalpy  (in kJ mol–1) of a few elements are given below:
+
+
+	Which of the above elements is likely to be :
+	(a)	the least reactive element.", "fibs": ["∆iH1"]}
+{"text": "(b)	the most reactive metal.", "fibs": ["b"]}
+{"text": "(e)	the metal which can form a stable binary halide of the formula MX2(X=halogen).", "fibs": ["metal"]}
+{"text": "(f)	the metal which can form a predominantly stable covalent halide of the formula MX (X=halogen)?", "fibs": ["f"]}
+{"text": "3.32	Predict the formulas of the stable binary compounds that would be formed by the combination of the following pairs of elements.", "fibs": ["combination"]}
+{"text": "(a)	Lithium and oxygen	
+(b)	Magnesium and nitrogen
+	(c)	Aluminium and iodine	
+(d)	Silicon and oxygen
+	(e)	Phosphorus and fluorine	
+(f)	Element 71 and fluorine
+
+3.33	In the modern periodic table, the period indicates the value of :
+	(a)	atomic number
+	(b)	atomic mass
+	(c)	principal quantum number
+	(d)	azimuthal quantum number.", "fibs": ["oxygen"]}
+{"text": "3.34	Which of the following statements related to the modern periodic table is incorrect?", "fibs": ["table"]}
+{"text": "(b)	The d-block has 8 columns, because a maximum of 8 electrons can occupy all the orbitals in a d-subshell.", "fibs": ["b"]}
+{"text": "(c)	Each block contains a number of columns equal to the number of electrons that can occupy that subshell.", "fibs": ["block"]}
+{"text": "(d)	The block indicates value of azimuthal quantum number (l) for the last subshell that received electrons in building up the electronic configuration.", "fibs": ["block"]}
+{"text": "3.35	Anything that influences the valence electrons will affect the chemistry of the element.", "fibs": ["Anything"]}
+{"text": "Which one of the following factors does not affect the valence shell?", "fibs": ["valence"]}
+{"text": "(a)	Valence principal quantum number (n)
+	(b)	Nuclear charge (Z)
+	(c)	Nuclear mass
+	(d)	Number of core electrons.", "fibs": ["quantum"]}
+{"text": "3.36	The size of isoelectronic species — F–, Ne and Na+ is affected by
+	(a)	nuclear charge (Z)
+	(b)	valence principal quantum number (n)
+	(c)	electron-electron interaction in the outer orbitals
+	(d)	none of the factors because their size is the same.", "fibs": ["size"]}
+{"text": "3.37	Which one of the following statements is incorrect in relation to ionization enthalpy?", "fibs": ["relation"]}
+{"text": "(a)	Ionization enthalpy increases for each successive electron.", "fibs": ["enthalpy"]}
+{"text": "(b)	The greatest increase in ionization enthalpy is experienced on removal of electron from core noble gas configuration.", "fibs": ["b"]}
+{"text": "(c)	End of valence electrons is marked by a big jump in ionization enthalpy.", "fibs": ["End"]}
+{"text": "(d)	Removal of electron from orbitals bearing lower n value is easier than from orbital having higher n value.", "fibs": ["electron"]}
+{"text": "3.38	Considering the elements B, Al, Mg, and K, the correct order of their metallic character is :
+	(a) B > Al > Mg > K	
+(b)  Al > Mg > B > K
+	(c) Mg > Al > K > B	
+(d)  K > Mg > Al > B
+3.39	Considering the elements B, C, N, F, and Si, the correct order of their non-metallic character is :
+	(a) B > C > Si > N > F	
+(b)  Si > C > B > N > F
+	(c) F > N > C > B > Si	
+(d)  F > N > C > Si > B
+3.40	Considering the elements F, Cl, O and N, the correct order of their chemical reactivity in terms of oxidizing property is :
+	(a)	F > Cl > O > N	
+(b)	F > O > Cl > N
+	(c)	Cl > F > O > N	
+(d)	O > F > N > Cl
+
+
+
+
+
+Table of Contents
+
+
+Unit 3
+
+
+Classification of Elements and Periodicity in Properties
+
+
+3.1 WHY DO WE NEED TO CLASSIFY ELEMENTS ?", "fibs": ["order"]}
+{"text": "3.2 GENESIS OF PERIODIC CLASSIFICATION
+
+
+3.3 MODERN PERIODIC LAW AND THE PRESENT FORM OF THE PERIODIC TABLE
+
+
+3.4 NOMENCLATURE OF ELEMENTS WITH ATOMIC NUMBERS > 100
+
+
+3.5 ELECTRONIC CONFIGURATIONS OF ELEMENTS AND THE PERIODIC TABLE
+
+
+3.6 ELECTRONIC CONFIGURATIONS AND TYPES OF ELEMENTS: s-, p-, d-, f- BLOCKS
+
+
+3.6.1 The s-Block Elements
+
+
+3.6.2 The p-Block Elements
+
+
+3.6.3 The d-Block Elements (Transition Elements)
+
+
+3.6.4 The f-Block Elements (Inner-Transition Elements)
+
+
+3.6.5 Metals, Non-metals and Metalloids
+
+
+
+
+3.7 PERIODIC TRENDS IN PROPERTIES OF ELEMENTS
+
+
+3.7.1 Trends in Physical Properties
+
+
+3.7.2 Periodic Trends in Chemical Properties
+
+
+3.7.3 Periodic Trends and Chemical Reactivity
+
+
+
+
+SUMMARY
+
+
+Exercises
+
+
+
+
+
+
+Landmarks
+
+
+Cover
+
+
+
+
+
+Unit 3
+Classification of Elements and Periodicity in Properties", "fibs": ["GENESIS"]}
+
